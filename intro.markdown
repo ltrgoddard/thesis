@@ -1,4 +1,4 @@
-# Introduction test
+# Introduction
 
 This thesis offers a survey of the context in which the British poet J.H. Prynne began his literary career, focussing specifically on the period between 1955 and 1975 and seeking to reorient critical attention towards certain traditions, influences and social and literary *milieux* which have been overlooked in scholarship to date. These neglected contexts are then read back into Prynne's prose work to offer several new perspectives on his intellectual, political and ethical outlook. Following a very brief review of existing work on Prynne, this introduction maps the territory which the remainder of the thesis sets out to explore, explaining both its methodological peculiarities---principally its reliance on Prynne's prose rather than his poetry---and its overall shape.
 
