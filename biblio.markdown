@@ -3,10 +3,7 @@
 
 ## Archival material
 
-Due to the large number of letters cited from some boxes, archival
-materials are listed in chronological order, with folder/envelope
-numbers where necessary, under subheadings indicating the collection,
-series and box in which they may be found.
+Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder/envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
 
 
 ### Cid Corman Papers (Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut)
