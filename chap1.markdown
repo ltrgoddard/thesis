@@ -244,3 +244,4 @@ At this stage, then, Davie's position can be summarised as the advocacy of a lon
     this were the great rot in the heart.
 
     It seems at least possible that the mention of 'honourable exceptions' is a pointed reference to Leavis, famously Lawrence's foremost champion.
+

@@ -5,9 +5,9 @@ if [[ "$DOCVERTER_API_URL" == "" ]]; then
 fi
 
 curl --form from=markdown \
-     --form to=$2 \
-     --form test_mode=true \
-     --form input_files[]=@$3 \
+     --form to=$1 \
+     --form smart=true \
+     --form input_files[]=@$2 \
      $DOCVERTER_API_URL > $3
 
 echo $3
