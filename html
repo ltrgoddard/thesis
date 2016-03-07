@@ -7,7 +7,13 @@ fi
 curl --form from=markdown \
      --form to=html \
      --form smart=true \
-     --form input_files[]=@$1 \
-     $DOCVERTER_API_URL > $2
+     --form input_files[]=@ackn.markdown \
+     --form input_files[]=@intr.markdown \
+     --form input_files[]=@chap1.markdown \
+     --form input_files[]=@chap2.markdown \
+     --form input_files[]=@chap3.markdown \
+     --form input_files[]=@conc.markdown \
+     --form input_files[]=@bibl.markdown \
+     $DOCVERTER_API_URL > /sdcard/phd.html
 
-echo $2
+echo /sdcard/phd.html

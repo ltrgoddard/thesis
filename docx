@@ -16,6 +16,6 @@ curl --form from=markdown \
      --form input_files[]=@bibl.markdown \
      --form other_files[]=@reference.docx \
      --form reference_docx=reference.docx \
-     $DOCVERTER_API_URL > phd.docx
+     $DOCVERTER_API_URL > /sdcard/phd.docx
 
-echo phd.docx
+echo /sdcard/phd.docx
