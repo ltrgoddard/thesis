@@ -1,0 +1,21 @@
+#!/bin/bash
+
+if [[ "$DOCVERTER_API_URL" == "" ]]; then
+    export DOCVERTER_API_URL=http://c.docverter.com/convert
+fi
+
+curl --form from=markdown \
+     --form to=docx \
+     --form smart=true \
+     --form input_files[]=@ackn.markdown \
+     --form input_files[]=@intr.markdown \
+     --form input_files[]=@chap1.markdown \
+     --form input_files[]=@chap2.markdown \
+     --form input_files[]=@chap3.markdown \
+     --form input_files[]=@conc.markdown \
+     --form input_files[]=@bibl.markdown \
+     --form other_files[]=@reference.docx \
+     --form reference_docx=reference.docx \
+     $DOCVERTER_API_URL > phd.docx
+
+echo phd.docx

@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if [[ "$DOCVERTER_API_URL" == "" ]]; then
+    export DOCVERTER_API_URL=http://c.docverter.com/convert
+fi
+
+curl --form from=markdown \
+     --form to=html \
+     --form smart=true \
+     --form input_files[]=@$1 \
+     $DOCVERTER_API_URL > $2
+
+echo $2
