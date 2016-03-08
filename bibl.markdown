@@ -129,14 +129,14 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1
 ---, 16 March 1969, Envelope 1  
 
 
-## Edward Upward: Supplementary Papers (Western Manuscripts, British Library)
+### Edward Upward: Supplementary Papers (Western Manuscripts, British Library)
 
-### Series 2, Folder 4
+#### Series 2, Folder 4
 
 Typescript, Donald Davie, 'Remembering the Thirties' [1953]  
 Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
-### Series 3, Folder 15
+#### Series 3, Folder 15
 
 Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 'Answers to questions from David Lambourne'
