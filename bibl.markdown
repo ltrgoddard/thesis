@@ -313,6 +313,7 @@ Olson, Charles, 'Going Right Out of the Century', *Prospect*, 6 (Spring 1964), p
 --- and Ezra Pound, *An Encounter at St. Elizabeth's*, ed. by Catherine Seelye (New York: Grossman, 1975)    
 Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: Routledge & Kegan Paul, 1966)  
 Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, pp. 1970--1991* (London: Macmillan, 1992), pp. 234--46   
+Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114    
 'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http://archiveshub.ac.uk/data/gb2188-dsh04\> [accessed 16 November 2014]  
 'Poems (3rd edition), by J.H. Prynne', *Bloodaxe Books*, \<http://www.bloodaxebooks.com/titlepage.asp?isbn=1780371543\> [accessed 22 October 2014]  
 Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot (London: Faber and Faber, 1954), pp. 149--200   
@@ -325,61 +326,59 @@ Price, Richard, 'Little Magazines', *British Library*, \<http://www.bl.uk/reshel
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to English Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University Press, 2009), \<http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225\> [accessed 15 December 2014]  
-Prynne, J.H. interviewed by Peter Orr, *The Poet Speaks*, Programme 39 (6 January 1964)  
-Prynne, '"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37   
-Prynne, 'A Gold Ring Called Reluctance', in *Poems*, 2nd edn (Tarset: Bloodaxe, 2005), pp. 21--23   
-Prynne, 'A LETTER', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 1:12 [189--91], pp. 28--29   
-Prynne, 'A Letter', in *Certain Prose*, 1:12 [189--91], pp. 28--29   
-Prynne, 'A Note on Metal', in *Aristeas* (London: Ferry Press, 1968), pp. 14--17
-Prynne, 'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09
-Prynne, 'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69  
-Prynne, 'Figments of Reflection' (review of Charles Edward Eaton, *Countermoves*), *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
-Prynne, 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
-Prynne, 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
-Prynne, 'Huts', *Textual Practice*, 22.4 (December 2008), pp. 613--33  
-Prynne, 'In Cimmerian Darkness', in *Poems*, pp. 74--75
-Prynne, 'L'Extase de M. Poher', in *Poems*, pp. 161--62  
-Prynne, 'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
-Prynne, 'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
-Prynne, 'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
-Prynne, 'Stille (nach Thomas Hood)', *Six* (1955), p. 11  
-Prynne, 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
-Prynne, 'The *Plant Time Manifold* Transcripts', in *Poems*, pp. 233--42   
-Prynne, 'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91   
-Prynne, 'The Hazel Tree', *Tomorrow*, 4 (1960), p. 15  
-Prynne, 'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
-Prynne, 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14
-Prynne, 'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
-Prynne, 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
-Prynne, 'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
-Prynne, *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
-Prynne, *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
-Prynne, *Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
-Prynne, 'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30 
-Prynne, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
-Prynne, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
-Prynne, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2015), pp. 127--32  
-Prynne, *Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)   
-Prynne, *They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
 Prynne, J.H., 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
-Prynne, J.H., 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57   
-Prynne, editorial note, *Prospect*, 6 (Spring 1964), [p. 45] 
-Prynne, editorial statement, *Six* (1955), [unpaginated]  
-Prynne, letter, *Times Literary Supplement* (16 August 1963), p. 629  
-Prynne, letter, *Times Literary Supplement* (28 May 1971), p. 620  
-Prynne and Keston Sutherland, 'Introduction to Prynne's Poems in Chinese', *Cambridge Quarterly*, 41.1 (2012), pp. 197--207  
+---, *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
+---, editorial note, *Prospect*, 6 (Spring 1964), [p. 45] 
+---, editorial statement, *Six* (1955), [unpaginated]  
+---, 'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91   
+---, 'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69  
+---, 'L'Extase de M. Poher', in *Poems* (Tarset: Bloodaxe, 2015), pp. 161--62  
+---, *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
+---, 'Figments of Reflection' (review of Charles Edward Eaton, *Countermoves*), *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
+---, 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
+---, 'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
+---, 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
+---, 'A Gold Ring Called Reluctance', in *Poems* (2015), pp. 21--23   
+---, *Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
+---, 'The Hazel Tree', *Tomorrow*, 4 (1960), p. 15  
+---, 'Huts', *Textual Practice*, 22.4 (December 2008), pp. 613--33  
+---, 'In Cimmerian Darkness', in *Poems* (2015), pp. 74--75
+---,  interviewed by Peter Orr, *The Poet Speaks*, Programme 39 (6 January 1964)  
+---, 'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
+----, letter, *Times Literary Supplement* (16 August 1963), p. 629  
+---, letter, *Times Literary Supplement* (28 May 1971), p. 620  
+--, 'A LETTER', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 1:12 [189--91], pp. 28--29   
+---, 'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
+---, 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57   
+---, '"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37   
+---, 'A Note on Metal', in *Aristeas* (London: Ferry Press, 1968), pp. 14--17  
+---, 'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09  
+---, 'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30 
+---, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
+---, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
+---, 'A Note on Metal', in *Poems* (2015), pp. 127--32  
+---, 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
+---, 'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42   
+---, 'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
+---, 'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
+---, *Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)   
+---, 'Stille (nach Thomas Hood)', *Six* (1955), p. 11  
+---, *They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
+---, 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14
+---, 'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
+---, 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
+--- and Keston Sutherland, 'Introduction to Prynne's Poems in Chinese', *Cambridge Quarterly*, 41.1 (2012), pp. 197--207  
 Purves, Robin, 'Commentary on J.H. Prynne's "Thoughts on the Esterházy Court Uniform"', *Glossator*, 2 (2010), pp. 79--88  
 Rathmell, J.C.A., 'Paradigms for a Wider Concern', *The Cambridge Review* (19 January 1963), pp. 193--94
-Reitha Pattison, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114    
 Reuck, A.V.S. de and Julie Knight, eds, *Touch, Heat and Pain* (London: J. & A. Churchill, 1966)  
 Rider, Alistair, 'The "Curve over the Crest of the Hill": Carl Andre and Richard Long', in *Anglo-American Exchange in Postwar Sculpture, pp. 1945--1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications, 2011), pp. 133--47
-Riley, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20
-Riley, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73  
+Riley, Peter, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20
+---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73  
 Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77  
 'Robbins Report: Notice by the Council of the Senate', *Cambridge University Reporter* (19 February 1964), pp. 986--988   
 'ROLL CALL', in *Certain Prose*., 1:15 [266], pp. 78--79  
 Roosa, Robert V., 'Judging the New Liquidity Plan', *The Banker*, 117.499 (September 1967), p. 756  
-Lacy Rumsey, 'The Obstinate reader: Prynne, prosody and degrees of engagement', *Thinking Verse*, 1 (2011), pp. 44--66 (pp. 48--49)  
+Rumsey, Lacy, 'The Obstinate reader: Prynne, prosody and degrees of engagement', *Thinking Verse*, 1 (2011), pp. 44--66 (pp. 48--49)  
 Rustin, Michael, 'Revisiting the *May Day Manifesto* of 1967--68', in *May Day Manifesto 1967--68*, ed. by Raymond Williams (London: Lawrence & Wishart, 2013), pp. vi--xxi   
 Scarry, Elaine, *The Body in Pain: The Making and Unmaking of the World* (Oxford: Oxford University Press, 1985)  
 Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (December 1997], pp. 36--41  
@@ -387,24 +386,24 @@ Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford Universi
 Spiegelman, Willard, 'Charles Tomlinson, The Art of Poetry No. 78', *The Paris Review*, 149 (Winter 1998), \<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]  
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006), \<http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in-\ douglas.html\> [accessed 27 April 2015]  
 Stevens, Wallace, 'Prologues to What is Possible', *The Hudson Review*, 5.3 (Autumn 1952), pp. 330--31
-Stevens, Wallace, 'The World as Meditation', *The Hudson Review*, 5.3, p. 334  
-Sutherland, '*Sub Songs* versus the subject: Critical variations on a distinction between Prynne and Hegel', in *Hix Eros: On the Late Poetry of J.H. Prynne*, pp. 123--141   
-Sutherland, 'Introduction: "Prynne's late work?"', in *Hix Eros: On the Late Poetry of J.H. Prynne*, pp. 9--13   
+---, 'The World as Meditation', *The Hudson Review*, 5.3, p. 334  
+Sutherland, Keston, 'Introduction: "Prynne's late work?"', in *Hix Eros: On the Late Poetry of J.H. Prynne*, pp. 9--13   
+---, '*Sub Songs* versus the subject: Critical variations on a distinction between Prynne and Hegel', in *Hix Eros: On the Late Poetry of J.H. Prynne*, pp. 123--141   
 Thatcher, Margaret, 'Speech at Lord Mayor's Banquet', *Margaret Thatcher Foundation* (10 November 1986), \<http://www.margaretthatcher.org/document/106512\> [accessed 24 October 2014]  
 Tomlinson, Charles, 'The Middlebrow Muse', *Essays in Criticism*, 7.2 (April 1957), pp. 208--17   
-Tompkins and Bird, *The Secret Life of Plants* (New York: Harper & Row, 1973), p. 12  
-Tompkins, Peter and Christopher Bird, 'Love among the cabbages', *Harper's Magazine* (November 1972), pp. 90--92, pp. 94--96  
-Upward, 'Statement for the Literature/Sociology Conference on "1936" at Essex University, July 1978', *Edward Upward*, \<http://www.edwardupward.info/pdfs/Statement.pdf\> [accessed 5 May 2015]  
-Upward, 'The Railway Accident', in *The Railway Accident*, pp. 33--84
-Upward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/No\_Home\_But\_the\_Struggle.pdf\> [accessed 5 May 2015]  
-Upward, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/The\_Rotten\_Elements.pdf\> [accessed 27 November 2015]  
+Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New York: Harper & Row, 1973), p. 12  
+---, 'Love among the cabbages', *Harper's Magazine* (November 1972), pp. 90--92, pp. 94--96  
+Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/No\_Home\_But\_the\_Struggle.pdf\> [accessed 5 May 2015]  
+---, 'The Railway Accident', in *The Railway Accident*, pp. 33--84
+---, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/The\_Rotten\_Elements.pdf\> [accessed 27 November 2015]  
+---, 'Statement for the Literature/Sociology Conference on "1936" at Essex University, July 1978', *Edward Upward*, \<http://www.edwardupward.info/pdfs/Statement.pdf\> [accessed 5 May 2015]  
 Vinen, Richard, *National Service: Conscription in Britain, pp. 1945--1963* (London: Allen Lane, 2014)  
 'Watercolour', *Tate*, \<http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour\> [accessed 2 November 2014]  
 Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), p. 3--4  
 Wheale, Nigel, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
 Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--180   
-Williams, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26  
-Williams, Raymond, 'Our Debt to Dr. Leavis', *Critical Quarterly*, 1.3 (September 1959), pp. 245--56  
+Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26  
+---, 'Our Debt to Dr. Leavis', *Critical Quarterly*, 1.3 (September 1959), pp. 245--56  
 Williams, William Carlos, 'Introduction to *The Wedge*', in *Selected Essays* (New York: Random House, 1954), p. 256  
 Wilson, Ross, *Shelley and the Apprehension of Life* (Cambridge: Cambridge University Press, 2013), p. 25  
 'Women MPs & parliamentary candidates since 1945', *UK Political Info*, \<http://www.ukpolitical.info/FemaleMPs.htm\> [accessed 2 February 2016]  
