@@ -143,8 +143,13 @@ Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 
 ## General
 
-'A century of U.S. influence on Arab education', *The Times* (11 October 1966], p. 11 Advert, *The Times* (29 August 1969], p. 23)  
-'Editorial', *Satis*, 1 (1960), p. 2
+'A century of U.S. influence on Arab education', *The Times* (11 October 1966), p. 11  
+Advert, *The Times* (29 August 1969], p. 23  
+'Editorial', *Satis*, 1 (Autumn 1960), p. 2  
+'Editorial', *Satis*, 2 (Spring 1961), p. 2  
+'Editorial', *Satis*, 3 (Summer 1961), p. 2  
+'Editorial', *Satis*, 4 (Winter 1961--62), p. 2  
+'Editorial', *Satis*, 5 (Spring--Summer 1962), p. 2  
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33  
 'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
 'Frauds of the left, Siblings', *Thinking Allowed*, \<http://www.bbc.co.uk/programmes/b06pv1g6\> [accessed 27 November 2015]  
@@ -252,7 +257,9 @@ Klein, Scott W., 'Introduction', in Lewis, *Tarr*, pp. ix--xxix
 Kraay, C.M., 'Hoards, Small Change and the Origin of Coinage', *Journal of Hellenic Studies*, 84 (1964), pp. 76--91  
 Lacan, Jacques, *Écrits: A Selection*, trans. by Alan Sheridan (London: Tavistock Publicatons, 1977)
 Lacy Rumsey, 'The Obstinate reader: Prynne, prosody and degrees of engagement', *Thinking Verse*, 1 (2011), pp. 44--66 (pp. 48--49)  
-Latter, Alex, '"Scheming for the possible world": J.H. Prynne's *The White Stones* and *The English Intelligencer*', *Intercapillary Space*, \<http://intercapillaryspace.blogspot.co.uk/2010/04/scheming-for-possible-world-j.html\> [accessed 10 October 2013] (para. 2)  
+Latter, Alex, '"Essential news": a history of *The English Intelligencer*' (unpublished doctoral thesis, Birkbeck College, University of London, 2013)
+---, *Late Modernism and 'The English Intelligencer'* (London: Bloomsbury, 2015)
+---, '"Scheming for the possible world": J.H. Prynne's *The White Stones* and *The English Intelligencer*', *Intercapillary Space*, \<http://intercapillaryspace.blogspot.co.uk/2010/04/scheming-for-possible-world-j.html\> [accessed 10 October 2013] (para. 2)  
 Leader, Zachary, 'Introduction: Origins and Ambivalences', in *The Movement Reconsidered: Essays on Larkin, Amis, Gunn, Davie and Their Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1--15   
 Leavis, 'A Rejoinder', *Scrutiny*, 19.4 (October 1953), pp. 321--28
 Leavis, 'A Rejoinder', *Scrutiny*, 4.2 (September 1935), pp. 185--87
