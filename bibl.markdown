@@ -143,6 +143,7 @@ Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 
 ## General
 
+Abir-Am, Pnina G., 'The Biotheoretical Gathering, Transdisciplinary Authority and the Incipient Legitimation of Molecular Biology in the 1930s: New Perspective on the Historical Sociology of Science', *History of Science*, 25 (1987), pp. 1--70  
 'A century of U.S. influence on Arab education', *The Times* (11 October 1966), p. 11  
 Advert, *The Times* (29 August 1969], p. 23  
 Alan Walker, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)   
@@ -213,7 +214,8 @@ Editorial, in *Certain Prose*, 2:10 [447], p. 143
 'Editorial', *Satis*, 2 (Spring 1961), p. 2  
 'Editorial', *Satis*, 3 (Summer 1961), p. 2  
 'Editorial', *Satis*, 4 (Winter 1961--62), p. 2  
-'Editorial', *Satis*, 5 (Spring--Summer 1962), p. 2  
+'Editorial', *Satis*, 5 (Spring--Summer 1962), p. 2
+Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107    
 Education Reform Act 1988, IV 202 (2) b, \<http://www.legislation.gov.uk/ukpga/1988/40/part/IV/crossheading/academic-tenure\> [accessed 24 October 2014]  
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33  
 Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)  
@@ -225,6 +227,7 @@ Elaine Feinstein, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Mich
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61
 'glossy, adj.', *OED Online* (Oxford University Press, 2014), \<http://www.oed.com/view/Entry/79186\> [accessed 14 May 2014] 
 Goddard, Louis, 'National and Private Identity in the Prose of J.H. Prynne' (unpublished M.Phil. thesis, University of Cambridge, 2014)  
+---, 'Not spooked', *Times Literary Supplement* (11 December 2015), p. 17  
 Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html\> [accessed 24 October 2014]   
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Great Britain, 1939--1993* (Salzburg: University of Salzburg, 1993)  
 Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008], \<http://www.varsity.co.uk/news/1077\> [accessed 15 October 2015]
@@ -285,10 +288,13 @@ Leavis, F.R., 'A Rejoinder', *Scrutiny*, 4.2 (September 1935), pp. 185--87
 Leavis, Q.D., 'The Background of Twentieth Century Letters', in *A Selection from 'Scrutiny'*, vol. 1, pp. 162--66   
 ---, 'Henry James's Heiress: The Importance of Edith Wharton', in *A Selection from 'Scrutiny'*, vol. 2, pp. 124--36  
 Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by Paul Edwards (Santa Barbara, CA: Black Sparrow Press, 1986), p. 65  
+---, 'From the Prologue to the 1918 Egoist Press Edition', in *Tarr* (Oxford: Oxford University Press, 2010), pp. 288--89  
 ---, 'Inferior Religions', in *The Wild Body: 'A Soldier of Humour' and Other Stories* (New York: Harcourt, Brace and Company, 1928), pp. 233--43   
----, 'The Meaning of the Wild Body', in *The Wild Body*, pp. 244--251
+---, 'The Meaning of the Wild Body', in *The Wild Body*, pp. 244--251  
+---, 'Preface to the 1918 American Edition', in *Tarr* (2010), pp. 285--88  
+---, *Tarr* (London: Egoist Press, 1918)  
+---, *Tarr* (London: Chatto & Windus, 1928)  
 ---, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa, CA: Black Sparrow Press, 1993), p. 88  
----, *Tarr* (Oxford: Oxford University Press, 2010)  
 Lindsay, Jow, 'Excerpt from An Open Letter to J.H. Prynne', *QUID*, 17 (2006), pp. 35--39  
 'The Literary Society', *Fifty-Fifth Annual Report* (Cambridge: Jesus College Society, 1959), pp. 60--61   
 'Long Live the Vortex!', *Blast*, 1 (1914), [7--8]  
@@ -327,6 +333,7 @@ Mottram, Eric, 'The British Poetry Revival 1960--1975', in *New British Poetries
 Muhly, James D., 'Sources of Tin and the Beginnings of Bronze Metallurgy', *American Journal of Archaeology*, 89.2 (April 1985), pp. 275--91
 Murdoch, Iris, 'The Idea of Perfection', *Yale Review*, 53.3 (Spring 1964), pp. 342--80   
 Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http://theclaudiusapp.com/4-nealon.html\> [accessed 10 October 2013]  
+Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109  
 Nicholas Royle, *Veering: A Theory of Literature* (Edinburgh: Edinburgh University Press, 2011)  
 Noel-Tod, Jeremy, 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod (Oxford: Oxford University Press), \<www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-961\> [accessed 15 December 2014]  
 Noyes, Hugh, 'Abortion Bill over Last Commons Hurdles: Hint on Conscience Clause', *The Times* (15 July 1967), p. 2  
@@ -357,7 +364,8 @@ Price, Richard, 'CAT-scanning the Little Magazine', in *The Oxford Handbook of C
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to English Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University Press, 2009), \<http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225\> [accessed 15 December 2014]  
-Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
+Prynne, J.H., '& Hoc Genus Omne', *Bean News* (1972), [p. 2]  
+---, 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
 ---, 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
 ---, 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
 ---, *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
@@ -372,6 +380,7 @@ Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George 
 ---, 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
 ---, 'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
 ---, 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
+---, 'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]  
 ---, *George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)   
 ---, 'A Gold Ring Called Reluctance', in *Poems* (2015), pp. 21--23   
 ---, *Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
@@ -403,6 +412,7 @@ Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George 
 ---, 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14
 ---, 'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
 ---, 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
+---, 'When is now', *Bean News* (1972), [p. 4]
 --- and Keston Sutherland, 'Introduction to Prynne's Poems in Chinese', *Cambridge Quarterly*, 41.1 (2012), pp. 197--207  
 Purves, Robin, 'Commentary on J.H. Prynne's "Thoughts on the Esterházy Court Uniform"', *Glossator*, 2 (2010), pp. 79--88  
 Ransome, John Crowe, 'A Poem Nearly Anonymous', *The American Review* (May 1933), pp. 179--203  
@@ -446,6 +456,7 @@ Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upwar
 ---, 'Statement for the Literature/Sociology Conference on "1936" at Essex University, July 1978', *Edward Upward*, \<http://www.edwardupward.info/pdfs/Statement.pdf\> [accessed 5 May 2015]  
 Vinen, Richard, *National Service: Conscription in Britain, pp. 1945--1963* (London: Allen Lane, 2014)  
 'Watercolour', *Tate*, \<http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour\> [accessed 2 November 2014]  
+Walker, Alan, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)  
 Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), p. 3--4  
 Wheale, Nigel, 'Breaking Cover: Peter Riley's "Passing Measures"', *Chicago Review*, 47.1 (2001), 110--17  
 ---, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
