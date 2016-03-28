@@ -207,7 +207,7 @@ Dubourg, Bernard,  *Chansons à la Journée-Lumière* (Damazan: privately printe
 ---, *Lézard de Feu* (Damazan: privately printed, 1975)  
 ---, *Poèmes de Cuisine* (Damazan: privately printed, 1975)
 Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10  
-Editorial, in *Certain Prose* (REFFFFFF), 2:5 [373], p. 139
+Editorial, in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 2:5 [373], p. 139
 Editorial, in *Certain Prose*, 2:10 [447], p. 143  
 'Editorial', *Satis*, 1 (Autumn 1960), p. 2  
 'Editorial', *Satis*, 2 (Spring 1961), p. 2  
@@ -233,7 +233,8 @@ Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard University Pr
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/\> [accessed 12 June 2015]  
 Healy, Kieran, 'Using Metadata to Find Paul Revere' (9 June 2013), \<http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/\> [accessed 9 April 2014]  
 Hegel, G.W.F., *Lectures on the History of Philosophy: Medieval and Modern Philosophy*, trans. by E.S. Haldane and Frances H. Simson (Lincoln, NE: University of Nebraska Press, 1995)  
-Heidegger, Martin, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161
+Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Basil Blackwell, 1962)  
+---, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161
 'Higher Education: Students at the Heart of the System', *Department for Business, Innovation & Skills* (June 2011), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31384/11--944-higher-education-students-at-heart-of-system.pdf\> [accessed 3 March 2014]  
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)  
 Holland, Owen, contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
@@ -241,8 +242,9 @@ Horkheimer, Max and Theodor W. Adorno, *Dialectic of Enlightenment*, ed. by Gunz
 'Hysteria over population', *The Times* (6 September 1967), p. 13  
 'In the Movement', *The Spectator* (30 September 1954), pp. 21--22  
 Isherwood, Christopher,  *Lions and Shadows* (London: Methuen, 1953)
----, foreword to 'The Railway Accident', in Edward Upward, *The Railway Accident and Other Stories* (London: Penguin, 1972), pp. 33--35    
-Dan Jacobson, 'You Muddy Fools', *London Review of Books*, 24.2 (14 January 2002), pp. 3--14  
+---, foreword to 'The Railway Accident', in Edward Upward, *The Railway Accident and Other Stories* (London: Penguin, 1972), pp. 33--35   
+Ixer, Rob, Richard Bevins and Nick Pearce, 'Stonehenge rhyolitic bluestone sources and the application of zircon chemistry as a new tool for provenancing rhyolitic lithics', *Journal of Archaeological Science*, 38.3 (March 2011), pp. 605--22   
+Jacobson, Dan, 'You Muddy Fools', *London Review of Books*, 24.2 (14 January 2002), pp. 3--14  
 James, William, *Some Problems of Philosophy: A Beginning of an Introduction to Philosophy* (Lincoln, NE: University of Nebraska Press, 1996), p. 39  
 Jameson, Fredric, *Fables of Aggression: Wyndham Lewis, the Modernist as Fascist* (Berkeley, CA: University of California Press, 1979), p. 95    
 Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998), p. 68)  
@@ -307,7 +309,8 @@ Matthews, David, *Memories of F.R. Leavis* (Bishopstone: Edgeways Books, 2010)
 Maud, Ralph, *Charles Olson's Reading: A Biography* (Carbondale, IL: Southern Illinois University Press, 1996)  
 May, John F., *World Population Policies: Their Origin, Evolution, and Impact* (Berlin: Springer, 2012) 
 McGann, Jerome, review, *Modern Philology*, 66.3 (February 1969), pp. 280--83  
-Meillassoux, Quentin, *After Finitude*, trans. by Ray Brassier (London: Continuum, 2008) 
+Meillassoux, Quentin, *After Finitude*, trans. by Ray Brassier (London: Continuum, 2008)  
+---, 'Time without Becoming', conference paper presented at Middlesex University (8 May 2008), \<https://speculativeheresy.files.wordpress.com/2008/07/3729-time\_without\_becoming.pdf\> [accessed 12 June 2015]  
 Mellors, Anthony, *Late Modernist Poetics: From Pound to Prynne* (Manchester: Manchester University Press, 2005)   
 ---, 'Poetic Space and the Late Modernist Text: The Theory and Context of J.H. Prynne's Writings from 1960--1974' (unpublished doctoral thesis, University of Oxford, 1993)  
 Middleton, Peter, *Distant Reading: Performance, Readership and Consumption in Contemporary Poetry* (Tuscaloosa, AL: University of Alabama Press, 2005) 
@@ -379,7 +382,7 @@ Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George 
 ---, 'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
 ----, letter, *Times Literary Supplement* (16 August 1963), p. 629  
 ---, letter, *Times Literary Supplement* (28 May 1971), p. 620  
----, 'A Letter', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 1:12 [189--91], pp. 28--29   
+---, 'A Letter', in *Certain Prose*, 1:12 [189--91], pp. 28--29   
 ---, 'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
 ---, 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57   
 ---, '"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37   
@@ -425,6 +428,7 @@ Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (Decembe
 'Securing a Sustainable Future for Higher Education' (12 October 2010), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10--1208-securing-sustainable-higher-education-browne-report.pdf\> [accessed 3 March 2014]  
 Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford University Press, 1920)  
 Solomon, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)  
+Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)   
 Spiegelman, Willard, 'Charles Tomlinson, The Art of Poetry No. 78', *The Paris Review*, 149 (Winter 1998), \<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]  
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006), \<http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in-\ douglas.html\> [accessed 27 April 2015]  
 Stevens, Wallace, 'Prologues to What is Possible', *The Hudson Review*, 5.3 (Autumn 1952), pp. 330--31
