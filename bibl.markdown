@@ -173,6 +173,7 @@ Butter, P.H., review, *Modern Language Review*, 64.2 (April 1969), pp. 407--08
 ---, review, *Modern Language Review*, 65.4 (October 1970), pp. 882--83  
 Campbell-Johnston, Rachel, 'The Difficult Matter; A Reading of the Poetry of J.H. Prynne' (unpublished doctoral thesis, University of Edinburgh, 1994)  
 Carmody, Tim, 'Paper Modernism', *Snarkmarket* (9 August 2009), \<http://snarkmarket.com/blog/snarkives/selfdisclosure/paper\_modernism/\> [accessed 29 January 2015]  
+'Certain Matters', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 2:['Ghost Issue'] [G16--17], pp. 173--75
 Chaganti, Seeta, 'Vestigial Signs: Inscription, Performance, and The Dream of the Rood', *PMLA*, 125 (2010), pp. 48--72  
 Chaloner, David, 'Bonfire', *The English Intelligencer*, 2.12 (September 1967), p. 477  
 Childe, V. Gordon, *The Prehistory of European Society* (London: Cassell, 1962), p. 166  
@@ -208,7 +209,7 @@ Dubourg, Bernard,  *Chansons à la Journée-Lumière* (Damazan: privately printe
 ---, *Lézard de Feu* (Damazan: privately printed, 1975)  
 ---, *Poèmes de Cuisine* (Damazan: privately printed, 1975)
 Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10  
-Editorial, in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 2:5 [373], p. 139
+Editorial, in *Certain Prose*, 2:5 [373], p. 139
 Editorial, in *Certain Prose*, 2:10 [447], p. 143  
 'Editorial', *Satis*, 1 (Autumn 1960), p. 2  
 'Editorial', *Satis*, 2 (Spring 1961), p. 2  
@@ -336,6 +337,7 @@ Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http://thecl
 Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109  
 Nicholas Royle, *Veering: A Theory of Literature* (Edinburgh: Edinburgh University Press, 2011)  
 Noel-Tod, Jeremy, 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod (Oxford: Oxford University Press), \<www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-961\> [accessed 15 December 2014]  
+Notices, in *Certain Prose*, 1:11 [173], pp. 24--25  
 Noyes, Hugh, 'Abortion Bill over Last Commons Hurdles: Hint on Conscience Clause', *The Times* (15 July 1967), p. 2  
 Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: From 'Nuances' to 'Impertinence'* (Oxford: Oxford University Press, 2000)  
 'nympholepsy, n.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/129422\> [accessed 28 April 2015]  
@@ -355,7 +357,11 @@ Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2
 'Poems (3rd edition), by J.H. Prynne', *Bloodaxe Books*, \<http://www.bloodaxebooks.com/titlepage.asp?isbn=1780371543\> [accessed 22 October 2014]  
 Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot (London: Faber and Faber, 1954), pp. 149--200   
 ---, 'A Few Don'ts by an Imagiste', *Poetry* (March 1913), pp. 200--06   
+---, 'Guido's Relations', *The Dial*, 86 (July 1929), 559--68  
 ---, *Hugh Selwyn Mauberley* (London: The Ovid Press, 1920), p. 12  
+---, 'In a Station of the Metro', *Poetry* (April 1913), p. 12  
+---, 'A Pact', *Poetry* (April 1913), pp. 11--12  
+---, *Sonnets and Ballate of Guido Cavalcanti* (London: Stephen Swift and Co., 1912)  
 ---, 'XLV', in *The Cantos of Ezra Pound* (New York: New Directions, 1996), pp. 229--30   
 Powell, Neil, 'Davie, Donald Alfred (1922--1995)', *Oxford Dictionary of National Biography* (Oxford: Oxford University Press, 2004), \<http://www.oxforddnb.com/view/article/60078\> [accessed 6 November 2014]   
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second World War* (Oxford: Oxford University Press, 1963)  
@@ -425,7 +431,7 @@ Riley, Peter, 'A Commentary on the Serial Poems of Jack Spicer' (unpublished M.A
 ---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73  
 Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77  
 'Robbins Report: Notice by the Council of the Senate', *Cambridge University Reporter* (19 February 1964), pp. 986--988   
-'ROLL CALL', in *Certain Prose*., 1:15 [266], pp. 78--79  
+'Roll Call', in *Certain Prose*., 1:15 [266], pp. 78--79  
 Roosa, Robert V., 'Judging the New Liquidity Plan', *The Banker*, 117.499 (September 1967), p. 756  
 Royle, Nicholas, *Veering: A Theory of Literature* (Edinburgh: Edinburgh University Press, 2011)  
 Rumsey, Lacy, 'The Obstinate reader: Prynne, prosody and degrees of engagement', *Thinking Verse*, 1 (2011), pp. 44--66 (pp. 48--49)  
