@@ -164,6 +164,7 @@ Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010), pp. 244--49
 Bruns, Gerald, 'Dialectrics; or, Turmoil & Contradiction: A Reading of J. H. Prynne's *Kazoo Dreamboats*', *Chicago Review*, 57.3/4 (Winter 2013), pp. 54--70.
 Brinton, Ian, 'Prynne in Prospect', *academia.edu*, \<https://www.academia.edu/6185230/Prynne\_in\_Prospect\> [accessed 21 January 2015]  
 Brooker, Peter and Andrew Thacker, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume II: North America 1894--1960* (Oxford: Oxford University Press, 2012)  
+---, Andrew Thacker, Sascha Bru and Christian Weikop, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume III: Europe 1880--1940* (Oxford: Oxford University Press, 2013)
 Bucknell, Katherine, 'Introduction', in Christopher Isherwood and Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994), pp. 9--21   
 Burrell, N.R., 'The Language of Silence is no Paradox: Enervation & Renewal in the Poetry of J.H. Prynne' (unpublished doctoral thesis, American University of London, 1993)  
 Burroway, Janet, 'Was Too: Time Passed with David Daiches', in *David Daiches: A Celebration of His Life and Work*, ed. by William Baker and Michael Lister (Brighton: Sussex Academic Press, 2008), pp. 28--35
@@ -198,13 +199,16 @@ Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 
 ---, *These the Companions: Recollections* (Cambridge: Cambridge University Press, 1982) 
 ---, *Thomas Hardy and British Poetry* (London: Routledge & Kegan Paul, 1973)  
 --- and D.J. Enright, '*New Lines* and Mr. Tomlinson', *Essays in Criticism*, 7.2 (April 1957), pp. 343--45  
+Dedication, *2R1* (January 1968), p. 2  
 Dobran, Ryan, 'The Difficult Style: A Study of the Poetry of J.H. Prynne' (unpublished doctoral thesis, University of Cambridge, 2013)  
 ---, 'J.H. Prynne's "Aristeas, in Seven Years" and *The English Intelligencer*', *Journal of British and Irish Innovative Poetry*, 5.2 (2013), pp. 20--42   
 Dodsworth, Martin, 'The Movement: Never and Always', in *The Oxford Handbook of Contemporary British and Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 94--110   
 Dubourg, Bernard,  *Chansons à la Journée-Lumière* (Damazan: privately printed, 1975)
 ---, *Lézard de Feu* (Damazan: privately printed, 1975)  
 ---, *Poèmes de Cuisine* (Damazan: privately printed, 1975)
-Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10
+Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10  
+Editorial, in *Certain Prose* (REFFFFFF), 2:5 [373], p. 139
+Editorial, in *Certain Prose*, 2:10 [447], p. 143  
 'Editorial', *Satis*, 1 (Autumn 1960), p. 2  
 'Editorial', *Satis*, 2 (Spring 1961), p. 2  
 'Editorial', *Satis*, 3 (Summer 1961), p. 2  
@@ -213,19 +217,23 @@ Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 
 Education Reform Act 1988, IV 202 (2) b, \<http://www.legislation.gov.uk/ukpga/1988/40/part/IV/crossheading/academic-tenure\> [accessed 24 October 2014]  
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33  
 Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)  
-Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34   
+Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34  
+Elaine Feinstein, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
 'Frauds of the left, Siblings', *Thinking Allowed*, \<http://www.bbc.co.uk/programmes/b06pv1g6\> [accessed 27 November 2015]  
 *Fifty-Fifth Annual Report* (Cambridge: Jesus College Cambridge Society, 1959)  
 'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61
 'glossy, adj.', *OED Online* (Oxford University Press, 2014), \<http://www.oed.com/view/Entry/79186\> [accessed 14 May 2014] 
 Goddard, Louis, 'National and Private Identity in the Prose of J.H. Prynne' (unpublished M.Phil. thesis, University of Cambridge, 2014)  
-Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html\> [accessed 24 October 2014]
+Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html\> [accessed 24 October 2014]   
+Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Great Britain, 1939--1993* (Salzburg: University of Salzburg, 1993)  
 Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008], \<http://www.varsity.co.uk/news/1077\> [accessed 15 October 2015]
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle upon Tyne: Cambridge Scholars Publishing, 2014)   
 Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard University Press, 2000), pp. 388--89  
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/\> [accessed 12 June 2015]  
+Healy, Kieran, 'Using Metadata to Find Paul Revere' (9 June 2013), \<http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/\> [accessed 9 April 2014]  
 Hegel, G.W.F., *Lectures on the History of Philosophy: Medieval and Modern Philosophy*, trans. by E.S. Haldane and Frances H. Simson (Lincoln, NE: University of Nebraska Press, 1995)  
+Heidegger, Martin, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161
 'Higher Education: Students at the Heart of the System', *Department for Business, Innovation & Skills* (June 2011), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31384/11--944-higher-education-students-at-heart-of-system.pdf\> [accessed 3 March 2014]  
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)  
 Holland, Owen, contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
@@ -234,6 +242,7 @@ Horkheimer, Max and Theodor W. Adorno, *Dialectic of Enlightenment*, ed. by Gunz
 'In the Movement', *The Spectator* (30 September 1954), pp. 21--22  
 Isherwood, Christopher,  *Lions and Shadows* (London: Methuen, 1953)
 ---, foreword to 'The Railway Accident', in Edward Upward, *The Railway Accident and Other Stories* (London: Penguin, 1972), pp. 33--35    
+Dan Jacobson, 'You Muddy Fools', *London Review of Books*, 24.2 (14 January 2002), pp. 3--14  
 James, William, *Some Problems of Philosophy: A Beginning of an Introduction to Philosophy* (Lincoln, NE: University of Nebraska Press, 1996), p. 39  
 Jameson, Fredric, *Fables of Aggression: Wyndham Lewis, the Modernist as Fascist* (Berkeley, CA: University of California Press, 1979), p. 95    
 Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998), p. 68)  
@@ -304,7 +313,10 @@ Mellors, Anthony, *Late Modernist Poetics: From Pound to Prynne* (Manchester: Ma
 Middleton, Peter, *Distant Reading: Performance, Readership and Consumption in Contemporary Poetry* (Tuscaloosa, AL: University of Alabama Press, 2005) 
 Mill, John Stuart, 'Tennyson's Poems', in *The Collected Works of John Stuart Mill, Volume 1 -- Autobiography and Literary Essays*, ed. by John M. Robson (London: Routledge, 2013), pp. 395--418   
 Miller, David and Richard Price, *British Poetry Magazines, pp. 1914--2000* (London: British Library, 2006)  
-Milne, Drew, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87   
+Milne, Drew, 'Agoraphobia, and the embarrassment of manifestos: notes towards a community of risk', *Parataxis*, 3 (1993), 25--39   
+---, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87   
+*Modernist Magazines Project*, \<http://www.modernistmagazines.com/\> [accessed 15 January 2015]  
+Moretti, Franco, 'Network Theory, Plot Analysis', *New Left Review*, 68 (2011), pp. 80--102  
 Morris, L.F., *A History of St Dunstan's College* (London: St Dunstan's College, 1970)   
 Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s* (Oxford: Oxford University Press, 1980)  
 'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].]  
@@ -319,10 +331,8 @@ Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: Fro
 'nympholepsy, n.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/129422\> [accessed 28 April 2015]  
 Oliver, Douglas, *The Harmless Building* (London: Ferry Press and Grosseteste Review Books, 1973)
 ---, *Three Variations on the Theme of Harm* (London: Paladin, 1990)  
-Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *British Academy*, \<http://www.britac.ac.uk/pubs/src/ba-history/research.cfm\> [accessed 24 October 2014]  
-Olson, Charles, 'Going Right Out of the Century', *Prospect*, 6 (Spring 1964), p. 33  
----, *Letters for Origin, pp. 1950--1956*, ed. by Albert Glover (London: Cape Goliard, 1969)  
----, 'Letter to Elaine Feinstein', in *Collected Prose*, pp. 250--52  
+Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *British Academy*, \<http://www.britac.ac.uk/pubs/src/ba-history/research.cfm\> [accessed 24 October 2014]   
+---, 'Letter to Elaine Feinstein', in *Collected Prose*, ed. by Donald Allen and Benjamin Friedlander (Berkeley, CA: University of California Press, 1997), pp. 250--52  
 ---, 'A Plantation---A Beginning', *Prospect*, 4 (Spring 1960), pp. 21--23
 ---, *The Maximus Poems / 1--10* (Highlands, NC: Jargon Society, 1953)
 ---, *The Maximus Poems / 11--22* (Highlands, NC: Jargon Society, 1956)  
@@ -339,11 +349,13 @@ Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot
 ---, 'XLV', in *The Cantos of Ezra Pound* (New York: New Directions, 1996), pp. 229--30   
 Powell, Neil, 'Davie, Donald Alfred (1922--1995)', *Oxford Dictionary of National Biography* (Oxford: Oxford University Press, 2004), \<http://www.oxforddnb.com/view/article/60078\> [accessed 6 November 2014]   
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second World War* (Oxford: Oxford University Press, 1963)  
-Price, Richard, 'Little Magazines', *British Library*, \<http://www.bl.uk/reshelp/findhelprestype/journals/littlemagazines/littlemagazines.html\> [accessed 15 January 2015]  
+Price, Richard, 'CAT-scanning the Little Magazine', in *The Oxford Handbook of Contemporary British & Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 173--90   
+---, 'Little Magazines', *British Library*, \<http://www.bl.uk/reshelp/findhelprestype/journals/littlemagazines/littlemagazines.html\> [accessed 15 January 2015]  
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to English Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University Press, 2009), \<http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225\> [accessed 15 December 2014]  
 Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
+---, 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
 ---, 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
 ---, *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
 ---, 'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
@@ -353,7 +365,7 @@ Prynne, J.H., 'About Warning an Invited Audience (Obliquely Arising from George 
 ---, 'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69  
 ---, 'L'Extase de M. Poher', in *Poems* (Tarset: Bloodaxe, 2015), pp. 161--62  
 ---, *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
----, 'Figments of Reflection' (review of Charles Edward Eaton, *Countermoves*), *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
+---, 'Figments of Reflection', *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
 ---, 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
 ---, 'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
 ---, 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
@@ -395,7 +407,8 @@ Rathmell, J.C.A., 'Paradigms for a Wider Concern', *The Cambridge Review* (19 Ja
 Reeve, N.H. and Richard Kerridge, *Nearly Too Much: The Poetry of J.H. Prynne* (Liverpool: Liverpool University Press, 1995)  
 Reuck, A.V.S. de and Julie Knight, eds, *Touch, Heat and Pain* (London: J. & A. Churchill, 1966)  
 Rider, Alistair, 'The "Curve over the Crest of the Hill": Carl Andre and Richard Long', in *Anglo-American Exchange in Postwar Sculpture, pp. 1945--1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications, 2011), pp. 133--47
-Riley, Peter, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20
+Riley, Peter, 'A Commentary on the Serial Poems of Jack Spicer' (unpublished M.A. thesis, University of Keele, 1975)  
+---, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20
 ---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73  
 Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77  
 'Robbins Report: Notice by the Council of the Senate', *Cambridge University Reporter* (19 February 1964), pp. 986--988   
@@ -430,7 +443,8 @@ Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upwar
 Vinen, Richard, *National Service: Conscription in Britain, pp. 1945--1963* (London: Allen Lane, 2014)  
 'Watercolour', *Tate*, \<http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour\> [accessed 2 November 2014]  
 Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), p. 3--4  
-Wheale, Nigel, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
+Wheale, Nigel, 'Breaking Cover: Peter Riley's "Passing Measures"', *Chicago Review*, 47.1 (2001), 110--17  
+---, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
 Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--180   
 Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26  
 ---, 'Our Debt to Dr. Leavis', *Critical Quarterly*, 1.3 (September 1959), pp. 245--56  
