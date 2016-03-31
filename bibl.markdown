@@ -3,35 +3,22 @@
 
 ## Archival material
 
-Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder/envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
+Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder and/or envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
 
 
-### Cid Corman Papers (Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut)
+### Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut
 
-#### Series 1, Box 1
+#### Cid Corman Papers
+
+##### Series 1, Box 1
 
 Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17  
 ---, 18 October 1961, Folder 18  
 ---, 19 November 1961, Folder 19  
 
+#### Edward Dorn Papers
 
-### Francis Crick Papers (Archives and Manuscripts, Wellcome Library)
-
-#### Section D, Subsection 1, Series 5, Subseries 13, Box 20
-
-Letter, Prynne to Francis Crick, 22 March 1982.
-
-
-### Donald Davie Archive (Special Collections, Albert Sloman Library, University of Essex)
-
-#### Box 1
-
-Journal entry, 14 November 1958, Notebook (A)
-
-
-### Edward Dorn Papers (University of Connecticut)
-
-#### Series 1, Box 19
+##### Series 1, Box 19
 
 Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328  
 ---, 29 November 1961, Folder 328  
@@ -53,45 +40,28 @@ Letter, Prynne to Dorn, 21 December 1964, Folder 330
 ---, 17 June 1965, Folder 331  
 ---, 26 January 1966, Folder 332  
 
-#### Series 1, Box 44
+##### Series 1, Box 44
 
 Letter, Prynne to Dorn, 10 January 1972, Folder 657  
 ---, 14 March 1972, Folder 657  
 ---, 25 March 1972, Folder 655  
 ---, 25 April 1972, Folder 657
 
-#### Series 1, Box 19
+##### Series 1, Box 19
 
 Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334
 Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
-#### Series 1, Box 20
+##### Series 1, Box 20
 
 ---, 5 March 1975, Folder 335  
 ---, 9 September 1975, Folder 335  
 ---, 11 August 1978, Folder 336  
 ---, 18 March 1982, Folder 338  
 
+#### Charles Olson Research Collection
 
-### Barry MacSweeney Papers (Special Collections, Newcastle University Library)
-
-#### Series 3, Box 5, Folder 68
-
-Letter, Prynne to Barry MacSweeney, 7 August 1975
-
-
-### Douglas Oliver Archive (University of Essex)
-
-#### Box 9
-
-Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972  
----, 11 September 1974  
----, 16 February 1986  
----, 5 September 1994
-
-### Charles Olson Research Collection (University of Connecticut)
-
-#### Series 2, Box 206
+##### Series 2, Box 206
 
 Letter, Prynne to Charles Olson, 4 November 1961  
 ---, 26 November 1961  
@@ -109,9 +79,29 @@ Letter, Prynne to Charles Olson, 4 November 1961
 ---, 3 March 1965  
 
 
-### Peter Riley Papers (Department of Manuscripts and University Archives, Cambridge University Library)
+### Special Collections, Albert Sloman Library, University of Essex
 
-#### Series 2, Folder 34
+#### Donald Davie Archive
+
+##### Box 1
+
+Journal entry, 14 November 1958, Notebook (A)
+
+#### Douglas Oliver Archive
+
+##### Box 9
+
+Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972  
+---, 11 September 1974  
+---, 16 February 1986  
+---, 5 September 1994
+
+
+### Department of Manuscripts and University Archives, Cambridge University Library
+
+#### Peter Riley Papers
+
+##### Series 2, Folder 34
 
 Unattached second page of letter, Prynne to Peter Riley, Envelope 1  
 Letter, Prynne to Riley, 24 April 1967, Envelope 1  
@@ -129,9 +119,11 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1
 ---, 16 March 1969, Envelope 1  
 
 
-### Edward Upward: Supplementary Papers (Western Manuscripts, British Library)
+### Western Manuscripts, British Library
 
-#### Series 2, Folder 4
+#### Edward Upward: Supplementary Papers
+
+##### Series 2, Folder 4
 
 Typescript, Donald Davie, 'Remembering the Thirties' [1953]  
 Letter, A.C. Spearing to Edward Upward, 14 July 1959
@@ -140,6 +132,79 @@ Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
 Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 'Answers to questions from David Lambourne'
+
+
+### Special Collections, Newcastle University Library
+
+#### Barry MacSweeney Papers
+
+##### Series 3, Box 5, Folder 68
+
+Letter, Prynne to Barry MacSweeney, 7 August 1975
+
+
+### Archives and Manuscripts, Wellcome Library
+
+#### Francis Crick Papers
+
+##### Section D, Subsection 1, Series 5, Subseries 13, Box 20
+
+Letter, Prynne to Francis Crick, 22 March 1982.
+
+
+## Works by J.H. Prynne
+
+'& Hoc Genus Omne', *Bean News* (1972), [p. 2]  
+'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
+'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
+'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
+*Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
+'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
+'Die a Millionaire', in *Poems* (Tarset: Bloodaxe, 2015), pp. 13--16  
+Editorial note, *Prospect*, 6 (Spring 1964), [p. 45]  
+Editorial statement, *Six* (1955), [unpaginated]  
+'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91  
+'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69  
+'L'Extase de M. Poher', in *Poems*, pp. 161--62  
+*Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
+'Figments of Reflection', *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
+'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
+'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
+'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
+'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]  
+*George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)  
+'A Gold Ring Called Reluctance', in *Poems*, pp. 21--23  
+*Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
+'The Hazel Tree', *Tomorrow*, 4 (1960), p. 15  
+'Huts', *Textual Practice*, 22.4 (December 2008), pp. 613--33  
+'In Cimmerian Darkness', in *Poems*, pp. 74--75  
+Interviewed by Peter Orr, *The Poet Speaks*, Programme 39 (6 January 1964)  
+'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
+Letter, *Times Literary Supplement* (16 August 1963), p. 629  
+Letter, *Times Literary Supplement* (28 May 1971), p. 620  
+'A Letter', in *Certain Prose*, 1:12 [189--91], pp. 28--29  
+'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
+'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57  
+'"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37  
+'A Note on Metal', in *Aristeas* (London: Ferry Press, 1968), pp. 14--17  
+'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09  
+'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30  
+'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
+'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
+'A Note on Metal', in *Poems*, pp. 127--32  
+'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
+'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42  
+Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762\> [accessed 17 December 2014]  
+'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
+'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
+*Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)  
+'Stille (nach Thomas Hood)', *Six* (1955), p. 11  
+---, *They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
+'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14  
+'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
+'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
+'When is now', *Bean News* (1972), [p. 4]  
+
 
 ## General
 
@@ -221,7 +286,7 @@ Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33  
 Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)  
 Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34  
-Elaine Feinstein, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
+Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
 'Frauds of the left, Siblings', *Thinking Allowed*, \<http://www.bbc.co.uk/programmes/b06pv1g6\> [accessed 27 November 2015]  
 *Fifty-Fifth Annual Report* (Cambridge: Jesus College Cambridge Society, 1959)  
 'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
@@ -336,7 +401,7 @@ Murdoch, Iris, 'The Idea of Perfection', *Yale Review*, 53.3 (Spring 1964), pp. 
 Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http://theclaudiusapp.com/4-nealon.html\> [accessed 10 October 2013]  
 Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109  
 Nicholas Royle, *Veering: A Theory of Literature* (Edinburgh: Edinburgh University Press, 2011)  
-Noel-Tod, Jeremy, 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod (Oxford: Oxford University Press), \<www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-961\> [accessed 15 December 2014]  
+Noel-Tod, Jeremy, 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod (Oxford: Oxford University Press), \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-961\> [accessed 15 December 2014]  
 Notices, in *Certain Prose*, 1:11 [173], pp. 24--25  
 Noyes, Hugh, 'Abortion Bill over Last Commons Hurdles: Hint on Conscience Clause', *The Times* (15 July 1967), p. 2  
 Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: From 'Nuances' to 'Impertinence'* (Oxford: Oxford University Press, 2000)  
@@ -370,56 +435,7 @@ Price, Richard, 'CAT-scanning the Little Magazine', in *The Oxford Handbook of C
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to English Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University Press, 2009), \<http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225\> [accessed 15 December 2014]  
-Prynne, J.H., '& Hoc Genus Omne', *Bean News* (1972), [p. 2]  
----, 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
----, 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
----, 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
----, *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
----, 'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
----, editorial note, *Prospect*, 6 (Spring 1964), [p. 45]  
----, editorial statement, *Six* (1955), [unpaginated]  
----, 'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91  
----, 'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69  
----, 'L'Extase de M. Poher', in *Poems* (Tarset: Bloodaxe, 2015), pp. 161--62  
----, *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
----, 'Figments of Reflection', *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
----, 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
----, 'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
----, 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
----, 'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]  
----, *George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)  
----, 'A Gold Ring Called Reluctance', in *Poems* (2015), pp. 21--23  
----, *Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
----, 'The Hazel Tree', *Tomorrow*, 4 (1960), p. 15  
----, 'Huts', *Textual Practice*, 22.4 (December 2008), pp. 613--33  
----, 'In Cimmerian Darkness', in *Poems* (2015), pp. 74--75  
----,  interviewed by Peter Orr, *The Poet Speaks*, Programme 39 (6 January 1964)  
----, 'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
-----, letter, *Times Literary Supplement* (16 August 1963), p. 629  
----, letter, *Times Literary Supplement* (28 May 1971), p. 620  
----, 'A Letter', in *Certain Prose*, 1:12 [189--91], pp. 28--29  
----, 'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
----, 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57  
----, '"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37  
----, 'A Note on Metal', in *Aristeas* (London: Ferry Press, 1968), pp. 14--17  
----, 'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09  
----, 'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30  
----, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
----, 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
----, 'A Note on Metal', in *Poems* (2015), pp. 127--32  
----, 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
----, 'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42  
----, reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762\> [accessed 17 December 2014]  
----, 'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
----, 'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
----, *Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)  
----, 'Stille (nach Thomas Hood)', *Six* (1955), p. 11  
----, *They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
----, 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14  
----, 'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
----, 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
----, 'When is now', *Bean News* (1972), [p. 4]  
---- and Keston Sutherland, 'Introduction to Prynne's Poems in Chinese', *Cambridge Quarterly*, 41.1 (2012), pp. 197--207  
+Prynne, J.H. and Keston Sutherland, 'Introduction to Prynne's Poems in Chinese', *Cambridge Quarterly*, 41.1 (2012), pp. 197--207  
 Purves, Robin, 'Commentary on J.H. Prynne's "Thoughts on the Esterházy Court Uniform"', *Glossator*, 2 (2010), pp. 79--88  
 Ransome, John Crowe, 'A Poem Nearly Anonymous', *The American Review* (May 1933), pp. 179--203  
 Rathmell, J.C.A., 'Paradigms for a Wider Concern', *The Cambridge Review* (19 January 1963), pp. 193--94  
@@ -443,7 +459,7 @@ Schedule, *Radio Times* (13 December 1962), p. 13
 Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (December 1997], pp. 36--41  
 'Securing a Sustainable Future for Higher Education' (12 October 2010), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10--1208-securing-sustainable-higher-education-browne-report.pdf\> [accessed 3 March 2014]  
 Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford University Press, 1920)  
-Solomon, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)  
+Solomon, Samuel, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)  
 Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)  
 Spiegelman, Willard, 'Charles Tomlinson, The Art of Poetry No. 78', *The Paris Review*, 149 (Winter 1998), \<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]  
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006), \<http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in-\ douglas.html\> [accessed 27 April 2015]  
