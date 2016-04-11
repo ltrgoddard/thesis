@@ -1,0 +1,7 @@
+man <- c(5,4,4,3,1,2,2,1,1,1)
+png(filename = "man.png", height = 300, width = 600, bg = "white")
+plot(man, type = "o", axes = FALSE, ann = FALSE)
+title(main = substitute(paste(italic("Poems"), " (2005): appearances of 'man' per 1,000 lines")), xlab = "Lines (000s)", ylab = "Appearances")
+axis(1, at=1:11, lab=c("0","1","2","3","4","5","6","7","8","9","10"))
+axis(2, at=1:5, lab=c("1","2","3","4","5"))
+dev.off()
