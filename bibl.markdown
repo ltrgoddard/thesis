@@ -195,6 +195,7 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
 'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42  
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762\> [accessed 17 December 2014]  
+'The Poet's Imaginary', *Chicago Review*, 58.1 (Summer 2013), pp. 89--105   
 'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
 'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
 *Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)  
