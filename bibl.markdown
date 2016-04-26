@@ -159,6 +159,7 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
 *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
+Contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
 'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
 'Die a Millionaire', in *Poems* (Tarset: Bloodaxe, 2015), pp. 13--16  
 Editorial note, *Prospect*, 6 (Spring 1964), [p. 45]  
@@ -192,6 +193,7 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
 'A Note on Metal', in *Poems*, pp. 127--32  
+'A Pedantic Note in Two Parts', in *Certain Prose*, 2:4 [346--351], pp. 124--35  
 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
 'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42  
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762\> [accessed 17 December 2014]  
@@ -288,7 +290,6 @@ Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107
 Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)  
 Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34  
 Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
-'Frauds of the left, Siblings', *Thinking Allowed*, \<http://www.bbc.co.uk/programmes/b06pv1g6\> [accessed 27 November 2015]  
 *Fifty-Fifth Annual Report* (Cambridge: Jesus College Cambridge Society, 1959)  
 'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61  
@@ -307,7 +308,6 @@ Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robins
 ---, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161  
 'Higher Education: Students at the Heart of the System', *Department for Business, Innovation & Skills* (June 2011), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31384/11--944-higher-education-students-at-heart-of-system.pdf\> [accessed 3 March 2014]  
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)  
-Holland, Owen, contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
 Horkheimer, Max and Theodor W. Adorno, *Dialectic of Enlightenment*, ed. by Gunzelin Schmid Noerr, trans. by Edmund Jephcott (Stanford, CA: Stanford University Press, 2002)  
 'Hysteria over population', *The Times* (6 September 1967), p. 13  
 'In the Movement', *The Spectator* (30 September 1954), pp. 21--22  
