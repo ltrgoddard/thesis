@@ -412,6 +412,7 @@ Oliver, Douglas, *The Harmless Building* (London: Ferry Press and Grosseteste Re
 Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *British Academy*, \<http://www.britac.ac.uk/pubs/src/ba-history/research.cfm\> [accessed 24 October 2014]  
 ---, 'Letter to Elaine Feinstein', in *Collected Prose*, ed. by Donald Allen and Benjamin Friedlander (Berkeley, CA: University of California Press, 1997), pp. 250--52  
 ---, 'A Plantation---A Beginning', *Prospect*, 4 (Spring 1960), pp. 21--23  
+---, 'Projective Verse', in *Collected Prose*, pp. 239--49  
 ---, *The Maximus Poems / 1--10* (Highlands, NC: Jargon Society, 1953)  
 ---, *The Maximus Poems / 11--22* (Highlands, NC: Jargon Society, 1956)  
 ---, 'Maximus to Gloucester', *Prospect*, 1 (Summer 1959), pp. 19--20  
