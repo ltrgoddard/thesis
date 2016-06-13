@@ -187,6 +187,7 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609  
 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57  
 '"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37  
+'A Note to Josh Kotin and Jeff Dolven', *No Prizes*, 4 (Winter 2015--16), pp. 21--24  
 'A Note on Metal', in *Aristeas* (London: Ferry Press, 1968), pp. 14--17  
 'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09  
 'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30  
@@ -251,6 +252,7 @@ Clark, Steve, 'Prynne and the Movement', *Jacket*, 24 (November 2003), \<http://
 Crick, Francis  *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)  
 --- and L.E. Orgel, 'Directed Panspermia', *Icarus*, 19 (1973), pp. 341--46  
 Daiches, David, *A Third World* (Brighton: Sussex University Press, 1971), p. 39  
+Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin [*sic*]: J. Moore, 1796), <https://archive.org/details/botanicgardenpoe02darwuoft> [accessed 13 June 2016]  
 Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 1953), pp. 217--24  
 ---, *Articulate Energy: An Inquiry into the Syntax of English Poetry* (London: Routledge & Kegan Paul, 1976)  
 ---, *Collected Poems, 1950--1970* (London: Routledge & Kegan Paul, 1972)  
@@ -434,6 +436,7 @@ Powell, Neil, 'Davie, Donald Alfred (1922--1995)', *Oxford Dictionary of Nationa
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second World War* (Oxford: Oxford University Press, 1963)  
 Price, Richard, 'CAT-scanning the Little Magazine', in *The Oxford Handbook of Contemporary British & Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 173--90  
 ---, 'Little Magazines', *British Library*, \<http://www.bl.uk/reshelp/findhelprestype/journals/littlemagazines/littlemagazines.html\> [accessed 15 January 2015]  
+Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces, Romantic Times* (London: Routledge, 2016)  
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to English Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University Press, 2009), \<http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225\> [accessed 15 December 2014]  
