@@ -192,7 +192,7 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 'A Note on Metal', in *Certain Prose*, 2:1 [286--89], pp. 104--09  
 'A Note on Metal', in *Poems* (Edinburgh and London: Agneau 2, 1982), pp. 125--30  
 'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 1999), pp. 127--32  
-'A Note on Metal', in *Poems* (Tarset: Bloodaxe, 2005), pp. 127--32  
+'A Note on Metal', in *Poems*, 2nd edn (Tarset: Bloodaxe, 2005), pp. 127--32  
 'A Note on Metal', in *Poems*, pp. 127--32  
 'A Pedantic Note in Two Parts', in *Certain Prose*, 2:4 [346--351], pp. 124--35  
 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
@@ -423,7 +423,6 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: 
 Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, pp. 1970--1991* (London: Macmillan, 1992), pp. 234--46  
 Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114  
 'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http://archiveshub.ac.uk/data/gb2188-dsh04\> [accessed 16 November 2014]  
-'Poems (3rd edition), by J.H. Prynne', *Bloodaxe Books*, \<http://www.bloodaxebooks.com/titlepage.asp?isbn=1780371543\> [accessed 22 October 2014]  
 Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot (London: Faber and Faber, 1954), pp. 149--200  
 ---, 'A Few Don'ts by an Imagiste', *Poetry* (March 1913), pp. 200--06  
 ---, 'Guido's Relations', *The Dial*, 86 (July 1929), 559--68  
@@ -477,6 +476,7 @@ Thatcher, Margaret, 'Speech at Lord Mayor's Banquet', *Margaret Thatcher Foundat
 Tomlinson, Charles, 'The Middlebrow Muse', *Essays in Criticism*, 7.2 (April 1957), pp. 208--17  
 Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New York: Harper & Row, 1973), p. 12  
 ---, 'Love among the cabbages', *Harper's Magazine* (November 1972), pp. 90--92, pp. 94--96  
+Trotter, David, *The Making of the Reader: Language and Subjectivity in Modern American, English and Irish Poetry* (London: Macmillan, 1984)  
 Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/No\_Home\_But\_the\_Struggle.pdf\> [accessed 5 May 2015]  
 ---, 'The Railway Accident', in *The Railway Accident*, pp. 33--84  
 ---, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*, \<http://www.edwardupward.info/pdfs/The\_Rotten\_Elements.pdf\> [accessed 27 November 2015]  
