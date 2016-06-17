@@ -304,7 +304,6 @@ Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008], \<http://www.vars
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle upon Tyne: Cambridge Scholars Publishing, 2014)  
 Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard University Press, 2000), pp. 388--89  
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/\> [accessed 12 June 2015]  
-Healy, Kieran, 'Using Metadata to Find Paul Revere' (9 June 2013), \<http://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/\> [accessed 9 April 2014]  
 Hegel, G.W.F., *Lectures on the History of Philosophy: Medieval and Modern Philosophy*, trans. by E.S. Haldane and Frances H. Simson (Lincoln, NE: University of Nebraska Press, 1995)  
 Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Basil Blackwell, 1962)  
 ---, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161  
@@ -394,7 +393,6 @@ Miller, David and Richard Price, *British Poetry Magazines, pp. 1914--2000* (Lon
 Milne, Drew, 'Agoraphobia, and the embarrassment of manifestos: notes towards a community of risk', *Parataxis*, 3 (1993), 25--39  
 ---, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87  
 *Modernist Magazines Project*, \<http://www.modernistmagazines.com/\> [accessed 15 January 2015]  
-Moretti, Franco, 'Network Theory, Plot Analysis', *New Left Review*, 68 (2011), pp. 80--102  
 Morris, L.F., *A History of St Dunstan's College* (London: St Dunstan's College, 1970)  
 Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s* (Oxford: Oxford University Press, 1980)  
 'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].]  
