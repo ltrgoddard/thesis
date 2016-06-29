@@ -5,3 +5,7 @@
 3. What have we found out via this method? Thesis summary, [good scientist].
 4. Close reading as example of combining biographical and textual approaches. 
 5. This *looks* a bit like fatherhood. But it's more complex than that...
+
+## To do
+
+1. Check Paris Review citation.
