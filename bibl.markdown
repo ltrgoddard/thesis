@@ -218,6 +218,7 @@ Advert, *The Times* (29 August 1969), p. 23
 Alan Walker, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)  
 Amis, Kingsley, *Lucky Jim* (London: Victor Gollancz, 1957)  
 Anderson, Perry, 'Components of the National Culture', *New Left Review*, 1.50 (1968), pp. 3--57  
+'anecdote, *n*.', *OED Online* (Oxford University Press, 2016), \<http://www.oed.com/view/Entry/7367\> [accessed 29 June 2016]  
 Arblaster, Anthony, 'Edward Upward and the Novel of Politics' (1978), *Edward Upward*, \<http://www.edwardupward.info/pdfs/Arblaster.pdf\> [accessed 5 May 2015]  
 Aristotle, *On Interpretation*, trans. by E.M. Edghill, in *The Works of Aristotle*, vol. 1, ed. by W.D. Ross (Oxford: Oxford University Press, 1928)  
 Aslıhan Yener, K., 'Managing Metals: An Early Bronze Age Tin Production Site at Göltepe, Turkey', *The Oriental Institute News & Notes*, 140 (1994), pp. 1--4  

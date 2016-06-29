@@ -1,4 +1,4 @@
-## Notes
+## Plan
 
 1. Prynne and biographical recalcitrance; Falci.
 2. What sort of things are worth looking at? Example: professional name.
