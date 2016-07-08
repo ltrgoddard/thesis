@@ -174,12 +174,14 @@ Editorial statement, *Six* (1955), [unpaginated]
 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
 'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]  
 *George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)  
+'The Glacial Question, Unsolved', in *Poems*, pp. 65--67  
 'A Gold Ring Called Reluctance', in *Poems*, pp. 21--23  
 *Graft and Corruption: Shakespeare's Sonnet 15* (Cambridge: Face Press, 2015)  
 'The Hazel Tree', *Tomorrow*, 4 (1960), p. 15  
 'Huts', *Textual Practice*, 22.4 (December 2008), pp. 613--33  
 'In Cimmerian Darkness', in *Poems*, pp. 74--75  
 Interviewed by Peter Orr, *The Poet Speaks*, Programme 39 (6 January 1964)  
+*Kazoo Dreamboats; or, On What There Is* (Cambridge: Critical Documents, 2011)  
 'Landfall', *Lyrische Hefte*, 10 (November 1961), p. 19  
 Letter, *Times Literary Supplement* (16 August 1963), p. 629  
 Letter, *Times Literary Supplement* (28 May 1971), p. 620  
@@ -394,6 +396,7 @@ Miller, David and Richard Price, *British Poetry Magazines, pp. 1914--2000* (Lon
 Milne, Drew, 'Agoraphobia, and the embarrassment of manifestos: notes towards a community of risk', *Parataxis*, 3 (1993), 25--39  
 ---, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87  
 *Modernist Magazines Project*, \<http://www.modernistmagazines.com/\> [accessed 15 January 2015]  
+Moody, A. David, *Ezra Pound: Poet: A Portrait of the Man and His Work*, 3 vols (Oxford: Oxford University Press, 2009--2015)  
 Morris, L.F., *A History of St Dunstan's College* (London: St Dunstan's College, 1970)  
 Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s* (Oxford: Oxford University Press, 1980)  
 'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].]  
@@ -419,6 +422,7 @@ Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *Brit
 ---, 'Maximus to Gloucester', *Prospect*, 1 (Summer 1959), pp. 19--20  
 --- and Ezra Pound, *An Encounter at St. Elizabeth's*, ed. by Catherine Seelye (New York: Grossman, 1975)  
 Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: Routledge & Kegan Paul, 1966)  
+*The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)  
 Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, pp. 1970--1991* (London: Macmillan, 1992), pp. 234--46  
 Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114  
 'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http://archiveshub.ac.uk/data/gb2188-dsh04\> [accessed 16 November 2014]  
