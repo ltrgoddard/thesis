@@ -1,6 +1,7 @@
 # To do
 
 * Check *Paris Review Interviews* citation.
+* Add cross-reference to n. 317.
 * Add material from Stokes (e.g. p. 16) to Chapter 2.
 * '[P]oetic thought does indeed demand the unreserved commitment of the
   poet, deep-down within the choices and judgements of dialectical

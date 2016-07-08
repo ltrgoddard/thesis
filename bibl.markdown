@@ -49,7 +49,7 @@ Letter, Prynne to Dorn, 10 January 1972, Folder 657
 
 ##### Series 1, Box 19
 
-Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334
+Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334  
 Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
 ##### Series 1, Box 20
@@ -235,7 +235,8 @@ Blanton, C.D., 'Nominal Devolutions: Poetic Substance and the Critique of Politi
 Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34)  
 Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010), pp. 244--49  
 Bruns, Gerald, 'Dialectrics; or, Turmoil & Contradiction: A Reading of J. H. Prynne's *Kazoo Dreamboats*', *Chicago Review*, 57.3/4 (Winter 2013), pp. 54--70  
-Brinton, Ian, 'Prynne in Prospect', *academia.edu*, \<https://www.academia.edu/6185230/Prynne\_in\_Prospect\> [accessed 21 January 2015]  
+Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne* (Bristol: Shearsman, 2009)  
+---, 'Prynne in Prospect', *academia.edu*, \<https://www.academia.edu/6185230/Prynne\_in\_Prospect\> [accessed 21 January 2015]  
 Brooker, Peter and Andrew Thacker, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume II: North America 1894--1960* (Oxford: Oxford University Press, 2012)  
 ---, Andrew Thacker, Sascha Bru and Christian Weikop, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume III: Europe 1880--1940* (Oxford: Oxford University Press, 2013)  
 Bucknell, Katherine, 'Introduction', in Christopher Isherwood and Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994), pp. 9--21  
@@ -252,10 +253,11 @@ Childe, V. Gordon, *The Prehistory of European Society* (London: Cassell, 1962),
 Chitty, Andrew, 'The Early Marx on Needs', *Radical Philosophy*, 64 (Summer 1993), pp. 23--31  
 Clark, Gregory, *A Farewell to Alms: A Brief Economic History of the World* (Princeton, NJ: Princeton University Press, 2007), p. 286  
 Clark, Steve, 'Prynne and the Movement', *Jacket*, 24 (November 2003), \<http://jacketmagazine.com/24/clark-s.html\> [accessed 27 November 2014]  
+Conquest, Robert, *New Lines: An Anthology* (London: Macmillan, 1956)  
 Crick, Francis  *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)  
 --- and L.E. Orgel, 'Directed Panspermia', *Icarus*, 19 (1973), pp. 341--46  
 Daiches, David, *A Third World* (Brighton: Sussex University Press, 1971), p. 39  
-Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin [*sic*]: J. Moore, 1796), <https://archive.org/details/botanicgardenpoe02darwuoft> [accessed 13 June 2016]  
+Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin [*sic*]: J. Moore, 1796), \<https://archive.org/details/botanicgardenpoe02darwuoft\> [accessed 13 June 2016]  
 Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 1953), pp. 217--24  
 ---, *Articulate Energy: An Inquiry into the Syntax of English Poetry* (London: Routledge & Kegan Paul, 1976)  
 ---, *Collected Poems, 1950--1970* (London: Routledge & Kegan Paul, 1972)  
@@ -292,6 +294,7 @@ Editorial, in *Certain Prose*, 2:10 [447], p. 143
 Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107  
 *Education Reform Act 1988* (London: Her Majesty's Stationery Office, 1989)  
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33  
+Enright, D.J., *Poets of the 1950s: An Anthology of New English Verse* (Tokyo: Kenkyusha, 1955)  
 Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)  
 Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34  
 Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
@@ -303,7 +306,7 @@ Goddard, Louis, 'National and Private Identity in the Prose of J.H. Prynne' (unp
 ---, 'Not spooked', *Times Literary Supplement* (11 December 2015), p. 17  
 Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html\> [accessed 24 October 2014]  
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Great Britain, 1939--1993* (Salzburg: University of Salzburg, 1993)  
-Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008], \<http://www.varsity.co.uk/news/1077\> [accessed 15 October 2015]  
+Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008), \<http://www.varsity.co.uk/news/1077\> [accessed 15 October 2015]  
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle upon Tyne: Cambridge Scholars Publishing, 2014)  
 Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard University Press, 2000), pp. 388--89  
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/\> [accessed 12 June 2015]  
@@ -465,6 +468,7 @@ Schedule, *Radio Times* (6 December 1962), p. 49
 Schedule, *Radio Times* (13 December 1962), p. 13  
 Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (December 1997], pp. 36--41  
 'Securing a Sustainable Future for Higher Education' (12 October 2010), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10--1208-securing-sustainable-higher-education-browne-report.pdf\> [accessed 3 March 2014]  
+Sheldrake, Rupert, *A New Science of Life: The Hypothesis of Formative Causation* (Los Angeles, CA: J.P. Tarcher, 1981)  
 Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford University Press, 1920)  
 Solomon, Samuel, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)  
 Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)  
