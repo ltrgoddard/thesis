@@ -160,8 +160,10 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
 *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
 Contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
+'Damp', *Mica*, 2 (February 1961), p. 22  
 'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
 'Die a Millionaire', in *Poems* (Tarset: Bloodaxe, 2015), pp. 13--16  
+'Early Yesterday Morning', *Satis*, 5 (Spring--Summer 1962), p. 14  
 Editorial note, *Prospect*, 6 (Spring 1964), [p. 45]  
 Editorial statement, *Six* (1955), [unpaginated]  
 'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91  
@@ -197,18 +199,22 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 'A Note on Metal', in *Poems*, 2nd edn (Tarset: Bloodaxe, 2005), pp. 127--32  
 'A Note on Metal', in *Poems*, pp. 127--32  
 'A Pedantic Note in Two Parts', in *Certain Prose*, 2:4 [346--351], pp. 124--35  
+'Perspective from a Chalk Pit', *Mica*, 2 (February 1961), p. 23  
 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88  
 'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42  
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762\> [accessed 17 December 2014]  
-'The Poet's Imaginary', *Chicago Review*, 58.1 (Summer 2013), pp. 89--105   
+'The Poet's Imaginary', *Chicago Review*, 58.1 (Summer 2013), pp. 89--105  
+'In Praise', *Satis*, 5 (Spring--Summer 1962), pp. 14--15  
 'Reading Pound: Background', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf\> [accessed 8 January 2016]  
 'Resistance and Difficulty', *Prospect*, 5 (Winter 1961), pp. 26--30  
 *Stars, Tigers and the Shape of Words* (London: Birkbeck College, 1993)  
 'Stille (nach Thomas Hood)', *Six* (1955), p. 11  
----, *They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
+'Surface Measures', *Mica*, 4 (Fall 1961), p. 30  
+*They That Haue Powre to Hurt; A Specimen of a Commentary on Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)  
 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14  
 'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf\> [accessed 23 September 2014], p. 14  
 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43  
+'Until Later On', *Mica*, 4 (Fall 1961), p. 31  
 'When is now', *Bean News* (1972), [p. 4]  
 
 
@@ -302,7 +308,8 @@ Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Mic
 'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61  
 'glossy, adj.', *OED Online* (Oxford University Press, 2014), \<http://www.oed.com/view/Entry/79186\> [accessed 14 May 2014]  
-Goddard, Louis, 'National and Private Identity in the Prose of J.H. Prynne' (unpublished M.Phil. thesis, University of Cambridge, 2014)  
+Goddard, Louis, 'Migration Patterns: Two Little Magazines of 1960--1962', *Textual Practice*, \<http://www.tandfonline.com/doi/full/10.1080/0950236X.2016.1188143\> [accessed 11 July 2014]  
+---, 'National and Private Identity in the Prose of J.H. Prynne' (unpublished M.Phil. thesis, University of Cambridge, 2014)  
 ---, 'Not spooked', *Times Literary Supplement* (11 December 2015), p. 17  
 Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html\> [accessed 24 October 2014]  
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Great Britain, 1939--1993* (Salzburg: University of Salzburg, 1993)  

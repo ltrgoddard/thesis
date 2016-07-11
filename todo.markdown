@@ -1,5 +1,6 @@
 # To do
 
+* Update 'Migration Patterns' citation?
 * Check *Paris Review Interviews* citation.
 * Add cross-reference to n. 317.
 * Add material from Stokes (e.g. p. 16) to Chapter 2.
