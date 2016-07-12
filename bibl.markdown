@@ -262,7 +262,8 @@ Clark, Steve, 'Prynne and the Movement', *Jacket*, 24 (November 2003), \<http://
 Conquest, Robert, *New Lines: An Anthology* (London: Macmillan, 1956)  
 Crick, Francis  *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)  
 --- and L.E. Orgel, 'Directed Panspermia', *Icarus*, 19 (1973), pp. 341--46  
-Daiches, David, *A Third World* (Brighton: Sussex University Press, 1971), p. 39  
+Daiches, David, *A Critical History of English Literature* (New York: The Ronald Press Company, 1960)  
+---, *A Third World* (Brighton: Sussex University Press, 1971), p. 39  
 Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin [*sic*]: J. Moore, 1796), \<https://archive.org/details/botanicgardenpoe02darwuoft\> [accessed 13 June 2016]  
 Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 1953), pp. 217--24  
 ---, *Articulate Energy: An Inquiry into the Syntax of English Poetry* (London: Routledge & Kegan Paul, 1976)  
@@ -292,10 +293,6 @@ Dubourg, Bernard,  *Chansons à la Journée-Lumière* (Damazan: privately printe
 Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10  
 Editorial, in *Certain Prose*, 2:5 [373], p. 139  
 Editorial, in *Certain Prose*, 2:10 [447], p. 143  
-'Editorial', *Satis*, 1 (Autumn 1960), p. 2  
-'Editorial', *Satis*, 2 (Spring 1961), p. 2  
-'Editorial', *Satis*, 3 (Summer 1961), p. 2  
-'Editorial', *Satis*, 4 (Winter 1961--62), p. 2  
 'Editorial', *Satis*, 5 (Spring--Summer 1962), p. 2  
 Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107  
 *Education Reform Act 1988* (London: Her Majesty's Stationery Office, 1989)  
@@ -305,7 +302,6 @@ Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cam
 Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34  
 Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Michaelmas 2010), pp. 141--47  
 *Fifty-Fifth Annual Report* (Cambridge: Jesus College Cambridge Society, 1959)  
-'Finding aid for the Mica Collection, pp. 1960--1962', *University at Buffalo, The State University of New York*, \<http://libweb1.lib.buffalo.edu:8080/findingaids/view?docId=ead/poetry/ubpo\_pcms0007.xml\> [accessed 27 March 2014]  
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61  
 'glossy, adj.', *OED Online* (Oxford University Press, 2014), \<http://www.oed.com/view/Entry/79186\> [accessed 14 May 2014]  
 Goddard, Louis, 'Migration Patterns: Two Little Magazines of 1960--1962', *Textual Practice*, \<http://www.tandfonline.com/doi/full/10.1080/0950236X.2016.1188143\> [accessed 11 July 2014]  
@@ -353,19 +349,20 @@ Latter, Alex, '"Essential news": a history of *The English Intelligencer*' (unpu
 Leader, Zachary, 'Introduction: Origins and Ambivalences', in *The Movement Reconsidered: Essays on Larkin, Amis, Gunn, Davie and Their Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1--15  
 ---, *The Life of Kingsley Amis* (London: Random House, 2013), p. 284  
 'leading edge, *n*.', *OED Online* (Oxford University Press, 2016), \<http://www.oed.com/view/Entry/106611\> [accessed 1 March 2016]  
-Leavis, F.R., 'A Rejoinder', *Scrutiny*, 4.2 (September 1935), pp. 185--87  
----, 'A Rejoinder', *Scrutiny*, 19.4 (October 1953), pp. 321--28  
----, 'A Review', *Scrutiny*, 4.1 (June 1935), pp. 96--100  
----, 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, p. 185--96  
+Leavis, F.R.,---, 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, p. 185--96  
 ---, letter, *Times Literary Supplement* (21 May 1971), p. 593  
 ---, *Mass Civilisation and Minority Culture* (Cambridge: The Minority Press, 1930)  
 ---, *New Bearings in English Poetry: A Study of the Contemporary Situation* (London: Chatto & Windus, 1932)  
----, 'Retrospect of a Decade', in *A Selection from 'Scrutiny'*, vol. 1, pp. 175--79  
+---, 'A Rejoinder', *Scrutiny*, 4.2 (September 1935), pp. 185--87  
+---, 'A Rejoinder', *Scrutiny*, 19.4 (October 1953), pp. 321--28  
 ---, 'The Responsible Critic or The Function of Criticism at Any Time', *Scrutiny*, 19.3 (Spring 1953), pp. 162--84  
+---, 'Retrospect of a Decade', in *A Selection from 'Scrutiny'*, vol. 1, pp. 175--79  
 ---, 'Revaluations (VIII): Shelley', *Scrutiny*, 4.2 (September 1935), pp. 158--80  
+---, 'A Review', *Scrutiny*, 4.1 (June 1935), pp. 96--100  
 ---, *Scrutiny: A Retrospect* (Cambridge: Cambridge University Press, 1963)  
 ---, 'Under Which King, Bezonian?', in *A Selection from 'Scrutiny'*, vol. 1, pp. 166--74  
 ---, *Two Cultures?: The Significance of C.P. Snow*, ed. by Stefan Collini (Cambridge: Cambridge University Press, 2013)  
+--- and Denys Thompson, *Culture and Environment: The Training of Critical Awareness* (London: Chatto & Windus, 1933)  
 Leavis, Q.D., 'The Background of Twentieth Century Letters', in *A Selection from 'Scrutiny'*, vol. 1, pp. 162--66  
 ---, 'Henry James's Heiress: The Importance of Edith Wharton', in *A Selection from 'Scrutiny'*, vol. 2, pp. 124--36  
 Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by Paul Edwards (Santa Barbara, CA: Black Sparrow Press, 1986), p. 65  
@@ -381,6 +378,7 @@ Lindsay, Jow, 'Excerpt from An Open Letter to J.H. Prynne', *QUID*, 17 (2006), p
 'Long Live the Vortex!', *Blast*, 1 (1914), [7--8]  
 Lovelock, James, *A Rough Ride to the Future* (London: Allen Lane, 2014)  
 Luna, Joe and Jow Lindsay, eds., *Hix Eros: On the Late Poetry of J.H. Prynne* (Brighton: Hi Zero and Sad Press, 2014)  
+Lynd, Robert S. and Helen Merrell, *Middletown: A Study in American Culture* (New York: Harcourt, Brace and Company, 1929)  
 Lytle Shaw, *Frank O'Hara: The Poetics of Coterie* (Iowa City: University of Iowa Press, 2006)  
 MacKillop, Ian, *F.R. Leavis: A Life in Criticism* (London: Allen Lane), p. 152  
 Mallon, Thomas, 'The Underreachers', *Contemporary Literature*, 22.2 (Spring 1981), pp. 243--47  
@@ -403,8 +401,7 @@ Mellors, Anthony, *Late Modernist Poetics: From Pound to Prynne* (Manchester: Ma
 Middleton, Peter, *Distant Reading: Performance, Readership and Consumption in Contemporary Poetry* (Tuscaloosa, AL: University of Alabama Press, 2005)  
 Mill, John Stuart, 'Tennyson's Poems', in *The Collected Works of John Stuart Mill, Volume 1 -- Autobiography and Literary Essays*, ed. by John M. Robson (London: Routledge, 2013), pp. 395--418  
 Miller, David and Richard Price, *British Poetry Magazines, pp. 1914--2000* (London: British Library, 2006)  
-Milne, Drew, 'Agoraphobia, and the embarrassment of manifestos: notes towards a community of risk', *Parataxis*, 3 (1993), 25--39  
----, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87  
+Milne, Drew, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87  
 *Modernist Magazines Project*, \<http://www.modernistmagazines.com/\> [accessed 15 January 2015]  
 Moody, A. David, *Ezra Pound: Poet: A Portrait of the Man and His Work*, 3 vols (Oxford: Oxford University Press, 2009--2015)  
 Morris, L.F., *A History of St Dunstan's College* (London: St Dunstan's College, 1970)  
@@ -412,6 +409,7 @@ Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s* (Oxford
 'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].]  
 Mottram, Eric, 'The British Poetry Revival 1960--1975', in *New British Poetries: The Scope of the Possible*, ed. by Robert Hampson and Peter Barry (Manchester: Manchester University Press, 1993), pp. 15--50  
 Muhly, James D., 'Sources of Tin and the Beginnings of Bronze Metallurgy', *American Journal of Archaeology*, 89.2 (April 1985), pp. 275--91  
+Mulhern, Francis, *The Moment of 'Scrutiny'* (London: New Left Books, 1979)  
 Murdoch, Iris, 'The Idea of Perfection', *Yale Review*, 53.3 (Spring 1964), pp. 342--80  
 Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http://theclaudiusapp.com/4-nealon.html\> [accessed 10 October 2013]  
 Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109  
@@ -446,8 +444,6 @@ Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot
 ---, 'XLV', in *The Cantos of Ezra Pound* (New York: New Directions, 1996), pp. 229--30  
 Powell, Neil, 'Davie, Donald Alfred (1922--1995)', *Oxford Dictionary of National Biography* (Oxford: Oxford University Press, 2004), \<http://www.oxforddnb.com/view/article/60078\> [accessed 6 November 2014]  
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second World War* (Oxford: Oxford University Press, 1963)  
-Price, Richard, 'CAT-scanning the Little Magazine', in *The Oxford Handbook of Contemporary British & Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 173--90  
----, 'Little Magazines', *British Library*, \<http://www.bl.uk/reshelp/findhelprestype/journals/littlemagazines/littlemagazines.html\> [accessed 15 January 2015]  
 Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces, Romantic Times* (London: Routledge, 2016)  
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011], \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]  
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574  
@@ -459,8 +455,7 @@ Rathmell, J.C.A., 'Paradigms for a Wider Concern', *The Cambridge Review* (19 Ja
 Reeve, N.H. and Richard Kerridge, *Nearly Too Much: The Poetry of J.H. Prynne* (Liverpool: Liverpool University Press, 1995)  
 Reuck, A.V.S. de and Julie Knight, eds, *Touch, Heat and Pain* (London: J. & A. Churchill, 1966)  
 Rider, Alistair, 'The "Curve over the Crest of the Hill": Carl Andre and Richard Long', in *Anglo-American Exchange in Postwar Sculpture, pp. 1945--1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications, 2011), pp. 133--47  
-Riley, Peter, 'A Commentary on the Serial Poems of Jack Spicer' (unpublished M.A. thesis, University of Keele, 1975)  
----, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20  
+Riley, Peter, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20  
 ---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73  
 Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77  
 'Robbins Report: Notice by the Council of the Senate', *Cambridge University Reporter* (19 February 1964), pp. 986--988  
@@ -499,8 +494,7 @@ Vinen, Richard, *National Service: Conscription in Britain, pp. 1945--1963* (Lon
 'Watercolour', *Tate*, \<http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour\> [accessed 2 November 2014]  
 Walker, Alan, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)  
 Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), p. 3--4  
-Wheale, Nigel, 'Breaking Cover: Peter Riley's "Passing Measures"', *Chicago Review*, 47.1 (2001), 110--17  
----, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
+Wheale, Nigel, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383\> [accessed 15 December 2014]  
 Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--180  
 Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26  
 ---, 'Our Debt to Dr. Leavis', *Critical Quarterly*, 1.3 (September 1959), pp. 245--56  

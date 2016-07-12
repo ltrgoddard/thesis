@@ -1,5 +1,6 @@
 # To do
 
+* Add Leavis/Bateson stuff in a footnote to Chapter 2?
 * Update 'Migration Patterns' citation?
 * Check *Paris Review Interviews* citation.
 * Add cross-reference to n. 317.
