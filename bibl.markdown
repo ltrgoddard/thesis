@@ -171,8 +171,9 @@ Editorial statement, *Six* (1955), [unpaginated]
 'L'Extase de M. Poher', in *Poems*, pp. 161--62  
 *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)  
 'Figments of Reflection', *The Cambridge Review* (16 Feb 1963), pp. 281, 283  
+'First Notes on Daylight', in *Poems*, p. 69  
 'Force of Circumstance', in *Force of Circumstance and Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1  
-'from a letter', *Mica*, 5 (Winter 1962], pp. 2--3, 28  
+'from a letter', *Mica*, 5 (Winter 1962), pp. 2--3, 28  
 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54  
 'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]  
 *George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)  
@@ -235,7 +236,7 @@ Atwood, Margaret, *The Edible Woman* (London: Virago, 2009), p. 244
 Bateson, F.W., 'A Reply', *Scrutiny*, 4.2 (September 1935), pp. 181--85  
 ---, 'The Responsible Critic', *Scrutiny*, 19.4 (October 1953), pp. 317--21  
 Beatty, Michael, 'The Earliest Fiction of Wyndham Lewis and *The Wild Body*', *Theoria*, 48 (May 1977), pp. 37--45  
-Bell, Clive, 'What was "Bloomsbury"?', *Twentieth Century* (February 1954], pp. 153--60)  
+Bell, Clive, 'What was "Bloomsbury"?', *Twentieth Century* (February 1954), pp. 153--60)  
 Bernstein, Charles, 'Introduction', in *Close Listening: Poetry and the Performed Word*, ed. by Bernstein (Oxford: Oxford University Press, 1998), pp. 3--26  
 Blanton, C.D., 'Nominal Devolutions: Poetic Substance and the Critique of Political Economy', *Yale Journal of Criticism*, 13 (2000), pp. 129--51  
 Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34)  
@@ -375,7 +376,7 @@ Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by
 ---, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa, CA: Black Sparrow Press, 1993), p. 88  
 Lindsay, Jow, 'Excerpt from An Open Letter to J.H. Prynne', *QUID*, 17 (2006), pp. 35--39  
 'The Literary Society', *Fifty-Fifth Annual Report* (Cambridge: Jesus College Society, 1959), pp. 60--61  
-'Long Live the Vortex!', *Blast*, 1 (1914), [7--8]  
+'Long Live the Vortex!', *Blast*, 1 (1914), [pp. 7--8]  
 Lovelock, James, *A Rough Ride to the Future* (London: Allen Lane, 2014)  
 Luna, Joe and Jow Lindsay, eds., *Hix Eros: On the Late Poetry of J.H. Prynne* (Brighton: Hi Zero and Sad Press, 2014)  
 Lynd, Robert S. and Helen Merrell, *Middletown: A Study in American Culture* (New York: Harcourt, Brace and Company, 1929)  
@@ -406,7 +407,7 @@ Milne, Drew, 'The Art of Wit and the Cambridge Science Park', in *Contemporary P
 Moody, A. David, *Ezra Pound: Poet: A Portrait of the Man and His Work*, 3 vols (Oxford: Oxford University Press, 2009--2015)  
 Morris, L.F., *A History of St Dunstan's College* (London: St Dunstan's College, 1970)  
 Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s* (Oxford: Oxford University Press, 1980)  
-'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].]  
+'motive, *n*.', *OED Online* (Oxford University Press, 2015), \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015]  
 Mottram, Eric, 'The British Poetry Revival 1960--1975', in *New British Poetries: The Scope of the Possible*, ed. by Robert Hampson and Peter Barry (Manchester: Manchester University Press, 1993), pp. 15--50  
 Muhly, James D., 'Sources of Tin and the Beginnings of Bronze Metallurgy', *American Journal of Archaeology*, 89.2 (April 1985), pp. 275--91  
 Mulhern, Francis, *The Moment of 'Scrutiny'* (London: New Left Books, 1979)  
@@ -468,7 +469,7 @@ Sankar, Nandini Ramesh, 'Poetics of Difficulty in Postmodern Poetry' (unpublishe
 Scarry, Elaine, *The Body in Pain: The Making and Unmaking of the World* (Oxford: Oxford University Press, 1985)  
 Schedule, *Radio Times* (6 December 1962), p. 49  
 Schedule, *Radio Times* (13 December 1962), p. 13  
-Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (December 1997], pp. 36--41  
+Schmidt, Michael, 'Elaine Feinstein in Conversation', *PN Review*, 24.2 (December 1997), pp. 36--41  
 'Securing a Sustainable Future for Higher Education' (12 October 2010), \<https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10--1208-securing-sustainable-higher-education-browne-report.pdf\> [accessed 3 March 2014]  
 Sheldrake, Rupert, *A New Science of Life: The Hypothesis of Formative Causation* (Los Angeles, CA: J.P. Tarcher, 1981)  
 Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford University Press, 1920)  
