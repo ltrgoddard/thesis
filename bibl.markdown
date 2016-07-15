@@ -241,6 +241,7 @@ Bernstein, Charles, 'Introduction', in *Close Listening: Poetry and the Performe
 Blanton, C.D., 'Nominal Devolutions: Poetic Substance and the Critique of Political Economy', *Yale Journal of Criticism*, 13 (2000), pp. 129--51  
 Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34)  
 Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010), pp. 244--49  
+Brannigan, John, *Archipelagic Modernism: Literature in the Irish and British Isles, 1890--1970* (Edinburgh: Edinburgh University Press, 2015)  
 Bruns, Gerald, 'Dialectrics; or, Turmoil & Contradiction: A Reading of J. H. Prynne's *Kazoo Dreamboats*', *Chicago Review*, 57.3/4 (Winter 2013), pp. 54--70  
 Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne* (Bristol: Shearsman, 2009)  
 ---, 'Prynne in Prospect', *academia.edu*, \<https://www.academia.edu/6185230/Prynne\_in\_Prospect\> [accessed 21 January 2015]  
