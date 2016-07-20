@@ -262,6 +262,7 @@ Chitty, Andrew, 'The Early Marx on Needs', *Radical Philosophy*, 64 (Summer 1993
 Clark, Gregory, *A Farewell to Alms: A Brief Economic History of the World* (Princeton, NJ: Princeton University Press, 2007), p. 286  
 Clark, Steve, 'Prynne and the Movement', *Jacket*, 24 (November 2003), \<http://jacketmagazine.com/24/clark-s.html\> [accessed 27 November 2014]  
 Conquest, Robert, *New Lines: An Anthology* (London: Macmillan, 1956)  
+Creeley, Robert, 'The Grace', *Prospect*, 6 (Spring 1964), pp. 25--28  
 Crick, Francis  *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)  
 --- and L.E. Orgel, 'Directed Panspermia', *Icarus*, 19 (1973), pp. 341--46  
 Daiches, David, *A Critical History of English Literature* (New York: The Ronald Press Company, 1960)  
