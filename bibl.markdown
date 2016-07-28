@@ -239,6 +239,7 @@ Beatty, Michael, 'The Earliest Fiction of Wyndham Lewis and *The Wild Body*', *T
 Bell, Clive, 'What was "Bloomsbury"?', *Twentieth Century* (February 1954), pp. 153--60)  
 Bernstein, Charles, 'Introduction', in *Close Listening: Poetry and the Performed Word*, ed. by Bernstein (Oxford: Oxford University Press, 1998), pp. 3--26  
 Blanton, C.D., 'Nominal Devolutions: Poetic Substance and the Critique of Political Economy', *Yale Journal of Criticism*, 13 (2000), pp. 129--51  
+Bloom, Harold, *The Anxiety of Influence: A Theory of Poetry* (New York: Oxford University Press, 1973)  
 Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34)  
 Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010), pp. 244--49  
 Brannigan, John, *Archipelagic Modernism: Literature in the Irish and British Isles, 1890--1970* (Edinburgh: Edinburgh University Press, 2015)  
