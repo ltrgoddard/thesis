@@ -1,4 +1,4 @@
-# Conclusion
+Conclusion
 
 > *Be influenced by as many great artists as you can, but have the decency either to acknowledge the debt outright, or to try to conceal it* ---Ezra Pound.^[Pound, 'A Few Don'ts by an Imagiste', *Poetry* (March 1913), 200--06 (p. 202).]
 
