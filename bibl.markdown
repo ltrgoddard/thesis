@@ -156,13 +156,14 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 
 '& Hoc Genus Omne', *Bean News* (1972), [p. 2]  
 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)  
+'The Bee Target on his Shoulder', in *Poems* (Tarset: Bloodaxe, 2015), pp. 150--52  
 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66  
 'Chi É', *Prospect*, 6 (Spring 1964), p. 35  
 *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)  
 Contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http://www.admin.cam.ac.uk/reporter/2010--11/weekly/6211/section13.shtml\> [accessed 26 February 2014]  
 'Damp', *Mica*, 2 (February 1961), p. 22  
 'A Dialogue with Nicholas Royle' (seminar, University of Sussex, 11 March 2014)  
-'Die a Millionaire', in *Poems* (Tarset: Bloodaxe, 2015), pp. 13--16  
+'Die a Millionaire', in *Poems*, pp. 13--16  
 'Early Yesterday Morning', *Satis*, 5 (Spring--Summer 1962), p. 14  
 Editorial note, *Prospect*, 6 (Spring 1964), [p. 45]  
 Editorial statement, *Six* (1955), [unpaginated]  
