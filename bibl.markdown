@@ -369,6 +369,7 @@ Leavis, F.R.,---, 'Keynes, Spender and Currency-Values', in *A Selection from 'S
 ---, *Two Cultures?: The Significance of C.P. Snow*, ed. by Stefan Collini (Cambridge: Cambridge University Press, 2013)  
 --- and Denys Thompson, *Culture and Environment: The Training of Critical Awareness* (London: Chatto & Windus, 1933)  
 Leavis, Q.D., 'The Background of Twentieth Century Letters', in *A Selection from 'Scrutiny'*, vol. 1, pp. 162--66  
+---, *Fiction and the Reading Public* (London: Chatto & Windus, 1932)  
 ---, 'Henry James's Heiress: The Importance of Edith Wharton', in *A Selection from 'Scrutiny'*, vol. 2, pp. 124--36  
 Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by Paul Edwards (Santa Barbara, CA: Black Sparrow Press, 1986), p. 65  
 ---, 'From the Prologue to the 1918 Egoist Press Edition', in *Tarr* (Oxford: Oxford University Press, 2010), pp. 288--89  
