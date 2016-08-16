@@ -428,6 +428,7 @@ Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: Fro
 Oliver, Douglas, *The Harmless Building* (London: Ferry Press and Grosseteste Review Books, 1973)  
 ---, *Three Variations on the Theme of Harm* (London: Paladin, 1990)  
 Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *British Academy*, \<http://www.britac.ac.uk/pubs/src/ba-history/research.cfm\> [accessed 24 October 2014]  
+Olson, Charles, 'The Distances', in *The Collected Poems of Charles Olson*, ed. by George F. Butterick (Berkeley, CA: University of California Press, 1987), pp. 491--92  
 ---, 'Letter to Elaine Feinstein', in *Collected Prose*, ed. by Donald Allen and Benjamin Friedlander (Berkeley, CA: University of California Press, 1997), pp. 250--52  
 ---, 'A Plantation---A Beginning', *Prospect*, 4 (Spring 1960), pp. 21--23  
 ---, 'Projective Verse', in *Collected Prose*, pp. 239--49  
