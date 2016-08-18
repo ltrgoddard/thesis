@@ -3,7 +3,7 @@
 o=$(grep -En ' (M|m)an( |;|:|\.|$)' $1 | grep -Ec "^[0-9]{3}:" | tr -d '\n')
 c=1
 while [  $c -lt 13  ]; do
-    n=$(grep -En ' (M|m)an( |:|;|\.|$)' $1 | grep -Ec "^$COUNTER[0-9]{3}:" | tr -d '\n')
+    n=$(grep -En ' (M|m)an( |:|;|\.|$)' $1 | grep -Ec "^$c[0-9]{3}:" | tr -d '\n')
     o="$o,$n"
     let c=c+1
 done
