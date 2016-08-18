@@ -1,6 +1,6 @@
 # To do
 
-* Add point about suppression of juvenilia being itself traditional to conclusion.
+* Add info re railway accident (Stansky, pp. 97--98).
 * Update 'Migration Patterns' citation?
 * Add material from Stokes (e.g. p. 16) to Chapter 2.
 * '[P]oetic thought does indeed demand the unreserved commitment of the
