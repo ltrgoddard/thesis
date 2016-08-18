@@ -1,0 +1,5 @@
+man <-  3,3,3,3,3,3,3,3,3,3,3,3,3 )
+png(filename = "man.png", height = 300, width = 600, bg = "white")
+plot(man, type = "o", ann = FALSE)
+title(xlab = "Lines (000s)", ylab = "Appearances")
+dev.off()
