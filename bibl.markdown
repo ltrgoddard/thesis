@@ -482,6 +482,7 @@ Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford Universi
 Solomon, Samuel, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)  
 Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)  
 Spiegelman, Willard, 'Charles Tomlinson, The Art of Poetry No. 78', *The Paris Review*, 149 (Winter 1998), \<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]  
+Stansky, Peter, *Edward Upward: Art and Life* (London: Enitharmon, 2016)  
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006), \<http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in-\ douglas.html\> [accessed 27 April 2015]  
 Stevens, Wallace, 'Prologues to What is Possible', *The Hudson Review*, 5.3 (Autumn 1952), pp. 330--31  
 ---, 'The World as Meditation', *The Hudson Review*, 5.3, p. 334  
