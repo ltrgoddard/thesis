@@ -1,6 +1,1 @@
-#!/bin/bash
-
-COUNTER=1
-
-while [  $COUNTER -lt 1  ]; do
-
+wc -w ackn.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown bibl.markdown
