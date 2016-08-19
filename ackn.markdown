@@ -2,8 +2,9 @@
 geometry: "top=2.5cm, bottom=2.5cm, left=4cm, right=2cm"
 header-includes:
     - \usepackage{setspace}
-    - \doublespacing
-    - \setlength\parindent{24pt}
+    - \onehalfspacing
+    - \setlength\parindent{16pt}
+    - \PassOptionsToPackage{hyphens}{url}\usepackage{hyperref}
 ---
 \newpage
 
