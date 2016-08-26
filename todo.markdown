@@ -1,6 +1,8 @@
 # To do
 
+* Update Pound haunting cross-reference.
 * Update 'Migration Patterns' citation?
+* Recapitulate argument about Lewis, Oliver and Upward before *PTM* material?
 * Add material from Stokes (e.g. p. 16) to Chapter 2.
 * '[P]oetic thought does indeed demand the unreserved commitment of the
   poet, deep-down within the choices and judgements of dialectical
