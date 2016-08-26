@@ -6,19 +6,19 @@
 Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder and/or envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
 
 
-### Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut
+#### Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut
 
-#### Cid Corman Papers
+##### Cid Corman Papers
 
-##### Series 1, Box 1
+###### Series 1, Box 1
 
 Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17  
 ---, 18 October 1961, Folder 18  
 ---, 19 November 1961, Folder 19  
 
-#### Edward Dorn Papers
+##### Edward Dorn Papers
 
-##### Series 1, Box 19
+###### Series 1, Box 19
 
 Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328  
 ---, 29 November 1961, Folder 328  
@@ -40,28 +40,28 @@ Letter, Prynne to Dorn, 21 December 1964, Folder 330
 ---, 17 June 1965, Folder 331  
 ---, 26 January 1966, Folder 332  
 
-##### Series 1, Box 44
+###### Series 1, Box 44
 
 Letter, Prynne to Dorn, 10 January 1972, Folder 657  
 ---, 14 March 1972, Folder 657  
 ---, 25 March 1972, Folder 655  
 ---, 25 April 1972, Folder 657
 
-##### Series 1, Box 19
+###### Series 1, Box 19
 
 Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334  
 Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
-##### Series 1, Box 20
+###### Series 1, Box 20
 
 ---, 5 March 1975, Folder 335  
 ---, 9 September 1975, Folder 335  
 ---, 11 August 1978, Folder 336  
 ---, 18 March 1982, Folder 338  
 
-#### Charles Olson Research Collection
+##### Charles Olson Research Collection
 
-##### Series 2, Box 206
+###### Series 2, Box 206
 
 Letter, Prynne to Charles Olson, 4 November 1961  
 ---, 26 November 1961  
@@ -79,17 +79,17 @@ Letter, Prynne to Charles Olson, 4 November 1961
 ---, 3 March 1965  
 
 
-### Special Collections, Albert Sloman Library, University of Essex
+#### Special Collections, Albert Sloman Library, University of Essex
 
-#### Donald Davie Archive
+##### Donald Davie Archive
 
-##### Box 1
+###### Box 1
 
 Journal entry, 14 November 1958, Notebook (A)
 
-#### Douglas Oliver Archive
+##### Douglas Oliver Archive
 
-##### Box 9
+###### Box 9
 
 Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972  
 ---, 11 September 1974  
@@ -97,11 +97,11 @@ Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972
 ---, 5 September 1994
 
 
-### Department of Manuscripts and University Archives, Cambridge University Library
+#### Department of Manuscripts and University Archives, Cambridge University Library
 
-#### Peter Riley Papers
+##### Peter Riley Papers
 
-##### Series 2, Folder 34
+###### Series 2, Folder 34
 
 Unattached second page of letter, Prynne to Peter Riley, Envelope 1  
 Letter, Prynne to Riley, 24 April 1967, Envelope 1  
@@ -119,35 +119,35 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1
 ---, 16 March 1969, Envelope 1  
 
 
-### Western Manuscripts, British Library
+#### Western Manuscripts, British Library
 
-#### Edward Upward: Supplementary Papers
+##### Edward Upward: Supplementary Papers
 
-##### Series 2, Folder 4
+###### Series 2, Folder 4
 
 Typescript, Donald Davie, 'Remembering the Thirties' [1953]  
 Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
-#### Series 3, Folder 15
+##### Series 3, Folder 15
 
 Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 'Answers to questions from David Lambourne'
 
 
-### Special Collections, Newcastle University Library
+#### Special Collections, Newcastle University Library
 
-#### Barry MacSweeney Papers
+##### Barry MacSweeney Papers
 
-##### Series 3, Box 5, Folder 68
+###### Series 3, Box 5, Folder 68
 
 Letter, Prynne to Barry MacSweeney, 7 August 1975
 
 
-### Archives and Manuscripts, Wellcome Library
+#### Archives and Manuscripts, Wellcome Library
 
-#### Francis Crick Papers
+##### Francis Crick Papers
 
-##### Section D, Subsection 1, Series 5, Subseries 13, Box 20
+###### Section D, Subsection 1, Series 5, Subseries 13, Box 20
 
 Letter, Prynne to Francis Crick, 22 March 1982.
 

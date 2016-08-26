@@ -2057,7 +2057,11 @@ a review of Blake Morrison’s *The Movement* (1980), ‘if the Sitwells, in
 Cyril Connolly’s famous phrase, belong more to the history of publicity
 than poetry, the Movement members may ultimately belong as much to the
 sociology of education as to a history of literary values.’[^194]
+
 \newpage
+
+‘The inter-modifying force of open argument’
+============================================
 
 i. Introduction
 ---------------
@@ -2068,21 +2072,24 @@ decades. Yet the category ‘periodical’ is a broad one, stretching to
 encompass everything from photocopied ‘zines’ to academic journals, from
 national newspapers to the annual records of Oxford and Cambridge
 colleges. This chapter will focus on one specific form of periodical,
-the little magazine, examining Prynne’s engagement with this form
-throughout his early career and attempting to overturn some conventional
-critical positions on this engagement. It will then go on to read one of
-Prynne’s prose works, ‘A Note on Metal’, in detail. Chapter 1 concluded
-that, by virtue of his rejection of the machinery of mainstream poetic
-publicity in the mid-to-late 1960s, Prynne is ‘more properly Leavisian
-than most of the so-called Leavisites’; it will be the task of the
-present chapter to determine what this rejection means in practice. As
-in the discussion of Davie and Leavis, special attention will be paid to
-periodicals and points of contact which may have been overlooked in
-previous accounts, whether as a result of the bias towards transatlantic
-influence that has already been described or simply due to the lack of
-existing archival research on the very earliest stages of Prynne’s
-career. Before developing any sort of argument, however, it will be
-necessary to provide a provisional definition of the little magazine.
+the little magazine, examining Prynne’s engagement with this form—and
+with the social and literary *milieu* which attends it—throughout his
+early career. It will then consider the interaction between this
+publication context and Prynne’s prose, described in the introduction to
+this thesis as the most contextually transparent of his work, using the
+foregoing analysis to provide a detailed reading of the 1967 piece ‘A
+Note on Metal’. Chapter 1 concluded that, by virtue of his rejection of
+the machinery of mainstream poetic publicity in the mid-to-late 1960s,
+Prynne is ‘more properly Leavisian than most of the so-called
+Leavisites’; it will be the task of the present chapter to determine
+what this rejection means in practice. As in the discussion of Davie and
+Leavis, special attention will be paid to periodicals and points of
+contact which may have been overlooked in previous accounts, whether as
+a result of the bias towards transatlantic influence that has already
+been described or simply due to the lack of existing archival research
+on the very earliest stages of Prynne’s career. Before developing any
+sort of argument, however, it will be necessary to provide a provisional
+definition of the little magazine.
 
 Long a neglected area of literary studies, little magazines have
 experienced renewed academic interest in recent years. The publication
@@ -2100,19 +2107,18 @@ occupied by little magazines published in Britain from the 1960s
 onwards, which are excluded for reasons of chronology from Brooker and
 Thacker’s 2009 volume. Miller and Price’s largely bibliographical work
 on these periodicals supplements valuable oral history undertaken by
-Wolfgang Görtschacher, notably in his *Little Magazine Profiles: The
-Little Magazines in Great Britain, 1939–1993* (1993). Nevertheless, that
-one of the key resources in the field remains a Ph.D. project produced
-by an Austrian scholar more than two decades ago is itself suggestive of
-the lack of critical attention to these magazines in Britain. Given the
-dates of Prynne’s poetic activity, this is clearly problematic for any
-scholar of his work.
+Wolfgang Görtschacher, notably in his *Little Magazine Profiles*
+(1993).[^197] Nevertheless, that one of the key resources in the field
+remains a Ph.D. project produced by an Austrian scholar more than two
+decades ago is itself suggestive of the lack of critical attention to
+these magazines in Britain. Given the dates of Prynne’s poetic activity,
+this is clearly problematic for any scholar of his work.
 
 For the purposes of this chapter, the little magazine is understood to
 be a periodical concerned primarily with literature (generally poetry),
 produced cheaply by volunteers formally independent of any external
 institution and distributed for a short period of time to a small group
-of subscribers, either for free or for a small fee.[^197] Production
+of subscribers, either for free or for a small fee.[^198] Production
 costs, pricing, length of operation and subscriber numbers are all
 relative terms and it would be futile to impose any absolute upper limit
 on any of them. Nevertheless, their consistent minimisation across the
@@ -2149,7 +2155,7 @@ work whose subtitle suggests the broad outline of its argument: that the
 ‘impersonality, eclecticism, linguistic playfulness and Hermetic rigour’
 of Prynne’s poetry descends in a linear fashion from the work of Ezra
 Pound, via that of Charles Olson, and that the whole phenomenon can be
-described as late modernist in character.[^198] Yet Mellors also
+described as late modernist in character.[^199] Yet Mellors also
 provides an external, logistical definition of the category to
 complement this narrative of internal aesthetic development. Introducing
 the section of the book which concerns Prynne, he notes that ‘[t]he real
@@ -2161,19 +2167,19 @@ seem archaic’:
 > ‘alternative’ poetry is bogus, the view taken by the institutions and
 > prize-giving bodies that have evolved since the 1950s has been one of
 > pull-quote respect for the great modernists accompanied by unwavering
-> contempt for ‘foreign’ experiments carried out by British poets.[^199]
+> contempt for ‘foreign’ experiments carried out by British poets.[^200]
 
 \noindent It is this separation—an intellectually ‘bogus’ distinction
 which has taken on the character of reality through the sheer fact of
 continued enforcement—with which this chapter is partly concerned,
 accepting the essential arbitrariness of the disjunction while
 investigating the real effects that it has exerted, particularly on the
-work grouped under the ‘alternative’ side of the equation.[^200] Mellors
+work grouped under the ‘alternative’ side of the equation.[^201] Mellors
 goes on to link this situation directly to the non-commerciality of
 small presses and little magazines: ‘While the small press might not be
 entirely free from the process of exchange, it nevertheless represents
 an alternative to the market-led interests of established publishing
-houses.’[^201] Reading ‘little magazine’ for ‘small press’, we can thus
+houses.’[^202] Reading ‘little magazine’ for ‘small press’, we can thus
 clarify the definition of the late modernist little magazine in Britain
 as one which exists in a specifically antagonistic relationship to
 mainstream poetry publishing: not so much non-commercial, then, as
@@ -2184,7 +2190,7 @@ deliberate, rather than simply as the result of his exclusion from other
 channels: ‘Where other poets hoped to work their way up from little
 magazines and presses to gain greater recognition with Faber, Cape,
 Oxford University Press, and other major publishers, Prynne reversed the
-process, placing higher value on small-scale enterprises.’[^202]
+process, placing higher value on small-scale enterprises.’[^203]
 
 The signs of this deliberate effort at reversal are visible as early as
 1963, when in a letter to Ed Dorn Prynne recounts a conversation with
@@ -2202,7 +2208,7 @@ wider & more open space’—his concluding question sounds a note of
 hesitation: ‘what happens when this resistance—the necessity of marginal
 status within the overall context—disappears from the scene
 (Ph.D. theses and big publishers): will this operate as a liberation or
-as a more desperate extremity?’[^203] Though the grammar of this
+as a more desperate extremity?’[^204] Though the grammar of this
 sentence (‘when’, ‘will’) appears to present mainstream publication and
 academic recognition as inevitabilities, the very fact that it is asked
 holds open the prospect of continued resistance; and as the course of
@@ -2212,7 +2218,7 @@ hand-in-hand with recognition by the ‘big publishers’.
 The clearest way to represent Prynne’s overall involvement with little
 magazines is visually. Figure @fig:mags maps almost every periodical in
 which Prynne’s poetic work has been published, linking them to the books
-in which the same work was subsequently collected.[^204] One of the
+in which the same work was subsequently collected.[^205] One of the
 principal uses of this mode of visualisation is as a tool to investigate
 the periodisation of Prynne’s poetry, discussed at the beginning of the
 previous chapter. For example, the severing of *Force of Circumstance*
@@ -2230,7 +2236,7 @@ proposed by Sutherland as representative of Prynne’s ‘late style’—‘fro
 *Red D Gypsum*, published in 1998, to the latest, *Kazoo Dreamboats*,
 from 2011’—are conspicuous by their absence from the diagram, not having
 received magazine publication at all, suggesting a sort of negative
-coherence in independence.[^205]
+coherence in independence.[^206]
 
 Diagrams such as Figure @fig:mags should not, however, be treated as
 absolute standards against which the truth or falsity of various
@@ -2244,14 +2250,14 @@ begin to break down: where, for instance, does ‘Tomorrow is Fade Out
 Night’ fit, being a review of Douglas Woolf’s novel *Fade Out* (1959)
 printed in *Prospect* in 1964, well after Prynne had repudiated his
 poetic style in *Force of Circumstance* but before the shift had been
-confirmed by the publication of *Kitchen Poems*?[^206] In order to flesh
+confirmed by the publication of *Kitchen Poems*?[^207] In order to flesh
 out the skeleton represented by Figure @fig:mags, it will be necessary
 to provide an overview of Prynne’s relationships with little magazines
 from as early as the 1950s. Given the restriction of the scope of this
 thesis to Prynne’s early career and the significant work that has
 already been done on his involvement with *The English Intelligencer*,
 this account will concentrate primarily on the period from 1955 to the
-first issue of the *Intelligencer* in 1966.[^207]
+first issue of the *Intelligencer* in 1966.[^208]
 
 ![Prynne’s poetry collections, linked to the magazines in which they
 were first published (in whole or in part)](figs/mags.png){\#fig:mags}
@@ -2265,12 +2271,12 @@ instrumental in the revival of a school publication, *Six*, which had
 last appeared in 1948. Billed as ‘an unofficial production undertaken by
 members of the Sixth Form’, *Six*’s 1955 issue was edited by Prynne, and
 it therefore seems fair to assume that its brief, unsigned editorial
-statement was also written by him.[^208] This statement is conspicuous
+statement was also written by him.[^209] This statement is conspicuous
 in its desire to place the issue within a long-running tradition, or at
 least one that might seem long-running to a sixth-former. According to
 the school’s archivist, the magazine had ‘appeared sporadically from the
 1930s’ onwards, a run which the teenage author describes as ‘almost
-legendary’.[^209] He then proceeds to generalise about previous editions
+legendary’.[^210] He then proceeds to generalise about previous editions
 of *Six*—particularly those produced during the Second World
 War—claiming that ‘[a] generation stands mirrored in [their] pages’:
 
@@ -2280,7 +2286,7 @@ War—claiming that ‘[a] generation stands mirrored in [their] pages’:
 > generation has gradually relaxed its grip; and the recondite
 > earnestness and cynical obscurantism of the war-time SIX’s rings
 > slightly strange to a generation which has never been forced face to
-> face with the bitter futility of war.
+> face with the bitter futility of war.[^211]
 
 The point of this comparison might seem to be to distance the 1955
 cohort from their wartime equivalents, men of Donald Davie’s generation
@@ -2292,34 +2298,34 @@ there is something comparable. The author strengthens the sense of
 tradition by going on describe the school’s English master, Basil
 Harvey, as ‘the spiritual god-father of SIX ever since its first
 appearance’, before expressing hope that the revived magazine ‘will not
-die an early death […] will not sink back into oblivion.’ The 1955 issue
-itself is a striking object. Large post quarto in format, the issue’s
-content is mimeographed from typewritten stencils, while the front cover
-is reminiscent of the July 1915 ‘war number’ of *Blast*, featuring a
-large, capitalised title above a bold monochromatic print. The latter
-shows a delta-wing jet aircraft similar to early designs for the Avro
-Vulcan, seemingly balancing on its nose in front of a Greek temple, from
-the base of which emanate stylised rays of the sort featured on the
-Japanese Rising Sun Flag. When viewed next to this print, the issue’s
-Italian inscription, ‘*sesta forma giornale*’ [’sixth form journal’],
-perhaps suggests an attempt to situate the magazine in a Futurist
-context, though stray words in Russian and Greek raise the possibility
-of a more prosaic adolescent cleverness. Linguistic facility is evident
-in the issue’s content, too: of the 13 poems and prose pieces that make
-up the magazine, two are in French and two in German, including Prynne’s
-own contribution, a translation into German of Thomas Hood’s Petrarchan
-sonnet ‘Silence’.[^210]
+die an early death […] will not sink back into oblivion.’[^212] The 1955
+issue itself is a striking object. Large post quarto in format, the
+issue’s content is mimeographed from typewritten stencils, while the
+front cover is reminiscent of the July 1915 ‘war number’ of *Blast*,
+featuring a large, capitalised title above a bold monochromatic print.
+The latter shows a delta-wing jet aircraft similar to early designs for
+the Avro Vulcan, seemingly balancing on its nose in front of a Greek
+temple, from the base of which emanate stylised rays of the sort
+featured on the Japanese Rising Sun Flag. When viewed next to this
+print, the issue’s Italian inscription, ‘*sesta forma giornale*’ [’sixth
+form journal’], perhaps suggests an attempt to situate the magazine in a
+Futurist context, though stray words in Russian and Greek raise the
+possibility of a more prosaic adolescent cleverness. Linguistic facility
+is evident in the issue’s content, too: of the 13 poems and prose pieces
+that make up the magazine, two are in French and two in German,
+including Prynne’s own contribution, a translation into German of Thomas
+Hood’s Petrarchan sonnet ‘Silence’.[^213]
 
 The magazines to which Prynne contributed as an undergraduate and
 postgraduate student are relatively few, but are instructive in their
 variety. In 1960, Prynne had two poems published in little magazines:
 ‘Times Trans-shifting: for Robert Herrick’, which appeared in
-*Prospect*, and ‘The Hazel Tree’, which was printed in *Tomorrow*.[^211]
+*Prospect*, and ‘The Hazel Tree’, which was printed in *Tomorrow*.[^214]
 Both founded in 1959, *Prospect* and *Tomorrow* are in many ways mirror
 images of each other, with the axis of reflection situated somewhere
 along the newly-opened M1 motorway: the former was edited by Elaine
 Feinstein, Tony Ward and eventually Prynne himself in Cambridge, the
-latter by Ian Hamilton and Susil Pieris in Oxford.[^212] Both had
+latter by Ian Hamilton and Susil Pieris in Oxford.[^215] Both had
 reached their fourth issue by the second half of 1960, each publishing a
 relatively broad range of more or less established poets, though with
 almost no actual overlap—aside from Prynne, the only contributor shared
@@ -2329,7 +2335,7 @@ insularity of the university communities which both *Tomorrow* and
 the solicitation of work for publication, although both magazines also
 carried work by foreign poets, with *Prospect* becoming known for
 championing the new American poetry represented by Olson, Dorn and
-Robert Creeley, among others.[^213]
+Robert Creeley, among others.[^216]
 
 The poems contributed by Prynne are characteristic of his work in *Force
 of Circumstance* and were subsequently reprinted on pp. 43 and 44 of
@@ -2360,7 +2366,7 @@ subsequently to military metaphor:
 
 > From the battlements This may unlock, set loose The right response:
 > officers are meant To be obeyed; fix bayonets, Senses quicken, without
-> question Reflex action . . .[^214]
+> question Reflex action . . .[^217]
 
 This thought is undercut by the statement that ‘there is always | The
 hazel tree; pause and reflect’. The purpose seems to be to counterpose
@@ -2379,17 +2385,17 @@ a bridge which seems to owe much to Martin Heidegger’s 1951 essay
 ‘Building Dwelling Thinking’ [‘*Bauen Wohnen Denken*’]; this connection
 is doubly relevant given that one of the key points of reference for
 Heidegger’s essay is the *Alte Brücke* in Heidelberg, the university
-town from which *Lyrische Hefte* was published.[^215] In *Mica*, on the
+town from which *Lyrische Hefte* was published.[^218] In *Mica*, on the
 other hand, Prynne found a point of regular contact, with the American
-magazine publishing five poems and a letter between 1961 and ’62.[^216]
+magazine publishing five poems and a letter between 1961 and ’62.[^219]
 This is also the period of Prynne’s involvement with the British
 magazine *Satis*, in which he published two poems which would
-subsequently be collected in *Force of Circumstance*.[^217]
+subsequently be collected in *Force of Circumstance*.[^220]
 
 Both *Mica* and *Satis* can be considered offshoots of the much more
 well-known *Migrant*, which ceased publication in 1960, though they
 differ significantly from each other both in format and in
-content.[^218] Importantly, *Satis*—a conspicuously smart publication,
+content.[^221] Importantly, *Satis*—a conspicuously smart publication,
 professionally typeset and photolithographed in duodecimo format—has a
 practical claim as a forerunner to the 1964 issue of *Prospect*, edited
 by Prynne and discussed in detail below. Having sold two sets of
@@ -2402,7 +2408,7 @@ fifth issue. A solution was given in the final issue’s editorial:
 > expired until our sixth number should be filled by *Prospect*. All
 > subscriptions which run beyond that point will be returned. Any
 > malcontent to whom this arrangement is not agreeable should write to
-> use at once. We are sharpening everything.[^219]
+> use at once. We are sharpening everything.[^222]
 
 \noindent Prynne’s prose piece ‘Resistance and Difficulty’ was published
 in *Prospect*’s fifth issue in 1961, while in 1963, having taken over
@@ -2418,21 +2424,21 @@ Circumstance* had been reviewed in the magazine’s pages in January 1963
 by John Rathmell, Prynne’s former coursemate at Jesus; the next month,
 Prynne contributed a review of the American poet Charles Edward Eaton’s
 collection *Countermoves* (1962), following this in March with an
-article on a recent anthology of German poetry in translation.[^220]
+article on a recent anthology of German poetry in translation.[^223]
 Despite this apparently auspicious start, however, Prynne did not become
 a regular contributor to the magazine: when he was commissioned to
 review Olson’s *Maximus Poems IV, V, VI* (1968) six years later, a book
 which Prynne had himself had a hand in producing, alongside Robert
 Creeley’s *For Love* (1962), the reviews were withdrawn after ‘the
 Literary Editor allowed himself to be casually insulting about the modes
-involved.’[^221]
+involved.’[^224]
 
 Describing the incident to Peter Riley, Prynne hints at his motives in
 writing for a relatively mainstream academic publication such as the
 *Review*: ‘They [i.e. the reviews] were actually written directly at
 that benighted readership, so that now they’re useless: I clearly should
 never have allowed myself to stumble into that maudlin and ignoble
-dependence, and I regret very much having done so.’[^222] Prynne seems
+dependence, and I regret very much having done so.’[^225] Prynne seems
 to consider *The Cambridge Review* as something separate from the
 broader little magazine scene and his reviews for the publication as an
 educational service for ‘benighted’ readers not sufficiently clued-up
@@ -2440,13 +2446,13 @@ about contemporary poetry. In an apparent reference to the informality
 of little magazine publication, Prynne celebrates the fact that
 ‘[w]hatever master-servant exploitations persist and exfoliate in the
 great world, we are not at last subject to the patronising imbecilities
-of *editors*’.[^223] Even so, it is clear that he maintains as rigorous
+of *editors*’.[^226] Even so, it is clear that he maintains as rigorous
 a critical attitude towards little magazines as he does to other
 publications: in his previous letter to Riley, Prynne describes Andrew
 Crozier’s magazine *The Park* (known as *The Wivenhoe Park Review* from
 1965–68) as ‘a rigidly passé disservice to our current needs’, and the
 fact that the piece on Olson was eventually printed in the latter
-publication seems to put it on a par with *The Cambridge Review*.[^224]
+publication seems to put it on a par with *The Cambridge Review*.[^227]
 
 As Ian Brinton points out, the gap between Prynne’s assumption of the
 editorship of *Prospect* in the latter half of 1961, following the
@@ -2454,40 +2460,40 @@ publication of Issue 5, and the appearance of the magazine’s sixth and
 final issue in Spring 1964 was a long one; yet as a result of Prynne’s
 decision to include work by both Olson and Dorn in the issue, and his
 frequent correspondence with both, a detailed record of the period is
-available.[^225] Prynne’s opening letters to the older poets, sent in
+available.[^228] Prynne’s opening letters to the older poets, sent in
 November 1961, are both written on stationery stamped with a *Prospect*
 emblem and both focus primarily on soliciting work for publication.
 Writing to Olson, Prynne seems optimistic about the potential for the
 magazine to introduce new energy from North America to an apparently
 moribund English poetic scene: ‘though the nature of this place makes it
 necessary to pretend that PROSPECT is respectable & harmless, I hope to
-print some genuine kinetics now and then, if not more often.’[^226] He
+print some genuine kinetics now and then, if not more often.’[^229] He
 follows this with further details about his hopes for Issue 6,
 complaining that ‘[y]ou can have no idea how hostile the parochial
 mediocrity of an English university can be’ and revealing an intention
 to exclude prose contributions from the issue in order to give ‘the
 wiseacres’—presumably a reference to reactionary dons of the sort whose
 disquisitions might be found in the pages of *The Cambridge Review*—‘no
-foothold in prose theory.’[^227] In a short letter to Dorn the same
+foothold in prose theory.’[^230] In a short letter to Dorn the same
 month, Prynne reiterates this plan, requesting ‘two or three shortish
 pieces, or one long piece’ of poetry, though he is more cautious about
 *Prospect*’s potential to influence the local intellectual environment:
 ’No intention to make clamorous presentation of outrageous new American
 things […]. I daren’t, here in the middle of the most god-awful blasé
 city full of half-baked sophisticates, simply itching to patronise what
-they don’t understand.’[^228] Instead, he presents a deliberately
+they don’t understand.’[^231] Instead, he presents a deliberately
 gradualist approach: ‘I care enough to keep our fragile magazine in
 print & circulation, to establish some kind of firm ground out from
 which we can then perhaps venture somewhat further. If I had cash & a
 private list like ORIGIN, then everything would be very
-different.’[^229]
+different.’[^232]
 
 The reference to Cid Corman’s long-running magazine *Origin* (1951–84)
 reveals much about Prynne’s hopes for Issue 6 of *Prospect* and beyond.
 Prynne had been in correspondence with Corman from June 1961 at the
 latest, while working as the Frank Knox Memorial Fellow at Harvard
 University, though the informal tone of his first letter suggests
-earlier contact.[^230] Having taken over *Prospect*, he wrote to Corman
+earlier contact.[^233] Having taken over *Prospect*, he wrote to Corman
 almost immediately, requesting work from ‘people you can’t print in
 ORIGIN but would like to see started in England’, asking Corman to put
 in good words for him with Olson, Dorn and Louis Zukofsky, and asking
@@ -2500,22 +2506,22 @@ a forthcoming issue of the magazine. Despite another reference to the
 writers’, the overall sense of this letter is that Prynne intends the
 magazine to become a sort of English *Origin*—not a carbon copy, but a
 publication that would take up the spirit of *Origin* and adapt it for
-audiences on the other side of the Atlantic.[^231] As he puts it in a
+audiences on the other side of the Atlantic.[^234] As he puts it in a
 subsequent letter to Corman, poets in Britain need to ‘start again in
 ENGLISH, not your enviable US dialect, which our natives *must* draw
-from but could never *use*.’[^232]
+from but could never *use*.’[^235]
 
 In a brief note to Olson in February 1962, Prynne mentions delays to
 *Prospect* 6, but expresses hope that the issue will be published by
-April of the same year.[^233] Writing to Dorn in July, he describes how
+April of the same year.[^236] Writing to Dorn in July, he describes how
 the magazine ‘revealed unexpected teeth when I finally took it over, in
 the shape of a large bank overdraft’ and claims finally to be on the
 verge of publication; by September, however, there are further delays,
-‘mainly through difficulties with funds’.[^234] At this point there is a
+‘mainly through difficulties with funds’.[^237] At this point there is a
 gap of almost seven months before the next mention of *Prospect*, in a
 February 1964 letter to Olson—here, Prynne claims that the magazine is
 ‘due at the printers in ten days’, though by June it has still not
-actually been distributed.[^235] What is most striking about this
+actually been distributed.[^238] What is most striking about this
 period—particularly given retrospective knowledge of the magazine’s
 demise—is Prynne’s optimism about *Prospect* as a continuing
 institution. Writing to Olson before Issue 6 has been published, he
@@ -2524,10 +2530,10 @@ this one now on the stocks’, suggesting that Issue 7 contain a long
 section of the *Maximus Poems*. Prynne is even optimistic about the
 Cambridge literary environment, claiming that ‘things are beginning to
 happen here. There’s now a range of subversive interest amongst students
-I’m in contact with, and I am hopeful of what will follow.’[^236] To
+I’m in contact with, and I am hopeful of what will follow.’[^239] To
 Dorn, he reveals that Issue 6 will be given away for free, ‘as I know
 from experience that any other way is squalid and makes no real
-financial difference.’[^237] One of Prynne’s clearest statements about
+financial difference.’[^240] One of Prynne’s clearest statements about
 his intentions for the continuation of the magazine in fact comes in an
 October 1964 letter to Robert Creeley, a facsimile of which is included
 in Dorn’s papers. The statement is worth quoting in full:
@@ -2540,7 +2546,7 @@ in Dorn’s papers. The statement is worth quoting in full:
 > brought out. It’s not before time, anyway. I could wish that people
 > here would want to have the sequence of them, could write for it and
 > to each other, get clear of the middle class “society” idea and the
-> caution which fogs everything at that level.[^238]
+> caution which fogs everything at that level.[^241]
 
 The tone of this statement is perhaps familiar from the previous
 chapter. It is easy enough to imagine the Leavises expressing similar
@@ -2548,7 +2554,7 @@ hopes for *Scrutiny* in the early 1930s, particularly the desire to
 transcend ‘the middle class “society” idea’—the word ‘society’ appears
 more than 120 times, very often in a pejorative sense, in the two-volume
 *Selection from ‘Scrutiny’*, rising to an average rate of twice a page
-in Q.D. Leavis’s consideration of Edith Wharton.[^239] What is most
+in Q.D. Leavis’s consideration of Edith Wharton.[^242] What is most
 important here, however, is the notion of community which seems to
 undergird Prynne’s conception of the magazine. His hope is not just that
 recipients will write material for *Prospect*, but also that they will
@@ -2557,23 +2563,23 @@ Prynne was at that very moment doing to Creeley. Yet the magazine will
 maintain a central, coordinating position within the social network that
 it is intended to generate: recipients will ‘want to have the sequence
 of them’, presumably in order to trace developments and conversations
-across issues, but also as a sort of monument.[^240] It is in this
+across issues, but also as a sort of monument.[^243] It is in this
 respect that Prynne’s concern with the aesthetics of *Prospect* becomes
 especially relevant. Writing to Olson in March 1964, he notes that
 ‘[t]he format [for Issue 6] is quite large and it’s to be fine, careful
 printing; I have a young design typographer who takes his tasks with
-alert zeal.’[^241] When Issue 6 finally emerged, its production note
+alert zeal.’[^244] When Issue 6 finally emerged, its production note
 boasted that ‘[t]he text is set in 10 on 12 Plantin type with headings
 in 36 point Grotesque 126 and is printed on Conqueror blue white laid
-paper. End papers and wrappers are Swedish Tumba Ingrespapper.’[^242]
+paper. End papers and wrappers are Swedish Tumba Ingrespapper.’[^245]
 Perhaps the most significant decision made by Prynne was to jettison the
 advertisements which had crowded the pages of earlier issues, favouring
 instead a layout characterised by small text and plentiful white space.
-This move was part of the broader anti-commercial strain in the issue:
+This move was part of a broader anti-commercial strain in the issue:
 according to Prynne’s optimistic editorial statement, ‘[o]nly a very
 small number of copies will be for sale over a counter; but copies will
 be sent free of charge to any person who, out of a real sense of
-interest, thinks it worth writing to the editor to ask for them.’[^243]
+interest, thinks it worth writing to the editor to ask for them.’[^246]
 
 If there is a model for Prynne’s editorial statement, it is Corman’s
 equivalent, printed—like Prynne’s—on the inside back cover of each issue
@@ -2581,7 +2587,7 @@ of *Origin*: ‘ORIGIN is not for sale; it can be had for love, as it
 happens, not for money. […] Priority will be offered those who show
 concern for the material involved, involved themselves with it, though
 not necessarily agreeing with its manner, matter, scope or
-delivery.’[^244] There are a number of other factors which make the
+delivery.’[^247] There are a number of other factors which make the
 conjunction an apt one. *Origin* had been launched in Spring 1951, its
 cover billing it as ‘a quarterly for the creative’; this first issue
 included Olson’s poem ‘I, Maximus’, which would become the initial
@@ -2591,12 +2597,12 @@ College and the Beat movement such as Creeley and Gary Snyder, it would
 be fair to say that Olson remained the presiding aesthetic presence
 during the earliest years of the magazine, contributing both poetry and
 prose—indeed, his letters to the publication between 1950 and 1956 would
-subsequently be collected.[^245] *Prospect*, similarly, began with a
+subsequently be collected.[^248] *Prospect*, similarly, began with a
 significant contribution from Olson—the poem ‘Maximus to Gloucester’—and
-published his work again in Issues 4 and 6.[^246] Though not printed,
+published his work again in Issues 4 and 6.[^249] Though not printed,
 Olson’s important ‘Letter to Elaine Feinstein’ was also sent during this
 period, adding to the sense of his involvement in the intellectual
-*milieu* surrounding the magazine.[^247]
+*milieu* surrounding the magazine.[^250]
 
 In aesthetic terms, *Origin* and *Prospect* also share a number of key
 features, both being issued in octavo format for most of their
@@ -2611,7 +2617,7 @@ publications such as William Carlos Williams and Robert McAlmon’s
 stencils as early as 1920, while magazines like Amiri Baraka’s *Yugen*
 (1958–62) had begun to re-exhibit the characteristic combination of
 avant-garde poetic content and ultra-low production values in the years
-immediately preceding *Prospect*’s launch.[^248] Seen in relation to
+immediately preceding *Prospect*’s launch.[^251] Seen in relation to
 this increasingly popular and significantly cheaper method of
 production, the decisions made by Feinstein, Ward and Corman to maintain
 their respective magazines’ professional formats—or, in Prynne’s case,
@@ -2629,11 +2635,13 @@ career as a connecting thread, it also tried to demonstrate these
 periodicals’ interdependence as elements in a broader artistic scene.
 The present section will shift focus from the magazines themselves to
 Prynne’s conception of the role of prose within those magazines,
-examining a disjunct between his intellectual position and his editorial
-practice. Having so far been confined to the period leading up to the
-publication of the first issue of the *Intelligencer* in 1966, the scope
-of the inquiry will now be extended to include this particular
-periodical.
+examining a disjunction between his intellectual position and his
+editorial practice. This gap will then be used to reflect on a specific
+prose text, ‘A Note on Metal’, in the following section, turning the
+focus back on to the intellectual context of Prynne’s early career.
+Having so far been confined to the period leading up to the publication
+of the first issue of the *Intelligencer* in 1966, the scope of the
+inquiry will now be extended to include this particular periodical.
 
 As the quotations from Prynne’s earliest letters to Olson and Dorn
 indicate, his attitude towards prose as editor of *Prospect* was one of
@@ -2641,13 +2649,13 @@ cynicism. His language when describing the magazine presents it as a
 fortification which must be protected at any cost from the ‘hostile
 [and] parochial mediocrity [of the] English university’, with ‘prose
 theory’ being one of the key tools by means of which ‘the wiseacres’
-might gain a ‘foothold’ in its walls.[^249] If radical new American
+might gain a ‘foothold’ in its walls.[^252] If radical new American
 poetry is to be printed in England, it must speak for itself. Indeed, if
 it is truly to speak at all, it can only do so *by* itself, unmediated
 either by the mass-produced scholarship of the ‘knowledge industry’ or
 by professional criticism—what Prynne describes to Dorn as
 ‘discussion/speculation about issues, poetic theory, problems of the
-writer’—both of which are equally corrupt and decrepit.[^250] Yet there
+writer’—both of which are equally corrupt and decrepit.[^253] Yet there
 is one very obvious problem with taking this anti-prose posture at face
 value: when *Prospect* 6 was published in Spring 1964, it included
 prose. In fact, fully one third of the magazine’s 42 pages are devoted
@@ -2663,7 +2671,7 @@ is given as early as November 1961, when he tells Corman that ‘pressures
 inherited that I can’t side-step’ mean that *Prospect* will have to
 carry a review of Davie’s *A Sequence for Francis Parkman*); or his
 attitude towards the usefulness of prose did in fact shift between these
-early letters and the magazine’s eventual publication.[^251] The
+early letters and the magazine’s eventual publication.[^254] The
 evidence of the issue itself lends weight to the latter explanation.
 While the inclusion of Davie’s contribution—a short piece on the
 American poet Alan Stephens—might perhaps be attributed to ‘pressures
@@ -2673,7 +2681,7 @@ novel *Fade Out*. Prynne did not even have Woolf’s address in May 1964,
 and if he had been under any obligation to review the book by Woolf’s
 long-time champion Creeley, it hardly seems likely that he would have
 wasted a further four pages of ‘Conqueror blue white laid paper’ on
-printing the latter’s short story ‘The Grace’ as well.[^252] Equally, it
+printing the latter’s short story ‘The Grace’ as well.[^255] Equally, it
 is difficult to see how an editor who was so single-mindedly fastidious
 about the issue’s design—single-minded to the point of delaying
 publication for three years and eventually bankrupting the
@@ -2688,7 +2696,7 @@ years later. The letter apparently accompanied a copy of the so-called
 Riley for its second series was substantially produced—in the material
 sense of physical duplication, and often in terms of arranging the
 content into stencils—by Prynne, with the assistance of both Andrew and
-Jean Crozier and John James.[^253] As Latter notes, the worksheet had
+Jean Crozier and John James.[^256] As Latter notes, the worksheet had
 under Riley’s editorship been moving steadily away from being simply a
 collection of poems and towards the provision of a more comprehensive
 range of ‘information’, generally in the form of long letters and other
@@ -2697,9 +2705,9 @@ that ‘the balance between poetry and non-poetry was increasingly skewed.
 Towards the end Jeremy [Prynne] expressed his dissatisfaction with the
 whole thing in no uncertain terms, one night deciding enough was enough.
 […] This was the moment of what I refer to … as the Palace Revolution,
-the night of 6 December 1967.’[^254] By ‘Palace Revolution’, James is
+the night of 6 December 1967.’[^257] By ‘Palace Revolution’, James is
 referring to the removal of Riley from the editorship of the worksheet
-by Prynne, Crozier and himself.[^255]
+by Prynne, Crozier and himself.[^258]
 
 The letter from Prynne to Riley under consideration here can be situated
 precisely in the period referred to by James as ‘towards the end’, being
@@ -2708,12 +2716,12 @@ issue’ had been announced at least twice in previous issues of the
 *Intelligencer*; yet once it had been put together in its final form,
 Prynne described the collection which he had just sent off to Riley as
 ‘a weak assemblage, mostly midget fictions or would-be lyric
-gestures’.[^256] It is clear that Prynne’s unhappiness with the issue
+gestures’.[^259] It is clear that Prynne’s unhappiness with the issue
 stems not from the bare fact of printing prose rather than poetry, but
 from what he sees as the poor quality of the prose that Riley has chosen
 to print (though he may have been choosing from a limited pool): ‘if a
 whole culture *supports* itself on its prose (whatever it might aspire
-onwards from that base), is this all we have?’[^257] James’s collocation
+onwards from that base), is this all we have?’[^260] James’s collocation
 of the ‘skewed’ balance between ‘poetry and non-poetry’ with ‘Jeremy
 express[ing] his dissatisfaction’ is therefore misleading; in fact,
 Prynne seems to assign a hugely important role to prose, describing it
@@ -2763,7 +2771,7 @@ degrade [the poor] below the beasts’, and later as ‘that property which
 is as strictly their birthright as a gentleman’s land is his
 birthright’, noting that the desire to reproduce is ‘a propensity which
 persons of the most consummate wisdom have been unable to resist, and
-which it is difficult to admire a person for having resisted.’[^258]
+which it is difficult to admire a person for having resisted.’[^261]
 Prynne seems to concur, telling Riley that
 
 > Here *we* have in our hands the *immediate* instrument; and the pathos
@@ -2783,17 +2791,17 @@ describes an academic symposium on ‘Our crowded world’ at which some
 participants were accused of inciting ‘a new “anti-population
 hysteria”’, while in the United States the Population Crisis Committee
 (PCC), founded in 1965, had already achieved some notable successes in
-its mission to curb population growth in the developing world.[^259] The
+its mission to curb population growth in the developing world.[^262] The
 science fiction novel *Logan’s Run* (1967), a dystopian narrative in
 which the population level is maintained by executing all citizens at
 the age of twenty-one, even shows these concerns seeping into popular
-culture.[^260] A more immediate answer can, however, be found in one of
+culture.[^263] A more immediate answer can, however, be found in one of
 the key pieces of legislation occupying Parliament in the latter half of
 1967: the Abortion Bill. Having been introduced as a private member’s
 bill by the future Liberal leader David Steel in 1966, the legislation
 officially known as the Medical Termination of Pregnancy Bill passed its
 third reading in the House of Commons on 14 July 1967, after what *The
-Times* reported was the longest sitting in more than 16 years.[^261] Its
+Times* reported was the longest sitting in more than 16 years.[^264] Its
 key aspect was a broad provision for legal abortion in cases where
 continuing the pregnancy would injure the ‘physical or mental health’
 either of the mother or of any existing children, within the 28-week
@@ -2807,14 +2815,14 @@ period of ferocious political debate about a highly controversial and
 complex issue of human reproduction. Yet despite specifying
 ‘birth-control & modern demography’ as appropriate subjects for
 argument, Prynne seems to avoid engaging with the debate from any
-recognisable political position.[^262] What, for example, does he mean
+recognisable political position.[^265] What, for example, does he mean
 by ‘the sophistry of current welfare-economics’? This phrase seems to
 refer to the hot topic of ‘selectivity’, i.e. the proposed means-testing
 of some state benefits, and could, given the ambiguity of the hinge-word
 ‘current’, equally have been uttered from a right-wing, anti-welfare
 position as from a left-wing, statist one (or even from a more complex
 mixture of the two); indeed, the governing Labour Party was not itself
-in agreement over the issue.[^263] ‘Genetic servo-mechanisms’ is even
+in agreement over the issue.[^266] ‘Genetic servo-mechanisms’ is even
 more obscure: is Prynne referring to welfare policy, new methods of
 birth control (the female contraceptive pill became available through
 the National Health Service in 1961) or even abortion as
@@ -2823,7 +2831,7 @@ to regulate the behaviour of systems, in this case presumably to control
 the population level. If he is, then what is his position on the ethical
 character of these mechanisms, and what does his use of the word
 ‘genetic’ imply about the agency of the human beings—primarily
-women—involved?[^264]
+women—involved?[^267]
 
 While the two phrases just considered are given as subjects which ‘we
 should work our way towards’, it is far from clear what Prynne intends
@@ -2844,7 +2852,7 @@ their balance’; for a mode of argument in which contributions will be
 ‘provisional’ and potentially falsifiable, but in which they will not be
 ‘hysterical’, a term whose gendered etymology and historical usage
 cannot be overlooked, particularly in the overwhelmingly male context of
-the *The English Intelligencer*.[^265] Most importantly, he establishes
+the *The English Intelligencer*.[^268] Most importantly, he establishes
 himself as a figure competent to police the border between this
 arena—implicitly coextensive with the *Intelligencer*, at least in its
 ideal form—and its outside.
@@ -2853,11 +2861,11 @@ This is made clear in a shockingly direct attack on David Chaloner which
 follows closely on Prynne’s comments on Shelley. Chaloner had
 contributed four pieces to the issue, the last being an account of a
 bonfire in slightly purple descriptive prose (‘A smell of damp leaves &
-smoke cloaks the octoberal, rusting garden’).[^266] As Chaloner’s
+smoke cloaks the octoberal, rusting garden’).[^269] As Chaloner’s
 contributions did not completely fill two stencils, Prynne used the
 remaining space on the second page to print a quotation from former US
 Treasury official Robert Roosa about plans to stimulate liquidity in
-global financial markets.[^267] He explained this decision to Riley as
+global financial markets.[^270] He explained this decision to Riley as
 follows:
 
 > The sentimentalism is so hopelessly *irrelevant*: Chaloner is the
@@ -2886,12 +2894,12 @@ achieved by *The English Intelligencer*. Prynne quotes a letter from
 Shelley to John and Maria Gisborne, sent while the poet was writing *A
 Philosophical View of Reform*, in which he declares that ‘I have
 deserted the odorous gardens of literature to journey across the great
-sandy desert of politics.’[^268] ‘[M]aybe we should take to the desert
+sandy desert of politics.’[^271] ‘[M]aybe we should take to the desert
 as well,’ suggests Prynne—‘honourable Beduins’. His hesitation is
 telling, however. Writing to Riley in what is presumably his next
 letter, Prynne acknowledges that ‘[m]y last note was a bit irritable I’m
 afraid, but I was writing a bit under pressure from *interesting* prose:
-cannot it too be joined more freely into the world.’[^269] It is not
+cannot it too be joined more freely into the world.’[^272] It is not
 clear whether Prynne intends the emphasis on ‘interesting’ to be read in
 a sarcastic sense, and thus for it to refer to the contents of the
 *Intelligencer*, or whether he is referring to some other genuinely
@@ -2926,19 +2934,19 @@ the online journal and the easily-sharable PDF file. The work was first
 published in *The English Intelligencer* as one of a series of responses
 to Peter Riley’s ‘Working Notes on British Prehistory, or Archaeological
 Guesswork One’, which had appeared as a supplement at the conclusion of
-the worksheet’s first series.[^270] It was subsequently printed in
+the worksheet’s first series.[^273] It was subsequently printed in
 pamphlet form alongside the poems ‘Aristeas, in Seven Years’, ‘Star
 Damage at Home’ and ‘Frost and Snow, Falling’, and has since been
-included in every edition of Prynne’s collected poems.[^271] ‘A Note on
+included in every edition of Prynne’s collected poems.[^274] ‘A Note on
 Metal’ is, then, a text with more than one context: initially embedded
 in the argumentative back-and-forth of the *Intelligencer* described
 earlier in this chapter, it has also been presented as supplementary to
 a series of poems and as a relatively self-sufficient, ‘standalone’
-piece.[^272] It is the first and last of these contexts with which this
+piece.[^275] It is the first and last of these contexts with which this
 discussion is primarily concerned. Both C.D. Blanton and Seeta Chaganti
 have examined ‘A Note on Metal’ in detail, while Simon Jarvis, Robin
 Purves, Reitha Pattison, Alex Latter, Alistair Rider and Nicholas Royle
-have all considered it more briefly.[^273] Without exception, these
+have all considered it more briefly.[^276] Without exception, these
 accounts use the text as tool to examine some other aesthetic
 object—usually one of Prynne’s poems, or, in the cases of Blanton,
 Chaganti and Rider, poems by Basil Bunting and Geoffrey Hill,
@@ -2960,7 +2968,7 @@ argument has been provided in Figure @fig:anm.
 
 ![The argument of *A Note on Metal*](figs/anm.png){\#fig:anm}
 
-¶1 (p. 128[^274]): Before the early Bronze Age, property resided
+¶1 (p. 128[^277]): Before the early Bronze Age, property resided
 uncomplicatedly in substance, and the ‘most specific carrier for the
 inherence of power’ was weight, found most obviously in stone. Stone is
 ambiguous, offering both a hard outside and, through erosion or carving,
@@ -3026,7 +3034,7 @@ other times, he will make use of apparently familiar words or phrases in
 radically unfamiliar contexts, rendering already convoluted sentences
 even more difficult to parse. Ryan Dobran claims that ‘A Note on Metal’
 is a text which ‘fails to explicate or consistently group the various
-concepts it discusses; it is patchy and meandering.’[^275] On the
+concepts it discusses; it is patchy and meandering.’[^278] On the
 contrary, the text’s difficulty stems precisely from its tightly
 compressed structure, a structure which admits gaps (it is ‘patchy’),
 but which is far from ‘meandering’—in fact, it is highly organised. This
@@ -3052,13 +3060,13 @@ its most relevant formulation would appear to be that which derives from
 Hegel’s reading of Spinoza. Hegel famously claimed, in his 1805–06
 lectures on the history of philosophy, that ‘thought must begin by
 placing itself at the standpoint of Spinozism; to be a follower of
-Spinoza is the essential commencement of all Philosophy.’[^276] What
+Spinoza is the essential commencement of all Philosophy.’[^279] What
 made Spinoza important for Hegel was the former’s repudiation of
 Cartesian dualism, which resulted in a form of substance monism,
 substance being identified with a pantheistic God. For Spinoza, in
 Hegel’s reading, ‘[t]he true is simply and solely the one substance,
 whose attributes are thought and extension or nature: and only this
-absolute unity is reality, it alone is God.’[^277] This dissolving of
+absolute unity is reality, it alone is God.’[^280] This dissolving of
 the Cartesian subject–object divide makes room for Hegel’s more complex
 reinterpretation of the subject *as* object, with his emphasis on
 dialectically achieved self-consciousness. Prynne’s argument in ‘A Note
@@ -3075,10 +3083,10 @@ inevitable result of the availability of the relevant materials, and he
 certainly didn’t reflect on his role in the ever-increasing abstraction
 of value (or, if he did, this fact is irrelevant). In other words,
 Prynne—like Hegel’s most famous reader, Marx—is rigorously materialist
-in his approach.[^278] As Sutherland puts it, ventriloquising Prynne,
+in his approach.[^281] As Sutherland puts it, ventriloquising Prynne,
 ‘the subject who engrosses the whole of truth is a disgusting
 contraption for silencing objects […] and is fundamentally predatory and
-imperial in its reach’.[^279]
+imperial in its reach’.[^282]
 
 Why, then, does Prynne use the philosophically loaded term ‘substance’,
 when there are plenty of other words—‘matter’, for example—which would
@@ -3095,10 +3103,10 @@ the early text ‘Resistance and Difficulty’ makes clear, language once
 used takes on an ontological status comparable to that of any other
 object in the world, contributing to a general ‘resistance’ which is
 experienced as ‘difficulty’ and which gives us a form of immediate
-knowledge about our surroundings.[^280] This position leads to an
+knowledge about our surroundings.[^283] This position leads to an
 apparently paradoxical situation in which, as Sutherland puts it, ‘the
 truth of language [is] conceived to exist “prior to” any subject’, if
-not in an ontological sense than at least in a cognitive one.[^281] At
+not in an ontological sense than at least in a cognitive one.[^284] At
 the point of composition, then, Prynne is faced with a pre-existing
 philosophical vocabulary which is the product, over millennia, of the
 very process of abstraction which ‘A Note on Metal’ seeks to chart: ‘A
@@ -3128,7 +3136,7 @@ Afghanistan and southern Turkey, potentially stronger candidates for the
 source of Sumerian tin than either the Czech Republic or Britain, while
 modern chemical analysis has strengthened an existing theory that the
 bluestones were transported from Wales to Wiltshire by glacial action
-rather than by deliberate human effort.[^282] These discoveries do not,
+rather than by deliberate human effort.[^285] These discoveries do not,
 however, affect the fundamentals of Prynne’s comparison, and may in fact
 help to clarify it. Prynne is not primarily concerned with the
 particular geographical regions from which materials were sourced, or
@@ -3166,7 +3174,7 @@ shift from substance to power. Part of the obscurity of this statement
 derives from the specialist sense of the word ‘motive’, which is used—as
 it is by V. Gordon Childe, whose work provides one of the key spurs for
 ‘A Note on Metal’—as a synonym for or variant spelling of ‘motif’ (see
-*OED* definition 7[^283]). Even more confusing, however, is the phrase
+*OED* definition 7[^286]). Even more confusing, however, is the phrase
 ‘quality of spiritual transfer’: this is the first appearance of the
 word ‘spirit’ in the text, and, as with ‘transfer’, it is not at all
 clear in what sense it is being used. A reading of the following
@@ -3184,10 +3192,10 @@ used in relation to metal, it serves to emphasise the phenomenological
 sense in which subjectivity is always bound up with its objects: having
 developed tools of unprecedented power and effectiveness, humans in some
 sense *become* those tools, as well as the abstracting processes through
-which they are produced.[^284] ‘[D]urable forms of leading edge’ (¶3)
+which they are produced.[^287] ‘[D]urable forms of leading edge’ (¶3)
 not only represent the pinnacle of then-current technological
 development but also, having been invested with spiritual content, help
-to determine future development.[^285]
+to determine future development.[^288]
 
 *4. In ¶5, Prynne claims that ‘[t]he threshing of millet or barley must
 bring a “purer” and more abstract theory of value; the mixed relativism
@@ -3213,7 +3221,7 @@ grains are separated from their chaff, is even more specifically local
 than agriculture in general, requiring a specially flattened and
 hardened threshing floor. Crucially, it is also extremely
 labour-intensive, ‘absorb[ing] as much as a quarter of agricultural
-labor input’ prior to mechanisation in the 19th century.[^286] This
+labor input’ prior to mechanisation in the 19th century.[^289] This
 combination of factors creates a relatively novel situation in which
 humans spend large amounts of time creating value (in the form of edible
 grains) through a more or less stationary, repetitive activity. This is
@@ -3242,14 +3250,14 @@ operates with the most conspicuous success when employed over large
 inter-cultural distances’ (¶6). He then quotes a passage from Childe:
 ‘In the Early Bronze Age peninsular Italy, Central Europe, the West
 Baltic Coastlands, and the British Isles were united by a single system
-for the distribution of metalware, rooted in the Aegean market.’[^287]
+for the distribution of metalware, rooted in the Aegean market.’[^290]
 Confusingly, this quote and the statement of Prynne’s that precedes it
 bear no obvious relation to each other. Using the phrase ‘Early Bronze
 Age’, Childe is referring to a period unambiguously *prior* to the
 development of stamped coinage described by Prynne, which did not emerge
 until *c*. 700 BC at the earliest. Further obscurity is created by the
 citation at the end of the previous paragraph of an article by C.M.
-Kraay which seems directly to contradict Prynne’s argument.[^288] As
+Kraay which seems directly to contradict Prynne’s argument.[^291] As
 Prynne summarises Kraay’s thesis, which is supported by an analysis of
 the distribution of coins between numerous extant hoards, ‘[e]ven in the
 case of early Greek coinage […] the original intention was not so much
@@ -3275,7 +3283,7 @@ trade; on the contrary, his theory is that ‘inter-cultural’ trade boomed
 recalling the earlier emphasis on materials as vessels for ‘spiritual
 transfer’; for Prynne, metal is not merely a passive object shaped by a
 pre-existing human will, but rather the motor and determinant of human
-will itself.[^289]
+will itself.[^292]
 
 *6. At the end of ¶8, Prynne associates ‘the technique of [the] removal’
 from ‘presence as weight’ with the emergence both of ‘a complete middle
@@ -3304,7 +3312,7 @@ the modern British sense, to an organic combination of professionals and
 other white-collar workers with elements of the labour aristocracy, but
 rather to a class similar to that which Marx describes as manipulating
 ‘merchant’s capital’ in historical eras prior to capitalism’s dominance
-of the mode of production.[^290]
+of the mode of production.[^293]
 
 As for ‘left-wing’, the term’s immediate context—‘an exilic (left-wing)
 history of substance’—suggests that it refers to a narrative about the
@@ -3323,7 +3331,7 @@ solidarity and struggle that more commonly goes under the name
 ‘left-wing’. In fact, the term ‘exilic’ specifically recalls his
 contemporaneous quotation to Riley of Shelley’s description of the
 ‘great sandy desert of politics’, across which Prynne suggests they
-should journey as ‘honourable Beduins’.[^291] The real question, then,
+should journey as ‘honourable Beduins’.[^294] The real question, then,
 consists of two parts: (a) what does Prynne understand an ‘exilic
 (left-wing) history of substance’ actually to be? and, (b) is ‘A Note on
 Metal’ an attempt to write, or at least to begin to write, this history?
@@ -3341,17 +3349,17 @@ the course of a summary of Prynne’s argument:
 > power implicitly measures itself. […] The attempt to remember a
 > writing older than monetary circulation or the commodity […] offers an
 > Archimedean critical point outside of economy, a position from which
-> to induce, perform, or merely conceive modernity’s end.[^292]
+> to induce, perform, or merely conceive modernity’s end.[^295]
 
 Following John-Joseph Goux, Blanton argues that ‘the gesture to an
 origin of economics or an origin of capital fatally undermines the
 hegemonic notion of the symbol’—a left-wing history of substance
-consists precisely in the performance of this gesture.[^293] But is this
+consists precisely in the performance of this gesture.[^296] But is this
 performance actually undertaken by Prynne in ‘A Note on Metal’, or does
 he merely gesture towards a gesture? On this point, Blanton is
 equivocal, describing ‘poetry’—particularly Prynne’s—as ‘an index to the
 history of substance’, but neglecting to state explicitly whether or not
-‘A Note on Metal’ is a member of this category.[^294] It is certainly
+‘A Note on Metal’ is a member of this category.[^297] It is certainly
 true, and was pointed out at the beginning of this discussion, that the
 text is included in a book titled *Poems*, a status afforded to none of
 Prynne’s other prose works except the fictional ‘*Plant Time Manifold*
@@ -3359,7 +3367,7 @@ Transcripts’ which follow *Wound Response* (1974). On the other hand, it
 would be premature to assume, as Chaganti seems to, that the simple fact
 of being published in this book makes ‘A Note on Metal’ a ‘prose
 poem’—taken to its logical extreme, this line of reasoning would assign
-a similar status to the author’s note or the index of first lines.[^295]
+a similar status to the author’s note or the index of first lines.[^298]
 
 This dilemma can be avoided entirely by denying, or at least modifying,
 the premise of Blanton’s argument: that a left-wing history of substance
@@ -3374,7 +3382,7 @@ which most of the prose was focused, explicitly or otherwise, on the
 question of what sort of poetry English poets should be producing in the
 mid-to-late 1960s—certainly this was the implicit focus of Riley’s
 ‘Working Notes on British Prehistory’, to which Prynne was, in part,
-responding.[^296] Nor is it necessary to deny that Prynne’s conception
+responding.[^299] Nor is it necessary to deny that Prynne’s conception
 of the role of poetry is an unusually far-reaching and ambitious one.
 The point is simply that to restrict the notion of an ‘exilic
 (left-wing) history of substance’ to what is conventionally deemed
@@ -3399,7 +3407,7 @@ negatively, signifying the increasing abstraction which it is the main
 purpose of ‘A Note on Metal’ to chart, a position which would restrict
 the text to something like the simple backwards/forwards schema put
 forward by Chris Nealon in a recent consideration of Prynne’s
-career.[^297] But does history need to be backwards-facing? On one
+career.[^300] But does history need to be backwards-facing? On one
 level, it obviously does; yet ‘a history’, no matter how exilic, is also
 something which underlies and moves at the same speed as the present. In
 an ideal world, history and theory meet and mutually inform each other
@@ -3444,7 +3452,7 @@ materials from the Stone Age to the Iron Age, but offers only the most
 brief and suggestive account of how these developments relate, for
 example, to currency as it exists in the mid-to-late 20th century, and
 no account at all of how modern materials such as plastics might fit
-into or challenge this history.[^298] ‘A Note on Metal’ is, quite
+into or challenge this history.[^301] ‘A Note on Metal’ is, quite
 literally, a prehistory, both in the conventional sense of dealing with
 the prehistoric era, and to the extent that it constitutes a necessary
 prelude to the more comprehensive re-writing that Prynne wishes to see.
@@ -3469,11 +3477,11 @@ deliberately eschews all the trappings of academic history. As
 Sutherland puts it, describing the pamphlet *The Special View of
 History* (1970), when Olson writes about history ‘[h]e means nothing
 about which we can speak very precisely, and this is part of what he
-does mean.’[^299] Sutherland goes on to describe Prynne’s poem ‘Bronze :
+does mean.’[^302] Sutherland goes on to describe Prynne’s poem ‘Bronze :
 Fish’, which he takes to be a direct response to *The Mayan Letters*, as
 ‘a poetic argument for strictness and accuracy and against Olson’s
 “negative” capacity to romanticise archaic cultures in disregard of
-scholarship.’[^300]
+scholarship.’[^303]
 
 This distinction between Prynne and Olson sheds light, through Prynne’s
 attitude to history, on ‘A Note on Metal’. One of the key points that
@@ -3497,7 +3505,7 @@ a political content from this stance, describing it as
 > is thus a calculated form of resistance to political error, as well as
 > a resistance to the ‘tweezers and tropic catalogues’ of academic forms
 > of rationality cut off from any general purpose or general
-> understanding of their place in the world.[^301]
+> understanding of their place in the world.[^304]
 
 \noindent For Sutherland, then, Prynne is both a proponent of accuracy
 and an opponent of specificity, depending on the exact context of each
@@ -3530,11 +3538,11 @@ particularly the latter part, is Prynne’s 1961 text ‘Resistance and
 Difficulty’, a resumé of a particular branch of the philosophy of
 perception whose main strand of argument forms a dialogue with the
 American philosopher John Wild’s 1959 article ‘Contemporary
-Phenomenology and the Problem of Existence’.[^302] Wild’s key aim in
+Phenomenology and the Problem of Existence’.[^305] Wild’s key aim in
 this article is to defend the status of what he sees as a form of
 direct, unmediated knowledge: ‘The intentional act, together with its
 object, is immediately self-revealing to me, and there is a clear sense
-in which I have a privileged access to such intentions.’[^303] He also
+in which I have a privileged access to such intentions.’[^306] He also
 attempts to set up a distinction between reality and the imagination,
 taking ‘resistance’ to be a key marker of reality: ‘A real being not
 only resists my overt acts and manipulations; it resists my acts of
@@ -3542,7 +3550,7 @@ awareness as well. It reveals only a partial phase of itself in a
 perspective that constantly changes with my movements.’ An object of the
 imagination, by contrast, ‘is fixed, and lacks this openness to further
 points of view. Thus a piece of painted scenery does not continue to
-reveal itself as I move around it, but simply disappears.’[^304]
+reveal itself as I move around it, but simply disappears.’[^307]
 Imaginative objects are ‘clear and distinct’, while real objects are
 ‘resistant’.
 
@@ -3553,7 +3561,7 @@ difficulty when I encounter resistance.’ In other words, ‘difficulty is
 cognitively prior to resistance but ontologically dependent upon it.’
 Importantly, ‘resistance itself comes nearer than any other
 differentiable quality to being completely inherent in the
-object’.[^305] He then demonstrates the ‘viciousness’ of a position like
+object’.[^308] He then demonstrates the ‘viciousness’ of a position like
 Wild’s, which ‘allows the external world only sufficient objective
 reality for the major dimensions of human living to be set up’:
 
@@ -3566,7 +3574,7 @@ reality for the major dimensions of human living to be set up’:
 > require it only in order to realise my ability to swim; and if the
 > attempt to reach an awareness of substance is thus prompted by the
 > need for self-definition, then we must expect the contributions of the
-> imagination to be set aside.[^306]
+> imagination to be set aside.[^309]
 
 \noindent Wild’s stance is reduced to a sort of weak (in the
 intellectual sense) epistemological solipsism, albeit one which does not
@@ -3579,7 +3587,7 @@ claiming that they
 > context of the outside world. It is the imagination’s peculiar
 > function to admit, draw sustenance from, and celebrate the ontological
 > priority of this outside world, by creating entities which
-> subsequently become a part of the world, an addition to it.[^307]
+> subsequently become a part of the world, an addition to it.[^310]
 
 \noindent Art objects—and, for Prynne especially, poems—become effective
 guarantors of a continued relationship between the subject and what lies
@@ -3588,17 +3596,17 @@ creating new resistant material *ex nihilo* or through permanently
 transforming that which already exists—Prynne is not entirely clear on
 this point—art sets up the possibility of a real and logical channel
 between subject and object, as opposed to a potentially deceptive cocoon
-of mere difficulty.[^308]
+of mere difficulty.[^311]
 
 Prynne’s concerns and mode of argument in ‘Resistance and
 Difficulty’—though not his conclusions—bear a striking resemblance to
 those of Quentin Meillassoux in his 2006 book *Après la finitude*,
-translated into English in 2008 as *After Finitude*.[^309] In this short
+translated into English in 2008 as *After Finitude*.[^312] In this short
 work, Meillassoux takes aim at a stance which he terms ‘correlationism’,
 and which he takes to be the dominant perspective in contemporary
 philosophy, both continental and analytic. For the correlationist, ‘we
 only ever have access to the correlation between thinking and being, and
-never to either term considered apart from the other.’[^310] Meillassoux
+never to either term considered apart from the other.’[^313] Meillassoux
 identifies this as an explicitly post-Kantian attitude designed to avoid
 the pitfalls both of pre-critical metaphysical dogmatism and of
 subjective idealism. Its effect, however, is to keep the subject locked
@@ -3612,12 +3620,12 @@ in what he terms, after Francis Wolff, a ‘transparent cage’:
 > or enclosure within this very exteriority […]. Consciousness and its
 > language certainly transcend themselves towards the world, but there
 > is a world only insofar as consciousness transcends itself towards
-> it.[^311]
+> it.[^314]
 
 It is not difficult to see the similarities between Meillassoux’s
 description of correlationism and Prynne’s critique of Wild, for whom
 ‘the external world’s main value to the subject lies in the graduated
-difficulties that it can provide him with’.[^312] Meillassoux goes on to
+difficulties that it can provide him with’.[^315] Meillassoux goes on to
 reveal what Prynne would call the ‘viciousness’ of the correlationist
 view by means of a thought experiment. Proposing an object accessible to
 science but which predates all human life, which he terms ‘the
@@ -3625,16 +3633,16 @@ arche-fossil’—examples include ‘an isotope whose rate of radioactive
 decay we know, or the luminous emission of a star that informs us as to
 the date of its formation’—Meillassoux shows how a consistent
 correlationism is necessarily barred from making meaningful statements
-about the pre-human past which such an object apparently reveals.[^313]
+about the pre-human past which such an object apparently reveals.[^316]
 Despite making conventional concessions to science in everyday
 discourse, the correlationist cannot finally think the origin of the
 correlation, the emergence into being of givenness. The correlationist
 will, claims Meillassoux, always add an implicit ‘codicil’ to statements
 about the arche-fossil: ‘event Y occurred x number of years before the
 emergence of humans—*for humans* (or even, *for the human
-scientist*).’[^314] As Prynne asks in ‘Resistance and Difficulty’, ‘can
+scientist*).’[^317] As Prynne asks in ‘Resistance and Difficulty’, ‘can
 the world—in its full and detailed substantiality—be said to have
-existed *for me*, before my knowledge of it?’[^315] The answer, for the
+existed *for me*, before my knowledge of it?’[^318] The answer, for the
 strict correlationist, must be that the world can *only* be said to have
 existed for me, and not in itself.
 
@@ -3644,7 +3652,7 @@ nature of the correlationist circle and for the status of the
 arche-fossil. Meillassoux’s designation of the arche-fossil as an object
 which precedes all human life is one of the most memorable aspects of
 the book; nevertheless, as Graham Harman points out, the arche-fossil
-‘is not an argument.’[^316] Rather, it is a provocative thought
+‘is not an argument.’[^319] Rather, it is a provocative thought
 experiment, designed to raise a problem which it will be the task of the
 remaining chapters to analyse, and to raise it in the most effective and
 convincing manner possible. This strategic aspect has a tendency to
@@ -3654,7 +3662,7 @@ describes how correlationism ‘institutes a certain kind of solipsism,
 which could be called a “species solipsism”, or a “solipsism of the
 community”, since it ratifies the impossibility of thinking any reality
 that would be anterior or posterior to the community of thinking
-beings.’[^317] This is certainly the implication of the arche-fossil as
+beings.’[^320] This is certainly the implication of the arche-fossil as
 Meillassoux presents it.
 
 There is, however, no reason to believe that real correlationism would
@@ -3667,7 +3675,7 @@ describes how ‘[a]ppeals to intersubjectivity are of no account [against
 the arche-fossil], since the time in question is not the time preceding
 such and such an individual—this time is still social, made up of the
 subjective temporality of ancestors—but a time preceding all life, and
-so every human community.’[^318] However, it is clear from the argument
+so every human community.’[^321] However, it is clear from the argument
 of *After Finitude* that a truly strong correlationism is unable to
 appeal to intersubjectivity for anything more reliable than
 representations anyway. In fact, Meillassoux admits in an endnote to the
@@ -3683,19 +3691,19 @@ seeming ‘loophole’, through which the correlationist might argue that
 
 Yet as Meillassoux rightly points out, ‘this rejoinder is a desperate
 sophism, which reduces emergence and perishing to whatever the other
-perceives of it.’[^319] For strong correlationism, ‘the other’ is as
+perceives of it.’[^322] For strong correlationism, ‘the other’ is as
 inaccessible as the in-itself. As such, there is no essential difference
 between an arche-fossil from 13.5 billion years ago (the date given by
 Meillassoux for the origin of the universe), one from 1900 (the birth
 date of the world’s oldest living person at the time of writing) or one
 from 1990 (the present author’s own year of birth), as long as it is
 anterior to the presently thinking subject. This will be important to
-bear in mind in the discussion of Prynne below.[^320]
+bear in mind in the discussion of Prynne below.[^323]
 
 Following the book’s provocative introduction, Meillassoux spends the
 remainder of *After Finitude* in a painstaking effort to penetrate the
 ‘correlationist circle’ and to gain access to the ‘great outdoors’ which
-lies outside contemporary philosophy’s transparent cage.[^321] Like
+lies outside contemporary philosophy’s transparent cage.[^324] Like
 Prynne’s, his attempt is to some extent an ‘inside job’, accepting the
 premises of his opponent before adding a new term which completely
 reconfigures the situation; unlike Prynne’s, it is strictly rationalist
@@ -3709,10 +3717,10 @@ no more privileged access to the absolute than does faith—any claim to
 such access is equally valid. This tendency is referred to by
 Meillassoux as the ‘religionizing of reason’, and he sees it as having
 operated ever since the Enlightenment’s first critiques of religious
-dogmatism.[^322] He demonstrates how, in the modern era, philosophers as
+dogmatism.[^325] He demonstrates how, in the modern era, philosophers as
 diverse as Wittgenstein and Heidegger have allowed fideistic elements
 into their work, giving Levinas’s conception of ‘the wholly other’ as a
-paradigmatic example of 20th-century religionised reason.[^323]
+paradigmatic example of 20th-century religionised reason.[^326]
 
 Meillassoux’s opposition to fideism seems, at the very least, to be
 structurally analogous to Prynne’s antipathy towards the supposedly
@@ -3740,7 +3748,7 @@ this is not the line taken by Prynne. In fact, the solution to the
 problem of correlationism provided in ‘Resistance and Difficulty’ seems,
 at first glance, closer to fideism than to Meillassoux’s ‘speculative
 materialism’—it is certainly difficult to imagine the latter, for all
-his commitment to poetry, being satisfied by such a simple move.[^324]
+his commitment to poetry, being satisfied by such a simple move.[^327]
 Equally, the predominant ‘tweezers and tropic catalogues’ approach to
 history opposed by Prynne can hardly be considered a form of
 correlationism, its disjunction from reality being a function of its
@@ -3788,7 +3796,7 @@ once written, it is a resistant piece of the external world, whose
 essence can never be entirely captured by hermeneutics. An important
 consequence of this view in the present context is that the poem thereby
 becomes part of history, a data point on the same ontological plane as
-any other piece of historical evidence.[^325] ‘History’ is a word with
+any other piece of historical evidence.[^328] ‘History’ is a word with
 at least two meanings: it designates both the object of historical
 enquiry—in the most basic sense, facts about the past—and, as ‘a
 history’, the process of recovering, synthesising and recounting those
@@ -3811,7 +3819,7 @@ it is only when the text is read as history and nothing more that this
 deeper history appears ‘exilic’: when it is grasped in its full
 substantiality, as history *and* poem, it appears clearly, not as the
 object of the text but as the substance from which every word is formed,
-as well as the animating principle behind their configuration.[^326] It
+as well as the animating principle behind their configuration.[^329] It
 is as if ‘A Note on Metal’ was an impossible sort of coin, one side of
 which precludes access to its obverse, while the other allows both to be
 viewed at once. What, then, does it actually take to view the text, and
@@ -3833,7 +3841,7 @@ version of this | present age’, Sutherland describes how
 > furthermore that we can make a true gesture toward that condition only
 > by suspending the characteristically modern need to be accurate at the
 > moment when the condition itself, the city, seems nearest to the
-> imagination.[^327]
+> imagination.[^330]
 
 The temporary suspension of accuracy in this world is the condition for
 accuracy in the next, which is actually just another version of here.
@@ -3904,12 +3912,12 @@ may be divided into three main categories: Prynne’s avant-garde
 contemporaries in Britain (Tony Ward, Douglas Oliver); American writers
 associated loosely with the Black Mountain group (Ed Dorn, Douglas
 Woolf); and older figures with whom Prynne is unlikely to have had any
-personal connection (Wyndham Lewis, Edward Upward). In-keeping with this
-thesis’s focus on British contexts for Prynne’s work, this chapter will
-concentrate on the first and the third of these groups, leaving aside
-Tony Ward, whose novels are generally only mentioned by Prynne in
-passing, or in conversations about the practicalities of
-publication.[^328] The relationship between the three remaining
+direct personal connection (Wyndham Lewis, Edward Upward). In-keeping
+with this thesis’s focus on British contexts for Prynne’s work, this
+chapter will concentrate on the first and the third of these groups,
+leaving aside Tony Ward, whose novels are generally only mentioned by
+Prynne in passing, or in conversations about the practicalities of
+publication.[^331] The relationship between the three remaining
 names—Wyndham Lewis, Douglas Oliver and Edward Upward—is, it will be
 argued, roughly triangular, in the sense that there are a number of
 strong similarities between Lewis and Upward, Upward and Oliver, and
@@ -3917,7 +3925,7 @@ Oliver and Lewis, but only weaker ones between all three figures at
 once. In some cases, the relationship is one of direct influence: Upward
 has stated explicitly, albeit with prompting, that ‘Wyndham Lewis […]
 influenced me considerably’, and a very specific, concrete connection
-will be made between sections of Upward’s and Oliver’s work.[^329] In
+will be made between sections of Upward’s and Oliver’s work.[^332] In
 others, the link rests more on the shared use of certain literary
 techniques. Through an examination of Prynne’s recorded comments on each
 author, this chapter will attempt to clarify both this structure and the
@@ -3935,7 +3943,7 @@ produce. Its ‘effect’, he claims, ‘is of a somewhat parochial and
 *second-hand* youthfulness: most of the tedious embarrassments of youth
 without any of the original energy of (a) not having read anything
 except the great classics of the past, or (b) of having read with profit
-& intelligent insight the writing of the present.’[^330] The
+& intelligent insight the writing of the present.’[^333] The
 *Intelligencer* poets are, according to Prynne, doubly vapid, completely
 disengaged from literary tradition: ‘There is really no option about
 it:- either a man like [David] Grubb must read Milton & Pound, or he
@@ -3973,7 +3981,7 @@ something which poets should by now be able to assume.
 Prynne’s argument may be clarified through reference to a previous
 letter, dated roughly one month earlier. Here, Prynne rails against what
 he terms (‘with crisp French melodrama’) ‘*the public exclusion of
-freedom*’.[^331] He is referring to emerging structuralist modes of
+freedom*’.[^334] He is referring to emerging structuralist modes of
 analysis—notably the anthropology of Claude Lévi-Strauss—which,
 according to Prynne, promote the ‘idea that originary history defined
 the world by limiting the choice of language (and conduct) within it’.
@@ -3984,7 +3992,7 @@ restriction here is very similar to Francis Wolff’s invocation of the
 ‘transparent cage’, as quoted by Meillassoux, and though it refers to
 the structure of language rather than strictly to the correlationist
 circle, Prynne can be seen to tack closer to the latter in his
-denunciation of the ‘subject-object dialectic’ above.[^332] As in
+denunciation of the ‘subject-object dialectic’ above.[^335] As in
 Chapter 2, while starting from a problematic which is similar in
 structure—and certainly similarly felt and expressed—Prynne diverges
 wildly from Meillassoux in his prescriptions, ignoring ‘some generative
@@ -4011,7 +4019,7 @@ Prynne goes on to substantiate his designation of ‘the syntax &
 phenomenology of *regard*’ as ‘a French and American pre-occupation’ by
 citing Alain Robbe-Grillet and Louis Zukofsky, but without any real
 explanation of what it is in these writers’ work which conforms to his
-definition.[^333] What he does suggest is a connection between the
+definition.[^336] What he does suggest is a connection between the
 attitude described above and a pedantic, ‘musical’ approach to poetic
 language. What is wrong with Zukofsky—who is described, confusingly, as
 ‘an old granny who’s never got beyond an essentially adolescent ethic of
@@ -4021,9 +4029,9 @@ scatter[s] on the page […] charming inanities’. This retreat into music
 is, for the anti-Paterian Prynne, a fatally unambitious reaction to ‘our
 remorse at consorting so intimately with language’, a strikingly sexual
 phrase by which he seems to mean paying attention to the conventionally
-semiotic aspects of language.[^334] It is certainly not, as Peter Riley
+semiotic aspects of language.[^337] It is certainly not, as Peter Riley
 seems to suggest in the *Intelligencer*, some sort of shortcut to ‘the
-entire vital structure’ of historical human experience.[^335] It is at
+entire vital structure’ of historical human experience.[^338] It is at
 this point that Prynne brings up Lewis. Despairing of writers who treat
 ‘life in the world’ as ‘a china-shop’, he notes that ‘[i]t’s as if, for
 example, Wyndham Lewis had never written a line, as if *Blast* now has
@@ -4031,7 +4039,7 @@ to be done all over again. That’s of course why *Tarr* has been allowed
 to go out of print’. The implication here is not only of a regrettable
 tendency in contemporary literature but of a positive conspiracy against
 anything that might counter it, inattention to Lewis’s 1918 novel *Tarr*
-being a case in point.[^336] Prynne goes on to quote a paragraph from
+being a case in point.[^339] Prynne goes on to quote a paragraph from
 the book:
 
 > ‘Small as it is, I shan’t get it’ he thought and began repeating this
@@ -4041,7 +4049,7 @@ the book:
 > to him. This was a frivolous demonstration. He wandered to the window
 > in a sulky apathy, his nose flattened against the pane, conscious of
 > his compressed putty-grey mask, he let his gaze stream out into
-> space.[^337]
+> space.[^340]
 
 \noindent The assessment of this passage is as absolute as it is opaque,
 recapitulating Prynne’s conspiratorial theme: ‘The sheer satiric
@@ -4050,17 +4058,16 @@ accuracies are musical in structure. Which of course was its intention;
 hence the current neglect.’ It is unclear from Prynne’s letter how this
 quotation from *Tarr* is supposed to relate to the issues which he has
 been discussing. In his play with dialogue, Lewis is certainly concerned
-with ‘the fall of speech’—indeed, his construction of the deeply
-sibilant sentence ‘Small as it is, I shan’t get it’ and his description
-of the character Otto Kreisler’s looping, stuttering engagement with
-this particular piece of language might be described as ‘microrhetoric’.
-Is Prynne’s point, then, that a concern with the ‘musicality’ of
-language in the 1960s is outdated because it has already been done by
-Lewis in the 1910s, or because it has already been *satirised*? The idea
-that Lewis’s text ‘disposes finally of the claim that our best
-accuracies are musical in structure’ would seem to suggest the latter,
-but it is not entirely clear that this section of *Tarr* should be read
-as satirical.
+with ‘the fall of speech’—indeed, his construction of the sibilant
+sentence ‘Small as it is, I shan’t get it’ and his description of the
+character Otto Kreisler’s looping, stuttering engagement with this
+particular piece of language might be described as ‘microrhetoric’. Is
+Prynne’s point, then, that a concern with the ‘musicality’ of language
+in the 1960s is outdated because it has already been done by Lewis in
+the 1910s, or because it has already been *satirised*? The idea that
+Lewis’s text ‘disposes finally of the claim that our best accuracies are
+musical in structure’ would seem to suggest the latter, but it is not
+entirely clear that this section of *Tarr* should be read as satirical.
 
 To take another approach, does Prynne mean to suggest that the focus on
 Kreisler’s gaze in the final sentence represents some sort of satirical
@@ -4070,13 +4077,13 @@ with contemporary philosophies of perception, but the relative infancy
 of Husserlian phenomenology at this point—though first published as a
 whole in 1918, the initial draft of *Tarr* was written from 1909–11—sets
 a high burden of proof on any claim about deliberate engagement,
-satirical or otherwise.[^338] There are further possibilities: perhaps
+satirical or otherwise.[^341] There are further possibilities: perhaps
 the relentlessly adjectival character of the passage, in which virtually
 every noun is preceded by a qualifier, is what Prynne means by ‘satiric
 intelligence’. Yet it is just as difficult to substantiate this claim
 through reference to some satirised object, or even to be sure that it
 isn’t simply an ordinary feature of Lewis’s prose style, as it is with
-the two previously considered.
+the two previously considered.[^342]
 
 A different perspective can be gained by ‘zooming out’ from this
 particular passage to consider the general cultural significance of
@@ -4091,7 +4098,7 @@ German co-protagonist, Kreisler—he assures readers that ‘I have not
 produced this disagreeable German for the gratification of primitive
 partisanship aroused by the war. On the other hand, having had him up my
 sleeve for so long, I let him out at this moment in the undisguised
-belief that he is very apposite.’[^339] Yet while characters such as
+belief that he is very apposite.’[^343] Yet while characters such as
 Kreisler are subject to an extreme form of national ridicule, the same
 is not quite the case for the novel’s protagonist, Frederick Tarr. While
 some play is made of Tarr’s nationality, the majority of Lewis’s
@@ -4099,13 +4106,13 @@ satirical jibes against Englishness are directed at comparatively minor
 characters such as Hobson and Butcher, who appear in the first two
 chapters of the novel. This relative freedom from national stereotyping
 allows Tarr to become what Lewis describes as ‘the individual in the
-book, and […] at the same time one of the showmen of the author.’[^340]
+book, and […] at the same time one of the showmen of the author.’[^344]
 
 Tarr is not primarily ‘an Englishman’—he is a man, first and foremost,
 and English second. ‘For Tarr’, notes Scott W. Klein, ‘individuals
 without a robust sense of self become merely predictable products of
 their national upbringing, an assemblage of the tics and prejudices of
-their national ethos.’[^341] By contrast, Tarr is able to navigate the
+their national ethos.’[^345] By contrast, Tarr is able to navigate the
 cosmopolitan environment of pre-war Paris relatively unmolested by
 narrative stereotyping, using his ‘sense of self’ to expose hypocrisy in
 others. As Klein points out, again, ‘[t]he novel balances Tarr’s nominal
@@ -4113,7 +4120,7 @@ ability to look at life objectively, “from the outside”, and to separate
 his relationship to art from his relationship to sex, against Kreisler’s
 increasingly clear inability to separate art from life and sexuality
 from violence’—similar structures are set up at the expense of other
-characters.[^342] This is not to say that Tarr isn’t subjected to
+characters.[^346] This is not to say that Tarr isn’t subjected to
 implicit criticism and even made to look ridiculous at points; merely
 that these moments are not coded nationally.
 
@@ -4124,19 +4131,19 @@ obtrusive focus on national character. References to nationhood begin in
 the magazine’s very first text, ‘Long Live the Vortex!’, which contains
 the statement that ‘great artists in England are always revolutionary,
 just as in France any really fine artist had a strong traditional
-vein.’[^343] England and France appear again in ‘Manifesto—I’, the
+vein.’[^347] England and France appear again in ‘Manifesto—I’, the
 famous list of things to be ‘blasted’ and ‘blessed’, simultaneously
 occupying both categories, though the blasting of England is undercut by
 the parenthetical phrase ‘from politeness’, positioning it from the
 outset as a modest gesture made by a nation secure enough to make such
-gestures.[^344] The key reference to nationhood in the first issue of
+gestures.[^348] The key reference to nationhood in the first issue of
 *Blast* comes, however, in ‘Manifesto—II’, the more conventional of the
-magazine’s two opening texts.[^345] This piece is concerned explicitly
+magazine’s two opening texts.[^349] This piece is concerned explicitly
 and self-consciously with what it might mean to make radically new art
 in England. ‘We hear from America and the Continent all sorts of
 disagreeable things about England: “the unmusical, anti-artistic,
 unphilosophic country”’ (II.1), writes Lewis, before reversing the
-expected defence: ‘We quite agree’ (II.2).[^346] He goes on to clarify
+expected defence: ‘We quite agree’ (II.2).[^350] He goes on to clarify
 his position:
 
 > 3.  Luxury, sport, the famous English ‘Humour,’ the thrilling
@@ -4156,7 +4163,7 @@ statements such as ‘[t]he Modern World is due almost entirely to
 Anglo-Saxon genius’ (VI.1)—Lewis here develops a negative theory of
 national character: the truly revolutionary artist can only emerge from
 the most stultifying, infertile, old-fashioned environment, as the
-deliberate negation *of* that environment.[^347] Like Tarr, the
+deliberate negation *of* that environment.[^351] Like Tarr, the
 vorticist painter, sculptor or poet is simultaneously English and
 not-English, occupying a privileged position partially inside and
 partially outside national identity—a vantage point which a Frenchman or
@@ -4182,7 +4189,7 @@ Harmless Building* was reissued in revised form in the 1990 Paladin
 collection *Three Variations on the Theme of Harm*. It is Douglas
 Oliver’s only individually-authored prose novel. To an even greater
 extent than *Tarr*, *The Harmless Building* is structured around what
-Laura Steele describes as ‘a rag-tag plot’.[^348] Highly episodic, it is
+Laura Steele describes as ‘a rag-tag plot’.[^352] Highly episodic, it is
 held together both by thematic elements and by the relationships and
 personal concerns of its three main characters: Donald (the ostensible
 protagonist), Rosine and Frank. Chief among these concerns is the
@@ -4193,13 +4200,13 @@ Harmless Building* was written during or shortly after a prolonged stay
 in Paris, and shows a deep but undeferential concern with the latest
 developments in European, and especially French, intellectual culture.
 Chapter 12 begins with ‘seagulls circl[ing] overhead, calling “Jacques
-Lacan, Jacques Lacan”, without giving further details.’[^349]
+Lacan, Jacques Lacan”, without giving further details.’[^353]
 
 The parallels between Lewis’s and Oliver’s work are implicitly
 acknowledged by Prynne in a 1972 letter to Oliver, which consists of an
 extended response to a pre-publication version of *The Harmless
 Building* and which was itself published, in amended form, in
-*Grosseteste Review* the following year.[^350] Describing recent poetic
+*Grosseteste Review* the following year.[^354] Describing recent poetic
 work by Crozier, John James, Tom Phillips, Oliver, and himself, Prynne
 claims that ‘the Anglo team have their teeth really sunk into pain,
 great physical gouts of it, as opposed to the water-colour joys of the
@@ -4221,17 +4228,17 @@ associated with *The English Intelligencer*, and now clustered around
 seems reasonable to assume that Prynne is referring to the so-called New
 York School, particularly poets such as James Schuyler, Kenneth Koch and
 John Ashbery, about whom he had already been thoroughly dismissive in a
-1969 letter to Riley.[^351] This reading is confirmed by Prynne’s
+1969 letter to Riley.[^355] This reading is confirmed by Prynne’s
 subsequent exemption of Frank O’Hara, who, he claims, ‘had that pail of
 serpents [i.e. pain] always in view.’ The *OED* gives the following
 definitions for ‘nympholepsy’: ‘Passion supposedly inspired in men by
 nymphs; an ecstasy or yearning, esp. that caused by desire for something
 unattainable. Also: passion or desire aroused in men by young
-girls.’[^352] Given both the broadly homosexual character of the New
+girls.’[^356] Given both the broadly homosexual character of the New
 York School as a group and the subsequent use of ‘pre-sexual’, it seems
 appropriate to interpret Prynne’s usage in the former sense, with its
 emphasis on abstract unattainability. To summarise in adjectival form,
-then, Prynne counterposes the following:[^353]
+then, Prynne counterposes the following:[^357]
 
   *English*   *French/American*
   ----------- -------------------
@@ -4247,7 +4254,7 @@ Building* is sexual—or, to put it more simply, adult. These terms recall
 Prynne’s description of Zukofsky as ‘adolescent’ and his reference to
 David Grubb’s ‘parochial and *second-hand* youthfulness’ in the letter
 to Riley, the implication being that certain techniques and concerns are
-inappropriate to a writer working in a ‘mature’ tradition.[^354] Oliver
+inappropriate to a writer working in a ‘mature’ tradition.[^358] Oliver
 and Prynne are poets willing to engage with the serious, grown-up
 subject of pain, and to do so with a sharp, clean elegance derived
 partly from Vorticism; Ashbery and others are content to wallow in a
@@ -4263,27 +4270,28 @@ tendons under multiple stress’—he describes his personal assumptions
 when reading it: ‘I started with a Cartesian mind-body manifold,
 extended into a continuous 3-space along the
 memory/intuition/expectation timeline; this produced a three-dimensional
-endocrine hypersurface forming the world tube of the “novel”.’[^355]
+endocrine hypersurface forming the world tube of the “novel”.’[^359]
 Assuming that ‘manifold’ is used in the mathematical rather than the
 mechanical/biological sense—an assumption justified by the close
 proximity of allied terms such as ’3-space’ and ‘hypersurface’—what
 Prynne seems to be suggesting here is that any point in *The Harmless
 Building* can be specified using co-ordinates on the three axes *mind*,
-*body* and *time* (as experienced in ‘memory/intuition/expectation’).
-The clearest example of a manifold is the Earth, a shape which resembles
-Euclidean space at any given point but which requires more than one
-two-dimensional chart to project in full. In Prynne’s example, latitude
-and longitude are apparently replaced by mind and body, before the whole
-shape is extruded along the axis of time, creating a tubular structure
-(see Figure @fig:thb). It is not clear why Prynne uses the term
-‘hypersurface’, which refers to a surface with one fewer dimensions than
-the space in which it exists (e.g. a one-dimensional point on a
-two-dimensional plane, or a two-dimensional plane in a three-dimensional
-space)—it may simply be a terminological mistake. More interesting is
-the word ‘endocrine’, which re-emphasises the bodily nature of the
-structure: different points in the novel are linked to each other in an
-arrangement analogous to the body’s endocrine system, in which glands
-transfer information via hormones secreted into the blood.
+*body* and *time* (the latter divided into
+‘memory/intuition/expectation’). The clearest example of a manifold is
+the Earth, a shape which resembles Euclidean space at any given point
+but which requires more than one two-dimensional chart to project in
+full. In Prynne’s example, latitude and longitude are apparently
+replaced by mind and body, before the whole shape is extruded along the
+axis of time, creating a tubular structure (see Figure @fig:thb). It is
+not clear why Prynne uses the term ‘hypersurface’, which refers to a
+surface with one fewer dimensions than the space in which it exists
+(e.g. a one-dimensional point on a two-dimensional plane, or a
+two-dimensional plane in a three-dimensional space)—it may simply be a
+terminological mistake. More interesting is the word ‘endocrine’, which
+re-emphasises the bodily nature of the structure: different points in
+the novel are linked to each other in an arrangement analogous to the
+body’s endocrine system, in which glands transfer information via
+hormones secreted into the blood.
 
 Having set out this complex model, Prynne proceeds to complicate it
 further by dividing the novel into three sections: a central *récit*
@@ -4298,7 +4306,7 @@ subordination: the *récit* consists of past events which are narrated
 inside the (present) *texte*, with the *hors-texte* being a short
 section in which the author directly addresses the readers, ‘asking all
 of you who have read my book this far to send a donation of some kind to
-[learning disability charity] Mencap’.[^356] Yet even this structure is,
+[learning disability charity] Mencap’.[^360] Yet even this structure is,
 finally, undermined by Prynne, who acknowledges that ‘of course that
 would just (“just”) be a French roman. What you have done is quite
 beyond that in saturnine tenderness, a novel deeply curled in around the
@@ -4326,10 +4334,10 @@ as an unwitting vehicle for the ‘time-machinery’ derived from Bergson:
 ‘there is not very much reflection going on at any time inside the head
 of Mr. James Joyce. That is indeed the characteristic condition of *the
 craftsman*, pure and simple. [… H]e is not so much an inventive
-intelligence as an executant.’[^357] Joyce’s work, for Lewis, is fatally
+intelligence as an executant.’[^361] Joyce’s work, for Lewis, is fatally
 concerned with style—an odd contention for a writer whose own fiction is
 now primarily read for its stylistic innovations, but one which Lewis
-pursues doggedly.[^358]
+pursues doggedly.[^362]
 
 Joyce might indeed be described as the exemplar *par excellence* of what
 Prynne disparages as ‘microrhetoric’: a concern for language’s
@@ -4344,18 +4352,18 @@ successful poetic creation as a deliberate neutralisation of time: ‘time
 is a governing absolute within the process, the immersal in the poem and
 its coming to be; but the achieved kinetics of the thing on the page are
 tensions, which is the idiom of poem as construct or diagram rather than
-passage or transit.’[^359] Assuming something similar may be said to
+passage or transit.’[^363] Assuming something similar may be said to
 operate in the composition of novels, Prynne’s description of *The
 Harmless Building* as a ’3-space’ becomes clearer: while this structure
 includes time as one of its axes, it is a time which has become
 essentially spatialised, made into just one part of a broader system
-which is susceptible to diagrammatic representation.[^360]
+which is susceptible to diagrammatic representation.[^364]
 
 For Lewis, visual art was to be a key model for literature’s adoption of
 space. While Prynne does not compare Oliver’s work directly to painting
 or sculpture, his use of ‘water-colour’ as a dismissive epithet suggests
 a similar attitude, watercolour painting being in the popular
-imagination a weak or feminine version of the ‘real thing’.[^361] This
+imagination a weak or feminine version of the ‘real thing’.[^365] This
 structure helps to clarify what Prynne means by ‘pre-sexual’, which when
 applied to poets of the New York School, as above, effectively decodes
 as ‘homosexual’. Pre-sexuality for Prynne is less a necessary
@@ -4377,7 +4385,7 @@ the evidentially dubious assertion that ‘[t]he more clothes people have,
 and the colder the climate, the more “immoral” they become’ to prop up a
 claim in the opposite direction: ‘attracted by the lure of the
 “immoral”, everybody in the end will be induced to become more moral,
-simply-clothed, well-behaved and inexpensive.’[^362] *Ulysses* is no
+simply-clothed, well-behaved and inexpensive.’[^366] *Ulysses* is no
 more than a pawn in this drive towards titillation and illusory
 immorality: ‘Once you admit the licence that, at the start, Joyce set
 out to profit by, it is surprising how very little “sex” matter there is
@@ -4385,7 +4393,7 @@ in his pages.’ Importantly, Lewis connects the book implicitly both to
 homosexuality and to immaturity by invoking the public school: ‘What is
 there is largely either freudian [*sic*] echoes (they had to enter into
 it), or else it is horse-play of a schoolboy or public-house
-order.’[^363] Like John Ashbery or his English followers, Joyce’s
+order.’[^367] Like John Ashbery or his English followers, Joyce’s
 concern with sexuality is essentially silly, and certainly not worth
 serious critical attention (aside, of course, from Lewis’s own).
 
@@ -4405,17 +4413,17 @@ Yale Review* in 1964, Murdoch attempts to counter a ‘behaviourist,
 existential, and utilitarian’ model of ethics which she considers to be
 pervasive in British philosophy departments, and whose influence she
 attributes to G.E. Moore, though her immediate target is her former
-Oxford colleague Stuart Hampshire.[^364] Central to this attitude is the
+Oxford colleague Stuart Hampshire.[^368] Central to this attitude is the
 idea that we relate to the good not primarily through a process
 analogous to seeing (introspectively or otherwise) but through actions
 in the world. Allied to this is the rule that ‘mental concepts must be
 analyzed genetically’—through back-reference from the actions that they
 occasion—‘and so the inner must be thought of as parasitic on the
-outer.’[^365] Applying this rule rigorously leads to a situation in
+outer.’[^369] Applying this rule rigorously leads to a situation in
 which the concept of a private decision either ceases to be relevant or
 ceases to exist altogether: ‘A decision does not turn out to be […] an
 introspectible moment. The concept has no further inner structure; it
-*is* its outer structure.’[^366]
+*is* its outer structure.’[^370]
 
 Murdoch counters this focus on action by means of an example. M, a
 mother, dislikes D, her daughter-in-law. M nevertheless behaves
@@ -4426,24 +4434,24 @@ changed opinion. From the behaviourist-existentialist-utilitarian
 standpoint, this state of affairs can only have meaning in a
 hypothetical sense: ‘M’s vision of D has altered *means* that *if* M
 were to speak her mind about D now she would say different things from
-the things she would have said three years ago.’[^367] But, as Murdoch
+the things she would have said three years ago.’[^371] But, as Murdoch
 points out, ‘[t]he truth of the hypothetical proposition could be
 consistent with nothing in the interim having occurred in M’s mind at
 all’, while in this particular case something clearly has
-occurred.[^368] Murdoch spends the remainder of the paper in an attempt
+occurred.[^372] Murdoch spends the remainder of the paper in an attempt
 to rehabilitate metaphors of vision—and particularly of attention, a
 concept which she takes from Simone Weil—in moral discourse: ‘What M is
 *ex hypothesi* attempting to do is not just to see D accurately but to
 see her justly or lovingly. […] Freedom is not the sudden jumping of the
 isolated will in and out of an impersonal logical complex, it is a
-function of the progressive attempt to see the object clearly.’[^369]
+function of the progressive attempt to see the object clearly.’[^373]
 Crucially, she goes on to connect this ethical stance, in which
 attention is compelled by ‘a kind of “necessity”’ in the object, to an
 aesthetic one: ‘This is something of which saints speak and which any
 artist will readily understand. The idea of a patient, loving regard,
 directed upon a person, a thing, a situation, presents the will not as
 unimpeded movement but as something very much more like
-“obedience.”’[^370]
+“obedience.”’[^374]
 
 Returning to Prynne’s comments on *The Harmless Building*, it is now
 possible to interpret his statement about ‘the risk throughout [… g]oing
@@ -4461,15 +4469,15 @@ Oliver’s ‘patient, loving regard’ for the aesthetic object. This object
 can be read, through the novel’s first chapter and its dedication (‘For
 Tom’) as a baby: ‘I should love to keep a mongol baby alive in my mind,
 an outgoingness and kindness, a lack of coherence, an area of almost
-no-harm like a clearing in the middle of harm.’[^371] Yet it can just as
+no-harm like a clearing in the middle of harm.’[^375] Yet it can just as
 easily be interpreted as a sexual partner, a reading seemingly
 encouraged by Chapter 15: ‘I’m talking to you. You were Rosine all
-along; you knew that. I love you.’[^372] In fact, it is not necessary to
+along; you knew that. I love you.’[^376] In fact, it is not necessary to
 specify a single object, providing that Oliver relates to the novel’s
 series of objects in the mode of ‘necessity’ and ‘obedience’ specified
 by Murdoch. ‘Attention worked out so closely does not often attain to a
 condition of truth’, writes Prynne, implying that, in this case at
-least, it does.[^373]
+least, it does.[^377]
 
 iv. Edward Upward
 -----------------
@@ -4492,10 +4500,10 @@ of his British namesake:
 > hadn’t just before that finished off a Project of my own. Upward was
 > the vanished intelligence behind the Auden-Isherwood group; his
 > disgust with the opportunistic pragmatism of English communist party
-> policy seems to me very strikingly clear-minded.[^374]
+> policy seems to me very strikingly clear-minded.[^378]
 
 \noindent This is a relatively conventional description of Upward’s
-position in British literary culture in the mid 1970s.[^375] Like
+position in British literary culture in the mid 1970s.[^379] Like
 Wyndham Lewis, little more than two decades his senior, Upward has been
 overshadowed by more famous friends and associates, most notably his
 close friend at school and university, Christopher Isherwood. This
@@ -4503,7 +4511,7 @@ neglect is generally attributed to a long period of literary silence
 coinciding with his membership of the British Communist Party: Upward
 published no major work between the Second World War and the early
 1960s, when *In the Thirties* (1962), the first volume of the trilogy
-which includes *The Rotten Elements*, was printed.[^376] Shoring up this
+which includes *The Rotten Elements*, was printed.[^380] Shoring up this
 characterisation, the semi-autobiographical trilogy—published in full as
 *The Spiral Ascent* in 1977—takes the conflict between its protagonist’s
 political commitments and his literary ambitions as its central theme.
@@ -4516,14 +4524,14 @@ increasingly disenchanted with what he sees as a drift away from
 orthodox Leninism by the Party leadership following the war. His
 attempts to counter this tendency lead to his expulsion, along with his
 wife, an event which forms the pivotal moment of *The Rotten
-Elements*.[^377] In the final volume, *No Home But the Struggle*, a
+Elements*.[^381] In the final volume, *No Home But the Struggle*, a
 retired Sebrill reflects simultaneously on his childhood and on his
 current involvement with the Campaign for Nuclear Disarmament (CND).
 Towards the end of the novel, he finally reaches a state of
 reconciliation between poetry and politics, and the book ends
 self-referentially with Upward’s stand-in having completed his own great
 work, ‘the poem which I have been working on for six years and have
-written the final lines of today’.[^378] Describing *The Rotten
+written the final lines of today’.[^382] Describing *The Rotten
 Elements*, Prynne once again makes use of the term ‘pre-sexual’: ‘I’m
 glad I can see well past [Upward’s] political dilemma for the poet, but
 I’m glad I can see what the dilemma is, without the paranoid pre-sexual
@@ -4562,7 +4570,7 @@ and consensually subordinated to politics:
 >  ‘You always were a loyal feminist, dear.’\
 >  ‘But at present monogamy seems best.’ He put his arm gently around
 > her. She said: ‘To be perpetually looking for new sex-partners must be
-> such a drain on energy when there’s so much else to do.’[^379]
+> such a drain on energy when there’s so much else to do.’[^383]
 
 \noindent Divorced from its context, this passage risks taking on an
 ironic tone which it does not possess in the original narrative, where a
@@ -4580,18 +4588,18 @@ arrangement justified as a system of eminently sensible ‘compensations’.
 This acceptance of reproductive monogamy through a sort of sexual
 pragmatism conforms almost exactly to Prynne’s concern for the adult and
 mature, as opposed to the nympholeptic and pre-sexual, that has already
-been described.[^380]
+been described.[^384]
 
 One month prior to the letter to Dorn mentioned above, Prynne sent a
 copy of Upward’s short story ‘Sunday’ to the poet Barry MacSweeney,
 along with a single sheet of paper reading ‘[w]ith the ivory tower
-keeper’s compliments’.[^381] Written as far back as 1931, this story was
+keeper’s compliments’.[^385] Written as far back as 1931, this story was
 first published in Michael Roberts’s celebrated *New Country* anthology
 in 1933; in Upward’s own words, it follows ‘an office-worker who dreads
 returning to work on Monday. His thoughts begin on a neurotic and
 self-centred note, and end with his decision to contact the workers’
 movement, in other words, the local Communist Party, and to devote
-himself to a cause outside himself.’[^382] The publication history,
+himself to a cause outside himself.’[^386] The publication history,
 however, is more relevant than the story’s content. Having appeared in
 Roberts’s anthology, it was not printed again until 1969, when Heinemann
 published *The Railway Accident and Other Stories*, a retrospective of
@@ -4602,7 +4610,7 @@ Elements* and *The Railway Accident* at roughly the same time, a few
 years after his comments on *The Harmless Building*. (That Prynne was
 still heavily invested in Oliver’s work by this point is confirmed by
 correspondence throughout 1974, as well as by a mention of Oliver
-directly after the passage on Upward in his letter to Dorn.[^383]) Any
+directly after the passage on Upward in his letter to Dorn.[^387]) Any
 similarities between the two writers will therefore be of particular
 significance, especially in light of the terminological recurrence
 considered above. In fact, there is a very specific similarity—in all
@@ -4615,12 +4623,12 @@ fantasy world. Stemming from a series of in-jokes about shared
 acquaintances and the university environment, this project—described by
 Katherine Bucknell as ‘an elaborate imaginative game’—eventually took
 shape as a fictional village, Mortmere, peopled by a shifting cast of
-variously sinister and bizarre characters.[^384] ‘The Railway Accident’
+variously sinister and bizarre characters.[^388] ‘The Railway Accident’
 is the most accomplished story to emerge from this long-running ‘game’;
 as Isherwood describes it in an introduction printed in *New Directions*
 11, ‘it is the last and longest of the Mortmere stories—a farewell to
 Mortmere, which left Chalmers [Upward’s pseudonym] free to develop his
-extraordinary technique in other, more fruitful directions.’[^385] The
+extraordinary technique in other, more fruitful directions.’[^389] The
 story is narrated in a highly metaphorical, almost surrealist fashion,
 which contrasts sharply with the austere prose of Upward’s later work. A
 journey to Mortmere by train is interrupted by the accident of the
@@ -4641,7 +4649,7 @@ Upward:
 > vacant window. Frog-sprawling bodies fumed in blazing reeds. The
 > architrave of the tunnel crested with daffodils fell compact as hinged
 > scenery. Tall rag-feathered birds with corrugated red wattles limped
-> from holes among the rocks.[^386]
+> from holes among the rocks.[^390]
 
 > Everyone got out, never minding the bad weather that met them, more
 > concerned that the whole rear of the train had reprehensibly failed in
@@ -4654,7 +4662,7 @@ Upward:
 > like a dog no longer interested in the night’s orgy. Donald’s famous
 > locust gesture came upon him again, cracking his joints, which exuded
 > darkness as the carriages cocked up and uttered that portentous
-> wailing.[^387]
+> wailing.[^391]
 
 \noindent Perhaps the most obvious points of comparison here are the
 twin sexual metaphors, both expressed through reference to animals:
@@ -4666,7 +4674,7 @@ carriages ‘telescoped’ on impact.
 
 The frequency of rail accidents in Britain over the course of the 20th
 century means that any claim of direct literary influence will have to
-vie with that of the real world.[^388] Nevertheless, there is a broader
+vie with that of the real world.[^392] Nevertheless, there is a broader
 similarity between Upward’s early work and *The Harmless Building*,
 which—when combined with the 1969 publication date of *The Railway
 Accident and Other Stories*—makes a direct connection more likely. On
@@ -4674,12 +4682,12 @@ the most basic level, Upward and Oliver share an interest in provincial,
 and particularly coastal, English settings. Much of *The Harmless
 Building* is set in ‘a town on the south coast of England’, while
 Mortmere borders the Atlantic Ocean and Upward’s later work maintains a
-fixation on the Isle of Wight.[^389] More important, however, are the
+fixation on the Isle of Wight.[^393] More important, however, are the
 stylistic affinities between the two authors. As mentioned above,
 Mortmere is an environment constructed primarily from the eccentricities
 of its characters, ‘all dream-distortions of classic English types’,
 whose slight deviations from expected behaviour set up much of the
-village’s uncanny atmosphere.[^390] The same can be said of the
+village’s uncanny atmosphere.[^394] The same can be said of the
 nightmarish figures who *The Harmless Building*’s main
 characters—Donald, Frank and Rosine—meet in the course of the novel’s
 increasingly disturbing plot: principally McFarlane, the inappropriately
@@ -4694,10 +4702,10 @@ Railway Accident’ quoted above is far from being the only point at which
 the body is projected on to the story’s surrounding environment: in one
 memorable example, which might prove useful to a study of the latent
 misogyny in much of Upward’s work, gasometers are compared to the
-’stumps of semi-amputated breasts’.[^391] Sex *per se* enjoys a liminal
+’stumps of semi-amputated breasts’.[^395] Sex *per se* enjoys a liminal
 status in Mortmere, and is invariably deviant: the initial draft of ‘The
 Railway Accident’ contained a scene involving the rape of a choirboy,
-but was expurgated prior to publication.[^392]
+but was expurgated prior to publication.[^396]
 
 If *The Harmless Building* and ‘The Railway Accident’ can be said to
 resemble each other, both on the level of content and stylistically, it
@@ -4706,13 +4714,13 @@ metaphorical style of Lewis’s *Tarr*—which Fredric Jameson identifies
 more precisely as a self-referential slippage between metaphor and
 metonymy—was described above, as was its reliance on bizarre,
 ‘cardboard’ characters, both features deployed by Oliver and
-Upward.[^393] There are other works in Lewis’s *oeuvre* which track even
+Upward.[^397] There are other works in Lewis’s *oeuvre* which track even
 more closely to this vein. Chief among these is *The Wild Body*, a
 collection of short stories which was first published by Chatto & Windus
-in 1927, though it was nearing its final form as early as 1919.[^394]
+in 1927, though it was nearing its final form as early as 1919.[^398]
 Prynne mentions the collection in a September 1967 letter to Riley,
 claiming that it is ‘better than’ Lewis’s more famous novel *The Revenge
-for Love* (1937), without providing further details.[^395]
+for Love* (1937), without providing further details.[^399]
 
 The themes and techniques of the stories in *The Wild Body* are
 helpfully set out by Lewis himself in two explanatory pieces printed
@@ -4724,13 +4732,13 @@ of unilateral, authoritative will. In the first of his explanatory
 pieces, ‘Inferior Religions’, Lewis reverses conventional conceptions of
 human agency, describing his characters as ‘creaking men machines’,
 which are ‘worked’ by ‘some little restaurant or fishing-boat’ (the
-stories are set primarily in rural Brittany and Spain).[^396] Apparently
+stories are set primarily in rural Brittany and Spain).[^400] Apparently
 familiar human action is made strange by the revelation of the framework
 of possibility and repetition in which it takes place: ‘The wheel at
 Carisbrooke imposes a set of movements upon the donkey inside it, in
 drawing water from the well, that it is easy to grasp. But in the case
 of a hotel or fishing-boat, for instance, the complexity of the rhythmic
-scheme is so great that it passes as open and untrammelled life.[^397]
+scheme is so great that it passes as open and untrammelled life.[^401]
 In the following piece, describing the role of humour in the stories,
 Lewis quotes William James on the fundamental absurdity of the body:
 
@@ -4739,7 +4747,7 @@ Lewis quotes William James on the fundamental absurdity of the body:
 > thing to make children scream at, as Stevenson says), of one’s
 > fantastic character and all, to have the wonder steal over the detail
 > as much as over the general fact of being, and to see that it is only
-> familiarity that blunts it.’[^398]
+> familiarity that blunts it.’[^402]
 
 \noindent The connection to *The Harmless Building* here is clear: just
 like Lewis, Oliver shows a consistent concern with the defamiliarising,
@@ -4750,28 +4758,28 @@ cornet. Only the cornet wasn’t straight. Each leg was more like a
 penknife with one blade open’; ‘His body was composed of three rams’
 heads on a totem pole: 1. his real face; 2. his shoulders and their long
 face-torso, with nipple eyes and a “these sweets are a bit sour” navel
-mouth; 3. a dwarf genital face with a long nose.’[^399]
+mouth; 3. a dwarf genital face with a long nose.’[^403]
 
 In accordance with the roughly triangular structure identified in this
 chapter’s introduction, this tendency does not map quite as clearly on
 to Upward’s work, though Upward himself claims that ‘a certain
 inhumaneness in the descriptions of the personal appearances of Mr
 Parkin and McCreath and others in J. to the B. [*Journey to the Border*]
-I caught from Lewis.’[^400] If Oliver is excluded, however, there is a
+I caught from Lewis.’[^404] If Oliver is excluded, however, there is a
 much stronger point of comparison to be found. As with Mortmere, Lewis’s
 stories are fundamentally comic. This is made clear in the two
 explanatory pieces discussed above, in which Lewis attempts to set out a
 basic theory of comedy—or, more accurately, laughter. Lewis contends, in
 line with his comments on ‘creaking men machines’, that ‘[t]he root of
 the Comic is to be sought in the sensations resulting from the
-observations of a *thing* behaving like a person.’[^401] As such, his
+observations of a *thing* behaving like a person.’[^405] As such, his
 characters are ‘puppets’: ‘I would present these puppets, then, as
 carefully selected specimens of religious fanaticism. With their
 attendant objects or fetishes they live and have a regular food and
 vitality. […] Their mechanism is a logical structure and they are
-nothing but that.’[^402] One of the many definitions of laughter given
+nothing but that.’[^406] One of the many definitions of laughter given
 by Lewis is as a ‘thunderbolt’ accompanying the fleeting recognition of
-oneself as just such a puppet.[^403]
+oneself as just such a puppet.[^407]
 
 The characters of Mortmere appear to conform to Lewis’s model, their
 interactions determined by a ‘logical structure’ composed of diverse
@@ -4795,11 +4803,11 @@ world that they are attempting to describe. As Isherwood notes,
 > Hearn, the ‘I’ of the narrative, is just as crazy as the people he
 > describes. Indeed, he may be crazier—for we begin to suspect that this
 > entire journey and its sequel may be taking place only in his own
-> imagination.[^404]
+> imagination.[^408]
 
 \noindent Or, in Lewis’s more ambiguous definition, ‘[s]atire is the
 great Heaven of Ideas, where you meet the titans of red laughter; it is
-just below intuition, and life charged with black illusion.’[^405]
+just below intuition, and life charged with black illusion.’[^409]
 
 v. ‘The *Plant Time Manifold* Transcripts’
 ------------------------------------------
@@ -4812,10 +4820,10 @@ himself which has a reasonable claim to the form. ‘The *Plant Time
 Manifold* Transcripts’ was first published in *Grosseteste Review* in
 1974; it is thus roughly contemporaneous with the Penguin edition of
 *The Railway Accident*, *The Harmless Building* and Prynne’s letter to
-Oliver, as well as sharing a publisher with the latter two.[^406] Early
+Oliver, as well as sharing a publisher with the latter two.[^410] Early
 ideas for the text had been worked out in a series of letters to Ed
 Dorn, which appeared in modified form as reports in *Bean News* in
-1972.[^407] The *PTM* is presented for the most part as an account of a
+1972.[^411] The *PTM* is presented for the most part as an account of a
 scientific conference on the ‘Plant Time Manifold’ of its title, which
 can be roughly summarised as the idea that plants’ bi-directional
 vertical movement (roots downward, shoots upward) implies the need for a
@@ -4832,12 +4840,12 @@ Whereas Justin Katko, in the most detailed account to date, reads the
 *PTM* on the most literal level, taking the text as one which ‘knows
 itself to constitute actual scientific thinking’, this reading will pay
 deliberate attention to its fictional aspects, something which scholars
-of Prynne’s work have so far been reluctant to do.[^408] This is not to
+of Prynne’s work have so far been reluctant to do.[^412] This is not to
 contradict Katko’s explicit and strongly argued claim that the science
 of the work should be taken seriously, but it is to temper his
 subsequent contention that ‘any projection of irony or satire onto the
 core propositions of this treatise would be detrimental to a clear-eyed
-grasp of the hypothesis’.[^409] While we might well agree that any such
+grasp of the hypothesis’.[^413] While we might well agree that any such
 ‘projection’ would be unwarranted, it is possible to deny that what
 other critics have performed is a projection at all. Real science may be
 embedded within a fictional frame, and the frame itself may be worthy of
@@ -4849,17 +4857,17 @@ frame is not locked in until the end of “Full Tilt Botany,” where we
 enter the diegetic framework of the actual *PTM* conference’—in other
 words, the initial stages of the text are presented more or less
 transparently as Prynne’s own discourse, or at least as that of his
-pseudonym, Erasmus W. Darwin.[^410] Nevertheless, the decision to expand
+pseudonym, Erasmus W. Darwin.[^414] Nevertheless, the decision to expand
 the frame in the compiled version, beginning the text as
 reportage—‘Today’s session of the London PTM Conference’—clearly
 authorises the interpretation of the whole work as fictional, if only as
-one reading among others.[^411]
+one reading among others.[^415]
 
 Perhaps the most obvious sense in which the *PTM* may be compared to the
 work of Lewis, Oliver and Upward is in its use of humour. However
 serious its scientific content, the *PTM* is a fundamentally comic text;
 Drew Milne goes so far as to claim that it ‘contains moments of
-undergraduate knockabout’.[^412] Crucially, the methods through which
+undergraduate knockabout’.[^416] Crucially, the methods through which
 this humour is generated share much with those of the writers considered
 above. Prynne’s characters, for instance, are completely lacking in
 depth: like Lewis’s Breton peasants in *The Wild Body*, they are
@@ -4876,20 +4884,20 @@ fictional part of the text, it will be worth considering in detail.
 
 The section follows Lichen’s initial paper and is presented as a
 transcript from a seminar attended by Lichen, Cypress and ‘a small group
-of co-workers’ following ‘a prolonged lunch’.[^413] Cypress, ‘relax[ing]
+of co-workers’ following ‘a prolonged lunch’.[^417] Cypress, ‘relax[ing]
 the formalities’, asks Lichen a question about ‘root uptake of organic
 compounds in the, er, higher plants’, a hierarchical term at which
-Lichen—not being a ‘higher plant’ himself—takes offence.[^414] Lichen
+Lichen—not being a ‘higher plant’ himself—takes offence.[^418] Lichen
 embarks on a long and increasingly ill-tempered rant, with Cypress
 attempting to intervene, before ‘collaps[ing] into a rosette on the
 desk’, having ‘during the previous (“convivial”) lunch taken in a good
-deal of liquid refreshment.’[^415] Of the texts considered above, the
+deal of liquid refreshment.’[^419] Of the texts considered above, the
 one which this section most closely resembles is Upward’s ‘The Railway
 Accident’. Like most of Upward’s Mortmere stories, it is dialogue-heavy,
 involving a rapid back-and-forth between two characters (though unlike
 parts of ‘The Railway Accident’, Prynne avoids confusion by repeating
 the characters’ names in the dialogue: ‘Well, Dr Cypress’; ‘Oh indeed
-yes, Professor Lichen’).[^416] The characters themselves, though
+yes, Professor Lichen’).[^420] The characters themselves, though
 nominally plants, are recognisably upper-middle class Englishmen of
 exactly the sort that populate Mortmere, and as in many of the Mortmere
 stories—though not ‘The Railway Accident’—their conversation is given
@@ -4899,7 +4907,7 @@ structure according to which a seemingly benign surface narrative
 conceals an obscure and potentially violent undercurrent. In fact, this
 is made clear by the narrator, for whom ‘the incident […] remains
 indicative of important biometric tensions underlying this London
-conference.’[^417]
+conference.’[^421]
 
 An even stronger resemblance can be found between this particular
 section of the *PTM* and a work which falls firmly outside the nexus
@@ -4909,12 +4917,12 @@ to characterise the *PTM* solely as academic satire: while the
 conference setting is important, it remains a frame for the action which
 takes place within it. Even so, and despite its avant-garde credentials,
 it seems clear that the *PTM* owes something to the British campus
-novel, a genre whose two most famous examples—Kingsley Amis’s *Lucky
-Jim* (1954) and David Lodge’s *Changing Places* (1975)—sit roughly at
-either end of this thesis’s chronological scope. The most instructive
-point of comparison is Chapter 22 of Amis’s novel, which forms the comic
-climax of the book. Having repeatedly steadied his nerves with whisky
-and sherry, the protagonist, Jim Dixon—a member of academic staff at a
+novel, two prominent examples of which—Kingsley Amis’s *Lucky Jim*
+(1954) and David Lodge’s *Changing Places* (1975)—sit roughly at either
+end of this thesis’s chronological scope. The most instructive point of
+comparison is Chapter 22 of Amis’s novel, which forms the comic climax
+of the book. Having repeatedly steadied his nerves with whisky and
+sherry, the protagonist, Jim Dixon—a member of academic staff at a
 provincial university—gives a public lecture on the topic ‘merrie
 England’. Just as in the *PTM*, the lecture begins relatively normally
 but quickly degenerates. Where Lichen’s descent into drunkenness is
@@ -4924,14 +4932,14 @@ unconsciously he began to adopt an unnameable foreign accent and to read
 faster and faster, his head spinning. […] He began punctuating his
 discourse with smothered snorts of derision. He read on, spitting out
 the syllables like curses, leaving mispronunciations, omissions,
-spoonerisms uncorrected’.[^418] Nevertheless, intoxication is in both
+spoonerisms uncorrected’.[^422] Nevertheless, intoxication is in both
 cases signified by changes in speech. Dixon does not finally collapse
 like Lichen, but it is made clear that he is not far from it (‘He paused
 and swayed; the heat, the drink, the nervousness, the guilt at last
 joined forces in him’), and his behaviour is certainly ‘indicative of
 important […] tensions’—principally his fraught relationship with his
 senior colleague, Professor Welch, whose voice Dixon accidentally
-imitates in the course of the lecture.[^419]
+imitates in the course of the lecture.[^423]
 
 Before connecting the *PTM* more directly to the work of Oliver and
 Lewis, it is worth considering the academic aspect of the text in more
@@ -4948,7 +4956,7 @@ which the *PTM* was composed that allows the academy to cross the gap
 from context to content? It appears easy to dismiss this question by
 referring to the *PTM*’s origins in the satirical newspaper *Bean News*,
 in which Prynne’s character Erasmus W. Darwin had already been
-established as a scholar, if not strictly as an academic.[^420] Yet all
+established as a scholar, if not strictly as an academic.[^424] Yet all
 this really serves to do is to the push the question back a couple of
 years, from the time of the publication of the *PTM* as such in 1974 to
 the beginning of Prynne’s reports for *Bean News* in 1972. An answer
@@ -4957,13 +4965,13 @@ policy, either: in stark contrast to her period as Prime Minister,
 Margaret Thatcher’s 1970–74 tenure as Education Secretary saw British
 universities remain comparatively untouched—her written statement at the
 launch of the 1972 Education White Paper spent more space on teacher
-training than on the entirety of higher education.[^421] What, then, of
+training than on the entirety of higher education.[^425] What, then, of
 the micro level, that of Prynne’s individual career?
 
 In 1972, Prynne became a University Lecturer, having previously only
 held positions at his own college, Gonville and Caius. Writing to Dorn,
 he emphasised that the role came with ‘something close to tenure if I
-want it’.[^422] As might be expected, this appointment seems to have
+want it’.[^426] As might be expected, this appointment seems to have
 entailed a considerable increase in his professional responsibilities.
 Writing to Dorn again in 1975, in a notably untidy hand, Prynne gives a
 powerful account of the stresses of combining academic work with
@@ -4973,7 +4981,7 @@ childcare:
 > into this stupid spiral and I must never do it again. But until this
 > bloody term is over I can do *nothing* […]. When*ever* you ring I am
 > working with some eager creep, when I finish it’s never before 4 a.m.,
-> it’s a treadmill […].[^423]
+> it’s a treadmill […].[^427]
 
 \noindent Married with two young children and having recently bought a
 house, it is perhaps not so difficult to see why Prynne would in his
@@ -5039,7 +5047,7 @@ through successive metonymic expansions (from the torso and genitals to
 the body as a whole) and contractions (from the body back down to the
 face). In the case of the torso-face comparison, this operation works
 along a pre-existing aesthetic path laid down by such works as the
-paintings in René Magritte’s *Le Viol* (‘The Rape’) series.[^424]
+paintings in René Magritte’s *Le Viol* (‘The Rape’) series.[^428]
 
 The metaphorical implications of the *PTM* with regard to the human body
 similarly fail to conform to the simple animate/inanimate
@@ -5063,14 +5071,14 @@ broad category, or that the only character definitely identified as a
 woman represents the narrowest? What is the significance of sexual
 identification at all—including, in lines such as ‘Dr G flashed a sweet
 smile’, what seems like flirting—in relation to organisms which are only
-rarely dioecious (having separate male and female plants)?[^425] On a
+rarely dioecious (having separate male and female plants)?[^429] On a
 more troubling level, if the characters are to be understood as plants,
 then are they experimenting on their own kind? or is, for example,
 Lichen’s work on beans intended to mirror human experimentation on other
 mammals? Is the apparent lack of a clear hierarchical relationship
 between scientist and subject, lichen and beans, cause for concern, or
 does it in fact give the lie to human prejudices based on evolutionary
-complexity?[^426] To ask such questions is not to ‘over-read’ an
+complexity?[^430] To ask such questions is not to ‘over-read’ an
 essentially comic text, but rather to treat the *PTM*’s fictional frame
 with the same seriousness that critics have used in analysing its
 scientific content.
@@ -5081,8 +5089,8 @@ scene discussed above. Beginning at the conclusion of Lichen’s paper,
 this scene includes the first significant use of verbs to describe
 characters’ actions, the only previous instance being the statement in
 the introductory paragraph that the paper was ‘delivered by Professor
-Quondam Lichen’.[^427] The paper having been delivered, Lichen is
-greeted with ‘polite, photosynthetic applause.’[^428] Immediately, plant
+Quondam Lichen’.[^431] The paper having been delivered, Lichen is
+greeted with ‘polite, photosynthetic applause.’[^432] Immediately, plant
 (photosynthesis) and human (applause) are confused, with no guidance
 given on how to interpret the resulting compound, though the mention of
 photosynthesis perhaps suggests plants clapping their leaves. The
@@ -5093,15 +5101,15 @@ course of Lichen’s drunken rant, the pendulum seems to swing from human
 back to plant action: defending the status of lichens as a class, the
 professor describes ‘seeing trees *held up* by their Lichen canopies’, a
 statement in which the capitalisation of ‘lichen’ reintroduces the
-problems of naming which have already been described.[^429] Dismissing
+problems of naming which have already been described.[^433] Dismissing
 carrots, he further alleges that ‘those crowlin’ creatures will
 metabolise anything, phagocytic riff-raff’, a statement which obviously
 takes its points of reference from the plant kingdom, despite humans
-also being able to ‘metabolise’.[^430] Finally, Lichen’s collapse after
+also being able to ‘metabolise’.[^434] Finally, Lichen’s collapse after
 having ‘taken in a good deal of liquid refreshment’ is clearly meant to
 recall alcoholic intoxication, yet the lack of an explicit statement to
 that effect leaves open the possibility of a more plant-appropriate
-explanation.[^431]
+explanation.[^435]
 
 In the course of the *PTM*’s narrative sections, Prynne is clearly
 concerned to blur the boundary between human and plant, refusing to
@@ -5128,7 +5136,7 @@ writes Kenner.
 > look of people, then we may suspect a chasm between affrontive reality
 > and literature’s suave procedures. Bestre is not so much ushered on to
 > the page, as relentlessly looked at, between discharges of metaphoric
-> shells.[^432]
+> shells.[^436]
 
 \noindent The ‘tensions underlying this London conference’ might, then,
 be glossed as the natural conflicts which emerge from any attempt by
@@ -5140,20 +5148,20 @@ on carrots, he comes out with the ambiguously patrician/meritocratic
 statement that ‘any natural fool would make a clever fellow, if he was
 properly brought up’, before revealing another prejudice: ‘though for
 them worm-infested tubers it’s mostly *down*, unsaturated carbon chains
-of the most naive kind’.[^433] If, having followed his argument so far,
+of the most naive kind’.[^437] If, having followed his argument so far,
 we bridle at Lichen’s denigration of tubers, why should we retain a
 similarly arbitrary prejudice placing humans in ethical superiority to
-plants?[^434] In this sense, the *PTM* uses the metaphorical techniques
+plants?[^438] In this sense, the *PTM* uses the metaphorical techniques
 of literary fiction—techniques similar to those used by Oliver and
 Lewis—temporarily to tap into a wider constellation of early-1970s
 concerns, characterised by the emerging environmental movement in
-general and the controversy around plant sentience in particular.[^435]
+general and the controversy around plant sentience in particular.[^439]
 
 This controversy is epitomised by Peter Tompkins and Christopher Bird’s
 *The Secret Life of Plants* (1973), which appeared in the year between
 Prynne’s contributions to *Bean News* and the publication of the
 compiled *PTM*, though excerpts had been included in the November 1972
-issue of *Harper’s Magazine*.[^436] In this engagingly written but
+issue of *Harper’s Magazine*.[^440] In this engagingly written but
 academically questionable work, the authors summarise the alleged
 findings of a number of independent researchers into plant intelligence,
 going on to discuss the implications of these results for humanity’s
@@ -5173,7 +5181,7 @@ forms the factual basis for Prynne’s plant time hypothesis:
 > Steiner, who took the trouble to watch plants, discovered that they
 > grow in opposite directions, partly burrowing into the ground as if
 > attracted by gravity, partly shooting up into the air as if pulled by
-> some form of antigravity, or levity.[^437]
+> some form of antigravity, or levity.[^441]
 
 For all Katko’s emphasis on the absolute seriousness of the *PTM*, a
 tension between ‘gravity’ (the scientific hypothesis) and ‘levity’ (the
@@ -5183,8 +5191,8 @@ That Prynne, like Oliver, is aware of the specific power wielded by
 partial or ambiguous metaphors—the comparison between plants and humans
 in the *PTM* being a paradigmatic example—can be seen by turning to a
 recent prose work, *Graft and Corruption: Shakespeare’s Sonnet 15*
-(2015), which also deals with the plant kingdom. Despite fitting into
-the sequence of Prynne’s post-2001 commentaries on Shakespeare,
+(2015), which also deals with the plant kingdom.[^442] Despite fitting
+into the sequence of Prynne’s post-2001 commentaries on Shakespeare,
 Wordsworth and George Herbert—a category which arguably also includes
 2014’s *Concepts and Conception in Poetry*, a study of Wordsworth and
 Wallace Stevens—*Graft and Corruption* has origins closer to the period
@@ -5192,19 +5200,19 @@ of this thesis, though not strictly within it: according to a note on
 the text, ‘[t]his lecture, originally given in the Faculty of English at
 Cambridge University in around the late 1970s-early 1980s, has been more
 recently (2015) somewhat extended, though its main arguments have not
-been altered and its references have not been updated.’[^438] Here,
+been altered and its references have not been updated.’[^443] Here,
 Prynne offers an exemplary technical reading of Shakespeare’s poem,
 drawing on extensive research into the early modern understanding of
 horticultural grafting—the artificial attachment of a fresh shoot or
 ’scion’ from one plant to the ‘stock’ of another—to provide a new
 interpretation of the sonnet’s final two lines, ‘And all in war with
-Time for loue of you | As he takes from you, I ingraft you new.’[^439]
+Time for loue of you | As he takes from you, I ingraft you new.’[^444]
 Beginning with a discussion of the soul, Prynne notes that ‘the
 apparently generalising usage of “thing” in line one [’When I consider
 euery thing that growes’] disguis[es] the decisive recognition that,
 while men and plants are alike technically *things that grow*, the
 difference is that man’s soul traditionally does not grow but is the
-immortal part immune to physical time.’[^440] The grafting operation
+immortal part immune to physical time.’[^445] The grafting operation
 desired by Shakespeare’s speaker is therefore aberrant from what Prynne
 presents as the conventional Christian perspective, seeking to prolong
 the life of the body rather than that of the soul. The technicalities of
@@ -5216,7 +5224,7 @@ out,
 > species; and the grafter. The last two need give little trouble, since
 > the grafter is the poet-lover and the scion is the image of the
 > beloved in his youthful beauty and perfection. But what is the
-> stock?[^441]
+> stock?[^446]
 
 Prynne’s candidate is the poem itself, or the sequence of poems which
 makes up the *Sonnets*. Yet this possibility introduces a tension
@@ -5233,10 +5241,10 @@ metaphoric device cannot be envisaged in any way literally or as
 intelligible to the mind’s eye’—might be part of a deliberate strategy
 of self-sabotage, causing the structure of the poem to fail at its apex
 in order to reveal something more profound about the nature of desire
-and its (non)fulfilment.[^442] Is it possible, he asks, ‘that the image
+and its (non)fulfilment.[^447] Is it possible, he asks, ‘that the image
 will not work quite seriously enough to be taken seriously; and
 deliberately thus, as to take it with full seriousness would be to
-discover that it could not work at all?’[^443]
+discover that it could not work at all?’[^448]
 
 How, then, does Prynne’s argument in *Graft and Corruption* relate to
 the subjects which were identified at the beginning of this section,
@@ -5252,7 +5260,7 @@ instance, with a stinging critique of his work, Prynne refers to ‘the
 fashionable French intellectual, more than content with the sawdust of
 rhetoric in place of the true honie & gall on the lips of the poet’—a
 poet who, as the archaic orthography of the proverbial ‘honey and gall’
-suggests, is English by default.[^444] There seems at first glance to be
+suggests, is English by default.[^449] There seems at first glance to be
 a ready-made counterpart to this structure in the opposition between
 natural growth and grafting. Natural growth shares all the qualities
 implicitly promoted by Prynne: it is the product of sexual reproduction
@@ -5268,7 +5276,7 @@ place, then they will not even need to sexually reproduce themselves.
 The connection is more than conceptual: at one point in the text, Prynne
 notes that ‘[i]n earlier literary usage, often allegorical, the
 characteristic term for scion is *ympe*’, a word with a pleasing
-similarity, if not a direct etymological connection, to *nymph*.[^445]
+similarity, if not a direct etymological connection, to *nymph*.[^450]
 
 Prynne’s argument in *Graft and Corruption* is, however, too subtle to
 conform to the strict correspondence described above. Having raised the
@@ -5283,13 +5291,13 @@ provide the ‘traditional defence’ of artifice:
 > And make conceyue a barke of baser kinde\
 > By bud of Nobler race. This is an Art\
 > Which do’s mend Nature: change it rather, but\
-> The Art it selfe, is Nature.[^446]
+> The Art it selfe, is Nature.[^451]
 
 The supposedly persuasive appeal to tradition in this argument in fact
 renders it unconvincing, not least to its intended fictional recipient,
 Perdita, who as Prynne notes ‘finds it to be freakish and contaminated
 [and] refuses to accept the act of grafting as safely within the
-permitted and natural order of things.’[^447] There is, however, a
+permitted and natural order of things.’[^452] There is, however, a
 further level to Prynne’s discussion. Through a consideration of the
 gradual accretion of pejorative connotations around the word ‘conceit’,
 Prynne reveals the complex and multiple layers of artificiality which
@@ -5297,7 +5305,7 @@ make up such tropes: ‘grafting was recognised as a curious, subtle and
 conceited action […]; in figurative contexts this element of
 conceitfulness is compounded, since the trope is itself a product of
 inventive conceit and (by extension) is itself termed “a
-conceit.”’[^448] The end result of this spiral of artificiality is to
+conceit.”’[^453] The end result of this spiral of artificiality is to
 reveal how the system extends in both directions: if the use of grafting
 as a way to describe artificiality is a conceit, then the bias towards
 nature is itself artificial, if not in its origin then certainly in its
@@ -5355,7 +5363,7 @@ physical gouts of it’. In the list of work given to support this
 statement, Prynne includes his own 1971 collection *Brass*. Even more
 relevant is 1974’s *Wound Response*, in which the *PTM* appears and
 which includes an epigraph from a 1966 scientific work, *Touch, Heat and
-Pain*.[^449] What is it about pain as a literary subject that Prynne
+Pain*.[^454] What is it about pain as a literary subject that Prynne
 finds so worthy of praise? Plainly, it is related to the concern with
 the body discussed above. As Elaine Scarry points out, human pain is
 characterised by its incommunicability:
@@ -5365,7 +5373,7 @@ characterised by its incommunicability:
 > the remote character of some deep subterranean fact, belonging to an
 > invisible geography that, however portentous, has no reality because
 > it has not yet manifested itself on the visible surface of the
-> earth.[^450]
+> earth.[^455]
 
 \noindent Yet pain is arguably also the body’s most immediate mode of
 relation to the external environment: the most extreme form of that
@@ -5376,7 +5384,7 @@ the *PTM*—is to be believed (admittedly a considerable ‘if’), pain is
 not a sensation confined to humans, or even to the animal world: one of
 the very first experiments described in detail by Tompkins and Bird
 involves a dragon tree supposedly reacting not just to pain, but to the
-threat of future pain.[^451] In this context, pain becomes abstracted,
+threat of future pain.[^456] In this context, pain becomes abstracted,
 converted into something more like a general interface language between
 the living and the non-living. This chapter will conclude by suggesting
 that it is precisely this interface point with which Prynne is most
@@ -5395,7 +5403,7 @@ which preoccupied Joseph Needham in the first phase of his career,
 before his turn to sinology following the Second World War. Katko makes
 clear the scientific relevance of Needham to the *PTM*, demonstrating in
 particular how Prynne relies on the latter’s article ‘Chemical
-Heterogony and the Ground-Plan of Animal Growth’.[^452] Not pursued,
+Heterogony and the Ground-Plan of Animal Growth’.[^457] Not pursued,
 however, is the potential connection between the ‘London PTM
 Conference’—an explicitly interdisciplinary event, part academic and
 part social, concerned specifically with the meshing of biology and
@@ -5405,11 +5413,7 @@ Pnina G. Abir-Am as a ‘scientific Bloomsbury’, the Gathering—whose
 members, besides Needham, included C.H. Waddington, Joseph Woodger,
 Dorothy Wrinch and J.D. Bernal—was active throughout the mid-period of
 the 1930s and concerned itself with the development of a syncretic
-‘mathematico-physico-chemical morphology’.\^[Pnina G. Abir-Am, ‘The
-Biotheoretical Gathering, Transdisciplinary Authority and the Incipient
-Legitimation of Molecular Biology in the 1930s: New Perspective on the
-Historical Sociology of Science’, *History of Science*, 25 (1987), 1–70
-(pp. 9–10).
+‘mathematico-physico-chemical morphology’.[^458]
 
 The possibility of a connection between the *PTM* and the Gathering is
 raised negatively in a September 1974 letter from Oliver to Prynne.
@@ -5421,25 +5425,25 @@ group’s activities from the Rockefeller Foundation very nearly led to
 the endowment of a dedicated institute at Cambridge, but the reigning
 scientific authorities’ personal and political antipathy towards
 Needham, as well as the group’s threat to established disciplinary
-boundaries, saw the project axed.[^453] Nevertheless, as Abir-Am
+boundaries, saw the project axed.[^459] Nevertheless, as Abir-Am
 convincingly argues, the research programme of the Gathering helped make
 possible ‘the currently dominant DNA-centred conception of molecular
 biology […]. Indeed “molecular biology” surfaced as a catchier
 abbreviation of the lengthier and cumbersome self-description of the
-Biotheoretical Gathering’s brief collective discourse’.[^454] There can
+Biotheoretical Gathering’s brief collective discourse’.[^460] There can
 be few clearer representatives of this ‘currently dominant […]
 conception’ than Needham and Prynne’s colleague at Caius, Francis Crick,
 who in 1953 was jointly responsible for the discovery of the structure
-of DNA itself.[^455] Writing to Dorn in 1978, Prynne describes a dinner
+of DNA itself.[^461] Writing to Dorn in 1978, Prynne describes a dinner
 with Crick and Needham, noting that ‘[t]here was a touch of electric
 collusion in the air, since the former should (& could) have succeeded
 the latter’; it is unclear whether he is referring to general
 intellectual succession or to something more prosaic such as the
 mastership of Caius, which had fallen from Needham to the lawyer William
-Wade two years earlier.[^456] In any case, Prynne was clearly in regular
+Wade two years earlier.[^462] In any case, Prynne was clearly in regular
 contact with Crick throughout the 1970s, and appears to have maintained
 the view—expressed to Dorn as a newly minted fellow in 1963—that the
-biologist was ‘something close to genius.’[^457]
+biologist was ‘something close to genius.’[^463]
 
 One of the aspects of Crick’s later research which seems to have most
 interested both Prynne and Dorn is the theory of panspermia: the
@@ -5452,9 +5456,9 @@ cosmic reversibility’—‘if we are capable of infecting an as yet lifeless
 extrasolar planet, then, given that the time was available, another
 technological society might well have infected our planet when it was
 still lifeless’—to argue for at least the possibility of the latter, a
-theory known as ‘directed panspermia’.[^458] Crick later elaborated this
+theory known as ‘directed panspermia’.[^464] Crick later elaborated this
 theory in a monograph, *Life Itself: Its Origin and Nature* (1981), the
-UK publication of which prompted a letter from Prynne.[^459] Here,
+UK publication of which prompted a letter from Prynne.[^465] Here,
 Prynne offers an extension to the hypothesis, speculating about the
 potential motives of an alien civilisation which, to have reached the
 stage of fertilising other planets, is ‘likely to have persisted in the
@@ -5490,10 +5494,10 @@ described by George Puttenham (and cited by Prynne roughly two years
 before his letter to Crick), who ‘by his arte will not only make an
 herbe, or flower, or fruite, come forth in his season without
 impediment, but also will embellish the same in vertue, shape, odour and
-taste, that nature of her selfe woulde neuer haue done.’[^460] He
+taste, that nature of her selfe woulde neuer haue done.’[^466] He
 (Prynne’s pronoun) is clearly also related to the broadly
 non-interventionist creator God of Enlightenment deism, the creed to
-which the real-life Erasmus Darwin enthusiastically subscribed.[^461]
+which the real-life Erasmus Darwin enthusiastically subscribed.[^467]
 
 In fact, the provision of readable clues is just one part of a broader
 implicit ethical stance—characterised first and foremost by intellectual
@@ -5503,7 +5507,7 @@ chapters. Prynne’s good scientist relates to his creation in a manner
 strikingly similar to the attitude of loving obedience described in
 Murdoch’s ‘The Idea of Perfection’, and thus also to Oliver’s
 attitude—described implicitly by Prynne—to the ‘body’ of *The Harmless
-Building*, a body which is identified partly with that of his son.[^462]
+Building*, a body which is identified partly with that of his son.[^468]
 Whether technically omnipotent or not, the good scientist is bound by
 ethical strictures which are larger than himself: his creations
 ‘deserve’ certain forms of care and attention. In another sense, the
@@ -5511,14 +5515,14 @@ good scientist provides a structural mirror for the attitude to poetic
 creation and the subsequent relation to the poetic object described at
 the end of Chapter 2. Life on Earth is like a poem, a new addition to
 the resistant world, and just as with a poem it is no more recuperable
-by its author for having been scrupulously signed and dated.[^463] The
+by its author for having been scrupulously signed and dated.[^469] The
 link to Prynne’s implicit intervention in the so-called population
 debate, described in Chapter 2, is less clear, partly because the
 intervention itself is vague, calling for a ‘rewriting’ of Shelley which
 never actually appears. Nevertheless, it is fairly clear that Prynne’s
 pro-procreative attitude here, and his positioning of prose as the
 ‘evolutionary’ means of disseminating that attitude, is at least on the
-same wavelength as his enthusiasm for panspermia.[^464] The same can be
+same wavelength as his enthusiasm for panspermia.[^470] The same can be
 said of his attitude to metaphor, honed in his response to Leavis in the
 *Times Literary Supplement*. While Leavis writes as if there was a
 literary population crisis, opposing the unruly ‘propagation’ and
@@ -5559,7 +5563,7 @@ As Katko helpfully points out, though not in reference to this
 particular letter, a ‘non-random match’ of this sort—what Needham
 describes as ‘a system of ratios and relations, which may be possibly
 the same in all animals, in a word, a chemical-ground plan of animal
-growth’—is a key feature of the *PTM*’s biochemical hinterland.[^465] In
+growth’—is a key feature of the *PTM*’s biochemical hinterland.[^471] In
 the letter to Crick, Prynne is more cautious, but in diligently tracing
 both possibilities—the presence of a message and its absence—to their
 various logical conclusions, he ends up revealing something more
@@ -5600,14 +5604,14 @@ Prynne quotes the author’s contention that ‘chance is the only source of
 true novelty’, ‘chance’ being Crick’s particular irritant grain. ‘I tell
 that to the tip of my pencil, every day’, continues Prynne, ‘and it
 fills in the missing step: “chance is the main source of true boredom
-and only that is the source of novelty.”’[^466] \newpage
+and only that is the source of novelty.”’[^472] \newpage
 
 Conclusion
 ==========
 
 > *Be influenced by as many great artists as you can, but have the
 > decency either to acknowledge the debt outright, or to try to conceal
-> it* —Ezra Pound.[^467]
+> it* —Ezra Pound.[^473]
 
 \noindent As much as identifying particular traditions and histories
 which impinge on the work of Prynne’s early career, the task of this
@@ -5615,12 +5619,12 @@ thesis has been to make the simple point that such impingement happens
 at all. Even in the present context of increasing scholarly interest in
 Prynne, and despite the deeply historical tendencies of both his poetic
 and his critical work, this remains what he would term a ‘non-trivial
-pursuit’.[^468] Introducing the recent *Cambridge Introduction to
+pursuit’.[^474] Introducing the recent *Cambridge Introduction to
 British Poetry, 1945–2010*—notable for its strong acknowledgement of
 Prynne’s place in 20th-century literary history—Eric Falci mounts an
 extended defence of his essentially historicist critical approach,
 summarised in the following statement: ‘History doesn’t determine form,
-but a poem is nonetheless marbled by its context.’[^469] It is striking
+but a poem is nonetheless marbled by its context.’[^475] It is striking
 that Falci describes his approach in such defensive terms, effectively
 denying in the first clause what he goes on to affirm—albeit in a
 weakened form—in the second. In seeking to avoid an unfashionably rigid
@@ -5636,18 +5640,18 @@ poems, like a mineral impurity, rather than shaping them from outside,
 and it does so automatically and without mediation. This might at first
 glance seem to be Prynne’s own position, epitomised in the sarcastic
 remark from ‘Mental Ears and Poetic Work’: ‘Look, the poet is wearing
-red socks! Now at last we understand everything!’[^470] Yet everywhere
+red socks! Now at last we understand everything!’[^476] Yet everywhere
 from undergraduate teaching notes to his published commentaries on
 Wordsworth and George Herbert, Prynne makes extensive and unapologetic
 use of biographical material—not as ‘colour’ for the main analysis, but
-as a fundamental tool, showing *how* history gets where it does.[^471]
+as a fundamental tool, showing *how* history gets where it does.[^477]
 
 Any biographically minded approach to Prynne must, nevertheless, contend
 with the poet’s own published comments on the irrelevance of such
 criticism to his work. This attitude is expressed explicitly in a prose
 piece from late 2015, a transcription of ‘a faxed memorandum sent to
 [Josh] Kotin and [Jeff] Dolven, who recently interviewed the author for
-a forthcoming issue of *The Paris Review*.’[^472] Here, discussing the
+a forthcoming issue of *The Paris Review*.’[^478] Here, discussing the
 cover images used for the Bloodaxe editions of *Poems*, Prynne
 acknowledges that ‘[n]one of these publications shews a human figure,
 still less an author-likeness’, attributing this firstly to his
@@ -5661,7 +5665,7 @@ scriptor”) of text.’ He continues:
 > be another matter). It is in my view merely vulgar to publish work
 > with your face run up the flagpole, in concession to reader curiosity
 > when close engagement with the interior of writing work will open up
-> many kinds of interiority, yours and mine.[^473]
+> many kinds of interiority, yours and mine.[^479]
 
 Prynne goes on to discuss what he considers to be a more important
 reason for avoiding author photos, to do with his own hyper-materialist
@@ -5675,7 +5679,7 @@ form part of what is perhaps the most famous and comprehensive set of
 interviews with 20th-century writers; interviews, moreover, with an
 explicitly biographical focus. The blurb for a 2006 collected volume
 describes the *Paris Review* interviews as ‘an essential and definitive
-record of the writing life.’[^474] It is Prynne’s first substantial
+record of the writing life.’[^480] It is Prynne’s first substantial
 interview since his conversation with Peter Orr for the British Council
 in 1964 and forms part of a more general easing-up of anti-biographical
 vigilance in recent years. Representative of this tendency is the 2008
@@ -5683,18 +5687,18 @@ lecture-essay ‘Huts’, which is peppered with exactly the sort of
 biographical anecdote which Prynne deplores in his letter to Kotin and
 Dolven. (In fact, the term ‘anecdote’ is insufficient, referring
 etymologically—as Prynne implies in the letter—to ‘things
-unpublished’.[^475]) Near the beginning of the essay, for example,
+unpublished’.[^481]) Near the beginning of the essay, for example,
 Prynne remarks that ‘those of my generation who can remember being
 conscripted for National Service will surely recall being assigned to
 camp huts for training and manifest discomforts; I used to sleep in
 rolled-up newspaper, in effort to keep out the fierce winds that blew in
-under the floorboards’.[^476] Later, he describes visiting huts in
+under the floorboards’.[^482] Later, he describes visiting huts in
 China, the Austrian alps and the German *Schwarzwald* over a period of
 more than forty years. This anecdotal style mirrors that used during
 readings at the beginning of his career: in his 1971 York Street Commune
 reading in Vancouver, Prynne covers topics ranging from his evacuation
 during the Second World War to his neighbours’ cat, often spending more
-time on anecdotes than on the poems themselves.[^477]
+time on anecdotes than on the poems themselves.[^483]
 
 Making use of such material for the purposes of biographical analysis
 allows Prynne to be reinserted into a broad, 20th-century literary
@@ -5709,26 +5713,26 @@ Eagleton notes in a recent review of D.J. Taylor’s *The Prose Factory*,
 > authors from roughly the second half of the 20th century onwards. […]
 > Between these two periods, however, this largely male habit of
 > self-designation spreads thick and fast: H.G., T.S., W.B., E.M., D.H.,
-> L.P., W.H. and so on.’[^478]
+> L.P., W.H. and so on.’[^484]
 
-That Prynne’s adoption of the style is a deliberate choice rather than a
-reversion to default is shown, paradoxically, by the indecision with
-which it is made. Prynne’s first published poem, in the 1955 sixth-form
-magazine *Six*, is credited to ‘J.H.’, yet as late as *Prospect* 6, two
-years after the publication of *Force of Circumstance* (also ‘J.H.’), he
-is listed as ‘Jeremy’. The style would of course have been familiar from
-institutional contexts: the Jesus College yearbooks for the period of
-Prynne’s undergraduate course consistently initialise names, as do some
-military records. Prynne’s entirely optional decision to adopt it for
-literary purposes, however, signals a claim to occupy a certain
-tradition, the more so as the style had clearly gone out of fashion by
-the 1960s—in contemporary magazines, Prynne’s is often the only
-initialised name on the contents page, and in circulation lists for *The
-English Intelligencer* he is accompanied only by his college friend R.F.
-Langley.[^479] In Prynne’s case, that tradition might owe as much to,
-say, R.P. Blackmur, the American poet and critic cited in ‘Resistance
-and Difficulty’, as it does to T.S. Eliot or even F.R. Leavis.
-Nevertheless, it *is* a tradition, one which is both eminently
+\noindent That Prynne’s adoption of the style is a deliberate choice
+rather than a reversion to default is shown, paradoxically, by the
+indecision with which it is made. Prynne’s first published poem, in the
+1955 sixth-form magazine *Six*, is credited to ‘J.H.’, yet as late as
+*Prospect* 6, two years after the publication of *Force of Circumstance*
+(also ‘J.H.’), he is listed as ‘Jeremy’. The style would of course have
+been familiar from institutional contexts: the Jesus College yearbooks
+for the period of Prynne’s undergraduate course consistently initialise
+names, as do some military records. Prynne’s entirely optional decision
+to adopt it for literary purposes, however, signals a claim to occupy a
+certain tradition, the more so as the style had clearly gone out of
+fashion by the 1960s—in contemporary magazines, Prynne’s is often the
+only initialised name on the contents page, and in circulation lists for
+*The English Intelligencer* he is accompanied only by his college friend
+R.F. Langley.[^485] In Prynne’s case, that tradition might owe as much
+to, say, R.P. Blackmur, the American poet and critic cited in
+‘Resistance and Difficulty’, as it does to T.S. Eliot or even F.R.
+Leavis. Nevertheless, it *is* a tradition, one which is both eminently
 mainstream and—at least for Prynne in the 1950s and early
 ‘60s—relatively recent. A similar reversion to tradition can be seen in
 what is apparently Prynne’s clearest rejection of it; namely, his
@@ -5816,9 +5820,9 @@ As far as this thesis is concerned, Prynne’s aesthetic, intellectual and
 ethical stance is the product of an exceptionally diverse (though
 differentially weighted) pool of influences, and certainly cannot be
 reduced to the patrilineal Pound–Olson–Prynne structure presented in
-works such as Mellors’s *Late Modernist Poetics*.[^480] Andrea Brady is
+works such as Mellors’s *Late Modernist Poetics*.[^486] Andrea Brady is
 right to point out that such models risk becoming ‘fantasies of all-male
-reproduction’, particularly when extended into the present.[^481] Yet,
+reproduction’, particularly when extended into the present.[^487] Yet,
 in what is perhaps itself a Freudian structure, avoidance in this thesis
 of the concept of fatherhood when discussing external influence has
 caused (or at least allowed) it to emerge in the interpretation of the
@@ -5829,12 +5833,12 @@ in Prynne’s prose and correspondence coexists with a fully conscious and
 highly critical attention to the nuclear family in his poetry, at least
 from *Brass* onwards. One of the clearest examples is ‘The Bee Target on
 his Shoulder’, the opening poem of *Brass*, which deals directly with
-the figure of the father, using the word itself four times.[^482] In
+the figure of the father, using the word itself four times.[^488] In
 this complex poem, the father is presented as a lurid and arbitrary
 figure, simultaneously dangerous and ridiculous. First appearing as
 someone who ‘command[s]’ (l. 7), his imperatives soon turn against
 him—‘Do not love this man. He makes | Fridays unbearable’ (13)—only to
-double back in the poem’s third act: ‘Love him’ (84).[^483] The
+double back in the poem’s third act: ‘Love him’ (84).[^489] The
 specifically English oppressiveness of enforced family
 gatherings—‘*that’s* his | aunt with the brown teapot jammed | into
 edible, macerated crumpet’ (28–30)—is shown in its proper relation to
@@ -5845,19 +5849,19 @@ Matthew Hall notes,
 > body politic of the familial unit, depicted as ‘a circle of teeth by
 > the cosy fire.’ [120] The family collectively forms an estranged mouth
 > which ventriloquises its consumptive patterns and its own wounded
-> utterances, creating song from the shadow cast by loss.[^484]
+> utterances, creating song from the shadow cast by loss.[^490]
 
 \noindent According to Sutherland, ‘The Bee Target on his Shoulder’ is
 saturated with bathos: ‘moments of outright bathetic interruption in
 this poem […] are disruptive only if we permit ourselves to ignore the
 differently modulated bathos of the lines that they appear to
-interrupt’.[^485] Thus, in the poem’s final stages, an overbearingly
+interrupt’.[^491] Thus, in the poem’s final stages, an overbearingly
 sentimental example of what Mellors describes as ‘bogus
 quotation’—‘little | sister we sob merrily & settle down | by the newest
 grave’ (112–14)—shows up the equally false and conventional nature of
 what has gone before, visible most obviously in the dropping of the
 possessive pronoun ‘her’: ‘Bravely she traces | the path of father’s
-boots | on the lawn’[^486] The pseudo-Victorianism of this passage—its
+boots | on the lawn’[^492] The pseudo-Victorianism of this passage—its
 concern with small children and death, for example—raises through
 implication the most oppressive and emotionally tyrannical aspects of
 traditional fatherhood. Yet, far from proving the critical nature of all
@@ -5870,27 +5874,27 @@ the thinking of even the most rigorously critical subject.
 
 The *ur*-father provided for Prynne by Mellors is Ezra Pound, a poet
 who, it was claimed at the beginning of this thesis, would ‘haunt every
-one of the following chapters’. A characteristic example is Prynne’s use
-of the term ‘ego scriptor’ above, a phrase which raises the spectre of
-Pound—subject of multiple popular and scholarly biographies, including
-David Moody’s three-volume, 1,650-page *Ezra Pound: Poet*—at the very
-moment that he attempts to thwart biographical interest in his own
-work.[^487] What, then, is the structure of this ‘haunting’, and what
-does it say about that which it affects? Like Prynne, Pound is a poet
-concerned at a deep level with problems of reproduction: one of the
+one of the following chapters’.[^493] A characteristic example is
+Prynne’s use of the term ‘ego scriptor’ above, a phrase which raises the
+spectre of Pound—subject of multiple popular and scholarly biographies,
+including David Moody’s three-volume, 1,650-page *Ezra Pound: Poet*—at
+the very moment that he attempts to thwart biographical interest in his
+own work.[^494] What, then, is the structure of this ‘haunting’, and
+what does it say about that which it affects? Like Prynne, Pound is a
+poet concerned at a deep level with problems of reproduction: one of the
 crucial charges against ‘usura’ in Canto XLV, arguably the centre-piece
 of the long poem that represents Pound’s lifework, is that it ‘slayeth
-the child in the womb’.[^488] Pound is, however, much more ready than
-Prynne to acknowledge direct poetic influence.[^489] The most famous
+the child in the womb’.[^495] Pound is, however, much more ready than
+Prynne to acknowledge direct poetic influence.[^496] The most famous
 example of such acknowledgement is the early poem ‘A Pact’, a short
 piece in which Pound explicitly positions himself in filial relationship
 to Walt Whitman: ‘I come to you as a grown child | Who has had a
 pig-headed father; | I am old enough now to make friends.’ Pound
 presents his task as one of refinement: ‘It was you that broke the new
-wood, | Now is a time for carving.’[^490] Prynne’s *oeuvre* contains no
+wood, | Now is a time for carving.’[^497] Prynne’s *oeuvre* contains no
 such direct statement of influence. Yet, as was pointed out at the
 beginning of this thesis, the intellectual and contextual
-correspondences between Pound and Prynne are numerous, and far more
+correspondences between Pound and Prynne are numerous, and arguably more
 compelling than any equivalent similarities with, say, Olson or Dorn. In
 particular, the blistering scorn of Prynne’s private and semi-private
 tirades against poetic stupidity—matched only by the intellectual,
@@ -5908,7 +5912,7 @@ patrilineal poetic descent might therefore be dispelled by seeing Pound
 and his career as a sort of over-arching formal influence within which
 more local influences (Davie, Tomlinson, Leavis) emerge as content: an
 image of the father as a matryoshka doll containing a set of
-successively shrinking sub-fathers.[^491] The apparent genealogical
+successively shrinking sub-fathers.[^498] The apparent genealogical
 absolutism of this perspective is tempered if Pound—and Prynne’s
 relationship to him—is understood as one formal structure among many.
 Thus, a thesis which took Olson rather than Pound as its implicit
@@ -5920,7 +5924,7 @@ especially when they emerge into view at the end of a process of
 argumentation which they have helped to generate. Through reflection on
 the concept as a crystallisation of the material that it produces (and
 that produces it), that material can be viewed from a bird’s-eye
-perspective structurally impossible in the analysis itself.
+perspective structurally impossible in the analysis itself.[^499]
 
 In the present case, the fact that a particularly patrilineal, Poundian
 air emerges from a consideration of Prynne’s early career has the
@@ -5928,27 +5932,25 @@ potential to shed further light on the periodisation of his work. Would
 the selection of a period other than 1955–75 for contextual
 analysis—say, the period from the publication of *Poems* in 1982 to
 Prynne’s retirement from academic life in 2005—have necessitated a
-different structuring force? Furthermore, what do the qualitative
-aspects of the structure that has emerged say about that which they
-subsume? The type of poetic inheritance which it is possible to
-extrapolate from the good scientist trope is, for one thing, entirely
-androcentric: descent is based structurally on the male side of the
-reproductive process, with almost no regard for the female.[^492] Any
-conception of poetic creation based even metaphorically on a ‘natural’
-view of sexual reproduction is also heteronormative. To raise these
-issues is not simply to nitpick from a more enlightened
+different structuring force? What, moreover, is obscured by the
+structure that has emerged? The type of poetic inheritance which it is
+possible to extrapolate from the good scientist trope is, for one thing,
+entirely androcentric: descent is based structurally on the male side of
+the reproductive process, with almost no regard for the female.[^500]
+Any conception of poetic creation based even metaphorically on a
+‘natural’ view of sexual reproduction is also heteronormative. To raise
+these issues is not simply to nitpick from a more enlightened
 cultural-historical position. It is not clear that poets’ thinking about
-poetry can be placed on an (ideally) ever-advancing political timeline
-in the manner of, say, civil rights legislation, and even if it could it
-is not obvious that any advance which would afford the contemporary
-critic a privileged vantage point has in fact taken place. What is clear
-is that androcentrism and heteronormativity are recognisable parts of
-Prynne’s thinking about aesthetic practice in this period—broadly
-encapsulated in the good scientist trope described at the end of Chapter
-3—rather than unfortunate aberrations to be explained away. To put it
-plainly, when in the 1950s, ’60s and early ’70s Prynne refers to ‘the
-poet’, this idealised figure is more or less implicitly a heterosexual
-man.
+poetry can be placed on an (ideally) ever-advancing political timeline,
+and even if it could it is not obvious that any advance which would
+afford the contemporary critic a privileged vantage point has in fact
+taken place. What is clear is that androcentrism and heteronormativity
+are recognisable parts of Prynne’s thinking about aesthetic practice in
+this period—broadly encapsulated in the good scientist trope described
+at the end of Chapter 3—rather than unfortunate aberrations to be
+explained away. To put it plainly, when in the 1950s, ’60s and early
+’70s Prynne refers to ‘the poet’, this idealised figure is more or less
+implicitly a heterosexual man.
 
 ![Appearances of ‘man’ per 1,000 lines in *Force of Circumstance* (1962)
 and *Poems* (2005)](figs/man.png){\#fig:man}
@@ -5962,7 +5964,7 @@ according to a very crude approximation of androcentricity: appearances
 of the word ‘man’—used either as a singular noun or to refer to
 ‘mankind’—per 1,000 lines. A clear trend is visible, consisting of a
 spike around the beginning of *The White Stones* (l. 1,800) and a steady
-drop-off thereafter.[^493] For reference, the chronological scope of
+drop-off thereafter.[^501] For reference, the chronological scope of
 this thesis terminates with *High Pink on Chrome* (1975) at around l.
 8,350. Such analysis violently flattens the semantic complexity of
 Prynne’s work—it is impossible to tell whether any given usage of ‘man’
@@ -5972,13 +5974,13 @@ through readily disputable readings of individual usages. While it would
 be foolish, then, to use Figure @fig:man as evidence of the
 androcentricity of Prynne’s early work, if that quality is established
 by other means then the diagram can be used to trace its probable
-contours.[^494]
+contours.[^502]
 
 Writing to Douglas Oliver in 1994 on the subject of intellectual and
 ethical consistency, Prynne claims that ‘it is not facile to speak of
 ethical style, and to recognise that even within a single lifetime there
 is room for many shifts which can nonetheless preserve a thread of
-purposeful mutation.’[^495] This implicitly genetic model, in which the
+purposeful mutation.’[^503] This implicitly genetic model, in which the
 subject is neither absolutely changeable nor absolutely consistent, is
 perhaps helpful in coming to terms with Prynne’s own evolving opinions.
 For his part, Prynne is well aware of changes in his own thinking and
@@ -5993,22 +5995,21 @@ Prynne tackles the relation between poetry and gender directly:
 > or may include features of both, like a system of Christian angels
 > who, rather than owning no sexual identity at all, may present as
 > equally responsive to both genders and both bodily incarnations, in
-> cherishment and in trust.[^496]
+> cherishment and in trust.[^504]
 
 That this statement might now be objected to for its binarism—‘both
-genders and both bodily incarnations’—neatly illustrates how poetic
-thought exists in relation to an always-shifting social and historical
-context; a context from which, as Prynne would be the first to
-acknowledge, it does not have the luxury of severing itself. Earlier in
-‘The Poet’s Imaginary’, Prynne writes that ‘being a good poet and
-continuing to meet the self-challenge of not lapsing into mediocrity is
-continuously difficult, a matter of struggle not easily handled because
-intrinsically hard to recognize accurately’.[^497] Part of this
-difficulty—and something that Prynne has striven to do throughout his
-career—is to acknowledge the intersection of the poetic and the
-political, even when they appear to be most separate, and especially
-when the content of the latter is necessarily remote from the poet’s own
-personal experience.
+genders and both bodily incarnations’—illustrates how poetic thought
+exists in relation to an always-shifting social and historical context;
+a context from which, as Prynne would be the first to acknowledge, it
+does not have the luxury of severing itself. Earlier in ‘The Poet’s
+Imaginary’, Prynne writes that ‘being a good poet and continuing to meet
+the self-challenge of not lapsing into mediocrity is continuously
+difficult, a matter of struggle not easily handled because intrinsically
+hard to recognize accurately’.[^505] Part of this difficulty—and
+something that Prynne has striven to do throughout his career—is to
+acknowledge the intersection of the poetic and the political, even when
+they appear to be most separate, and especially when the content of the
+latter is remote from the poet’s own personal experience.[^506]
 
 The poetical is personal and the personal is political. As long as
 literary analysis is restricted to the texts of individual poems and not
@@ -6022,12 +6023,12 @@ category as the formalist evacuation of context against which
 historicist criticism itself reacts. In one of his clearest statements
 of aesthetic principle, Prynne writes that ‘no poet has or can have
 clean hands, because clean hands are themselves a fundamental
-contradiction. Clean hands do no worthwhile work.’[^498] That his choice
+contradiction. Clean hands do no worthwhile work.’[^507] That his choice
 of metaphor is bodily neatly illustrates the point in question. Poems do
 not get written without hands, and those hands inevitably do other
 things, from eating hamburgers to filling in ballot papers. This is
 something, Prynne claims, that he ‘ha[s] believed throughout [his]
-writing career’.[^499] Scholars of Prynne’s work owe it to the truth of
+writing career’.[^508] Scholars of Prynne’s work owe it to the truth of
 the first quotation not to take that of the second on trust. \newpage
 
 Bibliography
@@ -6041,19 +6042,19 @@ materials are listed in chronological order, with folder and/or envelope
 numbers where necessary, under subheadings indicating the collection,
 series and box in which they may be found.
 
-### Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut
+#### Archives and Special Collections, Thomas J. Dodd Research Center, University of Connecticut
 
-#### Cid Corman Papers
+##### Cid Corman Papers
 
-##### Series 1, Box 1
+###### Series 1, Box 1
 
 Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17\
 —, 18 October 1961, Folder 18\
 —, 19 November 1961, Folder 19
 
-#### Edward Dorn Papers
+##### Edward Dorn Papers
 
-##### Series 1, Box 19
+###### Series 1, Box 19
 
 Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328\
 —, 29 November 1961, Folder 328\
@@ -6075,28 +6076,28 @@ Letter, Prynne to Dorn, 21 December 1964, Folder 330\
 —, 17 June 1965, Folder 331\
 —, 26 January 1966, Folder 332
 
-##### Series 1, Box 44
+###### Series 1, Box 44
 
 Letter, Prynne to Dorn, 10 January 1972, Folder 657\
 —, 14 March 1972, Folder 657\
 —, 25 March 1972, Folder 655\
 —, 25 April 1972, Folder 657
 
-##### Series 1, Box 19
+###### Series 1, Box 19
 
 Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334\
 Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
-##### Series 1, Box 20
+###### Series 1, Box 20
 
 —, 5 March 1975, Folder 335\
 —, 9 September 1975, Folder 335\
 —, 11 August 1978, Folder 336\
 —, 18 March 1982, Folder 338
 
-#### Charles Olson Research Collection
+##### Charles Olson Research Collection
 
-##### Series 2, Box 206
+###### Series 2, Box 206
 
 Letter, Prynne to Charles Olson, 4 November 1961\
 —, 26 November 1961\
@@ -6113,28 +6114,28 @@ Letter, Prynne to Charles Olson, 4 November 1961\
 —, 24 June 1964\
 —, 3 March 1965
 
-### Special Collections, Albert Sloman Library, University of Essex
+#### Special Collections, Albert Sloman Library, University of Essex
 
-#### Donald Davie Archive
+##### Donald Davie Archive
 
-##### Box 1
+###### Box 1
 
 Journal entry, 14 November 1958, Notebook (A)
 
-#### Douglas Oliver Archive
+##### Douglas Oliver Archive
 
-##### Box 9
+###### Box 9
 
 Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972\
 —, 11 September 1974\
 —, 16 February 1986\
 —, 5 September 1994
 
-### Department of Manuscripts and University Archives, Cambridge University Library
+#### Department of Manuscripts and University Archives, Cambridge University Library
 
-#### Peter Riley Papers
+##### Peter Riley Papers
 
-##### Series 2, Folder 34
+###### Series 2, Folder 34
 
 Unattached second page of letter, Prynne to Peter Riley, Envelope 1\
 Letter, Prynne to Riley, 24 April 1967, Envelope 1\
@@ -6151,33 +6152,33 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1\
 —, 25 February 1969, Envelope 1\
 —, 16 March 1969, Envelope 1
 
-### Western Manuscripts, British Library
+#### Western Manuscripts, British Library
 
-#### Edward Upward: Supplementary Papers
+##### Edward Upward: Supplementary Papers
 
-##### Series 2, Folder 4
+###### Series 2, Folder 4
 
 Typescript, Donald Davie, ‘Remembering the Thirties’ [1953]\
 Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
-#### Series 3, Folder 15
+##### Series 3, Folder 15
 
 Biographical statement (‘Edward Falaise Upward. Born 9th September 1903
 […]’) ‘Answers to questions from David Lambourne’
 
-### Special Collections, Newcastle University Library
+#### Special Collections, Newcastle University Library
 
-#### Barry MacSweeney Papers
+##### Barry MacSweeney Papers
 
-##### Series 3, Box 5, Folder 68
+###### Series 3, Box 5, Folder 68
 
 Letter, Prynne to Barry MacSweeney, 7 August 1975
 
-### Archives and Manuscripts, Wellcome Library
+#### Archives and Manuscripts, Wellcome Library
 
-#### Francis Crick Papers
+##### Francis Crick Papers
 
-##### Section D, Subsection 1, Series 5, Subseries 13, Box 20
+###### Section D, Subsection 1, Series 5, Subseries 13, Box 20
 
 Letter, Prynne to Francis Crick, 22 March 1982.
 
@@ -7598,7 +7599,7 @@ Cambridge University Press, 2013), p. 25\
 
     It seems at least possible that the mention of ‘honourable
     exceptions’ is a pointed reference to Leavis, famously Lawrence’s
-    foremost champion. \# ‘The inter-modifying force of open argument’
+    foremost champion.
 
 [^139]: Sutherland, ‘J.H. Prynne and Philology’, pp. 169–70.
 
@@ -7841,7 +7842,11 @@ Cambridge University Press, 2013), p. 25\
     \<http://www.bl.uk/reshelp/findhelprestype/journals/littlemagazines/littlemagazines.html\>
     [accessed 15 January 2015].
 
-[^197]: The relationship between little magazine producers and external
+[^197]: Wolfgang Görtschacher, *Little Magazine Profiles: The Little
+    Magazines in Great Britain, 1939–1993* (Salzburg: University of
+    Salzburg, 1993).
+
+[^198]: The relationship between little magazine producers and external
     institutions is described as only ‘formally independent’ in order to
     acknowledge the many forms of informal institutional support that
     exist. This is clearest in the case of magazines produced by members
@@ -7850,74 +7855,78 @@ Cambridge University Press, 2013), p. 25\
     periods, mimeograph machines—in arrangements which are contingent on
     their academic status and seniority.
 
-[^198]: Mellors, *Late Modernist Poetics*, p. 118.
+[^199]: Mellors, *Late Modernist Poetics*, p. 118.
 
-[^199]: *Ibid*.
+[^200]: *Ibid*.
 
-[^200]: This structure bears some similarity to what Simon Jarvis, in
+[^201]: This structure bears some similarity to what Simon Jarvis, in
     his work on Theodor Adorno, terms a ‘real illusion’: ‘that is […] an
     illusion which cannot be dispelled simply by recognising it as such’
     (Simon Jarvis, *Adorno: A Critical Introduction* [Cambridge: Polity
     Press, 1998], p. 68).
 
-[^201]: Mellors, p. 119.
+[^202]: Mellors, p. 119.
 
-[^202]: *Ibid*., p. 220.
+[^203]: *Ibid*., p. 220.
 
-[^203]: Prynne to Dorn, 22 January 1963.
+[^204]: Prynne to Dorn, 22 January 1963.
 
-[^204]: Poems that have never been printed as standalone books or
+[^205]: Poems that have never been printed as standalone books or
     pamphlets, such as ‘The Land of Saint Martin’ and ‘Refuse
     Collection’, have been excluded along with the periodicals in which
     they were originally published.
 
-[^205]: Sutherland, ‘Introduction: “Prynne’s late work?”’, in *Hix Eros:
+[^206]: Sutherland, ‘Introduction: “Prynne’s late work?”’, in *Hix Eros:
     On the Late Poetry of J.H. Prynne*, 9–13 (p. 11).
 
-[^206]: Prynne, ‘Tomorrow is Fade Out Night’, *Prospect*, 6 (Spring
+[^207]: Prynne, ‘Tomorrow is Fade Out Night’, *Prospect*, 6 (Spring
     1964), pp. 41–43.
 
-[^207]: The most comprehensive account of the *Intelligencer* is
+[^208]: The most comprehensive account of the *Intelligencer* is
     provided by Latter; a much more concise introduction is offered in
     Neil Pattison, ‘Introduction: “All Flags Left Outside”’, in *Certain
     Prose*, pp. i–xxiv and ‘Editorial Notes’, in *ibid*., pp. xxv–xxxii.
 
-[^208]: Susan Brown, email to the author, 9 October 2013. Some sense of
+[^209]: Susan Brown, email to the author, 9 October 2013. Some sense of
     what producing a sixth form magazine at a minor public or grammar
     school in this period actually involved is provided by Prynne’s
     near-contemporary Ian Hamilton in Dan Jacobson, ‘You Muddy Fools’
     (interview with Ian Hamilton), *London Review of Books*, 24.2 (14
     January 2002), pp. 3–14.
 
-[^209]: *Ibid*.; Prynne, editorial statement, *Six* (1955),
+[^210]: *Ibid*.; Prynne, editorial statement, *Six* (1955),
     [unpaginated].
 
-[^210]: Prynne, ‘Stille (nach Thomas Hood)’, *Six* (1955), p. 11. The
+[^211]: *Ibid*.
+
+[^212]: *Ibid*.
+
+[^213]: Prynne, ‘Stille (nach Thomas Hood)’, *Six* (1955), p. 11. The
     poem is credited to ‘J.H.’ rather than ‘Jeremy’ Prynne, following a
     consistent form for all contributors, and perhaps representing the
     origin of the initialisation that Prynne would adopt for almost all
     of his subsequent poetic work.
 
-[^211]: Prynne, ‘Times Trans-shifting: for Robert Herrick’, *Prospect*,
+[^214]: Prynne, ‘Times Trans-shifting: for Robert Herrick’, *Prospect*,
     4 (Winter 1960), p. 14; Prynne, ‘The Hazel Tree’, *Tomorrow*, 4
     (1960), p. 15.
 
-[^212]: For brief accounts of the magazines by their primary editors,
+[^215]: For brief accounts of the magazines by their primary editors,
     see Elaine Feinstein, ‘Remembering Prospect’, *Cambridge Literary
     Review*, 1.1 (Michaelmas 2010), pp. 141–47 and Jacobson.
 
-[^213]: The magazines’ contents pages provide some incidental support
+[^216]: The magazines’ contents pages provide some incidental support
     for Blake Morrison’s emphasis on a geographical bifurcation in the
     Movement: *Prospect* published Davie, *Tomorrow* Elizabeth Jennings
     and Roy Fuller, though the latter also printed poems by the
     Cambridge-educated D.J. Enright (Morrison, pp. 10–41).
 
-[^214]: It is worth remembering that this poem was published less than
-    four years after Prynne had completed his two-year service as a
+[^217]: It is worth remembering that this poem was published less than
+    four years after Prynne had completed his two-year period as a
     National Service officer, and may have been written significantly
     earlier.
 
-[^215]: Prynne, ‘Landfall’, *Lyrische Hefte*, 10 (November 1961), p. 19.
+[^218]: Prynne, ‘Landfall’, *Lyrische Hefte*, 10 (November 1961), p. 19.
     Though the essay, originally delivered as a lecture in Darmstadt in
     1951, was not translated into English until two decades later
     (*Poetry, Language, Thought*, trans. by Alfred Hofstadter [New York:
@@ -7926,80 +7935,80 @@ Cambridge University Press, 2013), p. 25\
     recalls ‘studying with great ardency’ a 1950 edition of Heidegger’s
     *Holzwege* (Prynne, ‘Huts’, p. 628).
 
-[^216]: ‘Damp’, *Mica*, 2 (February 1961), p. 22; ‘Perspective from a
+[^219]: ‘Damp’, *Mica*, 2 (February 1961), p. 22; ‘Perspective from a
     Chalk Pit’, *ibid*., p. 23; ‘Surface Measures’, *Mica*, 4 (Fall
     1961), p. 30; ‘Until Later On’, *ibid*., p. 31; ‘from a letter’.
 
-[^217]: ‘Early Yesterday Morning’, *Satis*, 5 (Spring–Summer 1962),
+[^220]: ‘Early Yesterday Morning’, *Satis*, 5 (Spring–Summer 1962),
     p. 14; ‘In Praise’, *ibid*., pp. 14–15.
 
-[^218]: For detailed analysis of the relationship between *Migrant*,
+[^221]: For detailed analysis of the relationship between *Migrant*,
     *Mica* and *Satis*, and of Prynne’s involvement with the latter two,
     see Louis Goddard, ‘Migration Patterns: Two Little Magazines of
     1960–1962’, *Textual Practice*,
     \<http://www.tandfonline.com/doi/full/10.1080/0950236X.2016.1188143\>
     [accessed 11 July 2014].
 
-[^219]: ‘Editorial’, *Satis*, 5 (Spring–Summer 1962), p. 2.
+[^222]: ‘Editorial’, *Satis*, 5 (Spring–Summer 1962), p. 2.
 
-[^220]: J.C.A. Rathmell, ‘Paradigms for a Wider Concern’ (review of
+[^223]: J.C.A. Rathmell, ‘Paradigms for a Wider Concern’ (review of
     *Force of Circumstance*), *The Cambridge Review* (19 January 1963),
     pp. 193–94; Prynne, ‘Figments of Reflection’ (review of Charles
     Edward Eaton, *Countermoves*), *The Cambridge Review* (16 Feb 1963),
     pp. 281, 283; Prynne, ‘“Modernism” in German Poetry’ (review of
     Michael Hamburger and Christopher Middleton, eds., *Modern German
-    Poetry, 1910–1960*’, *The Cambridge Review* (9 Mar 1963),
+    Poetry, 1910–1960*’), *The Cambridge Review* (9 Mar 1963),
     pp. 331–33, 335, 337.
 
-[^221]: Prynne to Riley, 25 February 1969. The Olson review was
+[^224]: Prynne to Riley, 25 February 1969. The Olson review was
     eventually printed in *The Park*, 4.5 (Summer 1969), pp. 64–66,
     while the Creeley review can be found in Box 19, Folder 327 of Ed
     Dorn’s papers.
 
-[^222]: *Ibid*.
+[^225]: *Ibid*.
 
-[^223]: *Ibid*.
+[^226]: *Ibid*.
 
-[^224]: Prynne to Riley, 16 February 1969.
+[^227]: Prynne to Riley, 16 February 1969.
 
-[^225]: Ian Brinton, ‘Prynne in Prospect’, *academia.edu*,
+[^228]: Ian Brinton, ‘Prynne in Prospect’, *academia.edu*,
     \<https://www.academia.edu/6185230/Prynne\_in\_Prospect\> [accessed
     21 January 2015].
 
-[^226]: Prynne to Olson, 4 November 1961.
+[^229]: Prynne to Olson, 4 November 1961.
 
-[^227]: Prynne to Olson, 26 November 1961.
+[^230]: Prynne to Olson, 26 November 1961.
 
-[^228]: Prynne to Dorn, 29 November 1961. In his initial letter to Dorn,
+[^231]: Prynne to Dorn, 29 November 1961. In his initial letter to Dorn,
     Prynne notes that *Prospect* is ‘not out to shock like Tom Raworth’s
     OUTBURST’ (Prynne to Dorn, 16 November 1961).
 
-[^229]: Prynne to Dorn, 29 November 1961.
+[^232]: Prynne to Dorn, 29 November 1961.
 
-[^230]: Prynne refers to Corman by his Christian name, whereas in his
+[^233]: Prynne refers to Corman by his Christian name, whereas in his
     initial letters to Olson and Dorn he uses full names (Prynne to
     Corman, 17 June 1961).
 
-[^231]: Prynne to Corman, 18 October 1961.
+[^234]: Prynne to Corman, 18 October 1961.
 
-[^232]: Prynne to Corman, 19 November 1961.
+[^235]: Prynne to Corman, 19 November 1961.
 
-[^233]: Prynne to Olson, 14 February 1962.
+[^236]: Prynne to Olson, 14 February 1962.
 
-[^234]: Prynne to Dorn, 9 July 1962; Prynne to Dorn, 26 September 1962.
+[^237]: Prynne to Dorn, 9 July 1962; Prynne to Dorn, 26 September 1962.
 
-[^235]: Prynne to Olson, 1 February 1964; Prynne to Dorn, 30 June 1964.
+[^238]: Prynne to Olson, 1 February 1964; Prynne to Dorn, 30 June 1964.
 
-[^236]: Prynne to Olson, 29 February 1964.
+[^239]: Prynne to Olson, 29 February 1964.
 
-[^237]: Prynne to Dorn, 30 June 1964.
+[^240]: Prynne to Dorn, 30 June 1964.
 
-[^238]: Prynne to Robert Creeley, 21 October 1964.
+[^241]: Prynne to Robert Creeley, 21 October 1964.
 
-[^239]: Q.D. Leavis, ‘Henry James’s Heiress: The Importance of Edith
+[^242]: Q.D. Leavis, ‘Henry James’s Heiress: The Importance of Edith
     Wharton’, in *A Selection from ‘Scrutiny’*, vol. 2, pp. 124–36.
 
-[^240]: Writing to Peter Riley about the *Intelligencer* several years
+[^243]: Writing to Peter Riley about the *Intelligencer* several years
     later, Prynne goes so far as to claim that ‘I don’t want a magazine
     myself, but rather […] a series of well printed pamphlets, really
     nicely done […]. Even small books in due course, but they *must* be
@@ -8007,14 +8016,14 @@ Cambridge University Press, 2013), p. 25\
     absence of Prynne’s later books from @fig:mags suggests, this desire
     has been at least partially fulfilled.
 
-[^241]: Prynne to Olson, 6 March 1964. While it is not entirely clear
+[^244]: Prynne to Olson, 6 March 1964. While it is not entirely clear
     who is being referred to here, it is presumably not Rodney Dale,
     whose company Polyhedron had printed previous issues of the magazine
     and who is almost three years older than Prynne.
 
-[^242]: *Prospect*, 6 (Spring 1964), [p. 45].
+[^245]: *Prospect*, 6 (Spring 1964), [p. 45].
 
-[^243]: *Ibid*. Setting aside trivial examples such as the 1998 *Mays*
+[^246]: *Ibid*. Setting aside trivial examples such as the 1998 *Mays*
     anthology, *Six* and *Prospect* are the only ventures in relation to
     which Prynne has been listed unequivocally as ‘the editor’, despite
     his having exerted considerable editorial influence over *The
@@ -8023,22 +8032,22 @@ Cambridge University Press, 2013), p. 25\
     ‘the patronising imbecilities of *editors*’ (Prynne to Riley, 25
     February 1969).
 
-[^244]: Prynne reveals his intention to transform the distribution of
+[^247]: Prynne reveals his intention to transform the distribution of
     *Prospect* as early as his first letter to Olson: ‘I would rather
     work to a private circulation & print what needs to come out (like
     ORIGIN), but don’t have the choice as things are’ (Prynne to Olson,
     26 November 1961).
 
-[^245]: Charles Olson, *Letters for Origin, 1950–1956*, ed. by Albert
+[^248]: Charles Olson, *Letters for Origin, 1950–1956*, ed. by Albert
     Glover (London: Cape Goliard, 1969).
 
-[^246]: Olson, ‘Maximus to Gloucester’, *Prospect*, 1 (Summer 1959),
+[^249]: Olson, ‘Maximus to Gloucester’, *Prospect*, 1 (Summer 1959),
     pp. 19–20; Olson, ‘A Plantation—A Beginning’, *Prospect*, 4 (Spring
     1960), pp. 21–23; Olson, ‘Going Right Out of the Century’,
     *Prospect*, 6 (Spring 1964), p. 33. A comma is inserted after
     ‘Maximus’ in the collected version of the former poem.
 
-[^247]: Olson, ‘Letter to Elaine Feinstein’, in *Collected Prose*, ed.
+[^250]: Olson, ‘Letter to Elaine Feinstein’, in *Collected Prose*, ed.
     by Donald Allen and Benjamin Friedlander (Berkeley, CA: University
     of California Press, 1997), pp. 250–52. As Feinstein herself admits,
     ‘I started […] *Prospect*, not to publish my own poems, but to
@@ -8046,20 +8055,20 @@ Cambridge University Press, 2013), p. 25\
     this country’ (Michael Schmidt, ‘Elaine Feinstein in Conversation’,
     *PN Review*, 24.2 [December 1997], 36–41 [p. 37]).
 
-[^248]: Tim Carmody, ‘Paper Modernism’, *Snarkmarket* (9 August 2009),
-    http://snarkmarket.com/blog/snarkives/selfdisclosure/paper\_modernism/
+[^251]: Tim Carmody, ‘Paper Modernism’, *Snarkmarket* (9 August 2009),
+    \<http://snarkmarket.com/blog/snarkives/selfdisclosure/paper\_modernism/\>
     [accessed 29 January 2015].
 
-[^249]: Prynne to Olson, 26 November 1961.
+[^252]: Prynne to Olson, 26 November 1961.
 
-[^250]: Prynne to Dorn, 17 June 1965; Prynne to Dorn, 29 November 1961.
+[^253]: Prynne to Dorn, 17 June 1965; Prynne to Dorn, 29 November 1961.
 
-[^251]: Prynne to Corman, 19 November 1961.
+[^254]: Prynne to Corman, 19 November 1961.
 
-[^252]: Prynne to Dorn, 6 May 1964; Robert Creeley, ‘The Grace’,
+[^255]: Prynne to Dorn, 6 May 1964; Robert Creeley, ‘The Grace’,
     *Prospect*, 6 (Spring 1964), pp. 25–28.
 
-[^253]: Latter, *Late Modernism*, pp. 25–26. As Latter points out, the
+[^256]: Latter, *Late Modernism*, pp. 25–26. As Latter points out, the
     fact that the *Intelligencer* was ‘produced for free on a mimeograph
     machine in Gonville and Caius [makes it] exempt from at least one of
     the definitive features that Peter Brooker and Andrew Thacker use to
@@ -8069,34 +8078,34 @@ Cambridge University Press, 2013), p. 25\
     considerations”’ (p. 26). It also reveals the salience of the term
     ‘formally independent’ in this thesis’s own definition.
 
-[^254]: John James, quoted in Latter, ‘Essential news’, p. 229.
+[^257]: John James, quoted in Latter, ‘Essential news’, p. 229.
 
-[^255]: Latter, *Late Modernism*, p. 110.
+[^258]: Latter, *Late Modernism*, p. 110.
 
-[^256]: Editorial, in *Certain Prose*, 2:5 [373], p. 139; editorial, in
+[^259]: Editorial, in *Certain Prose*, 2:5 [373], p. 139; editorial, in
     *ibid*., 2:10 [447], p. 143; Prynne to Riley, 15 September 1967.
     Subsequent quotations in this section are all from this letter,
     unless otherwise stated.
 
-[^257]: This should perhaps already have been clear, given that Prynne
+[^260]: This should perhaps already have been clear, given that Prynne
     was one of the foremost contributors of prose to the *Intelligencer*
     throughout its run—as well as numerous letters, the worksheet had by
     this point printed ‘A Note on Metal’ and ‘A Pedantic Note in Two
     Parts’.
 
-[^258]: Percy Bysshe Shelley, *A Philosophical View of Reform* (Oxford:
+[^261]: Percy Bysshe Shelley, *A Philosophical View of Reform* (Oxford:
     Oxford University Press, 1920), p. 52. The passage quoted by Prynne
     stops at this point, having begun at ‘A writer of the present day’
     on p. 51 in the Oxford edition.
 
-[^259]: ‘Hysteria over population’, *The Times* (6 September 1967),
+[^262]: ‘Hysteria over population’, *The Times* (6 September 1967),
     p. 13. According to John F. May, the PCC was ‘most influential in
     the creation of key population institutions, like UNFPA, and helped
     establish an Office of Population within USAID’ (John F. May, *World
     Population Policies: Their Origin, Evolution, and Impact* [Berlin:
     Springer, 2012], p. 94, n. 1).
 
-[^260]: In the 1976 film adaptation starring Michael York, future
+[^263]: In the 1976 film adaptation starring Michael York, future
     society is explicitly controlled by ‘servo-mechanisms’, though this
     is not a term used in the book. A higher-brow carrier for similar
     concerns is Margaret Atwood’s debut novel *The Edible Woman* (1969),
@@ -8109,16 +8118,16 @@ Cambridge University Press, 2013), p. 25\
     (Margaret Atwood, *The Edible Woman* [London: Virago, 2009],
     p. 244).
 
-[^261]: Hugh Noyes, ‘Abortion Bill over Last Commons Hurdles: Hint on
+[^264]: Hugh Noyes, ‘Abortion Bill over Last Commons Hurdles: Hint on
     Conscience Clause’, *The Times* (15 July 1967), p. 2.
 
-[^262]: Prynne to Riley, 15 September 1967.
+[^265]: Prynne to Riley, 15 September 1967.
 
-[^263]: A brief contemporary analysis of Labour policy over welfare
+[^266]: A brief contemporary analysis of Labour policy over welfare
     selectivity is provided by Alan Watkins, ‘About-turn on welfare’,
     *The Spectator* (22 June 1967), pp. 3–4.
 
-[^264]: An idea of Prynne’s general attitude towards government
+[^267]: An idea of Prynne’s general attitude towards government
     ‘intervention’ is given in a 1986 letter to Douglas Oliver.
     Responding to the latter’s long poem *The Infant and the Pearl*, an
     hallucinatory dream vision involving Margaret Thatcher, Prynne
@@ -8131,43 +8140,43 @@ Cambridge University Press, 2013), p. 25\
     benefit is cruelly mine’ (Prynne to Douglas Oliver, 16 February
     1986).
 
-[^265]: Prynne, ‘A Letter’, in *Certain Prose*, 1:12 [189–91], 28–29
+[^268]: Prynne, ‘A Letter’, in *Certain Prose*, 1:12 [189–91], 28–29
     (p. 28). Of the 66 recipients listed in the *Intelligencer*’s last
     and longest circulation list (’Certain Matters’, in *ibid*.,
     2:[‘Ghost Issue’] [G16–17], pp. 173–75), five are women, a rate of
     less than eight per cent.
 
-[^266]: David Chaloner, ‘Bonfire’, *The English Intelligencer*, 2.12
+[^269]: David Chaloner, ‘Bonfire’, *The English Intelligencer*, 2.12
     (September 1967), p. 477.
 
-[^267]: Robert V. Roosa, ‘Judging the New Liquidity Plan’, *The Banker*,
+[^270]: Robert V. Roosa, ‘Judging the New Liquidity Plan’, *The Banker*,
     117.499 (September 1967), p. 756. The quotation selected by Prynne
     begins at ‘The overriding test’ and ends with ‘lose balance and
     collapse.’
 
-[^268]: Shelley to John and Maria Gisborne, 13 November 1819, in *The
+[^271]: Shelley to John and Maria Gisborne, 13 November 1819, in *The
     Letters of Percy Bysshe Shelley*, vol. 2, ed. by Frederick L. Jones
     (Oxford: The Clarendon Press, 1964), p. 150.
 
-[^269]: Prynne to Riley, unattached second page of letter.
+[^272]: Prynne to Riley, unattached second page of letter.
 
-[^270]: Prynne, ‘A Note on Metal’, in *Certain Prose*, 2:1 [286–89],
+[^273]: Prynne, ‘A Note on Metal’, in *Certain Prose*, 2:1 [286–89],
     pp. 104–09; Riley, ‘Working Notes on British Prehistory, or
     Archaeological Guesswork One’, in *ibid*., 1:14 (supplement)
     [234–47], pp. 47–73.
 
-[^271]: Prynne, ‘A Note on Metal’, in *Aristeas* (London: Ferry Press,
+[^274]: Prynne, ‘A Note on Metal’, in *Aristeas* (London: Ferry Press,
     1968), pp. 14–17; *Poems* (Edinburgh and London: Agneau 2, 1982),
     pp. 125–30; *Poems* (Tarset: Bloodaxe, 1999), pp. 127–32; *Poems*
     (Tarset: Bloodaxe, 2005), pp. 127–32; *Poems* (Tarset: Bloodaxe,
     2015), pp. 127–32.
 
-[^272]: ‘A Note on Metal’ does not appear directly adjacent to any of
+[^275]: ‘A Note on Metal’ does not appear directly adjacent to any of
     the *Aristeas* poems either in the *Intelligencer* or in any of the
     editions of *Poems*; as such, scholars should be wary of positing
     any too-rigid connection between them.
 
-[^273]: C.D. Blanton, ‘Nominal Devolutions: Poetic Substance and the
+[^276]: C.D. Blanton, ‘Nominal Devolutions: Poetic Substance and the
     Critique of Political Economy’, *Yale Journal of Criticism*, 13
     (2000), pp. 129–51; Seeta Chaganti, ‘Vestigial Signs: Inscription,
     Performance, and The Dream of the Rood’, *PMLA*, 125 (2010),
@@ -8187,31 +8196,31 @@ Cambridge University Press, 2013), p. 25\
     (pp. 140–42); Nicholas Royle, *Veering: A Theory of Literature*
     (Edinburgh: Edinburgh University Press, 2011), p. 51, n. 42.
 
-[^274]: Inline citations in this chapter refer to *Poems* (Tarset:
+[^277]: Inline citations in this chapter refer to *Poems* (Tarset:
     Bloodaxe, 2015).
 
-[^275]: Dobran, ‘J.H. Prynne’s “Aristeas, in Seven Years” and *The
+[^278]: Dobran, ‘J.H. Prynne’s “Aristeas, in Seven Years” and *The
     English Intelligencer*’, *Journal of British and Irish Innovative
     Poetry*, 5.2 (2013), 20–42 (p. 39, n. 15).
 
-[^276]: G.W.F. Hegel, *Lectures on the History of Philosophy: Medieval
+[^279]: G.W.F. Hegel, *Lectures on the History of Philosophy: Medieval
     and Modern Philosophy*, trans. by E.S. Haldane and Frances H. Simson
     (Lincoln, NE: University of Nebraska Press, 1995), p. 257.
 
-[^277]: *Ibid*., p. 256.
+[^280]: *Ibid*., p. 256.
 
-[^278]: In fact, as will be argued later in this chapter, Prynne
+[^281]: In fact, as will be argued later in this chapter, Prynne
     is—deliberately—even more of a materialist than Marx.
 
-[^279]: Sutherland, ‘*Sub Songs* versus the subject: Critical variations
+[^282]: Sutherland, ‘*Sub Songs* versus the subject: Critical variations
     on a distinction between Prynne and Hegel’, in *Hix Eros: On the
     Late Poetry of J.H. Prynne*, 123–141 (p. 129).
 
-[^280]: The exact status of this knowledge will be considered below.
+[^283]: The exact status of this knowledge will be considered below.
 
-[^281]: *Ibid*., p. 124.
+[^284]: *Ibid*., p. 124.
 
-[^282]: James D. Muhly, ‘Sources of Tin and the Beginnings of Bronze
+[^285]: James D. Muhly, ‘Sources of Tin and the Beginnings of Bronze
     Metallurgy’, *American Journal of Archaeology*, 89.2 (April 1985),
     pp. 275–91; K. Aslıhan Yener, ‘Managing Metals: An Early Bronze Age
     Tin Production Site at Göltepe, Turkey’, *The Oriental Institute
@@ -8221,15 +8230,15 @@ Cambridge University Press, 2013), p. 25\
     rhyolitic lithics’, *Journal of Archaeological Science*, 38.3 (March
     2011), pp. 605–22.
 
-[^283]: ‘motive, *n*.’, *OED Online* (Oxford University Press, 2015),
+[^286]: ‘motive, *n*.’, *OED Online* (Oxford University Press, 2015),
     \<http://www.oed.com/view/Entry/122712\> [accessed 18 March 2015].
 
-[^284]: This attitude carries echoes of Martin Heidegger’s famous
+[^287]: This attitude carries echoes of Martin Heidegger’s famous
     discussion of equipment and its ‘readiness-to-hand’ in Part One,
     Section III.15 of *Being and Time*, trans. by John Macquarrie and
     Edward Robinson (Oxford: Basil Blackwell, 1962), pp. 95–102.
 
-[^285]: As in much of Prynne’s work, there is a potentially comic or
+[^288]: As in much of Prynne’s work, there is a potentially comic or
     satirical reading which exists alongside or underneath the more
     straight-faced interpretation given above. This rests primarily on
     the use of ‘leading edge’, one of a number of apparently
@@ -8259,20 +8268,20 @@ Cambridge University Press, 2013), p. 25\
     Arab education’, *The Times* [11 October 1966], p. 11; advert,
     *ibid*. [29 August 1969], p. 23).
 
-[^286]: Gregory Clark, *A Farewell to Alms: A Brief Economic History of
+[^289]: Gregory Clark, *A Farewell to Alms: A Brief Economic History of
     the World* (Princeton, NJ: Princeton University Press, 2007),
     p. 286. In his famous manifesto ‘Projective Verse’, Olson uses a
     reappropriated threshing floor as a metaphor: ‘And the threshing
     floor for the dance? Is it anything but the LINE?’ (Olson,
     ‘Projective Verse’, in *Collected Prose*, 239–249 [p. 243]).
 
-[^287]: V. Gordon Childe, *The Prehistory of European Society* (London:
+[^290]: V. Gordon Childe, *The Prehistory of European Society* (London:
     Cassell, 1962), p. 166.
 
-[^288]: C.M. Kraay, ‘Hoards, Small Change and the Origin of Coinage’,
+[^291]: C.M. Kraay, ‘Hoards, Small Change and the Origin of Coinage’,
     *Journal of Hellenic Studies*, 84 (1964), pp. 76–91.
 
-[^289]: This is perhaps the inverse (or the equivalent from a reversed
+[^292]: This is perhaps the inverse (or the equivalent from a reversed
     perspective) of James Lovelock’s view of humanity as nothing more
     than an element in a chemical reaction: ‘Our mistake when we started
     the Anthropocene was to fail to notice that inadvertently we were
@@ -8280,24 +8289,24 @@ Cambridge University Press, 2013), p. 25\
     oxygen of the air’ (James Lovelock, *A Rough Ride to the Future*
     [London: Allen Lane, 2014], p. 10).
 
-[^290]: Marx’s analysis of ‘Historical Facts about Merchant’s Capital’
+[^293]: Marx’s analysis of ‘Historical Facts about Merchant’s Capital’
     in Chapter 20 of the third volume of *Capital* makes clear that this
     form of capital existed as far back as ‘Carthage, Rome, and later
     among the Venetians, Portuguese, Dutch, etc.’ (Karl Marx, *Capital*,
     3rd vol., ed. by Friedrich Engels, in *Marx/Engels Collected Works*,
     37th vol. [New York: International Publishers, 1998], p. 330).
 
-[^291]: Prynne to Riley, 15 September 1967.
+[^294]: Prynne to Riley, 15 September 1967.
 
-[^292]: Blanton, p. 130.
+[^295]: Blanton, p. 130.
 
-[^293]: *Ibid*.
+[^296]: *Ibid*.
 
-[^294]: *Ibid*., p. 131.
+[^297]: *Ibid*., p. 131.
 
-[^295]: Chaganti, p. 48.
+[^298]: Chaganti, p. 48.
 
-[^296]: As Riley puts it, ‘[a] theme that something existed in the life
+[^299]: As Riley puts it, ‘[a] theme that something existed in the life
     of man, *as* the life of man on this island up to about 1500BC at
     the latest, that we’ve lost sight of and need to reconsider. That we
     cd [*sic*] get it back is a thought that frightens with its
@@ -8307,23 +8316,23 @@ Cambridge University Press, 2013), p. 25\
     collective pronoun here refers to the readers of and contributors to
     *The English Intelligencer*.
 
-[^297]: According to Nealon, ‘Prynne’s ambition is towards a poetry that
+[^300]: According to Nealon, ‘Prynne’s ambition is towards a poetry that
     would stage cognition’s ability to reverse time’. Nealon makes clear
     that ‘a belief in this ability organizes Prynne’s essays as well as
     his poems’, giving ‘A Note on Metal’ as a specific example (Nealon,
     ‘The Prynne Reflex’).
 
-[^298]: Prynne’s explicit subject is, admittedly, metal; still, this
+[^301]: Prynne’s explicit subject is, admittedly, metal; still, this
     does not prevent him from offering a detailed account of metal’s
     relationship with stone.
 
-[^299]: Sutherland, ‘J.H. Prynne and Philology’, p. 189.
+[^302]: Sutherland, ‘J.H. Prynne and Philology’, p. 189.
 
-[^300]: *Ibid*., p. 192.
+[^303]: *Ibid*., p. 192.
 
-[^301]: *Ibid*., pp. 195–96.
+[^304]: *Ibid*., pp. 195–96.
 
-[^302]: Prynne may have met Wild, or at least come into contact with the
+[^305]: Prynne may have met Wild, or at least come into contact with the
     philosopher’s work, during his short fellowship at Harvard, where
     Wild taught from 1927 to 1961. As Sutherland points out, the
     didactic portion of the essay also appears to have been heavily
@@ -8331,19 +8340,19 @@ Cambridge University Press, 2013), p. 25\
     (The Hague: Martinus Nijhoff, 1959) (Sutherland, ‘J.H. Prynne and
     Philology’, p. 107).
 
-[^303]: John Wild, ‘Contemporary Phenomenology and the Problem of
+[^306]: John Wild, ‘Contemporary Phenomenology and the Problem of
     Existence’, *Philosophy and Phenomenological Research*, 20.2
     (December 1959), 166–180 (p. 171).
 
-[^304]: *Ibid*., p. 174.
+[^307]: *Ibid*., p. 174.
 
-[^305]: Prynne, ‘Resistance and Difficulty’, p. 28.
+[^308]: Prynne, ‘Resistance and Difficulty’, p. 28.
 
-[^306]: *Ibid*., p. 29.
+[^309]: *Ibid*., p. 29.
 
-[^307]: *Ibid*., p. 30.
+[^310]: *Ibid*., p. 30.
 
-[^308]: There are obvious similarities between this perspective and
+[^311]: There are obvious similarities between this perspective and
     Prynne’s opposition to ‘meditative’ Victorian poetry, as discussed
     in Chapter 1. On the issue of the creation or mere modification of
     resistant material, Prynne’s paraphrase of R.P. Blackmur—that ‘it is
@@ -8354,44 +8363,44 @@ Cambridge University Press, 2013), p. 25\
     poetic composition, in which pre-existing words are arranged in new
     patterns, tends towards the latter.
 
-[^309]: The book is familiar to Prynne, being cited in a recent note as
+[^312]: The book is familiar to Prynne, being cited in a recent note as
     representative of a materialist philosophical tendency which he
     ‘understand[s] rather intimately’ (Prynne, ‘A Note to Josh Kotin and
     Jeff Dolven’, *No Prizes*, 4 (Winter 2015–16), 21–24 [p. 21]).
 
-[^310]: Quentin Meillassoux, *After Finitude*, trans. by Ray Brassier
+[^313]: Quentin Meillassoux, *After Finitude*, trans. by Ray Brassier
     (London: Continuum, 2008), p. 5.
 
-[^311]: *Ibid*., p. 7.
+[^314]: *Ibid*., p. 7.
 
-[^312]: Wild provides a description of his own position which accords
+[^315]: Wild provides a description of his own position which accords
     completely with Meillassoux’s description of correlationism: ‘The
     phenomenologist is simply one who is not content with the object
     alone or the subject alone, but who is concerned with the two in
     their intentional integrity, *as they always are actually found*’
     (Wild, p. 169, emphasis mine).
 
-[^313]: *Ibid*., p. 10.
+[^316]: *Ibid*., p. 10.
 
-[^314]: *Ibid*., p. 13.
+[^317]: *Ibid*., p. 13.
 
-[^315]: Prynne, ‘Resistance and Difficulty’, p. 28.
+[^318]: Prynne, ‘Resistance and Difficulty’, p. 28.
 
-[^316]: Graham Harman, ‘Meillassoux’s arche-fossil is not an
+[^319]: Graham Harman, ‘Meillassoux’s arche-fossil is not an
     “argument”’, *Object-Oriented Philosophy* (6 March 2014),
     \<https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/\>
     [accessed 12 June 2015].
 
-[^317]: Meillassoux, *After Finitude*, p. 50.
+[^320]: Meillassoux, *After Finitude*, p. 50.
 
-[^318]: Meillassoux, ‘Time without Becoming’, conference paper presented
+[^321]: Meillassoux, ‘Time without Becoming’, conference paper presented
     at Middlesex University (8 May 2008),
     \<https://speculativeheresy.files.wordpress.com/2008/07/3729-time\_without\_becoming.pdf\>
     [accessed 12 June 2015].
 
-[^319]: Meillassoux, *After Finitude*, pp. 130–31, n. 12.
+[^322]: Meillassoux, *After Finitude*, pp. 130–31, n. 12.
 
-[^320]: For an engagement with the the issues that surround the strict
+[^323]: For an engagement with the the issues that surround the strict
     version of Meillassoux’s arche-fossil—or at least a similar set of
     issues—it is possible to turn to Prynne’s reading of the
     Anglo-Austrian physicist Wolfgang Rindler. According to Rindler, two
@@ -8415,9 +8424,9 @@ Cambridge University Press, 2013), p. 25\
     world, but within the bounds of what Prynne terms the
     inference-horizon.
 
-[^321]: *Ibid*., p. 7.
+[^324]: *Ibid*., p. 7.
 
-[^322]: *Ibid*., p. 47. Meillassoux’s stance is to be distinguished from
+[^325]: *Ibid*., p. 47. Meillassoux’s stance is to be distinguished from
     the superficially similar position of Adorno and Horkheimer insofar
     as it is profoundly undialectical and does not hold that ‘[m]yth is
     already enlightenment’ (Max Horkheimer and Theodor W. Adorno,
@@ -8429,16 +8438,16 @@ Cambridge University Press, 2013), p. 25\
     faith as such—since the latter can obviously prove extremely
     valuable’ (*After Finitude*, p. 47).
 
-[^323]: *Ibid*., pp. 43–48.
+[^326]: *Ibid*., pp. 43–48.
 
-[^324]: Meillassoux’s two book-length publications subsequent to *After
+[^327]: Meillassoux’s two book-length publications subsequent to *After
     Finitude*—*Le Nombre et la sirène* (2011) and *Métaphysique et
     fiction des mondes hors-science* (2013)—both concern literature.
 
-[^325]: Like other objects, the poem thus has facticity in the sense
+[^328]: Like other objects, the poem thus has facticity in the sense
     emphasised by Meillassoux.
 
-[^326]: This distinction recalls that between Bateson’s alleged
+[^329]: This distinction recalls that between Bateson’s alleged
     conception of the text as inert historical object and Leavis’s
     conception of it as living historical being in the
     criticism–scholarship debate, well summarised in Tae Chul Kim, ‘F.R.
@@ -8446,41 +8455,41 @@ Cambridge University Press, 2013), p. 25\
     Journal of British and American Studies, 10.1 (2004), 81–112
     (p. 105).
 
-[^327]: Prynne, ‘In Cimmerian Darkness’, in *Poems*, pp. 74–75;
+[^330]: Prynne, ‘In Cimmerian Darkness’, in *Poems*, pp. 74–75;
     Sutherland, ‘J.H. Prynne and Philology’, p. 198.
 
-[^328]: For instance, in an early letter to Olson, Prynne mentions that
+[^331]: For instance, in an early letter to Olson, Prynne mentions that
     Ward is ‘writing his second (totally ignored) novel’, but provides
     no details about the work (Prynne to Olson, 14 February 1962).
 
-[^329]: Edward Upward, ‘Answers to questions from David Lambourne’,
+[^332]: Edward Upward, ‘Answers to questions from David Lambourne’,
     p. 4.
 
-[^330]: Prynne to Riley, 23 June 1967.
+[^333]: Prynne to Riley, 23 June 1967.
 
-[^331]: Prynne to Riley, 29 May 1967.
+[^334]: Prynne to Riley, 29 May 1967.
 
-[^332]: At another point in the 29 May letter, Prynne makes a plea for
+[^335]: At another point in the 29 May letter, Prynne makes a plea for
     ‘something better that [*sic*] mind/body, past/present dualisms,
     which arouse all manner of social antagonisms without more than
     touching on the issue.’
 
-[^333]: Prynne to Riley, 23 June 1967.
+[^336]: Prynne to Riley, 23 June 1967.
 
-[^334]: The significance of the implicit sexualisation of this ‘remorse’
+[^337]: The significance of the implicit sexualisation of this ‘remorse’
     will become clearer below.
 
-[^335]: Riley, ‘Peter Riley – Excerpts from a Notebook’, in *Certain
+[^338]: Riley, ‘Peter Riley – Excerpts from a Notebook’, in *Certain
     Prose*, 2:3 [339–40], 118–20 (p. 120).
 
-[^336]: Prynne’s attack on unoriginality here is of course undercut by
+[^339]: Prynne’s attack on unoriginality here is of course undercut by
     the fact that he is almost directly channeling Ezra Pound. This
     connection will be considered briefly below.
 
-[^337]: Wyndham Lewis, *Tarr* (Oxford: Oxford University Press, 2010),
+[^340]: Wyndham Lewis, *Tarr* (Oxford: Oxford University Press, 2010),
     p. 95.
 
-[^338]: As with almost any claim about *Tarr*, this is qualified by the
+[^341]: As with almost any claim about *Tarr*, this is qualified by the
     book’s complex textual history. The passage quoted by Prynne, along
     with much of the rest of Part II, was not included in the original
     serialisation of *Tarr* in *The Egoist*, ‘for want of space’ (*The
@@ -8492,10 +8501,13 @@ Cambridge University Press, 2013), p. 25\
     Thus, the passage effectively straddles the emergence of
     phenomenology as a major philosophical discipline.
 
-[^339]: ‘Preface to the 1918 American Edition’, in *Tarr*, 285–88
+[^342]: ??? MORE SIMPLE EXPLANATION: KREISLER’S FOCUS ON LANGUAGE IS
+    LIKE A STUPID WRITER’S.
+
+[^343]: ‘Preface to the 1918 American Edition’, in *Tarr*, 285–88
     (pp. 285–86).
 
-[^340]: ‘From the Prologue to the 1918 Egoist Press Edition’, in *Tarr*,
+[^344]: ‘From the Prologue to the 1918 Egoist Press Edition’, in *Tarr*,
     288–89 (p. 288). Fredric Jameson offers a material basis for this
     status, claiming that Tarr ‘dramatizes the security of the liberal
     and counterrevolutionary class compromise of the British tradition
@@ -8504,84 +8516,84 @@ Cambridge University Press, 2013), p. 25\
     Modernist as Fascist* [Berkeley, CA: University of California Press,
     1979], p. 95).
 
-[^341]: Scott W. Klein, ‘Introduction’, in *Tarr*, ix–xxix (p. xvi).
+[^345]: Scott W. Klein, ‘Introduction’, in *Tarr*, ix–xxix (p. xvi).
 
-[^342]: *Ibid*., p. xiv.
+[^346]: *Ibid*., p. xiv.
 
-[^343]: ‘Long Live the Vortex!’, *Blast*, 1 (1914), [7–8] ([p. 7]).
+[^347]: ‘Long Live the Vortex!’, *Blast*, 1 (1914), [7–8] ([p. 7]).
 
-[^344]: ‘Manifesto—I’, *ibid*., 11–28 (p. 11).
+[^348]: ‘Manifesto—I’, *ibid*., 11–28 (p. 11).
 
-[^345]: ‘Manifesto—II’, *ibid*., pp. 30–43.
+[^349]: ‘Manifesto—II’, *ibid*., pp. 30–43.
 
-[^346]: This analysis accepts the conventional attribution of
+[^350]: This analysis accepts the conventional attribution of
     ‘Manifesto—II’ primarily to Lewis, despite the multiple signatories.
     Inline citations correspond to the text’s individually numbered
     sections and theses.
 
-[^347]: There is a clear parallel here with the ambivalent relation
+[^351]: There is a clear parallel here with the ambivalent relation
     between *Scrutiny* and Cambridge, discussed in Chapter 1.
 
-[^348]: Laura Steele, ‘Comedy and the Conceptual in Douglas Oliver’s
+[^352]: Laura Steele, ‘Comedy and the Conceptual in Douglas Oliver’s
     *The Harmless Building*’, *Intercapillary Space* (September 2006),
     \<http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in- douglas.html\>
     [accessed 27 April 2015].
 
-[^349]: Douglas Oliver, *The Harmless Building* (London: Ferry Press and
+[^353]: Douglas Oliver, *The Harmless Building* (London: Ferry Press and
     Grosseteste Review Books, 1973), p. 102; *The Harmless Building*, in
     *Three Variations on the Theme of Harm* (London: Paladin, 1990),
     111–255 (p. 212).
 
-[^350]: Prynne to Oliver, 9, 10 and 11 January 1972; Prynne, ‘From a
+[^354]: Prynne to Oliver, 9, 10 and 11 January 1972; Prynne, ‘From a
     Letter to Douglas Oliver’, *Grosseteste Review*, 6.1–4 (1973),
     pp. 152–54. All quotations here are from the original letter, which
     bears three consecutive dates but was apparently sent in one
     envelope.
 
-[^351]: As quoted in Chapter 1, Prynne describes the influence of
+[^355]: As quoted in Chapter 1, Prynne describes the influence of
     Ashbery and his ‘various camp followers’ as a source of ‘feeble
     insecurity’ in some emerging English poetry (Prynne to Riley, 16
     March 1969).
 
-[^352]: ‘nympholepsy, n.’, *OED Online* (Oxford University Press, 2015),
+[^356]: ‘nympholepsy, n.’, *OED Online* (Oxford University Press, 2015),
     \<http://www.oed.com/view/Entry/129422\> [accessed 28 April 2015].
     Prynne seems to have been fond of the term at this point, using it
     again in an October 1972 letter to Dorn, though this time in
     reference to the residents of the York Street Commune in Vancouver,
     where Prynne had read in 1971 (Prynne to Dorn, 25 October 1972).
 
-[^353]: This table does not include ‘phenomenological’ as the earlier
+[^357]: This table does not include ‘phenomenological’ as the earlier
     stages of the letter make clear that Oliver’s novel is itself highly
     phenomenological; the pejorative weight in ‘pre-sexual
     phenomenology’ is assigned entirely to ‘pre-sexual’.
 
-[^354]: Prynne to Riley, 23 June 1967. Ironically, the second thesis of
+[^358]: Prynne to Riley, 23 June 1967. Ironically, the second thesis of
     Lewis’s ‘Manifesto—II’ calls for the establishment of a ‘violent
     structure of adolescent clearness between two extremes’ (I.2).
 
-[^355]: The phrase ‘world tube’ is also used in Prynne’s contemporaneous
+[^359]: The phrase ‘world tube’ is also used in Prynne’s contemporaneous
     ‘Full Tilt Botany: Ideal Weapon for Suicide Pacts’ (*Bean News*, 1
     [1972], [p. 8]), which will be discussed in relation to *The* Plant
     Time Manifold *Transcripts* below.
 
-[^356]: Oliver, *The Harmless Building*, p. 143; *Three Variations*,
+[^360]: Oliver, *The Harmless Building*, p. 143; *Three Variations*,
     p. 254. This reading of Prynne’s division of the novel is
     disputable, insofar as he describes ‘Chapters 11 to 15 as texte,
     what follows as hors-texte’, while the section of direct address
     described above arguably falls within Chapter 15 in both published
     versions of the novel.
 
-[^357]: Lewis, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa,
+[^361]: Lewis, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa,
     CA: Black Sparrow Press, 1993), p. 88.
 
-[^358]: The traces of this contradiction can be felt throughout the
+[^362]: The traces of this contradiction can be felt throughout the
     essay. At one point, having thoroughly criticised *Ulysses*, Lewis
     speculates that ‘*The Enemy of the Stars*, a play written and
     published by me in 1914, obliterated by the War, turned up […] in
     Zurich, and was responsible here and there for the manner of Joyce’s
     book’ (*ibid*., p. 107).
 
-[^359]: Prynne to Olson, 3 February 1963. According to Ralph Maud,
+[^363]: Prynne to Olson, 3 February 1963. According to Ralph Maud,
     ‘Olson liked to tell of Ezra Pound’s returning to Joyce his
     presentation copy of *Finnegan’s Wake* with the word “Decadence”
     written over the cover’ (Ralph Maud, *Charles Olson’s Reading: A
@@ -8592,7 +8604,7 @@ Cambridge University Press, 2013), p. 25\
     resonances with the Nazi campaign against ‘*entartete Kunst*’ in the
     same period.
 
-[^360]: A similar conception of Pound’s poetry as spatial rather than
+[^364]: A similar conception of Pound’s poetry as spatial rather than
     temporal is offered in the conclusion to Chapter VI of Davie’s 1964
     study, which is based explicitly on ‘conversations with J.H. Prynne’
     (Davie, *Ezra Pound: Poet as Sculptor*, p. vi). Davie describes
@@ -8603,43 +8615,43 @@ Cambridge University Press, 2013), p. 25\
     seems more accurate to say that they are placed one beneath another,
     than to say that one comes after another’ (p. 118).
 
-[^361]: A 2011 exhibition of watercolours at the Tate Britain gallery
+[^365]: A 2011 exhibition of watercolours at the Tate Britain gallery
     was advertised with the slogan: ‘Tate Britain [i]nvites you to
     challenge your preconceptions of what watercolour is’
     (‘Watercolour’, *Tate*,
     \<http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour\>
     [accessed 2 November 2014].
 
-[^362]: Lewis, *Time and Western Man*, p. 79.
+[^366]: Lewis, *Time and Western Man*, p. 79.
 
-[^363]: *Ibid*., p. 92.
+[^367]: *Ibid*., p. 92.
 
-[^364]: Iris Murdoch, ‘The Idea of Perfection’, *Yale Review*, 53.3
+[^368]: Iris Murdoch, ‘The Idea of Perfection’, *Yale Review*, 53.3
     (Spring 1964), 342–80 (p. 348).
 
-[^365]: *Ibid*., p. 349.
+[^369]: *Ibid*., p. 349.
 
-[^366]: *Ibid*., p. 352.
+[^370]: *Ibid*., p. 352.
 
-[^367]: *Ibid*., p. 358.
+[^371]: *Ibid*., p. 358.
 
-[^368]: *Ibid*.
+[^372]: *Ibid*.
 
-[^369]: *Ibid*., p. 361.
+[^373]: *Ibid*., p. 361.
 
-[^370]: *Ibid*., p. 376. Murdoch describes the notion of art ‘for its
+[^374]: *Ibid*., p. 376. Murdoch describes the notion of art ‘for its
     own sake’ as ‘the familiar Kantian-Bloomsbury slogan’, recalling
     Leavis and Prynne’s shared antipathy towards the Bloomsbury Group,
     and perhaps revealing a cultural or a social as well as a
     theoretical motive behind her implicit critique of G.E. Moore
     (p. 377).
 
-[^371]: Oliver, *The Harmless Building*, p. 5; *Three Variations,*
+[^375]: Oliver, *The Harmless Building*, p. 5; *Three Variations,*
     p. 113.
 
-[^372]: *Ibid*., p. 254.
+[^376]: *Ibid*., p. 254.
 
-[^373]: The connection of this vague aesthetico-ethical attitude to
+[^377]: The connection of this vague aesthetico-ethical attitude to
     politics is made clearer in a 1986 letter to Oliver: ‘I do not
     believe in a political centre which is any more than the adroit
     hedging & edging of a party system; but I would separate this from
@@ -8649,20 +8661,20 @@ Cambridge University Press, 2013), p. 25\
     disclaiming its own sentimental loyalties’ (Prynne to Oliver, 16
     February 1986).
 
-[^374]: Prynne to Dorn, 9 September 1975. The potential fear to which
+[^378]: Prynne to Dorn, 9 September 1975. The potential fear to which
     Prynne refers may relate to a creative crisis and mental breakdown
     experienced by Upward’s protagonist in *The Rotten Elements*, though
     this would be obscure to Dorn. The ‘project’ is also ambiguous, but
     is probably Prynne’s most recent poetic publication, *High Pink on
     Chrome* (1975).
 
-[^375]: The assessment conforms, for instance, to that given by Anthony
+[^379]: The assessment conforms, for instance, to that given by Anthony
     Arblaster in a 1978 conference paper (Anthony Arblaster, ‘Edward
     Upward and the Novel of Politics’ [1978], *Edward Upward*,
     \<http://www.edwardupward.info/pdfs/Arblaster.pdf\> [accessed 5 May
     2015]).
 
-[^376]: The view of Upward as a quintessentially ‘thirties’ figure was
+[^380]: The view of Upward as a quintessentially ‘thirties’ figure was
     apparently shared by Donald Davie, who sent the older writer a
     typescript copy of his 1953 poem ‘Remembering the Thirties’. Whether
     Davie knew Upward personally is not clear, but there is at least one
@@ -8680,56 +8692,56 @@ Cambridge University Press, 2013), p. 25\
     *Purity of Diction in English Verse* and *Articulate Energy*), with
     me to assist him’ (A.C. Spearing to Upward, 14 July 1959).
 
-[^377]: New light was shed on this particular volume of the trilogy in
+[^381]: New light was shed on this particular volume of the trilogy in
     2014 with the release of Upward’s personal MI5 file, the contents of
     which are described in Louis Goddard, ‘Not spooked’, *Times Literary
     Supplement* (11 December 2015), p. 17.
 
-[^378]: Upward, *No Home But the Struggle*, ed. by David Allinson,
+[^382]: Upward, *No Home But the Struggle*, ed. by David Allinson,
     *Edward Upward*,
     \<http://www.edwardupward.info/pdfs/No\_Home\_But\_the\_Struggle.pdf\>
     [accessed 5 May 2015], p. 275.
 
-[^379]: Upward, *The Rotten Elements*, ed. by David Allinson, *Edward
+[^383]: Upward, *The Rotten Elements*, ed. by David Allinson, *Edward
     Upward*,
     \<http://www.edwardupward.info/pdfs/The\_Rotten\_Elements.pdf\>
     [accessed 27 November 2015], p. 53.
 
-[^380]: *No Home But the Struggle*, first published as part of *The
+[^384]: *No Home But the Struggle*, first published as part of *The
     Spiral Ascent* in 1977, contains a much broader range of sexual
     material than either of the previous two books, including the
     account of a young Sebrill’s relationship with a fellow schoolboy.
 
-[^381]: Prynne to Barry MacSweeney, 7 August 1975.
+[^385]: Prynne to Barry MacSweeney, 7 August 1975.
 
-[^382]: Upward, ‘Statement for the Literature/Sociology Conference on
+[^386]: Upward, ‘Statement for the Literature/Sociology Conference on
     “1936” at Essex University, July 1978’, *Edward Upward*,
     \<http://www.edwardupward.info/pdfs/Statement.pdf\> [accessed 5 May
     2015], p. 7.
 
-[^383]: ‘Doug Oliver was over here a short while ago and is in extreem
+[^387]: ‘Doug Oliver was over here a short while ago and is in extreem
     good form, wary as ever and mucho quick off the mark. He’s to be
     lecturing at Wivenhoe from this October, which is likely to be Off
     the Map for quite a few, I should think. Did his fight reports reach
     you OK?’ (Prynne to Dorn, 9 September 1975).
 
-[^384]: Katherine Bucknell, ‘Introduction’, in Christopher Isherwood and
+[^388]: Katherine Bucknell, ‘Introduction’, in Christopher Isherwood and
     Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994),
     9–21 (p. 9). Detailed, if semi-fictional, accounts of Mortmere are
     provided in *No Home But the Struggle* and in Isherwood’s *Lions and
     Shadows* (1938).
 
-[^385]: Isherwood, foreword to ‘The Railway Accident’, in Upward, *The
+[^389]: Isherwood, foreword to ‘The Railway Accident’, in Upward, *The
     Railway Accident and Other Stories* (London: Penguin, 1972), 33–35
     (pp. 33–34).
 
-[^386]: Upward, ‘The Railway Accident’, in *The Railway Accident*, 33–84
+[^390]: Upward, ‘The Railway Accident’, in *The Railway Accident*, 33–84
     (pp. 61–62).
 
-[^387]: Oliver, *The Harmless Building*, pp. 46–47; *Three Variations*,
+[^391]: Oliver, *The Harmless Building*, pp. 46–47; *Three Variations*,
     p. 155.
 
-[^388]: In a 1983 journal entry, Upward gave his own inspiration as ‘a
+[^392]: In a 1983 journal entry, Upward gave his own inspiration as ‘a
     disastrous railway accident that had happened near Ilford on the
     line between Romford, where my home was, and Liverpool Street’
     (Upward, quoted in Peter Stansky, *Edward Upward: Art and Life*
@@ -8737,36 +8749,36 @@ Cambridge University Press, 2013), p. 25\
     to the 1915 Ilford rail crash, which killed ten and injured
     approximately 500 on News Year’s Day.
 
-[^389]: Oliver, *Three Variations*, p. 115. If neglect was not already
+[^393]: Oliver, *Three Variations*, p. 115. If neglect was not already
     established as the default mode of relation to Upward’s work, it
     would be surprising that he does not merit a mention in John
     Brannigan’s recent *Archipelagic Modernism: Literature in the Irish
     and British Isles, 1890–1970* (Edinburgh: Edinburgh University
     Press, 2015).
 
-[^390]: Isherwood, foreword to ‘The Railway Accident’, p. 34.
+[^394]: Isherwood, foreword to ‘The Railway Accident’, p. 34.
 
-[^391]: Upward, ‘The Railway Accident’, p. 40.
+[^395]: Upward, ‘The Railway Accident’, p. 40.
 
-[^392]: Mario Faraone, ‘“Chambers of Oblivion”: I Treni di Edward Upward
+[^396]: Mario Faraone, ‘“Chambers of Oblivion”: I Treni di Edward Upward
     tra Allucinazione, Storia e Memoria’, in *Scorci Improvvisi di Altri
     Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and
     Roberta Tommasi (Morrisville, NC: Lulu, 2008), 215–34 (p. 233).
 
-[^393]: Jameson, pp. 28–29.
+[^397]: Jameson, pp. 28–29.
 
-[^394]: Michael Beatty, ‘The Earliest Fiction of Wyndham Lewis and *The
+[^398]: Michael Beatty, ‘The Earliest Fiction of Wyndham Lewis and *The
     Wild Body*’, *Theoria*, 48 (May 1977), 37–45 (p. 37).
 
-[^395]: Prynne to Riley, 13 September 1967.
+[^399]: Prynne to Riley, 13 September 1967.
 
-[^396]: Lewis, ‘Inferior Religions’, in *The Wild Body: ‘A Soldier of
+[^400]: Lewis, ‘Inferior Religions’, in *The Wild Body: ‘A Soldier of
     Humour’ and Other Stories* (New York: Harcourt, Brace and Company,
     1928), 233–43 (p. 233).
 
-[^397]: *Ibid*., pp. 233–34.
+[^401]: *Ibid*., pp. 233–34.
 
-[^398]: Lewis, ‘The Meaning of the Wild Body’, in *The Wild Body*,
+[^402]: Lewis, ‘The Meaning of the Wild Body’, in *The Wild Body*,
     244–251 (p. 245); William James, *Some Problems of Philosophy: A
     Beginning of an Introduction to Philosophy* (Lincoln, NE: University
     of Nebraska Press, 1996), p. 39. For the author of *The Apes of
@@ -8776,15 +8788,15 @@ Cambridge University Press, 2013), p. 25\
     Hughes’s *Crow* and Geoffrey Hill’s *Mercian Hymns* (Trotter,
     p. 224).
 
-[^399]: Oliver, *Three Variations*, p. 170; *ibid*., p. 188.
+[^403]: Oliver, *Three Variations*, p. 170; *ibid*., p. 188.
 
-[^400]: Upward, ‘Answers to questions’.
+[^404]: Upward, ‘Answers to questions’.
 
-[^401]: Lewis, ‘The Meaning of the Wild Body’, p. 247.
+[^405]: Lewis, ‘The Meaning of the Wild Body’, p. 247.
 
-[^402]: Lewis, ‘Inferior Religions’, p. 236.
+[^406]: Lewis, ‘Inferior Religions’, p. 236.
 
-[^403]: Lewis, ‘The Meaning of the Wild Body’, p. 246. Lewis returns in
+[^407]: Lewis, ‘The Meaning of the Wild Body’, p. 246. Lewis returns in
     this piece to the issue of national identity, offering a more
     nuanced perspective than that which is implied in *Tarr*: ‘It is
     easy for us to see, if we are french, that the German is “absurd,”
@@ -8795,49 +8807,49 @@ Cambridge University Press, 2013), p. 25\
     the same criticism or ridicule from any opponent who is only
     different enough’ (*ibid*., pp. 245–46).
 
-[^404]: Isherwood, foreword to ‘The Railway Accident’, p. 34.
+[^408]: Isherwood, foreword to ‘The Railway Accident’, p. 34.
 
-[^405]: Lewis, ‘Inferior Religions’, p. 236.
+[^409]: Lewis, ‘Inferior Religions’, p. 236.
 
-[^406]: ‘The “PLANT TIME MANIFOLD” Transcripts’, *Grosseteste Review*,
+[^410]: ‘The “PLANT TIME MANIFOLD” Transcripts’, *Grosseteste Review*,
     7.1–3 (Summer 1974), pp. 80–88. The text will hereafter be referred
     to in the singular as ‘the *PTM*’, in accordance with Justin Katko’s
     usage.
 
-[^407]: Prynne to Dorn, 14 March 1972, published as ‘& Hoc Genus Omne’,
+[^411]: Prynne to Dorn, 14 March 1972, published as ‘& Hoc Genus Omne’,
     *Bean News* (1972), [p. 2]; Prynne to Dorn, 25 March 1972, published
     as ‘Full Tilt Botany: Ideal Weapons for Suicide Pacts’, *Bean News*
     (1972), [p. 8]. A number of less significant *PTM*-related texts are
     listed in Katko, p. 248, n. 9.
 
-[^408]: Katko, p. 252. A comprehensive overview of existing work on the
+[^412]: Katko, p. 252. A comprehensive overview of existing work on the
     *PTM* is provided in Katko, pp. 250–57.
 
-[^409]: Katko, p. 257.
+[^413]: Katko, p. 257.
 
-[^410]: *Ibid*.
+[^414]: *Ibid*.
 
-[^411]: ‘The *Plant Time Manifold* Transcripts’, in *Poems*, 233–42
+[^415]: ‘The *Plant Time Manifold* Transcripts’, in *Poems*, 233–42
     (p. 234). The posture of absolute seriousness adopted by Katko is of
     course scrupulously Prynnian in character. It is the *PTM*’s own
     anomalousness in Prynne’s *oeuvre* which creates the limits against
     which this approach strains.
 
-[^412]: Drew Milne, ‘The Art of Wit and the Cambridge Science Park’, in
+[^416]: Drew Milne, ‘The Art of Wit and the Cambridge Science Park’, in
     *Contemporary Poetry and Contemporary Science*, ed. by Robert
     Crawford (Oxford: Oxford University Press, 2006), 170–87 (p. 180).
 
-[^413]: ‘The *Plant Time Manifold* Transcripts’, p. 235.
+[^417]: ‘The *Plant Time Manifold* Transcripts’, p. 235.
 
-[^414]: *Ibid*., p. 236.
+[^418]: *Ibid*., p. 236.
 
-[^415]: *Ibid*., p. 237.
+[^419]: *Ibid*., p. 237.
 
-[^416]: *Ibid*., p. 236.
+[^420]: *Ibid*., p. 236.
 
-[^417]: *Ibid*., p. 237.
+[^421]: *Ibid*., p. 237.
 
-[^418]: Kingsley Amis, *Lucky Jim* (London: Victor Gollancz, 1957),
+[^422]: Kingsley Amis, *Lucky Jim* (London: Victor Gollancz, 1957),
     p. 230. It is an open question whether the use of the archaic ‘shew’
     for ‘show’ in Lichen’s dialogue (*PTM*, p. 236) is intended to
     contribute to this effect, given Prynne’s subsequent use of the term
@@ -8849,7 +8861,7 @@ Cambridge University Press, 2013), p. 25\
     Scottish accent, the character being resident at the ‘Edinburgh
     Institute for Plant History’ (*PTM*, p. 234).
 
-[^419]: Amis, *Lucky Jim*, p. 231. There are, of course, no shortage of
+[^423]: Amis, *Lucky Jim*, p. 231. There are, of course, no shortage of
     novels which satirise the academy. A more avant-garde model for the
     *PTM* can be found in Samuel Beckett’s *Watt* (1953), published one
     year before *Lucky Jim*; specifically, in the farcical university
@@ -8861,27 +8873,27 @@ Cambridge University Press, 2013), p. 25\
     Knowledge, and Power in Modern Fiction* [Gainesville, FL: University
     Press of Florida, 1993], p. 34).
 
-[^420]: Darwin—who shares a forename and surname with Charles Darwin’s
+[^424]: Darwin—who shares a forename and surname with Charles Darwin’s
     grandfather—uses a consistently technical vocabulary in his regular
     ‘bulletins’, and in ‘When is now’ appears to have access to data
     from the fictional ‘Cambridge-based Bioparallax Research Station’
     (*Bean News* [1972], [p. 4]).
 
-[^421]: Margaret Thatcher, ‘Written Statement launching Education White
+[^425]: Margaret Thatcher, ‘Written Statement launching Education White
     Paper (*A Framework for Expansion*)’ (6 December 1972), *Margaret
     Thatcher Foundation*,
     \<http://www.margaretthatcher.org/document/102233\> [accessed 7
     September 2015].
 
-[^422]: Prynne to Dorn, 10 January 1972.
+[^426]: Prynne to Dorn, 10 January 1972.
 
-[^423]: Prynne to Dorn, 5 March 1975.
+[^427]: Prynne to Dorn, 5 March 1975.
 
-[^424]: Another Magritte painting, *La Durée poignardée* (‘Time
+[^428]: Another Magritte painting, *La Durée poignardée* (‘Time
     Transfixed’), is used on the cover of the 1972 Penguin edition of
     Upward’s *The Railway Accident*.
 
-[^425]: *PTM*, p. 238. This is perhaps the most obvious respect in which
+[^429]: *PTM*, p. 238. This is perhaps the most obvious respect in which
     Prynne’s Erasmus Darwin follows the work of his real-life namesake,
     grandfather to Charles Darwin. In his scientific (mock-)epic *The
     Loves of the Plants*, the elder Darwin uses relationships between
@@ -8890,74 +8902,76 @@ Cambridge University Press, 2013), p. 25\
     \<https://archive.org/details/botanicgardenpoe02darwuoft\> [accessed
     13 June 2016].
 
-[^426]: The issue of prejudice is of course taken up in the seminar
+[^430]: The issue of prejudice is of course taken up in the seminar
     scene, in which Lichen claims that ‘there are all too many today who
     confuse height above ground with innate developmental superiority’
     (*ibid*., p. 236).
 
-[^427]: *Ibid*., p. 234.
+[^431]: *Ibid*., p. 234.
 
-[^428]: *Ibid*., p. 235.
+[^432]: *Ibid*., p. 235.
 
-[^429]: *Ibid*., p. 236.
+[^433]: *Ibid*., p. 236.
 
-[^430]: *Ibid*.
+[^434]: *Ibid*.
 
-[^431]: *Ibid*., p. 237.
+[^435]: *Ibid*., p. 237.
 
-[^432]: Hugh Kenner, ‘Wyndham Lewis: The Satirist as Barbarian’, *The
+[^436]: Hugh Kenner, ‘Wyndham Lewis: The Satirist as Barbarian’, *The
     Yearbook of English Studies*, 14 (1984), 264–75 (p. 269).
 
-[^433]: *Ibid*., p. 236–37.
+[^437]: *Ibid*., p. 236–37.
 
-[^434]: This moment of realisation is akin to what Kenner describes as
+[^438]: This moment of realisation is akin to what Kenner describes as
     satire’s oscillation between seduction and shock: ‘What were we
     doing, sagely nodding our heads as the Modest Proposer prattled
     about the sheer nuisance of being assailed by beggars? Is *that* a
     way to state the Irish problem?’ (Kenner, p. 264).
 
-[^435]: Key environmentalist milestones in this period include the
+[^439]: Key environmentalist milestones in this period include the
     establishment of the United States Environmental Protection Agency
     in 1970, the US ban on the pesticide DDT in 1972 and the founding of
     the first national green party, Britain’s PEOPLE, in 1973.
 
-[^436]: Peter Tompkins and Christopher Bird, ‘Love among the cabbages’,
+[^440]: Peter Tompkins and Christopher Bird, ‘Love among the cabbages’,
     *Harper’s Magazine* (November 1972), pp. 90–92, 94–96.
 
-[^437]: Tompkins and Bird, *The Secret Life of Plants* (New York: Harper
+[^441]: Tompkins and Bird, *The Secret Life of Plants* (New York: Harper
     & Row, 1973), p. x.
 
-[^438]: Prynne, *Graft and Corruption: Shakespeare’s Sonnet 15*
+[^442]: ??? RECAPITULATE STUFF ON LEWIS, UPWARD AND OLIVER.
+
+[^443]: Prynne, *Graft and Corruption: Shakespeare’s Sonnet 15*
     (Cambridge: Face Press, 2015), p. 52. The latest book cited in the
     text is Roy Strong’s *The Renaissance Garden in England* (1979),
     which Prynne describes as ‘recent’.
 
-[^439]: William Shakespeare, *Shake-speares Sonnets Neuer before
+[^444]: William Shakespeare, *Shake-speares Sonnets Neuer before
     Imprinted* (London, 1609), sig. B~4~^r^, quoted in *ibid*. , p. 12.
 
-[^440]: *Ibid*., p. 14.
+[^445]: *Ibid*., p. 14.
 
-[^441]: *Ibid*., p. 39.
+[^446]: *Ibid*., p. 39.
 
-[^442]: *Ibid*., pp. 38–39.
+[^447]: *Ibid*., pp. 38–39.
 
-[^443]: *Ibid*., p. 49.
+[^448]: *Ibid*., p. 49.
 
-[^444]: Prynne to Robin Blaser, 28 August 1973.
+[^449]: Prynne to Robin Blaser, 28 August 1973.
 
-[^445]: Prynne, *Graft and Corruption*, p. 31. For demonstrations of
+[^450]: Prynne, *Graft and Corruption*, p. 31. For demonstrations of
     Prynne’s aversion to the restrictions of conventional etymology, see
     ‘A Pedantic Note in Two Parts’, *Stars, Tigers and the Shape of
     Words* and *Mental Ears and Poetic Work*, *passim*.
 
-[^446]: Shakespeare, *The Winter’s Tale* (Folio, 1623), IV.iv.89–97
+[^451]: Shakespeare, *The Winter’s Tale* (Folio, 1623), IV.iv.89–97
     (sig. Bb~2~^v^), quoted in Prynne, *Graft and Corruption*, p. 34.
 
-[^447]: *Ibid*., pp. 35–38.
+[^452]: *Ibid*., pp. 35–38.
 
-[^448]: *Ibid*., p. 37.
+[^453]: *Ibid*., p. 37.
 
-[^449]: A.V.S. de Reuck and Julie Knight, eds, *Touch, Heat and Pain*
+[^454]: A.V.S. de Reuck and Julie Knight, eds, *Touch, Heat and Pain*
     (London: J. & A. Churchill, 1966). Writing to Oliver about *The
     Harmless Building*, Prynne remarks on ‘[h]ow extemely useful it was
     that I had some little time ago finished reading *Fundamentals of
@@ -8972,18 +8986,24 @@ Cambridge University Press, 2013), p. 25\
     Difficult Style’, p. 182). Human and plant are metaphorically
     conflated, just as in the text of the *PTM*.
 
-[^450]: Elaine Scarry, *The Body in Pain: The Making and Unmaking of the
+[^455]: Elaine Scarry, *The Body in Pain: The Making and Unmaking of the
     World* (Oxford: Oxford University Press, 1985), p. 3. The geological
     metaphor adopted here would no doubt appeal to Prynne.
 
-[^451]: Tompkins and Bird, p. 5.
+[^456]: Tompkins and Bird, p. 5.
 
-[^452]: Katko, pp. 259–64. The article was published in *Biological
+[^457]: Katko, pp. 259–64. The article was published in *Biological
     Reviews*, 9.1 (January 1934), pp. 79–109.
 
-[^453]: *Ibid*., pp. 23–26.
+[^458]: Pnina G. Abir-Am, ‘The Biotheoretical Gathering,
+    Transdisciplinary Authority and the Incipient Legitimation of
+    Molecular Biology in the 1930s: New Perspective on the Historical
+    Sociology of Science’, *History of Science*, 25 (1987), 1–70
+    (pp. 9–10).
 
-[^454]: *Ibid*., pp. 26–27. Abir-Am acknowledges that ‘the
+[^459]: *Ibid*., pp. 23–26.
+
+[^460]: *Ibid*., pp. 26–27. Abir-Am acknowledges that ‘the
     Biotheoretical Gathering’s projects in X-ray crystallography and
     biochemistry survived into the current accepted repertoire of facts
     and methods in molecular biology, while topology and experimental
@@ -8992,7 +9012,7 @@ Cambridge University Press, 2013), p. 25\
     principally the decision not to fund the research institute
     described above (*ibid*., p. 27).
 
-[^455]: Three of the key elements of this chapter are tied together
+[^461]: Three of the key elements of this chapter are tied together
     neatly in an observation that opens Timothy Materer’s study of
     Vorticism. Discussing the vortex concept itself, he describes the
     influence on Ezra Pound of the theory of ‘vorti-cells’, as
@@ -9005,9 +9025,9 @@ Cambridge University Press, 2013), p. 25\
     The Viking Press, 1976) perhaps even constitutes a fourth link in
     the chain.
 
-[^456]: Prynne to Dorn, 11 August 1978.
+[^462]: Prynne to Dorn, 11 August 1978.
 
-[^457]: Prynne to Dorn, 22 January 1963. A third figure in the
+[^463]: Prynne to Dorn, 22 January 1963. A third figure in the
     scientific milieu that supported the composition of the *PTM*,
     besides Needham and Crick, is Rupert Sheldrake, author of *A New
     Science of Life* (1981), a draft version of which was read and
@@ -9018,26 +9038,26 @@ Cambridge University Press, 2013), p. 25\
     having held the Frank Knox Memorial Fellowship at Harvard following
     their undergraduate degrees at Cambridge.
 
-[^458]: F.H.C. Crick and L.E. Orgel, ‘Directed Panspermia’, *Icarus*, 19
+[^464]: F.H.C. Crick and L.E. Orgel, ‘Directed Panspermia’, *Icarus*, 19
     (1973), 341–46 (p. 343).
 
-[^459]: Prynne to Francis Crick, 22 March 1982.
+[^465]: Prynne to Francis Crick, 22 March 1982.
 
-[^460]: George Puttenham, *The Arte of English Poesie* (London, 1589),
+[^466]: George Puttenham, *The Arte of English Poesie* (London, 1589),
     Lib. III, “Of Ornament”, Chap. XXV, pp. 253–54, quoted in Prynne,
     *Graft and Corruption*, p. 35. Prynne even describes our relation to
     the good scientist using the horticultural term ‘stock’.
 
-[^461]: Martin Priestman, *The Poetry of Erasmus Darwin: Enlightened
+[^467]: Martin Priestman, *The Poetry of Erasmus Darwin: Enlightened
     Spaces, Romantic Times* (London: Routledge, 2016), p. 13.
 
-[^462]: The metaphorical furniture of the panspermia hypothesis—seeding,
+[^468]: The metaphorical furniture of the panspermia hypothesis—seeding,
     fertilisation, etc.—is relentless in its presentation of active male
     and passive female forces, to the extent that Prynne’s use of the
     male pronoun to describe the good scientist is practically
     inevitable.
 
-[^463]: According to Lewis, ‘[t]he creation of a work of art is an act
+[^469]: According to Lewis, ‘[t]he creation of a work of art is an act
     of the same description as the evolution of wings on the sides of a
     fish, the feathering of its fins; or the invention of a weapon
     within the body of a hymenopter to enable it to meet the terrible
@@ -9052,7 +9072,7 @@ Cambridge University Press, 2013), p. 25\
     intense energy of conception and differentiation’ (Prynne, ‘Poetic
     Thought’, *Textual Practice*, 24.4 [August 2010], 595–606 [p. 596]).
 
-[^464]: This is not to suggest that Prynne’s thought is deliberately
+[^470]: This is not to suggest that Prynne’s thought is deliberately
     consistent on these points. In the same letter to Riley, Prynne
     counterposes prose and poetry, suggesting that the latter is *not*
     ‘evolutionary & self-extending’, but rather a ‘closed form’ (Prynne
@@ -9061,43 +9081,43 @@ Cambridge University Press, 2013), p. 25\
     function is assigned to the processes of argument and disagreement,
     from which poetry is exempt.
 
-[^465]: Needham, p. 107, quoted in Katko, p. 261.
+[^471]: Needham, p. 107, quoted in Katko, p. 261.
 
-[^466]: Prynne to Dorn, 18 March 1982.
+[^472]: Prynne to Dorn, 18 March 1982.
 
-[^467]: Pound, ‘A Few Don’ts by an Imagiste’, *Poetry* (March 1913),
+[^473]: Pound, ‘A Few Don’ts by an Imagiste’, *Poetry* (March 1913),
     200–06 (p. 202).
 
-[^468]: Prynne, ‘Mental Ears and Poetic Work’, p. 141. The use of
+[^474]: Prynne, ‘Mental Ears and Poetic Work’, p. 141. The use of
     ‘non-trivial’, a loan from the vocabulary of mathematics, is itself
     an example of such historical-contextual influence.
 
-[^469]: Eric Falci, *The Cambridge Introduction to British Poetry,
+[^475]: Eric Falci, *The Cambridge Introduction to British Poetry,
     1945–2010* (Cambridge: Cambridge University Press, 2015), p. 3.
 
-[^470]: Prynne, ‘Mental Ears and Poetic Work’, p. 130.
+[^476]: Prynne, ‘Mental Ears and Poetic Work’, p. 130.
 
-[^471]: An example from Prynne’s notes for students on Pound was given
+[^477]: An example from Prynne’s notes for students on Pound was given
     in this thesis’s introduction. In the case of Herbert, he goes so
     far as to lament the lack of available biographical information,
     particularly about Herbert’s library and reading habits (Prynne,
     ‘George Herbert, “Love [III]”’, p. 16).
 
-[^472]: Prynne, ‘A Note to Josh Kotin and Jeff Dolven’, p. 21.
+[^478]: Prynne, ‘A Note to Josh Kotin and Jeff Dolven’, p. 21.
 
-[^473]: *Ibid*. The use of ‘vulgar’ here, though perhaps a deliberate
+[^479]: *Ibid*. The use of ‘vulgar’ here, though perhaps a deliberate
     adoption of an expected role, shows the continuing influence of a
     class-inflected Leavisite antipathy towards popular literature.
 
-[^474]: *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006),
+[^480]: *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006),
     [dustjacket].
 
-[^475]: ‘anecdote, *n*.’, *OED Online* (Oxford University Press, 2016),
+[^481]: ‘anecdote, *n*.’, *OED Online* (Oxford University Press, 2016),
     \<http://www.oed.com/view/Entry/7367\> [accessed 29 June 2016].
 
-[^476]: Prynne, ‘Huts’, p. 616.
+[^482]: Prynne, ‘Huts’, p. 616.
 
-[^477]: Prynne, reading (York Street Commune, Vancouver, 1 August 1971).
+[^483]: Prynne, reading (York Street Commune, Vancouver, 1 August 1971).
     This apparently time-limited biographical recalcitrance is mirrored
     in Prynne’s attitude to dedications. Prynne includes dedications in
     his very earliest major collections, *Force of Circumstance* and
@@ -9121,41 +9141,43 @@ Cambridge University Press, 2013), p. 25\
     beginning of his poetic career, with the offering of the second
     Bloodaxe edition of *Poems* to Ed Dorn, who died in 1999.
 
-[^478]: Terry Eagleton, ‘A Toast at the Trocadero’, *London Review of
+[^484]: Terry Eagleton, ‘A Toast at the Trocadero’, *London Review of
     Books*, 38.4 (18 February 2016), 9–10 (p. 10).
 
-[^479]: Notices, in *Certain Prose*, 1:11 [173], pp. 24–25; ‘Roll Call’,
+[^485]: Notices, in *Certain Prose*, 1:11 [173], pp. 24–25; ‘Roll Call’,
     in *ibid*., 1:15 [266], pp. 78–79.
 
-[^480]: This is not to suggest that Mellors thinks that it can; his book
+[^486]: This is not to suggest that Mellors thinks that it can; his book
     is one study of a particular aspect of these poets’ work.
 
-[^481]: Brady, p. 245.
+[^487]: Brady, p. 245.
 
-[^482]: Prynne, ‘The Bee Target on his Shoulder’, in *Poems*,
+[^488]: Prynne, ‘The Bee Target on his Shoulder’, in *Poems*,
     pp. 150–52.
 
-[^483]: As Ryan Dobran points out, ‘Do not love this man’ is a direct
+[^489]: As Ryan Dobran points out, ‘Do not love this man’ is a direct
     negation of a phrase from Olson’s ‘The Distances’: ‘Love this man’
     (Dobran, ‘The Difficult Style’, p. 138; Olson, ‘The Distances’, in
     *The Collected Poems of Charles Olson*, ed. by George F. Butterick
     [Berkeley, CA: University of California Press, 1987], pp. 491–92).
 
-[^484]: Hall, p. 43.
+[^490]: Hall, p. 43.
 
-[^485]: Sutherland, ‘J.H. Prynne and Philology’, p. 215.
+[^491]: Sutherland, ‘J.H. Prynne and Philology’, p. 215.
 
-[^486]: Mellors, p. 181.
+[^492]: Mellors, p. 181.
 
-[^487]: A. David Moody, *Ezra Pound: Poet: A Portrait of the Man and His
+[^493]: ??? CROSS-REFERENCE TO END OF INTRODUCTION.
+
+[^494]: A. David Moody, *Ezra Pound: Poet: A Portrait of the Man and His
     Work*, 3 vols (Oxford: Oxford University Press, 2009–15). For
     Pound’s use of the phrase, see Pound, ‘XXIV’, in *The Cantos of Ezra
     Pound* (New York: New Directions, 1996), 110–14 (p. 112) and ‘LXII’,
     in *ibid*., 341–50 (p. 350).
 
-[^488]: Pound, ‘XLV’, in *ibid*., 229–30 (p. 230).
+[^495]: Pound, ‘XLV’, in *ibid*., 229–30 (p. 230).
 
-[^489]: This is not to suggest that Prynne is in any sense unaware of
+[^496]: This is not to suggest that Prynne is in any sense unaware of
     issues of poetic fatherhood and influence: self-conscious tics in
     his correspondence, such as referring to Donald Davie by his
     initials (D.A.D.), show that he is very much aware of them. Nor is
@@ -9167,18 +9189,20 @@ Cambridge University Press, 2013), p. 25\
     matters of style, even in periods when his style has been
     recongisably derivative of, say, Olson or Tomlinson.
 
-[^490]: First appearing in *Poetry* (April 1913), pp. 11–12, the poem
+[^497]: First appearing in *Poetry* (April 1913), pp. 11–12, the poem
     was accompanied on its second page by ‘In a Station of the Metro’, a
     piece whose ‘wet, black bough’ constitutes a direct development of
     the ‘new wood’ that ‘A Pact’ attributes to Whitman.
 
-[^491]: Pound is perhaps even akin to the symbolic father described by
+[^498]: Pound is perhaps even akin to the symbolic father described by
     Jacques Lacan, whose ‘true function […] is fundamentally to unite
     (and not to set in opposition) a desire and the Law’ (Jacques Lacan,
     *Écrits: A Selection*, trans. by Alan Sheridan [London: Tavistock
     Publicatons, 1977], p. 321).
 
-[^492]: An obvious example of such disregard is Prynne’s discussion of
+[^499]: ??? CLARIFY STRENGTHS AND WEAKNESSES OF THIS THESIS’S APPROACH.
+
+[^500]: An obvious example of such disregard is Prynne’s discussion of
     Shelley and Malthus in relation to contemporary reproductive policy,
     in which women are viewed as mechanical functions in a bio-economic
     system regulated primarily by male legislators. While a charitable
@@ -9196,23 +9220,26 @@ Cambridge University Press, 2013), p. 25\
     2016]). In any case, few of the female recipients of the
     *Intelligencer* participated actively in its discussions.
 
-[^493]: The usage of similar terms such as ‘human’ or ‘woman’ across the
+[^501]: The usage of similar terms such as ‘human’ or ‘woman’ across the
     text does not show any comparable trend.
 
-[^494]: Without claiming it as ‘seal of approval’ for the statistical
+[^502]: Without claiming it as ‘seal of approval’ for the statistical
     approach, it is interesting to note that Prynne himself has made use
     of similar analyses: discussing his compositional process in 2014,
     he described checking words against a digital text of his collected
     poems to review past usages (Prynne, ‘A Dialogue with Nicholas
     Royle’).
 
-[^495]: Prynne to Oliver, 5 September 1994.
+[^503]: Prynne to Oliver, 5 September 1994.
 
-[^496]: Prynne, ‘The Poet’s Imaginary’, p. 104.
+[^504]: Prynne, ‘The Poet’s Imaginary’, p. 104.
 
-[^497]: Prynne, ‘The Poet’s Imaginary’, p. 96.
+[^505]: Prynne, ‘The Poet’s Imaginary’, p. 96.
 
-[^498]: Prynne, ‘Mental Ears and Poetic Work’, p. 141.
+[^506]: ??? BE CLEAR ABOUT LIMITATIONS OF OWN ARGUMENT; MENTION
+    MASCULINE ENVIRONMENTS OF PRYNNE’S LIFE.
 
-[^499]: *Ibid*.
+[^507]: Prynne, ‘Mental Ears and Poetic Work’, p. 141.
+
+[^508]: *Ibid*.
 
