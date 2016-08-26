@@ -245,25 +245,24 @@ thermonuclear weapon the following month.) Perhaps more importantly for
 the concerns of this thesis, D.J. Enright’s anthology *Poets of the
 1950s* was published in 1955, solidifying the poetic infrastructure of
 ‘the Movement’ which, as Chapter 1 will argue, helped to determine the
-course of Prynne’s early career.[^20]
-
-As acknowledged above, 1975 is weaker than 1955 as a point of
-periodisation; nevertheless, it has some key virtues. According with the
-terminal point given by Mellors for ‘late modernism’ (1945–1975), it
-includes Prynne’s significant collection *Wound Response* (1974) and its
-associated prose text, ‘The *Plant Time Manifold* Transcripts’, a work
-which Chapter 3 will argue is highly representative of tendencies
-present in other prose fiction published throughout this period.[^21]
-Importantly for the largely British focus of this thesis, 1975 also
-marks Prynne’s transition from national to international standing
-(albeit with a consistently restricted readership) with the publication
-of Bernard Dubourg’s French translations of *Kitchen Poems*, *Day Light
-Songs* and *Fire Lizard*.[^22] This introduction of Prynne’s work to
-continental Europe fits neatly with the British electorate’s decision of
-the same year in favour of the United Kingdom’s continued membership of
-the European Economic Community (EEC), a vote which has until recent
-events been taken as a mandate for involvement in the EEC’s associated
-and successor institutions.
+course of Prynne’s early career.[^20] As acknowledged above, 1975 is
+weaker than 1955 as a point of periodisation; nevertheless, it has some
+key virtues. According with the terminal point given by Mellors for
+‘late modernism’ (1945–1975), it includes Prynne’s significant
+collection *Wound Response* (1974) and its associated prose text, ‘The
+*Plant Time Manifold* Transcripts’, a work which Chapter 3 will argue is
+highly representative of tendencies present in other prose fiction
+published throughout this period.[^21] Importantly for the largely
+British focus of this thesis, 1975 also marks Prynne’s transition from
+national to international standing (albeit with a consistently
+restricted readership) with the publication of Bernard Dubourg’s French
+translations of *Kitchen Poems*, *Day Light Songs* and *Fire
+Lizard*.[^22] This introduction of Prynne’s work to continental Europe
+fits neatly with the British electorate’s decision of the same year in
+favour of the United Kingdom’s continued membership of the European
+Economic Community (EEC), a vote which has until recent events been
+taken as a mandate for involvement in the EEC’s associated and successor
+institutions.
 
 Inevitably, there are relevant areas of enquiry which, primarily for
 reasons of space, this thesis is not able to pursue. The first of these
@@ -284,26 +283,25 @@ against including a detailed study of nationhood in this thesis is the
 fact that these issues were considered at length in the author’s own
 M.Phil. dissertation, and while some of its conclusions would be
 dissented from in the present context, the evidence and analysis on
-which they are based would not.[^23]
-
-The other topic largely absent from this thesis is less straightforward.
-The study of Prynne’s prose was compared above to the study of Ezra
-Pound’s, but this is far from being the only point of connection between
-the two men. In fact, the figure of Pound could be said to haunt every
-one of the following chapters. The vitriolic and polemical tone of
-Prynne’s critical writing and correspondence, discussed in relation to
-Leavis in Chapter 1, has a lineage which could equally—perhaps even more
-justifiably—be traced to Pound. Like Pound, Prynne has acted as a sort
-of poetic impresario for friends and acquaintances, a set of activities
-which is considered in the first half of Chapter 2. Even Prynne’s
-discussion of the relation between abstraction, corruption and value in
-‘A Note on Metal’, considered at length in the second half of that
-chapter, has shades of Pound’s economic thought, and while Chapter 3
-does engage briefly with Pound on a direct level, this is subordinated
-to a focus on Wyndham Lewis. It would be misleading to claim that Pound
-is excluded from the body of this thesis for the same reason that it
-does not include detailed studies of Olson and Ed Dorn—namely, that he
-is an American. Pound’s long-term expatriate status would make such an
+which they are based would not.[^23] The other topic largely absent from
+this thesis is less straightforward. The study of Prynne’s prose was
+compared above to the study of Ezra Pound’s, but this is far from being
+the only point of connection between the two men. In fact, the figure of
+Pound could be said to haunt every one of the following chapters. The
+vitriolic and polemical tone of Prynne’s critical writing and
+correspondence, discussed in relation to Leavis in Chapter 1, has a
+lineage which could equally—perhaps even more justifiably—be traced to
+Pound. Like Pound, Prynne has acted as a sort of poetic impresario for
+friends and acquaintances, a set of activities which is considered in
+Chapter 1 and the first half of Chapter 2. Even Prynne’s discussion of
+the relation between abstraction, corruption and value in ‘A Note on
+Metal’, considered at length in the second half of the latter chapter,
+has shades of Pound’s economic thought, and while Chapter 3 does engage
+briefly with Pound on a direct level, this is subordinated to a focus on
+Wyndham Lewis. It would be misleading to claim that Pound is excluded
+from the body of this thesis for the same reason that it does not
+include detailed studies of Olson and Ed Dorn—namely, that he is an
+American. Pound’s long-term expatriate status would make such an
 exclusion problematic, to say the least. The real reason is again one of
 space. To provide a full account of Prynne’s relation to Pound would
 (and perhaps one day will) be the task of an entire thesis, not merely a
@@ -2022,13 +2020,13 @@ position as one of ridiculous fundamentalism:
 > the Third Programme or in the weeklies, can be shown to voice opinions
 > or to use methods derived from *Scrutiny*.[^192]
 
-At this stage, then, Davie’s position can be summarised as the advocacy
-of a long march through the cultural institutions, grasping the spirit
-of *Scrutiny* in a non-dogmatic fashion and using it to bring critical
-rigour to venues which Leavis himself, at least in the mid 1950s, would
-not have touched with a barge pole. This attitude can be usefully
-compared to Prynne’s, considered at length above. As has been shown in
-relation to Shelley, Prynne clearly abandoned certain Leavisian
+\noindent At this stage, then, Davie’s position can be summarised as the
+advocacy of a long march through the cultural institutions, grasping the
+spirit of *Scrutiny* in a non-dogmatic fashion and using it to bring
+critical rigour to venues which Leavis himself, at least in the mid
+1950s, would not have touched with a barge pole. This attitude can be
+usefully compared to Prynne’s, considered at length above. As has been
+shown in relation to Shelley, Prynne clearly abandoned certain Leavisian
 strictures—notably Leavis’s opinion of the limited role of metaphor—in
 his critical writing from the late 1960s onwards. Yet if Davie is right
 to state that ‘Dr Leavis has no method’ and that attempts to claim
