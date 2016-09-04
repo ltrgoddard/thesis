@@ -6261,9 +6261,8 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 Works by J.H. Prynne
 --------------------
 
-‘& Hoc Genus Omne’, *Bean News* (1972), [p. 2]
 \setlength{\parindent}{-16pt} \setlength{\leftskip}{16pt}
-\setlength{\parskip}{0pt}
+\setlength{\parskip}{0pt} ‘& Hoc Genus Omne’, *Bean News* (1972), [p. 2]
 
 ‘About Warning an Invited Audience (Obliquely Arising from George
 Dowden’s Letters to English Poets)’, in *Certain Prose*, 2:[‘Ghost
@@ -6429,13 +6428,15 @@ College*,\
 
 ‘When is now’, *Bean News* (1972), [p. 4]
 
-\setlength{\parindent}{0pt} \#\# General
+General
+-------
 
 Abir-Am, Pnina G., ‘The Biotheoretical Gathering, Transdisciplinary
 Authority and the Incipient Legitimation of Molecular Biology in the
 1930s: New Perspective on the Historical Sociology of Science’, *History
-of Science*, 25 (1987), pp. 1–70 \setlength{\parindent}{-16pt} ‘A
-century of U.S. influence on Arab education’, *The Times* (11 October
+of Science*, 25 (1987), pp. 1–70
+
+‘A century of U.S. influence on Arab education’, *The Times* (11 October
 1966), p. 11
 
 Advert, *The Times* (29 August 1969), p. 23
