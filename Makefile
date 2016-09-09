@@ -1,5 +1,5 @@
-phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown bibl.markdown figs/man.png
-	cat fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown bibl.markdown | \
+phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown figs/man.png
+	cat fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown | \
 	pandoc -S -t markdown | \
 	sed -e 's/\xe2\x80\x98s/\xe2\x80\x99s/g' | \
 	sed -e 's/ \xe2\x80\x99s/ \xe2\x80\x98s/g' | \

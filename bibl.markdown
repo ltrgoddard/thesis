@@ -479,6 +479,8 @@ Feinstein, Elaine, 'Remembering Prospect', *Cambridge Literary Review*, 1.1 (Mic
 
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61
 
+Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric Culture*, 3rd ed. (New York: Charlton Company, 1914).
+
 'glossy, adj.', *OED Online* (Oxford University Press, 2014),  
 \<http://www.oed.com/view/Entry/79186\> [accessed 14 May 2014]
 

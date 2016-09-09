@@ -1,8 +1,12 @@
 # To do
 
+* Make sure apostrophes are watertight
+* Correct figure sizes
+* Fix Snarkmarket URL
 * Fix indentation in main bibliography.
 * Update Pound haunting cross-reference.
 * Update 'Migration Patterns' citation?
+* Convert 'man' line graph to histogram.
 * Recapitulate argument about Lewis, Oliver and Upward before *PTM* material?
 * Add material from Stokes (e.g. p. 16) to Chapter 2.
 * '[P]oetic thought does indeed demand the unreserved commitment of the
