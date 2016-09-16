@@ -169,6 +169,8 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 
 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)
 
+'The Art of Poetry No. 101', interviewed by Jeff Dolven and Joshua Kotin, *The Paris Review*, 218 (Fall 2016), pp. 174--207
+
 'The Bee Target on his Shoulder', in *Poems* (Tarset: Bloodaxe, 2015), pp. 150--52
 
 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66
@@ -850,9 +852,6 @@ Solomon, Samuel, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Fe
 
 Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)
 
-Spiegelman, Willard, 'Charles Tomlinson, The Art of Poetry No. 78', *The Paris Review*, 149 (Winter 1998),  
-\<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]
-
 Stansky, Peter, *Edward Upward: Art and Life* (London: Enitharmon, 2016)
 
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006),  
@@ -871,7 +870,10 @@ Sutherland, Keston, 'Introduction: "Prynne's late work?"', in *Hix Eros: On the 
 Thatcher, Margaret, 'Speech at Lord Mayor's Banquet', *Margaret Thatcher Foundation* (10 November 1986),  
 \<http://www.margaretthatcher.org/document/106512\> [accessed 24 October 2014]
 
-Tomlinson, Charles, 'The Middlebrow Muse', *Essays in Criticism*, 7.2 (April 1957), pp. 208--17
+Tomlinson, Charles, 'The Art of Poetry No. 78', interviewed by Willard Spiegelman, *The Paris Review*, 149 (Winter 1998),  
+\<http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]
+
+---, 'The Middlebrow Muse', *Essays in Criticism*, 7.2 (April 1957), pp. 208--17
 
 Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New York: Harper & Row, 1973), p. 12
 
