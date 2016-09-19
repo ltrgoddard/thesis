@@ -1,10 +1,10 @@
-phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown figs/man.png
-	cat fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown | \
+phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown figs.markdown figs/man.png
+	cat fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown figs.markdown | \
 	pandoc -S -t markdown | \
 	sed -e 's/\xe2\x80\x98s/\xe2\x80\x99s/g' | \
 	sed -e 's/ \xe2\x80\x99s/ \xe2\x80\x98s/g' | \
+	sed -e 's/\xe2\x80\x94\xe2\x80\x99s/\xe2\x80\x94\xe2\x80\x98s/g' | \
 	sed -e 's/ \xe2\x80\x99/ \xe2\x80\x98/g' | \
-	sed -e 's/ \xe2\x80\x981/ \xe2\x80\x991/g' | \
 	sed -e 's/ \xe2\x80\x982/ \xe2\x80\x992/g' | \
 	sed -e 's/ \xe2\x80\x983/ \xe2\x80\x993/g' | \
 	sed -e 's/ \xe2\x80\x984/ \xe2\x80\x994/g' | \
@@ -15,10 +15,11 @@ phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown
 	sed -e 's/ \xe2\x80\x989/ \xe2\x80\x999/g' | \
 	sed -e 's/ \xe2\x80\x98nine/ \xe2\x80\x99nine/g' > \
 	temp.markdown
-	pandoc -s head.markdown temp.markdown -o phd.pdf --filter pandoc-fignos
+	pandoc -s -f markdown head.markdown temp.markdown -o phd.pdf --filter pandoc-fignos
 
 figs/man.png:
 	bash figs/man.sh data/prynne.txt
 
 clean:
 	rm temp.markdown
+	rm temp.tex

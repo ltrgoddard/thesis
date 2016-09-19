@@ -24,6 +24,8 @@ The Introduction sets out the methodology of the thesis and argues that existing
 
 \noindent I hereby declare that this thesis has not been---and will not be---submitted in whole or in part to another University for the award of any other degree.
 \newline
+\newline
+\newline
 \noindent Signature: ........................
 \newpage
 

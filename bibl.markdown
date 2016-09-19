@@ -916,3 +916,5 @@ Wilson, Ross, *Shelley and the Apprehension of Life* (Cambridge: Cambridge Unive
 
 'Women MPs & parliamentary candidates since 1945', *UK Political Info*,  
 \<http://www.ukpolitical.info/FemaleMPs.htm\> [accessed 2 February 2016]
+\newpage
+
