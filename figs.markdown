@@ -1,5 +1,7 @@
 # Appendix (Figures)
 
+\newpage
+
 \pagenumbering{gobble}
 
 ![Prynne's poetry collections, linked to the magazines in which they were first published (in whole or in part)](figs/mags.png){#fig:mags}

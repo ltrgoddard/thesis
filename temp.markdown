@@ -673,8 +673,8 @@ musculature of most English writers of verse’.[^52] It is perhaps
 relevant that *A Sequence for Francis Parkman* is Davie’s most explicit
 attempt to bridge the transatlantic gap that Prynne was himself
 struggling with in this period, its dedicatee being the celebrated
-19th-century author of *The Oregon Trail*. Writing in a note to the
-sequence in his 1972 *Collected Poems*, Davie describes it as ‘my
+nineteenth-century author of *The Oregon Trail*. Writing in a note to
+the sequence in his 1972 *Collected Poems*, Davie describes it as ‘my
 response to North America on my first visit’, and the overall tone is
 one of simultaneous fascination and alienation.[^53] In the sequence’s
 final poem as published, a verse letter to the Yeats scholar Curtis
@@ -951,8 +951,8 @@ Third Programme producer—would have had some hand in securing the
 opportunity for Prynne, who was after all a relatively unknown figure at
 this point. (Davie, by contrast, had appeared regularly on the Third
 Programme since the early 1950s. In February and March of 1962, he
-presented a four-part series on 18th-century poetry, while in the early
-months of 1963 his work was broadcast as part of a twelve-episode
+presented a four-part series on eighteenth-century poetry, while in the
+early months of 1963 his work was broadcast as part of a twelve-episode
 translation of the *Odyssey*.[^88]) The last of Davie’s potential
 attempts to insinuate Prynne’s work into the London literary world is
 represented by a January 1964 interview conducted as part of the ‘Poet
@@ -1207,16 +1207,16 @@ Stuart Mill for a definition:
 seen most clearly to derive—or at least to draw inspiration—is the first
 chapter. Like Prynne, Leavis locates the fulcrum of his argument at the
 point of transition from the Romantic to the Victorian, arguing that
-English poets of the later 19th century failed to develop aesthetic
-techniques adequate to changes in the broader intellectual climate and
-its language, clinging to outmoded ‘ideas of the essentially poetical
-which, when the conditions which gave rise to them \[…\] changed,
-bar\[red\] the poet from his most valuable material’.[^112] At first
-glance, this emphasis on stasis might seem at odds with Prynne’s theory
-of an important change between, say, Wordsworth and Tennyson, but these
-attitudes are really two sides of the same coin. The change that Prynne
-identifies is a reconfiguration of the relationship between poetic
-language and reality, not necessarily a change in poetic language
+English poets of the later nineteenth century failed to develop
+aesthetic techniques adequate to changes in the broader intellectual
+climate and its language, clinging to outmoded ‘ideas of the essentially
+poetical which, when the conditions which gave rise to them \[…\]
+changed, bar\[red\] the poet from his most valuable material’.[^112] At
+first glance, this emphasis on stasis might seem at odds with Prynne’s
+theory of an important change between, say, Wordsworth and Tennyson, but
+these attitudes are really two sides of the same coin. The change that
+Prynne identifies is a reconfiguration of the relationship between
+poetic language and reality, not necessarily a change in poetic language
 itself: like passengers in a stationary train carriage, Victorian poets
 think they are moving forwards when in fact they are simply watching an
 adjacent train pull out of the station. Differentiating the meditative
@@ -1249,29 +1249,29 @@ example of the tendency:
 > withdrawal.[^116]
 
 \noindent Where ‘The Elegiac World’ diverges significantly from Leavis
-is in its assessment of aesthetic developments subsequent to the 19th
-century. As the title suggests, the purpose of *New Bearings* is to set
-out what makes the work of its three primary subjects—T.S. Eliot, Ezra
-Pound and Gerard Manley Hopkins—different from the poems that Leavis
-castigates in the initial chapter. By contrast, Prynne’s model of the
-relationship between late-Victorian and 20th-century English poetry is
-fundamentally one of continuity. Introducing his argument via Wallace
-Stevens’s late poem ‘The World as Meditation’, Prynne brings together
-‘Tennyson’s “In Memoriam”, Arnold’s “Dover Beach” \[and\] Eliot’s
-“Prufrock”’ as three more poems which give ‘a rough idea of what I mean’
-by the word meditative.[^117] Eliot is considered in more detail at the
-very end of the piece, where he is ambivalently credited with having
-‘maintained the subjective cocoon while draining it of its overt
-melancholy. We remain inside the mind, but it is not clear whose mind is
-in question, and the emotional modality is largely neutralized.’[^118]
-There is a parallel here with Leavis’s assessment of Eliot’s *Gerontion*
-in the third chapter of *New Bearings*, where he praises the poem’s
-‘really dramatic detachment’: ‘From a position far above his immediate
-concerns as a particular individual, projecting himself, as it were,
-into a comprehensive and representative human consciousness, the poet
-contemplates human life and asks what it all comes to.’[^119] Yet where
-Leavis sees a decisive break, Prynne sees a development in a tradition,
-as his final paragraph makes clear:
+is in its assessment of aesthetic developments subsequent to the
+nineteenth century. As the title suggests, the purpose of *New Bearings*
+is to set out what makes the work of its three primary subjects—T.S.
+Eliot, Ezra Pound and Gerard Manley Hopkins—different from the poems
+that Leavis castigates in the initial chapter. By contrast, Prynne’s
+model of the relationship between late-Victorian and twentieth-century
+English poetry is fundamentally one of continuity. Introducing his
+argument via Wallace Stevens’s late poem ‘The World as Meditation’,
+Prynne brings together ‘Tennyson’s “In Memoriam”, Arnold’s “Dover Beach”
+\[and\] Eliot’s “Prufrock”’ as three more poems which give ‘a rough idea
+of what I mean’ by the word meditative.[^117] Eliot is considered in
+more detail at the very end of the piece, where he is ambivalently
+credited with having ‘maintained the subjective cocoon while draining it
+of its overt melancholy. We remain inside the mind, but it is not clear
+whose mind is in question, and the emotional modality is largely
+neutralized.’[^118] There is a parallel here with Leavis’s assessment of
+Eliot’s *Gerontion* in the third chapter of *New Bearings*, where he
+praises the poem’s ‘really dramatic detachment’: ‘From a position far
+above his immediate concerns as a particular individual, projecting
+himself, as it were, into a comprehensive and representative human
+consciousness, the poet contemplates human life and asks what it all
+comes to.’[^119] Yet where Leavis sees a decisive break, Prynne sees a
+development in a tradition, as his final paragraph makes clear:
 
 > \singlespacing The Victorian meditative poem was too crass in its
 > sentimentalism, by and large, to remain adequate as an acknowledged
@@ -1566,7 +1566,7 @@ Chitty points out, ‘\[i\]t was in the *Notes on James Mill* (1844), the
 *Economic and Philosophical Manuscripts* (1844) and *The German
 Ideology* (with Engels, 1845–6), that Marx worked out his philosophical
 anthropology’—yet these texts all remained unpublished well into the
-20th century.[^146] Crucially, the *Economic and Philosophical
+twentieth century.[^146] Crucially, the *Economic and Philosophical
 Manuscripts* and the *Notes on James Mill*, in which the concept of need
 is dealt with most directly, were first translated into English as late
 as 1959 and 1975 respectively, creating a gap in English-language
@@ -3024,9 +3024,9 @@ have all considered it more briefly.[^275] Without exception, these
 accounts use the text as tool to examine some other aesthetic
 object—usually one of Prynne’s poems, or, in the cases of Blanton,
 Chaganti and Rider, poems by Basil Bunting and Geoffrey Hill,
-Anglo-Saxon artefacts and 20th-century sculpture respectively. Blanton’s
-account of the piece is by far the most detailed, situating it in a
-political tradition occupied simultaneously by Ruskin and Marx.
+Anglo-Saxon artefacts and twentieth-century sculpture respectively.
+Blanton’s account of the piece is by far the most detailed, situating it
+in a political tradition occupied simultaneously by Ruskin and Marx.
 Nevertheless, this reading is offered with the ultimate intention of
 making a point about poetic practice and form, rather than of
 considering the text on its own terms, as prose. Rather than cite a
@@ -3293,22 +3293,22 @@ grains are separated from their chaff, is even more specifically local
 than agriculture in general, requiring a specially flattened and
 hardened threshing floor. Crucially, it is also extremely
 labour-intensive, ‘absorb\[ing\] as much as a quarter of agricultural
-labor input’ prior to mechanisation in the 19th century.[^288] This
-combination of factors creates a relatively novel situation in which
-humans spend large amounts of time creating value (in the form of edible
-grains) through a more or less stationary, repetitive activity. This is
-at the heart of Prynne’s argument about threshing: that the relative
-complexity of the process and its insertion in a long chain of other
-processes—sowing, harvesting, milling, etc.—directly encourages the
-development of ‘a more abstract theory of value’ (¶5), perhaps even an
-implicit labour theory of value. By ‘the mixed relativism of substance’
-(¶5), then, he is referring to the fungibility, or at least
+labor input’ prior to mechanisation in the nineteenth century.[^288]
+This combination of factors creates a relatively novel situation in
+which humans spend large amounts of time creating value (in the form of
+edible grains) through a more or less stationary, repetitive activity.
+This is at the heart of Prynne’s argument about threshing: that the
+relative complexity of the process and its insertion in a long chain of
+other processes—sowing, harvesting, milling, etc.—directly encourages
+the development of ‘a more abstract theory of value’ (¶5), perhaps even
+an implicit labour theory of value. By ‘the mixed relativism of
+substance’ (¶5), then, he is referring to the fungibility, or at least
 comparability, of properties such as hardness (metal) and edibility
 (grain) that emerges from complex processes such as alloying and flour
 production, while ‘value as a specialised function’ is the term that
 mediates these properties through ‘the rate of exchange’ (¶5).
 
-*5. Prynne appears to suggest in ¶6 that trade roues expanded as a
+*5. Prynne appears to suggest in ¶6 that trade routes expanded as a
 function of the development of numerable metal currency. This view is
 potentially controversial both for factual reasons (as a result of its
 emphasis on the role of early coinage in foreign trade) and for what it
@@ -3424,8 +3424,8 @@ the course of a summary of Prynne’s argument:
 > position from which to induce, perform, or merely conceive modernity’s
 > end.[^294]
 
-Following John-Joseph Goux, Blanton argues that ‘the gesture to an
-origin of economics or an origin of capital fatally undermines the
+\noindent Following John-Joseph Goux, Blanton argues that ‘the gesture
+to an origin of economics or an origin of capital fatally undermines the
 hegemonic notion of the symbol’—a left-wing history of substance
 consists precisely in the performance of this gesture.[^295] But is this
 performance actually undertaken by Prynne in ‘A Note on Metal’, or does
@@ -3436,9 +3436,9 @@ history of substance’, but neglecting to state explicitly whether or not
 true, and was pointed out at the beginning of this discussion, that the
 text is included in a book titled *Poems*, a status afforded to none of
 Prynne’s other prose works except the fictional ‘*Plant Time Manifold*
-Transcripts’ which follow *Wound Response* (1974). On the other hand, it
-would be premature to assume, as Chaganti seems to, that the simple fact
-of being published in this book makes ‘A Note on Metal’ a ‘prose
+Transcripts’ which follow *Wound Response*. On the other hand, it would
+be premature to assume, as Chaganti seems to, that the simple fact of
+being published in this book makes ‘A Note on Metal’ a ‘prose
 poem’—taken to its logical extreme, this line of reasoning would assign
 a similar status to the author’s note or the index of first lines.[^297]
 
@@ -3448,31 +3448,30 @@ is to be found only in poetry. In fact, ‘A Note on Metal’ does not
 contain a single reference to poetry. Blanton’s claim appears to rest on
 the fact that Prynne is, by common consent, a poet, and that he must
 therefore be committed to this form above all else. Yet it might be
-countered that he is many other things, among them a teacher and, as it
-is part of the mission of this thesis to emphasise, a writer of prose.
-It is true that ‘A Note on Metal’ was first published in a context in
-which most of the prose was focused, explicitly or otherwise, on the
-question of what sort of poetry English poets should be producing in the
-mid-to-late 1960s—certainly this was the implicit focus of Riley’s
-‘Working Notes on British Prehistory’, to which Prynne was, in part,
-responding.[^298] Nor is it necessary to deny that Prynne’s conception
-of the role of poetry is an unusually far-reaching and ambitious one.
-The point is simply that to restrict the notion of an ‘exilic
-(left-wing) history of substance’ to what is conventionally deemed
-poetry is both unjustifiable based on the text of ‘A Note on Metal’
-itself and implicitly contradicted by Prynne’s own comments to Riley on
-the role of prose, as discussed earlier in this chapter.
+countered that he is many other things, among them a teacher and a
+writer of prose. It is true that ‘A Note on Metal’ was first published
+in a context in which most of the prose was focused, explicitly or
+otherwise, on the question of what sort of poetry English poets should
+be producing in the mid-to-late 1960s—certainly this was the implicit
+focus of Riley’s ‘Working Notes on British Prehistory’, to which Prynne
+was, in part, responding.[^298] Nor is it necessary to deny that
+Prynne’s conception of the role of poetry is an unusually far-reaching
+and ambitious one. The point is simply that to restrict the notion of an
+‘exilic (left-wing) history of substance’ to what is conventionally
+deemed poetry is both unjustifiable based on the text of ‘A Note on
+Metal’ itself and implicitly contradicted by Prynne’s own comments to
+Riley on the role of prose, as discussed earlier in this chapter.
 
 ‘A Note on Metal’ accords fundamental importance to history, both as a
 word and as a concept. The text is, self-evidently, a work of history
 itself, though this may not be its only function. It also *seeks* a
-history, the ‘exilic (left-wing) history of substance’ referred to so
-extensively above. Importantly, Prynne deliberately counterposes the
-concepts of *history* and *theory*, most obviously at the end of the
-third paragraph, where ‘the history of substance (stone) shifts with
-complex social implication into the theory of power (metal)’ (¶3), but
-also in the reference to the ‘“purer” and more abstract theory of value’
-(¶5) brought into being by threshing. A theory is, in a basic sense, the
+history, the ‘exilic (left-wing) history of substance’ referred to
+above. Importantly, Prynne deliberately counterposes the concepts of
+*history* and *theory*, most obviously at the end of the third
+paragraph, where ‘the history of substance (stone) shifts with complex
+social implication into the theory of power (metal)’ (¶3), but also in
+the reference to the ‘“purer” and more abstract theory of value’ (¶5)
+brought into being by threshing. A theory is, in a basic sense, the
 forward- or present-facing counterpart of a history: a descriptive
 structure which attempts to account for a phenomenon while remaining
 open to potential falsification. For Prynne it seems to be coded
@@ -3523,8 +3522,8 @@ but the text’s actual history stops in the ancient world. Prynne spends
 eight paragraphs describing several thousand years of developments in
 materials from the Stone Age to the Iron Age, but offers only the most
 brief and suggestive account of how these developments relate, for
-example, to currency as it exists in the mid-to-late 20th century, and
-no account at all of how modern materials such as plastics might fit
+example, to currency as it exists in the mid-to-late twentieth century,
+and no account at all of how modern materials such as plastics might fit
 into or challenge this history.[^300] ‘A Note on Metal’ is, quite
 literally, a prehistory, both in the conventional sense of dealing with
 the prehistoric era, and to the extent that it constitutes a necessary
@@ -3702,29 +3701,29 @@ in what he terms, after Francis Wolff, a ‘transparent cage’:
 > towards the world, but there is a world only insofar as consciousness
 > transcends itself towards it.[^314]
 
-It is not difficult to see the similarities between Meillassoux’s
-description of correlationism and Prynne’s critique of Wild, for whom
-‘the external world’s main value to the subject lies in the graduated
-difficulties that it can provide him with’.[^315] Meillassoux goes on to
-reveal what Prynne would call the ‘viciousness’ of the correlationist
-view by means of a thought experiment. Proposing an object accessible to
-science but which predates all human life, which he terms ‘the
-arche-fossil’—examples include ‘an isotope whose rate of radioactive
-decay we know, or the luminous emission of a star that informs us as to
-the date of its formation’—Meillassoux shows how a consistent
-correlationism is necessarily barred from making meaningful statements
-about the pre-human past which such an object apparently reveals.[^316]
-Despite making conventional concessions to science in everyday
-discourse, the correlationist cannot finally think the origin of the
-correlation, the emergence into being of givenness. The correlationist
-will, claims Meillassoux, always add an implicit ‘codicil’ to statements
-about the arche-fossil: ‘event Y occurred x number of years before the
-emergence of humans—*for humans* (or even, *for the human
-scientist*).’[^317] As Prynne asks in ‘Resistance and Difficulty’, ‘can
-the world—in its full and detailed substantiality—be said to have
-existed *for me*, before my knowledge of it?’[^318] The answer, for the
-strict correlationist, must be that the world can *only* be said to have
-existed for me, and not in itself.
+\noindent It is not difficult to see the similarities between
+Meillassoux’s description of correlationism and Prynne’s critique of
+Wild, for whom ‘the external world’s main value to the subject lies in
+the graduated difficulties that it can provide him with’.[^315]
+Meillassoux goes on to reveal what Prynne would call the ‘viciousness’
+of the correlationist view by means of a thought experiment. Proposing
+an object accessible to science but which predates all human life, which
+he terms ‘the arche-fossil’—examples include ‘an isotope whose rate of
+radioactive decay we know, or the luminous emission of a star that
+informs us as to the date of its formation’—Meillassoux shows how a
+consistent correlationism is necessarily barred from making meaningful
+statements about the pre-human past which such an object apparently
+reveals.[^316] Despite making conventional concessions to science in
+everyday discourse, the correlationist cannot finally think the origin
+of the correlation, the emergence into being of givenness. The
+correlationist will, claims Meillassoux, always add an implicit
+‘codicil’ to statements about the arche-fossil: ‘event Y occurred x
+number of years before the emergence of humans—*for humans* (or even,
+*for the human scientist*).’[^317] As Prynne asks in ‘Resistance and
+Difficulty’, ‘can the world—in its full and detailed substantiality—be
+said to have existed *for me*, before my knowledge of it?’[^318] The
+answer, for the strict correlationist, must be that the world can *only*
+be said to have existed for me, and not in itself.
 
 It is necessary, at this point, to offer a clarification not made by
 Meillassoux himself, but which has important implications both for the
@@ -3770,16 +3769,15 @@ seeming ‘loophole’, through which the correlationist might argue that
 > becoming which is once more reducible to its givenness for a community
 > of egos.
 
-Yet as Meillassoux rightly points out, ‘this rejoinder is a desperate
-sophism, which reduces emergence and perishing to whatever the other
-perceives of it.’[^322] For strong correlationism, ‘the other’ is as
-inaccessible as the in-itself. As such, there is no essential difference
-between an arche-fossil from 13.5 billion years ago (the date given by
-Meillassoux for the origin of the universe), one from 1900 (the birth
-date of the world’s oldest living person at the time of writing) or one
-from 1990 (the present author’s own year of birth), as long as it is
-anterior to the presently thinking subject. This will be important to
-bear in mind in the discussion of Prynne below.[^323]
+\noindent Yet as Meillassoux rightly points out, ‘this rejoinder is a
+desperate sophism, which reduces emergence and perishing to whatever the
+other perceives of it.’[^322] For strong correlationism, ‘the other’ is
+as inaccessible as the in-itself. As such, there is no essential
+difference between an arche-fossil from 13.5 billion years ago (the date
+given by Meillassoux for the origin of the universe), one from 1900 (the
+birth date of the world’s oldest living person at the time of writing)
+or one from 1990 (the present author’s own year of birth), as long as it
+is anterior to the presently thinking subject.[^323]
 
 Following the book’s provocative introduction, Meillassoux spends the
 remainder of *After Finitude* in a painstaking effort to penetrate the
@@ -3801,7 +3799,7 @@ operated ever since the Enlightenment’s first critiques of religious
 dogmatism.[^325] He demonstrates how, in the modern era, philosophers as
 diverse as Wittgenstein and Heidegger have allowed fideistic elements
 into their work, giving Levinas’s conception of ‘the wholly other’ as a
-paradigmatic example of 20th-century religionised reason.[^326]
+paradigmatic example of twentieth-century religionised reason.[^326]
 
 Meillassoux’s opposition to fideism seems, at the very least, to be
 structurally analogous to Prynne’s antipathy towards the supposedly
@@ -3888,23 +3886,21 @@ true not only of ‘A Note on Metal’ as a whole, but of each of its
 constituent parts, right down to individual words. We thus return to the
 phenomenon by which the text is a sort of index of itself, described
 earlier as an attempt to make clear the conditions of possibility of its
-own terminology.
-
-In being simultaneously a history and a poem—in other words, resistant,
-requiring an effort of interpretation, not self-effacing or aiming at
-transparency like a more conventional piece of historical discourse—‘A
-Note on Metal’ is something different from epic, in which the poem
-merely *includes* history as its object. It is here that Prynne’s
-‘exilic (left-wing) history of substance’ can be found. Paradoxically,
-it is only when the text is read as history and nothing more that this
-deeper history appears ‘exilic’: when it is grasped in its full
-substantiality, as history *and* poem, it appears clearly, not as the
-object of the text but as the substance from which every word is formed,
-as well as the animating principle behind their configuration.[^329] It
-is as if ‘A Note on Metal’ was an impossible sort of coin, one side of
-which precludes access to its obverse, while the other allows both to be
-viewed at once. What, then, does it actually take to view the text, and
-history as such, from this privileged angle?
+own terminology. In being simultaneously a history and a poem—in other
+words, resistant, requiring an effort of interpretation, not
+self-effacing or aiming at transparency like a more conventional piece
+of historical discourse—‘A Note on Metal’ is something different from
+epic, in which the poem merely *includes* history as its object. It is
+here that Prynne’s ‘exilic (left-wing) history of substance’ can be
+found. Paradoxically, it is only when the text is read as history and
+nothing more that this deeper history appears ‘exilic’: when it is
+grasped in its full substantiality, as history *and* poem, it appears
+clearly, not as the object of the text but as the substance from which
+every word is formed, as well as the animating principle behind their
+configuration.[^329] It is as if ‘A Note on Metal’ was an impossible
+sort of coin, one side of which precludes access to its obverse, while
+the other allows both to be viewed at once. What, then, does it actually
+take to view the text, and history as such, from this privileged angle?
 
 Having described Prynne’s concern for historical accuracy in
 contradistinction to Olson’s great leaps, Sutherland introduces a
@@ -3924,27 +3920,27 @@ version of this | present age’, Sutherland describes how
 > accurate at the moment when the condition itself, the city, seems
 > nearest to the imagination.[^330]
 
-The temporary suspension of accuracy in this world is the condition for
-accuracy in the next, which is actually just another version of here.
-Yet it really is only a *condition*: unlike Olson’s active mysticism,
-Prynne’s is profoundly passive, emphasising patience and trust rather
-than the poet’s uniquely active and accurate penetration of the
-mysteries of being. From this perspective, it is possible to return to
-the unexpectedly lyrical concluding sentence of ‘A Note on Metal’: ‘If
-we are confident over the more developed consequences, at the
-unrecognised turn we are still at a loss to say where or why’ (¶9). That
-Prynne ends the text with this affirmation of our lack of knowledge,
-figured as a spatial condition—‘at a loss’—is highly significant. Not
-only does he downplay our accuracy about specifics (‘where’), but he
-also suggests a serious lack of coherent teleology in the foregoing
-argument, at least when read simply historically (‘why’). The purpose of
-this statement, far more than a belated protestation of humility, is
-perhaps to effect or at least to encourage some form of the ‘swing
-across into | some other version of this | present age’, manifested in
-this particular case by a shift from the historical to the
-poetic-as-historical levels of the text. Only with this final
-acknowledgement of ignorance, both on the part of Prynne and of the
-reader, does the text yield up its real meaning. \newpage
+\noindent The temporary suspension of accuracy in this world is the
+condition for accuracy in the next, which is actually just another
+version of here. Yet it really is only a *condition*: unlike Olson’s
+active mysticism, Prynne’s is profoundly passive, emphasising patience
+and trust rather than the poet’s uniquely active and accurate
+penetration of the mysteries of being. From this perspective, it is
+possible to return to the unexpectedly lyrical concluding sentence of ‘A
+Note on Metal’: ‘If we are confident over the more developed
+consequences, at the unrecognised turn we are still at a loss to say
+where or why’ (¶9). That Prynne ends the text with this affirmation of
+our lack of knowledge, figured as a spatial condition—‘at a loss’—is
+highly significant. Not only does he downplay our accuracy about
+specifics (‘where’), but he also suggests a serious lack of coherent
+teleology in the foregoing argument, at least when read simply
+historically (‘why’). The purpose of this statement, far more than a
+belated protestation of humility, is perhaps to effect or at least to
+encourage some form of the ‘swing across into | some other version of
+this | present age’, manifested in this particular case by a shift from
+the historical to the poetic-as-historical levels of the text. Only with
+this final acknowledgement of ignorance, both on the part of Prynne and
+of the reader, does the text yield up its real meaning. \newpage
 
 Chapter 3. ‘The idea of perfection’
 ===================================
@@ -4291,7 +4287,7 @@ is much too vorticist for the pre-sexual phenomenology preferred in
 l’Amerique du Nord.’ With the latter phrase, Prynne neatly condemns both
 France and the United States, just as he does in the letter to Riley
 which positions Lewis as one of the great underappreciated figures of
-20th-century English literature. But is the statement in which it
+twentieth-century English literature. But is the statement in which it
 appears any less opaque, and can it shed any light on its predecessor?
 
 In order to parse Prynne’s argument here, it is first of all necessary
@@ -4747,23 +4743,23 @@ might be expected to hit upon similar metaphors, yet Oliver and Upward
 also deploy identical terminology: both, for instance, describe how the
 carriages ‘telescoped’ on impact.
 
-The frequency of rail accidents in Britain over the course of the 20th
-century means that any claim of direct literary influence will have to
-vie with that of the real world.[^391] Nevertheless, there is a broader
-similarity between Upward’s early work and *The Harmless Building*,
-which—when combined with the 1969 publication date of *The Railway
-Accident and Other Stories*—makes a direct connection more likely. On
-the most basic level, Upward and Oliver share an interest in provincial,
-and particularly coastal, English settings. Much of *The Harmless
-Building* is set in ‘a town on the south coast of England’, while
-Mortmere borders the Atlantic Ocean and Upward’s later work maintains a
-fixation on the Isle of Wight.[^392] More important, however, are the
-stylistic affinities between the two authors. As mentioned above,
-Mortmere is an environment constructed primarily from the eccentricities
-of its characters, ‘all dream-distortions of classic English types’,
-whose slight deviations from expected behaviour set up much of the
-village’s uncanny atmosphere.[^393] The same can be said of the
-nightmarish figures who *The Harmless Building*’s main
+The frequency of rail accidents in Britain over the course of the
+twentieth century means that any claim of direct literary influence will
+have to vie with that of the real world.[^391] Nevertheless, there is a
+broader similarity between Upward’s early work and *The Harmless
+Building*, which—when combined with the 1969 publication date of *The
+Railway Accident and Other Stories*—makes a direct connection more
+likely. On the most basic level, Upward and Oliver share an interest in
+provincial, and particularly coastal, English settings. Much of *The
+Harmless Building* is set in ‘a town on the south coast of England’,
+while Mortmere borders the Atlantic Ocean and Upward’s later work
+maintains a fixation on the Isle of Wight.[^392] More important,
+however, are the stylistic affinities between the two authors. As
+mentioned above, Mortmere is an environment constructed primarily from
+the eccentricities of its characters, ‘all dream-distortions of classic
+English types’, whose slight deviations from expected behaviour set up
+much of the village’s uncanny atmosphere.[^393] The same can be said of
+the nightmarish figures who *The Harmless Building*’s main
 characters—Donald, Frank and Rosine—meet in the course of the novel’s
 increasingly disturbing plot: principally McFarlane, the inappropriately
 upbeat and unharmed train driver; his daughter, Mary; and Jerry,
@@ -5698,30 +5694,30 @@ despite the deeply historical tendencies of both his poetic and his
 critical work, this remains what he would term a ‘non-trivial
 pursuit’.[^472] Introducing the recent *Cambridge Introduction to
 British Poetry, 1945–2010*—notable for its strong acknowledgement of
-Prynne’s place in 20th-century literary history—Eric Falci mounts an
-extended defence of his essentially historicist critical approach: ‘the
-form that a poem takes is not simply a matter of choice for an aesthetic
-free agent who can survey the history of poetry and select from among
-its myriad options while remaining untethered to that history. \[…\]
-History doesn’t determine form, but a poem is nonetheless marbled by its
-context.’[^473] Falci’s simultaneous disavowal both of rigid historical
-determinism and of an unfashionably poet-centred approach is one
-solution to a contradiction which sits at the heart of contemporary
-literary history, in which materialism must be affirmed at the same time
-as a taboo against biographical criticism is upheld. In steering between
-the Scylla and Charybdis of determinist history and literary journalism,
-however, it risks the charge of having no proper object. The vagueness
-of the marbling analogy is revealing: history somehow gets *into* poems,
-like a mineral impurity, rather than shaping them from outside, and it
-does so automatically and with a minimum of mediation. This might at
-first glance seem to be Prynne’s own position, epitomised in the
-sarcastic remark from ‘Mental Ears and Poetic Work’: ‘Look, the poet is
-wearing red socks! Now at last we understand everything!’[^474] Yet
-everywhere from undergraduate teaching notes to his published
-commentaries on Wordsworth and George Herbert, Prynne makes extensive
-and unapologetic use of biographical material—not as ‘colour’ for the
-main analysis, but as a fundamental tool, showing *how* history gets
-where it does.[^475]
+Prynne’s place in twentieth-century literary history—Eric Falci mounts
+an extended defence of his essentially historicist critical approach:
+‘the form that a poem takes is not simply a matter of choice for an
+aesthetic free agent who can survey the history of poetry and select
+from among its myriad options while remaining untethered to that
+history. \[…\] History doesn’t determine form, but a poem is nonetheless
+marbled by its context.’[^473] Falci’s simultaneous disavowal both of
+rigid historical determinism and of an unfashionably poet-centred
+approach is one solution to a contradiction which sits at the heart of
+contemporary literary history, in which materialism must be affirmed at
+the same time as a taboo against biographical criticism is upheld. In
+steering between the Scylla and Charybdis of determinist history and
+literary journalism, however, it risks the charge of having no proper
+object. The vagueness of the marbling analogy is revealing: history
+somehow gets *into* poems, like a mineral impurity, rather than shaping
+them from outside, and it does so automatically and with a minimum of
+mediation. This might at first glance seem to be Prynne’s own position,
+epitomised in the sarcastic remark from ‘Mental Ears and Poetic Work’:
+‘Look, the poet is wearing red socks! Now at last we understand
+everything!’[^474] Yet everywhere from undergraduate teaching notes to
+his published commentaries on Wordsworth and George Herbert, Prynne
+makes extensive and unapologetic use of biographical material—not as
+‘colour’ for the main analysis, but as a fundamental tool, showing *how*
+history gets where it does.[^475]
 
 Any biographically minded approach to Prynne must, nevertheless, contend
 with the poet’s own published comments on the irrelevance of such
@@ -5753,7 +5749,7 @@ fundamental contradiction implicit in Prynne’s statement: disclaiming
 personal authority in a letter voluntarily sent in the wake of an
 interview for a literary magazine. The interview forms part of what is
 perhaps the most famous and comprehensive set of interviews with
-20th-century writers; interviews, moreover, with an explicitly
+twentieth-century writers; interviews, moreover, with an explicitly
 biographical focus. The blurb for a 2006 collected volume describes the
 *Paris Review* interviews as ‘an essential and definitive record of the
 writing life.’[^478] It is Prynne’s first substantial interview since
@@ -5778,7 +5774,7 @@ neighbours’ cat, often spending more time on anecdotes than on the poems
 themselves.[^481]
 
 Making use of such material for the purposes of biographical analysis
-allows Prynne to be reinserted into a broad, 20th-century literary
+allows Prynne to be reinserted into a broad, twentieth-century literary
 tradition from which he is too often excluded, both by his supporters
 and by his detractors. Once the critical lens is focussed properly,
 Prynne’s position in this tradition is not at all difficult to see,
@@ -6032,7 +6028,7 @@ period—broadly encapsulated in the good scientist trope described at the
 end of Chapter 3—rather than unfortunate aberrations to be explained
 away. To put it plainly, when in the 1950s, ’60s and early ’70s Prynne
 refers to ‘the poet’, this idealised figure is more or less implicitly a
-heterosexual man.
+heterosexual man.[^500]
 
 The chronological qualifier in the last sentence is necessary, and—if a
 poet’s thinking about poetry can be assumed to leave a trace in the work
@@ -6043,7 +6039,7 @@ according to a very crude approximation of androcentricity: appearances
 of the word ‘man’—used either as a singular noun or to refer to
 ‘mankind’—per 1,000 lines. A clear trend is visible, consisting of a
 spike around the beginning of *The White Stones* (l. 1,800) and a steady
-drop-off thereafter.[^500] For reference, the chronological scope of
+drop-off thereafter.[^501] For reference, the chronological scope of
 this thesis terminates with *High Pink on Chrome* (1975) at around l.
 8,350. Such analysis violently flattens the semantic complexity of
 Prynne’s work—it is impossible to tell whether any given usage of ‘man’
@@ -6053,13 +6049,13 @@ through readily disputable readings of individual usages. While it would
 be foolish, then, to use Figure @fig:man as evidence of the
 androcentricity of Prynne’s early work, if that quality is established
 by other means then the diagram can be used to trace its probable
-contours.[^501]
+contours.[^502]
 
 Writing to Douglas Oliver in 1994 on the subject of intellectual and
 ethical consistency, Prynne claims that ‘it is not facile to speak of
 ethical style, and to recognise that even within a single lifetime there
 is room for many shifts which can nonetheless preserve a thread of
-purposeful mutation.’[^502] This implicitly genetic model, in which the
+purposeful mutation.’[^503] This implicitly genetic model, in which the
 subject is neither absolutely changeable nor absolutely consistent, is
 perhaps helpful in coming to terms with Prynne’s own evolving opinions.
 For his part, Prynne is well aware of changes in his own thinking and
@@ -6074,7 +6070,7 @@ Prynne tackles the relation between poetry and gender directly:
 > male or female, or may include features of both, like a system of
 > Christian angels who, rather than owning no sexual identity at all,
 > may present as equally responsive to both genders and both bodily
-> incarnations, in cherishment and in trust.[^503]
+> incarnations, in cherishment and in trust.[^504]
 
 \noindent That this statement might now be objected to for its
 binarism—‘both genders and both bodily incarnations’—illustrates how
@@ -6084,7 +6080,7 @@ to acknowledge, it does not have the luxury of severing itself. Earlier
 in ‘The Poet’s Imaginary’, Prynne writes that ‘being a good poet and
 continuing to meet the self-challenge of not lapsing into mediocrity is
 continuously difficult, a matter of struggle not easily handled because
-intrinsically hard to recognize accurately’.[^504] Part of this
+intrinsically hard to recognize accurately’.[^505] Part of this
 difficulty—and something that Prynne has striven to do throughout his
 career—is to acknowledge the intersection of the poetic and the
 political, even when they appear to be most separate, and especially
@@ -6093,7 +6089,7 @@ experience.
 
 The poetical is personal and the personal is political. As Prynne
 himself has it in the recent *Paris Review* interview, ‘the authorial
-position is not reserved from any of the moral damage’.[^505] As long as
+position is not reserved from any of the moral damage’.[^506] As long as
 literary analysis is restricted to the texts of individual poems and not
 extended to the persons who produce them, as well as to their non-poetic
 work, much of the historical marbling described by Falci—‘History
@@ -6105,12 +6101,12 @@ category as the formalist evacuation of context against which
 historicist criticism itself reacts. In one of his clearest statements
 of aesthetic principle, Prynne writes that ‘no poet has or can have
 clean hands, because clean hands are themselves a fundamental
-contradiction. Clean hands do no worthwhile work.’[^506] That his choice
+contradiction. Clean hands do no worthwhile work.’[^507] That his choice
 of metaphor is bodily neatly illustrates the point in question. Poems do
 not get written without hands, and those hands inevitably do other
 things, from eating hamburgers to filling in ballot papers. This is
 something, Prynne claims, that he ‘ha\[s\] believed throughout \[his\]
-writing career’.[^507] Scholars of Prynne’s work owe it to the truth of
+writing career’.[^508] Scholars of Prynne’s work owe it to the truth of
 the first quotation not to take that of the second on trust. \newpage
 
 Postscript
@@ -6119,7 +6115,7 @@ Postscript
 Two weeks prior to the submission date for this thesis, the *Paris
 Review* interview discussed in its Conclusion was published,
 representing an ‘edited fragment’ of a much longer, 152,000-word
-transcript.[^508] The excerpt includes a substantial discussion of
+transcript.[^509] The excerpt includes a substantial discussion of
 Prynne’s early career, including his relationships with Donald Davie,
 Charles Tomlinson and Cid Corman, and validates many of the judgements
 made on the basis of archival evidence in the present text. Had the
@@ -7377,6 +7373,9 @@ Cambridge University Press, 2013), p. 25
 
 Appendix (Figures)
 ==================
+
+\newpage
+\pagenumbering{gobble}
 
 ![Prynne’s poetry collections, linked to the magazines in which they
 were first published (in whole or in part)](figs/mags.png){#fig:mags}
@@ -8730,13 +8729,13 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     satirical reading which exists alongside or underneath the more
     straight-faced interpretation given above. This rests primarily on
     the use of ‘leading edge’, one of a number of apparently
-    anachronistic terms in the text. Appearing in the late 19th century
-    as a term in nautical engineering and extending in the 20th century
-    to aviation, ‘leading edge’—along with its evolved version,
-    ‘bleeding edge’, for ‘beyond leading edge’—is now more familiar as a
-    piece of high-tech jargon, referring to ‘\[t\]he forefront or
-    vanguard, esp. of technological development’ (‘leading edge, *n*.’,
-    *OED Online* (Oxford University Press, 2016),
+    anachronistic terms in the text. Appearing in the late nineteenth
+    century as a term in nautical engineering and extending in the
+    twentieth century to aviation, ‘leading edge’—along with its evolved
+    version, ‘bleeding edge’, for ‘beyond leading edge’—is now more
+    familiar as a piece of high-tech jargon, referring to ‘\[t\]he
+    forefront or vanguard, esp. of technological development’ (‘leading
+    edge, *n*.’, *OED Online* (Oxford University Press, 2016),
     &lt;http://www.oed.com/view/Entry/106611&gt; \[accessed 1 March
     2016\]). Its use in relation to ploughshares and bodkins may thus be
     interpreted as a deliberate puncturing of contemporary pretensions
@@ -9729,28 +9728,38 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     February 2016\]). In any case, few of the female recipients of the
     *Intelligencer* participated actively in its discussions.
 
-[^500]: The usage of similar terms such as ‘human’ or ‘woman’ across the
+[^500]: This is not to suggest that this position is in any way unusual
+    for a male poet of Prynne’s generation (not to mention later
+    generations). The difficulty of shaking off such ingrained
+    assumptions is shown in the *Paris Review* interview, where Prynne
+    repeatedly corrects himself after using male pronouns to refer to
+    the generalised poet figure: ‘a kind of vigilance that motivates a
+    writer to keep his wits about him—or her’ (Prynne, ‘The Art of
+    Poetry’, p. 192); ‘every time some grand poet shot his mouth off—or
+    hers’ (*ibid*., p. 193).
+
+[^501]: The usage of similar terms such as ‘human’ or ‘woman’ across the
     text does not show any comparable trend. While the text used may be
     subject to scanning errors, these should be approximately randomly
     distributed and would therefore not affect the shape of the chart.
 
-[^501]: Without claiming it as ‘seal of approval’ for the statistical
+[^502]: Without claiming it as ‘seal of approval’ for the statistical
     approach, it is interesting to note that Prynne himself has made use
     of similar analyses: discussing his compositional process in 2014,
     he described checking words against a digital text of his collected
     poems to review past usages (Prynne, ‘A Dialogue with Nicholas
     Royle’).
 
-[^502]: Prynne to Oliver, 5 September 1994.
+[^503]: Prynne to Oliver, 5 September 1994.
 
-[^503]: Prynne, ‘The Poet’s Imaginary’, p. 104.
+[^504]: Prynne, ‘The Poet’s Imaginary’, p. 104.
 
-[^504]: Prynne, ‘The Poet’s Imaginary’, p. 96.
+[^505]: Prynne, ‘The Poet’s Imaginary’, p. 96.
 
-[^505]: Prynne, ‘The Art of Poetry’, p. 207.
+[^506]: Prynne, ‘The Art of Poetry’, p. 207.
 
-[^506]: Prynne, ‘Mental Ears and Poetic Work’, p. 141.
+[^507]: Prynne, ‘Mental Ears and Poetic Work’, p. 141.
 
-[^507]: *Ibid*.
+[^508]: *Ibid*.
 
-[^508]: Prynne, ‘The Art of Poetry’, p. 177.
+[^509]: Prynne, ‘The Art of Poetry’, p. 177.
