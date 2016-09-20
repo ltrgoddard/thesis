@@ -3970,14 +3970,14 @@ fiction in general, this chapter will investigate a number of
 similarities between prose texts that Prynne has professed to admire,
 proposing a third context for his work, akin to the nexus of Leavisite
 criticism and Movement poetry discussed in Chapter 1 or the avant-garde
-little magazine scene explored in Chapter 2. It will go on to draw
-broader conclusions about Prynne’s basic ethical and aesthetic stance,
-building on the reading of ‘A Note on Metal’ offered in the second half
-of that chapter. Specifically, a gap will be traced between two styles
-in Prynne’s prose work—one reasoned and deliberate, the other vitriolic
-and dismissive—which will then be reconnected through their shared
-advocacy of a number of implicitly aesthetic qualities, most notably
-sexual maturity.
+little magazine scene explored in the first half of Chapter 2. It will
+go on to draw broader conclusions about Prynne’s basic ethical and
+aesthetic stance, building on the reading of ‘A Note on Metal’ offered
+in the second half of that chapter. Specifically, a gap will be traced
+between two styles in Prynne’s prose work—one reasoned and deliberate,
+the other vitriolic and dismissive—which will then be reconnected
+through their shared advocacy of a number of implicitly aesthetic
+qualities, most notably sexual maturity.
 
 The list of novelists mentioned by Prynne in his letters of the 1960s
 and ’70s is long, but not perhaps as long as might be expected;
@@ -6135,10 +6135,10 @@ Bibliography
 Archival material
 -----------------
 
-Due to the large number of letters cited from some boxes, archival
-materials are listed in chronological order, with folder and/or envelope
-numbers where necessary, under subheadings indicating the collection,
-series and box in which they may be found.
+\singlespacing Due to the large number of letters cited from some boxes,
+archival materials are listed in chronological order, with folder and/or
+envelope numbers where necessary, under subheadings indicating the
+collection, series and box in which they may be found.
 
 ### Thomas J. Dodd Research Center, University of Connecticut
 
@@ -6883,7 +6883,7 @@ Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1–15
 ‘leading edge, *n*.’, *OED Online* (Oxford University Press, 2016),\
 &lt;http://www.oed.com/view/Entry/106611&gt; \[accessed 1 March 2016\]
 
-Leavis, F.R.,—, ‘Keynes, Spender and Currency-Values’, in *A Selection
+Leavis, F.R., ‘Keynes, Spender and Currency-Values’, in *A Selection
 from ‘Scrutiny’*, ed. by Leavis (Cambridge: Cambridge University Press,
 1968), vol. 1, p. 185–96
 
@@ -7179,7 +7179,7 @@ Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces,
 Romantic Times* (London: Routledge, 2016)
 
 Pritchett, Ben and Decca Muldowney, ‘Student activism then and now: an
-interview with Ian Patterson’, *The Great Unrest*, (13 January 2011\],\
+interview with Ian Patterson’, *The Great Unrest*, (13 January 2011),\
 &lt;http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/&gt;
 \[accessed 15 December 2014\]
 

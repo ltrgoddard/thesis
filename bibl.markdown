@@ -5,7 +5,7 @@
 
 ## Archival material
 
-Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder and/or envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
+\singlespacing Due to the large number of letters cited from some boxes, archival materials are listed in chronological order, with folder and/or envelope numbers where necessary, under subheadings indicating the collection, series and box in which they may be found.
 
 
 ### Thomas J. Dodd Research Center, University of Connecticut
@@ -588,7 +588,7 @@ Leader, Zachary, 'Introduction: Origins and Ambivalences', in *The Movement Reco
 'leading edge, *n*.', *OED Online* (Oxford University Press, 2016),  
 \<http://www.oed.com/view/Entry/106611\> [accessed 1 March 2016]
 
-Leavis, F.R.,---, 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, p. 185--96
+Leavis, F.R., 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, p. 185--96
 
 ---, letter, *Times Literary Supplement* (21 May 1971), p. 593
 
@@ -793,7 +793,7 @@ Press, John, *Rule and Energy: Trends in British Poetry Since the Second World W
 
 Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces, Romantic Times* (London: Routledge, 2016)
 
-Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011],  
+Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011),  
 \<http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/\> [accessed 15 December 2014]
 
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574
