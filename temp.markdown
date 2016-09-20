@@ -388,8 +388,8 @@ and Prynne. The figure of Pound will, nevertheless, be brought back to
 the surface in this thesis’s conclusion, used to draw together and
 reflect on the foregoing analysis. \newpage
 
-‘The contemporary situation here in England’
-============================================
+Chapter 1. ‘The contemporary situation here in England’
+=======================================================
 
 i. Introduction
 ---------------
@@ -724,8 +724,8 @@ a legitimate subject for poetry when his next collection, *Kitchen
 Poems* (1968), would deal directly with the human subject’s imbrication
 in the very public contexts of global finance and politics. It is
 probable, therefore, that he means something different by the phrase;
-perhaps something similar to the debased sociality which Davie admits to
-paying tribute to through ‘inert gestures of social adaptiveness—“no
+perhaps something similar to the debased sociality to which Davie admits
+paying tribute through ‘inert gestures of social adaptiveness—“no
 doubt”, “I suppose”, “of course”, “almost”, “perhaps”’.[^61] This is
 absolutely to be distinguished from, for example, the metaphysical
 emphasis on ‘discretion’ in Prynne’s ‘A Gold Ring Called Reluctance’, a
@@ -774,11 +774,11 @@ Further evidence of a coordinated PR campaign is provided in an April
 > a *New Statesman* review of Spender’s new and worthless book.[^68]
 
 \noindent Davie’s review, a cutting of which is pasted into the letter,
-combines traditional, Movement-style antipathy towards Stephen Spender,
-Dylan Thomas and anyone else associated with the 1940s with enthusiasm
-for ‘the theories of Olson and the poems of Creeley and Edward Dorn
-\[which\] seem to show the Modern Movement entering, in America, on a
-new lease of unexpected life.’[^69]
+combines Movement-style antipathy towards Stephen Spender, Dylan Thomas
+and anyone else associated with the 1940s with enthusiasm for ‘the
+theories of Olson and the poems of Creeley and Edward Dorn \[which\]
+seem to show the Modern Movement entering, in America, on a new lease of
+unexpected life.’[^69]
 
 Despite Davie’s evident willingness to cooperate in the promotion of
 Olson and Dorn to English readers in the early 1960s, Prynne’s tone when
@@ -806,7 +806,7 @@ apart \[…\] (most obscurely) by Donald Davie’s translation to Stanford
 Cal.’[^73] Prynne’s ambivalence towards Davie was described above as
 stemming from the aesthetic gap between the latter’s poetic theory and
 his poetic practice; yet the tone of this last comment, not to mention
-Prynne’s own apparent confusion about his feelings, suggests that
+Prynne’s apparent confusion about his own position, suggests that
 something more may be at stake.
 
 In order to clarify Prynne’s poetic and academic relationship with
@@ -1019,9 +1019,9 @@ through Davie’s association with the Movement in order to further their
 own very different poetics. From the late 1960s onwards, Prynne’s
 aversion manifested itself in an almost total rejection of the
 mainstream literary world, the details of which will be discussed in the
-following chapter; Tomlinson, by contrast, had enjoyed the fruits of
-Davie’s influence much earlier, and was thus able, once established, to
-distance himself less completely from the older poet. Prynne’s early
+first part of Chapter 2; Tomlinson, by contrast, had enjoyed the fruits
+of Davie’s influence much earlier, and was thus able, once established,
+to distance himself less completely from the older poet. Prynne’s early
 involvement with Davie nevertheless complicates any attempt to present
 his work as some sort of *sui generis* avant-garde artefact, or even to
 characterise it primarily as an English offshoot of the Olsonian poetic
@@ -1108,22 +1108,22 @@ in a 2013 revised edition of the *Oxford Companion to Modern Poetry*:
 > Mengham, Drew Milne, Ian Patterson, Denise Riley and John
 > Wilkinson.[^101]
 
-\noindent After moving into university teaching positions, many of the
-poets mentioned above have been involved, consciously or otherwise, in
-the creation of a nascent academic infrastructure—critical books,
-conferences, Ph.D. supervision—not totally dissimilar to that which grew
-up around the so-called ‘Leavisites’, though smaller and largely
-situated at the tertiary rather than the secondary level of the British
-education system. To take one of the more obvious examples, as of the
-2013/14 academic year the Cambridge English Faculty employed Ian
-Patterson, Rod Mengham, Simon Jarvis and Drew Milne. All four were
-taught by Prynne—if not through direct supervision, then through
-lectures—as undergraduates at Cambridge in the 1960s, ’70s and ’80s. All
-four are poets whose work has been published by the same small presses
-as Prynne’s (principally Equipage and Barque, the former being run by
-Mengham himself). Most importantly, since completing doctoral degrees at
-Cambridge, all four have supervised further undergraduate, masters or
-doctoral work on Prynne or related subjects.
+\noindent After moving into university teaching positions, many of these
+poets have been involved, consciously or otherwise, in the creation of a
+nascent academic infrastructure—critical books, conferences,
+Ph.D. supervision—not totally dissimilar to that which grew up around
+the so-called ‘Leavisites’, though smaller and largely situated at the
+tertiary rather than the secondary level of the British education
+system. To take one of the more obvious examples, as of the 2013/14
+academic year the Cambridge English Faculty employed Ian Patterson, Rod
+Mengham, Simon Jarvis and Drew Milne. All four were taught by Prynne—if
+not through direct supervision, then through lectures—as undergraduates
+at Cambridge in the 1960s, ’70s and ’80s. All four are poets whose work
+has been published by the same small presses as Prynne’s (principally
+Equipage and Barque, the former being run by Mengham himself). Most
+importantly, since completing doctoral degrees at Cambridge, all four
+have supervised further undergraduate, masters or doctoral work on
+Prynne or related subjects.
 
 While it is likely that Leavis only met Prynne at some point in the late
 1960s, once his most important work, represented by the journal
@@ -1161,6 +1161,9 @@ Prynne’s and a Marshall Scholar at Newnham College during this period,
 recalls ‘a rivalry between the camps of Daiches and Leavis’, though
 Daiches maintained that he only ‘learned later’ of the war that was
 ‘going on at Cambridge between F.R. Leavis and his enemies’.[^107]
+Finally, in a recent interview, Prynne describes being taught by Raymond
+Williams, who was more than happy to acknowledge his ‘Debt to
+Dr. Leavis’ in this period.[^108]
 
 On the basis of this brief biographical sketch, it seems fair to say
 that Prynne spent his sixth-form and college years in an environment
@@ -1179,13 +1182,13 @@ Wordsworth’s ‘Tintern Abbey’, a poem which precedes the shift proper,
 ‘the conventionalized landscape is already yielding final pre-eminence
 to the speculation it prompts’, but its details still ‘stand as
 legitimate experiential antecedents, as the roots, however apparently
-slight, from which the subsequent reflection springs.[^108] By contrast,
+slight, from which the subsequent reflection springs.[^109] By contrast,
 in Tennyson’s ‘Ulysses’—‘one of the earliest meditative poems in which
 the change I have been discussing has already taken
 place’—‘\[i\]ncantation has taken the place of description as the main
 meditative technique. The world is as wide as the range of one’s desires
 and virtuosity of expression makes it to be, since the poem is not a
-means of focussing one’s attention but of diffusing it.’[^109] Prynne
+means of focussing one’s attention but of diffusing it.’[^110] Prynne
 gives the principal characteristic of meditative poetry as
 ’scene-painting’, turning to a contemporary review of Tennyson by John
 Stuart Mill for a definition:
@@ -1198,7 +1201,7 @@ Stuart Mill for a definition:
 > passage of pure description but the power of *creating* scenery, in
 > keeping with some state of human feeling; so fitted to it as to be the
 > embodied symbol of it, and to summon up the state of feeling itself,
-> with a force not to be surpassed by anything but reality.[^110]
+> with a force not to be surpassed by anything but reality.[^111]
 
 \noindent The part of *New Bearings* from which Prynne’s argument can be
 seen most clearly to derive—or at least to draw inspiration—is the first
@@ -1208,7 +1211,7 @@ English poets of the later 19th century failed to develop aesthetic
 techniques adequate to changes in the broader intellectual climate and
 its language, clinging to outmoded ‘ideas of the essentially poetical
 which, when the conditions which gave rise to them \[…\] changed,
-bar\[red\] the poet from his most valuable material’.[^111] At first
+bar\[red\] the poet from his most valuable material’.[^112] At first
 glance, this emphasis on stasis might seem at odds with Prynne’s theory
 of an important change between, say, Wordsworth and Tennyson, but these
 attitudes are really two sides of the same coin. The change that Prynne
@@ -1222,16 +1225,16 @@ notes that ‘performances such as “Lycidas” were essentially public
 events, monuments crafted out of a shared language, in such a way that
 the feeling expressed was cogently personal but also anonymous’—the
 problem for later poets is that the poetic language which they continue
-to use is no longer ‘shared’ in any real sense.[^112] Importantly,
-Prynne and Leavis not only provide common diagnoses of the disjunct
+to use is no longer ‘shared’ in any real sense.[^113] Importantly,
+Prynne and Leavis not only provide common diagnoses of the disjunction
 between poetic language and the world in which it is written, but also
 provide remarkably similar assessments of the texture of this
 language—what it feels like to read. ‘Nineteenth-century poetry,’ writes
 Leavis, ‘\[…\] was characteristically preoccupied with the creation of a
-dream-world.’[^113] Where Prynne describes meditative poetry as
+dream-world.’[^114] Where Prynne describes meditative poetry as
 ‘narcotic’, Leavis notes that, in a piece of ‘late Victorian poetastry’
 by Andrew Lang, ‘it is the music of the languid hours that
-predominates’.[^114] Leavis even identifies Tennyson as a paradigmatic
+predominates’.[^115] Leavis even identifies Tennyson as a paradigmatic
 example of the tendency:
 
 > \singlespacing He might wrestle solemnly with the ‘problems of the
@@ -1243,7 +1246,7 @@ example of the tendency:
 > moving the world, or that might move it. But Victorian poetry admits
 > implicitly that the actual world is alien, recalcitrant and
 > unpoetical, and that no protest is worth making except the protest of
-> withdrawal.[^115]
+> withdrawal.[^116]
 
 \noindent Where ‘The Elegiac World’ diverges significantly from Leavis
 is in its assessment of aesthetic developments subsequent to the 19th
@@ -1256,17 +1259,17 @@ fundamentally one of continuity. Introducing his argument via Wallace
 Stevens’s late poem ‘The World as Meditation’, Prynne brings together
 ‘Tennyson’s “In Memoriam”, Arnold’s “Dover Beach” \[and\] Eliot’s
 “Prufrock”’ as three more poems which give ‘a rough idea of what I mean’
-by the word meditative.[^116] Eliot is considered in more detail at the
+by the word meditative.[^117] Eliot is considered in more detail at the
 very end of the piece, where he is ambivalently credited with having
 ‘maintained the subjective cocoon while draining it of its overt
 melancholy. We remain inside the mind, but it is not clear whose mind is
-in question, and the emotional modality is largely neutralized.’[^117]
+in question, and the emotional modality is largely neutralized.’[^118]
 There is a parallel here with Leavis’s assessment of Eliot’s *Gerontion*
 in the third chapter of *New Bearings*, where he praises the poem’s
 ‘really dramatic detachment’: ‘From a position far above his immediate
 concerns as a particular individual, projecting himself, as it were,
 into a comprehensive and representative human consciousness, the poet
-contemplates human life and asks what it all comes to.’[^118] Yet where
+contemplates human life and asks what it all comes to.’[^119] Yet where
 Leavis sees a decisive break, Prynne sees a development in a tradition,
 as his final paragraph makes clear:
 
@@ -1277,14 +1280,14 @@ as his final paragraph makes clear:
 > ambience—‘scene-painting’, in Mill’s phrase—it remains unexpectedly
 > with us. Like Penelope in Stevens’s poem, the modern poet would hardly
 > recognize a contingent event if he saw one, and least of all if he had
-> been expecting it.[^119]
+> been expecting it.[^120]
 
 \noindent That Prynne considers himself at least partially exempt from
 this last comment is suggested by the language used to set out the
 argument in the earlier stages of the piece: writing approvingly of
 ‘Tintern Abbey’, he notes that ‘in Wordsworth’s encounter with his theme
 there remains a positive force of circumstance’, the latter three words
-being the title of Prynne’s own first collection of poems.[^120]
+being the title of Prynne’s own first collection of poems.[^121]
 
 It is worth dwelling on what Prynne might actually mean by this phrase,
 and by his apparent enthusiasm for the ‘contingent event’ in the passage
@@ -1295,7 +1298,7 @@ The *Times Digital Archive* shows its first usage in the newspaper in
 1833, with much more regular appearances from the end of the Edwardian
 period. As a title, ‘The Force of Circumstance’ had already been used by
 W. Somerset Maugham in 1928, while Steve Clark notes that Prynne’s usage
-‘perhaps alludes to Hardy’s *Satires of Circumstance*’.[^121] In the
+‘perhaps alludes to Hardy’s *Satires of Circumstance*’.[^122] In the
 context of this particular collection of poems, however, there seems to
 be a more pressing ideological-aesthetic meaning. James Keery has
 claimed provocatively that ‘on the strength of this early collection
@@ -1303,21 +1306,21 @@ alone Prynne deserves to be recognised as the finest Movement poet bar
 Larkin and Davie.’ Whether or not this act of recuperation can be
 accepted in its entirety, Keery’s earlier contention that ‘*Force of
 Circumstance* is recognisably derivative from Davie’ is not
-substantially in doubt.[^122] Given this, it is not too much of a
+substantially in doubt.[^123] Given this, it is not too much of a
 stretch to read the valorisation of ‘force of circumstance’ as an
-anti-Romantic (though not quite anti-Wordsworthian), Movement-style
-exhortation to modesty: an injunction not to interfere unduly with the
-forces that shape circumstance, but simply to observe and to record
-them.[^123] This certainly seems to be force of the phrase in the
-collection’s titular poem, in which the speaker reflexively contemplates
-his or her own memory of a ‘broken, idle mill-wheel’, repeatedly
-refusing to modify the image by making the wheel turn, or even by
-imagining the reconstruction of ‘the rotting chute | That brought the
-water to it’ in order to allow it to turn of its own accord. For the
-speaker, ‘the force | Of circumstance \[…\] protects the place’,
-preventing any such interference, though at the poem’s conclusion he or
-she is permitted to ‘set a heron down, a tense | And watchful silence’
-which figures the speaker’s own position as observer.[^124]
+anti-Romantic, Movement-style exhortation to modesty: an injunction not
+to interfere unduly with the forces that shape circumstance, but simply
+to observe and to record them.[^124] This certainly seems to be force of
+the phrase in the collection’s titular poem, in which the speaker
+reflexively contemplates his or her own memory of a ‘broken, idle
+mill-wheel’, repeatedly refusing to modify the image by making the wheel
+turn, or even by imagining the reconstruction of ‘the rotting chute |
+That brought the water to it’ in order to allow it to turn of its own
+accord. For the speaker, ‘the force | Of circumstance \[…\] protects the
+place’, preventing any such interference, though at the poem’s
+conclusion he or she is permitted to ‘set a heron down, a tense | And
+watchful silence’ which figures the speaker’s own position as
+observer.[^125]
 
 The phrase ‘contingent event’, as used by Prynne, has the potential to
 confuse this interpretation. The clearest source for this concept is
@@ -1331,13 +1334,13 @@ to reconcile these conflicting positions by seeming to restrict the
 principle of bivalence: ‘Everything must either be or not be, whether in
 the present or in the future, but it is not always possible to
 distinguish and state determinately which of these alternatives must
-necessarily come about.’[^125] This ambiguous solution to what has been
+necessarily come about.’[^126] This ambiguous solution to what has been
 termed the problem of future contingents provided the fuel for a
 long-running debate over the relationship between human free will and
 God’s omnipotence, particularly in the Scholastic period. Much of this
 discussion was spurred by an influential commentary on Aristotle’s text
-by the late-Roman philosopher Boethius, an author to whom Prynne has
-acknowledged a profound debt.[^126] What, then, does Prynne mean when he
+by the late Roman philosopher Boethius, an author to whom Prynne has
+acknowledged a profound debt.[^127] What, then, does Prynne mean when he
 claims that ‘the modern poet would hardly recognize a contingent event
 if he saw one, and least of all if he had been expecting it’? The
 traditional opposition between contingency and necessity would seem to
@@ -1359,28 +1362,28 @@ English literary and artistic scene. In his very first letter to Olson,
 for instance, Prynne takes aim at one of Leavis’s favourite targets, the
 so-called Bloomsbury Set, supposedly ‘still in the saddle’ in 1961; his
 next letter includes a brief shot at Auden, another Leavisian
-bugbear.[^127] Bloomsbury is again attacked in a 1962 letter to Dorn,
+bugbear.[^128] Bloomsbury is again attacked in a 1962 letter to Dorn,
 though tempered by a precisely anti-Leavisite impatience with a
 situation in which ‘D.H. Lawrence is a culture-hero and Ezra Pound a
-sort of curious and sinister joke.’[^128] Leavis’s opposition to
+sort of curious and sinister joke.’[^129] Leavis’s opposition to
 Bloomsbury is part of a broader assault on what he describes, in a
 discussion of John Maynard Keynes and Stephen Spender, as ‘the habit of
 substituting the social-personal values for the relevant ones’; Prynne,
 for his part, rails against ‘*seeing a lot of each other as method*’ in
 a May 1967 letter to Peter Riley, referring to the work of younger poets
-associated with *The English Intelligencer*.[^129] Both attitudes seem
+associated with *The English Intelligencer*.[^130] Both attitudes seem
 to derive, at least in part, from a suspicion of a particular form of
 homosocial interaction. Q.D. Leavis, at one with her husband on matters
 Bloomsbury, extends to outright homophobia in her discussion of the
 public school *milieu*, attributing the success of the ‘evidently
 unqualified reviewers \[who\] fill the literary weeklies’ to ‘hav\[ing\]
 been “the most fashionable boy in the school”, or to hav\[ing\] had a
-feline charm or a sensual mouth and long eyelashes.’[^130] Prynne, in a
+feline charm or a sensual mouth and long eyelashes.’[^131] Prynne, in a
 slightly earlier letter to Riley, raises an odd objection to close
 male-male contact that fails to extend to ‘the full homosexual passion &
 stop at nothing’, while a later mention of John Ashbery and his ‘various
 camp followers’ encouraging ‘feeble insecurity’ in young English poets
-is more overtly homophobic.[^131]
+is more overtly homophobic.[^132]
 
 Whether following Leavis’s judgements or challenging them, the most
 significant thing is that Prynne is engaging with them, and doing so in
@@ -1398,7 +1401,7 @@ race (or a branch of it) at a given time.’ He lays stress on the close
 relationship between this minority and language: ‘In their keeping \[…\]
 is the language, the changing idiom, upon which fine living depends, and
 without which distinction of spirit is thwarted and incoherent. By
-“culture” I mean the use of such a language.’[^132] On a purely
+“culture” I mean the use of such a language.’[^133] On a purely
 terminological level, it is revealing that Prynne uses the term
 ‘discriminating minority’ to describe the audience for Daiches’s and
 Davie’s talks to the Jesus College Literary Society in the report
@@ -1413,7 +1416,7 @@ against the commercial debasement of literary standards:
 > will take it. And the answer of course in most cases is, that they
 > won’t take it at all; they’ve been cossetted \[*sic*\] in the
 > second-rate for too long, & most of them have given up reading
-> anything but brisk brash novels about the modern social scene.[^133]
+> anything but brisk brash novels about the modern social scene.[^134]
 
 \noindent This dismissal draws much of its force from the shared
 Prynnian–Leavisian opposition to ‘the habit of substituting the
@@ -1436,7 +1439,7 @@ description of his job as a university teacher:
 > garrulous, and genteel to vanishing point. However, it’s my
 > professional business to know the serious ethical shapeliness of real
 > writing when I see it, to find it there and reclaim it for those who
-> will stop to read.[^134]
+> will stop to read.[^135]
 
 Prynne’s description of what characterises ‘real writing’ as a ‘serious
 ethical shapeliness’ is worth considering in detail. What might at first
@@ -1447,13 +1450,13 @@ statements made by Prynne about poetic form. In particular, the word
 ‘This is not only the words as isolated monads, but their ordering; the
 grammar of feeling: the movement forward speeded or checked by the
 adverbs, bent, inverted or split by the conjunctions, maintained always
-by the constant verb.’[^135] This, in turn, recalls both the argument
+by the constant verb.’[^136] This, in turn, recalls both the argument
 put forward in the 1961 piece ‘Resistance and Difficulty’, which
 celebrates the ability of poems to become real objects in the world,
 perceptible through their very resistance to perception, and the
 editorial statement appended to Prynne’s issue of *Prospect*, which
 declares that ‘\[w\]ork sent in should preferably be extensive enough to
-define its own contour’.[^136] The most important five words of the
+define its own contour’.[^137] The most important five words of the
 quotation above can, however, be found in the first sentence: ‘always
 have and always will’. While a disgruntled letter to a publisher should
 not be taken too seriously as a statement of fundamental artistic
@@ -1468,7 +1471,7 @@ long history of modernism—Leavis himself was strongly influenced by
 Eliot’s critical work—but, given the prominence of Leavis both in
 Prynne’s ‘schooling so-called’ and in the Cambridge environment of the
 late 1950s and early ’60s, it would be misleading not to note
-similarities where they arise.[^137]
+similarities where they arise.[^138]
 
 Does this formative exposure to Leavis leave any trace in Prynne’s
 mature work, specifically that which was produced subsequent to his
@@ -1495,18 +1498,18 @@ the idea that ‘what you want, you by | historic process or just
 readiness | to travel, also “need”’; furthermore, ‘the market defines
 wants from | single reckoning into a social need’, and the engine of
 modern consumer capitalism itself is the ‘mass-conversion of *want*
-(sectional) into | *need* (social & then total)’.[^138] Referring to a
+(sectional) into | *need* (social & then total)’.[^139] Referring to a
 number of other poems, as well as to the short prose piece ‘About
 Warning an Invited Audience’, Sutherland notes that Prynne’s attitude
 here ‘bears a strong affinity to Guy Debord’s Situationist polemic
 against “alienated consumption” in *The Society of the Spectacle*,
-published, like Prynne’s “Warning”, in 1967.’[^139] The comparison is
+published, like Prynne’s “Warning”, in 1967.’[^140] The comparison is
 apt, and there is indeed evidence that Prynne was reading Situationist
 material in this period. Writing to Peter Riley in September 1967, he
 describes how Barry MacSweeney is ‘translating Le Point d’Explosion de
 l’Idéologie en Chine, a current pamphlet from l’Internationale
 Situationniste’—this pamphlet, like many of the anonymous texts printed
-in *IS*, was authored by Debord.[^140] Nevertheless, it would be
+in *IS*, was authored by Debord.[^141] Nevertheless, it would be
 extremely optimistic to think that the intellectual background to a
 collection as complex as *Kitchen Poems* could be mapped cleanly on to a
 single source, particularly as there is at least one other strong
@@ -1514,10 +1517,10 @@ contender for influence.
 
 Exactly three months before the letter referred to above, Prynne sent
 Riley a postcard and a copy of the *May Day Manifesto*, which had been
-published the previous month.[^141] Edited by Stuart Hall, E.P. Thompson
+published the previous month.[^142] Edited by Stuart Hall, E.P. Thompson
 and Raymond Williams, the manifesto ‘appeared with the names of over 70
 signatories—writers, academics and activists associated with the New
-Left.’[^142] Prynne clearly considered it important enough for Riley to
+Left.’[^143] Prynne clearly considered it important enough for Riley to
 have his own copy, instructing him not to return it ‘as I’ll get another
 here’. The *May Day Manifesto* is concerned with the political economy
 of then-contemporary Britain, focussing particularly on the country’s
@@ -1534,7 +1537,7 @@ diffusion of new wants is conditioned and reinforced by advertising in
 which ideas of prestige and status are directly exploited. When
 breakfast cereals packets ask, in colour, whether we “want to be the
 first family in our road to have colour T.V.”, a new “want” is being
-created in thousands of homes.’[^143] The scope of concern here is
+created in thousands of homes.’[^144] The scope of concern here is
 perhaps more locally economic than Prynne’s—nevertheless, the
 similarities in terminology, particularly the use of the substantive
 form of the verb ‘want’, are striking. There is less direct comparison
@@ -1544,7 +1547,7 @@ phrase ‘social need’, for example, which appears in Chapter 7 of the
 manifesto, or the general assertion in Chapter 13 that ‘the mass
 consumption path set by market-led growth *generates needs* for
 increasingly higher standards of public provision’ (emphasis
-mine).[^144]
+mine).[^145]
 
 As mentioned above, the *May Day Manifesto* was a product of the New
 Left: specifically, the group surrounding the journal *New Left Review*,
@@ -1552,16 +1555,16 @@ which was formed by the merger of the *New Reasoner* and the
 *Universities and Left Review* in 1960. This group, in turn, owed an
 extraordinary—if contradictory—intellectual debt to Leavis and
 *Scrutiny*, a debt fully acknowledged in Francis Mulhern’s *The Moment
-of ‘Scrutiny’* (1979), not to mention Raymond Williams’s contribution to
-a 1959 *Critical Quarterly* symposium on ‘Our Debt to Dr. Leavis’.[^145]
-In terms of concrete ideas, one of the key inheritances was precisely
-the focus on the manipulation of wants and needs described above. While
-this was an idea of great importance to Marx, particularly in his early
-work, its significance in the broad tradition of Marxist scholarship has
-been limited by accidents of publication. As Andrew Chitty points out,
-‘\[i\]t was in the *Notes on James Mill* (1844), the *Economic and
-Philosophical Manuscripts* (1844) and *The German Ideology* (with
-Engels, 1845–6), that Marx worked out his philosophical
+of ‘Scrutiny’* (1979) and Raymond Williams’s contribution to the 1959
+*Critical Quarterly* symposium on ‘Our Debt to Dr. Leavis’, mentioned
+above. In terms of concrete ideas, one of the key inheritances was
+precisely the focus on the manipulation of wants and needs described
+above. While this was an idea of great importance to Marx, particularly
+in his early work, its significance in the broad tradition of Marxist
+scholarship has been limited by accidents of publication. As Andrew
+Chitty points out, ‘\[i\]t was in the *Notes on James Mill* (1844), the
+*Economic and Philosophical Manuscripts* (1844) and *The German
+Ideology* (with Engels, 1845–6), that Marx worked out his philosophical
 anthropology’—yet these texts all remained unpublished well into the
 20th century.[^146] Crucially, the *Economic and Philosophical
 Manuscripts* and the *Notes on James Mill*, in which the concept of need
@@ -1599,7 +1602,7 @@ present tense, would not seem out of place in Chapter 10, on
 > bad desires and manufactured new ones.[^149]
 
 \noindent That Prynne’s work is concerned with the manufacture of such
-‘bad desires’ is clear. If this attitude can plausibly be linked to a
+‘bad desires’ is clear. If this attitude can be plausibly linked to a
 French intellectual *milieu* still relatively obscure in the Britain of
 the mid 1960s (the first English translation of Debord’s *Society of the
 Spectacle* was not produced until 1970), then it can surely also be
@@ -1607,7 +1610,7 @@ traced to an indigenous equivalent which, though politically and
 aesthetically far-removed, nevertheless shared some of its concerns.
 
 A divergence between Prynne and Leavis can, nevertheless, be felt in
-their sole clearly documented encounter, which occurred in the letters
+their one clearly documented encounter, which occurred in the letters
 pages of the *Times Literary Supplement* in 1971. On 6 May that year,
 the *TLS* printed the text of a lecture titled ‘The Osmotic Sap’,
 delivered by the Movement poet Roy Fuller in his role as Professor of
@@ -1683,29 +1686,28 @@ triumph of intoxicated and intoxicating narcissism’ could have been
 lifted directly from Prynne’s essay (though given Shelley’s dates and
 Prynne’s description of the 1833 ‘Ulysses’ as one of the earliest poems
 ‘in which the change I have been discussing has already taken place’,
-the actual assessment would likely be out of place). What is certain is
-that by 1971 Prynne’s view both of Shelley and of the qualities
-originally identified by Leavis—the ‘tendency of the images to forget
-the status of the metaphor’—is absolutely not in accordance with that of
-the older critic. Entering the fray on 28 May with another letter to the
-editor, Prynne does not attempt to counter the descriptive aspect of
-Leavis’s assessment of Shelley. In fact, he agrees with it, describing
-it as ‘a brilliantly shrewd piece of attentiveness to the
-uncongenial.’[^155] What he puts in question is ‘whether the second
-stage of the diagnosis \[i.e. that Shelley is a bad poet\] necessarily
-follows from the first \[i.e. that Shelley pursues metaphor beyond
-strictly mimetic bounds\]: and if not necessarily, then whether in a
-range of important particular cases it seems actually to describe our
-critical response.’[^156] The tone of the letter (‘And I should have
-thought it possible by now …’) is weary, as if it is frustrating to have
-to make such a basic logical point ‘thirty-five years later’, though in
-actual fact Leavis’s original revaluation was published before Prynne
-was born. In the words of Ross Wilson, Prynne ‘responds to Leavis with a
-stern acuity of which Leavis himself would have been proud’, even taking
-a swipe at Leavis’s critical method: ‘we can by now surely see why,
-assuming on prior moral-epistemic grounds a necessary entailment,
-Dr. Leavis could hardly make a dispassionate critical appraisal of the
-actualities.’[^157]
+the actual assessment would likely be out of place). By 1971, however,
+Prynne’s view both of Shelley and of the qualities originally identified
+by Leavis—the ‘tendency of the images to forget the status of the
+metaphor’—is absolutely not in accordance with that of the older critic.
+Entering the fray on 28 May with another letter to the editor, Prynne
+does not attempt to counter the descriptive aspect of Leavis’s
+assessment of Shelley. In fact, he agrees with it, describing it as ‘a
+brilliantly shrewd piece of attentiveness to the uncongenial.’[^155]
+What he puts in question is ‘whether the second stage of the diagnosis
+\[i.e. that Shelley is a bad poet\] necessarily follows from the first
+\[i.e. that Shelley pursues metaphor beyond strictly mimetic bounds\]:
+and if not necessarily, then whether in a range of important particular
+cases it seems actually to describe our critical response.’[^156] The
+tone of the letter (‘And I should have thought it possible by now …’) is
+weary, as if it is frustrating to have to make such a basic logical
+point ‘thirty-five years later’, though in actual fact Leavis’s original
+revaluation was published before Prynne was born. As Ross Wilson puts
+it, Prynne ‘responds to Leavis with a stern acuity of which Leavis
+himself would have been proud’, even taking a swipe at Leavis’s critical
+method: ‘we can by now surely see why, assuming on prior moral-epistemic
+grounds a necessary entailment, Dr. Leavis could hardly make a
+dispassionate critical appraisal of the actualities.’[^157]
 
 What is most interesting about Prynne’s letter, however, is not its
 demolition of the Leavisian position but the aesthetic potential that he
@@ -1738,23 +1740,22 @@ wearily through most of this book, in which a sensible but unoriginal
 account of the poet’s life is interwoven with explications of all his
 major and many of his minor poems’; ‘In this book \[Reiman\] interweaves
 a sound and accurate account of the events of Shelley’s life with
-interpretations of his chief poems and prose essays.’[^160]
-
-What, then, is Prynne proposing instead? A clue is provided by his
-actual critical practice—for example, in his commentaries on
-Shakespeare, Wordsworth and George Herbert, published from 2001
-onwards.[^161] All three of these texts are structured as meticulous,
-line-by-line—often word-by-word—readings of individual poems. Prynne
-maintains a fine balance in each case between explication of meaning,
-identification of potential source material and reference to
-biographical or contextual data. The focus is fundamentally on the poem
-as a ‘machine made out of words’, but not in the strictly acontextual
-manner of I.A. Richards and without Leavis’s overarching emphasis on
-quality and literary ‘standards’ (though this may simply be because all
-three commentaries consider poems of which Prynne approves).[^162] This
-helps to explain the interest shown in the *TLS* letter in Shelley’s
-innovative use of metaphor: Prynne is concerned with what Shelley’s
-language actually does, not with what it *should* do.
+interpretations of his chief poems and prose essays.’[^160] What, then,
+is Prynne proposing instead? A clue is provided by his actual critical
+practice—for example, in his commentaries on Shakespeare, Wordsworth and
+George Herbert, published from 2001 onwards.[^161] All three of these
+texts are structured as meticulous, line-by-line—often
+word-by-word—readings of individual poems. Prynne maintains a fine
+balance in each case between explication of meaning, identification of
+potential source material and reference to biographical or contextual
+data. The focus is fundamentally on the poem as a ‘machine made out of
+words’, but not in the strictly acontextual manner of I.A. Richards and
+without Leavis’s overarching emphasis on quality and literary
+’standards’ (though this may simply be because all three commentaries
+consider poems of which Prynne approves).[^162] This helps to explain
+the interest shown in the *TLS* letter in Shelley’s innovative use of
+metaphor: Prynne is concerned with what Shelley’s language actually
+does, not with what it *should* do.
 
 In order to show that this attitude has persisted more or less intact
 throughout Prynne’s mature career, it will be necessary to bring things
@@ -1946,32 +1947,31 @@ if the ‘gavotte’ is taken to refer to the careful dance of professional
 advancement through publishing, there is no doubt that through teaching,
 lecturing, librarianship and general ‘committee work’, Prynne has more
 than fulfilled the basic obligations of a Cambridge don, and has even
-gained a certain level of academic influence.
-
-Despite apparent differences, then, Prynne and Leavis share a
-fundamental ambivalence towards academia in general and Cambridge in
-particular. Does it therefore follow—or is it at least plausible—that
-Prynne’s teaching, like his early criticism, has been Leavisian in
-character? Discussing the legacy of Practical Criticism, the method of
-textual interpretation developed by I.A. Richards and taken up
-enthusiastically, though with modifications, by Leavis, Sam Solomon
-refers to a document produced by Prynne for incoming students at Caius,
-‘Tips on Practical Criticism, for Students of English’ (2004). This
-text, argues Solomon, articulates ‘a tutorial pedagogical authority with
-a form of preparatory moral training’, and is as such ‘quite continuous’
-with the work of Richards and Leavis, but this isn’t its only function:
-‘there is also a movement within this document against the grain of its
-structural pedagogical purpose, toward a consideration of the literary
-text and of critical reading as already social processes and spaces and
-of reading and writing as forms of labor that produce value.’ In fact,
-‘Prynne foregrounds the limitations that attend the
-Arnold–Richards–Leavis emphasis on the preparatory nature of literary
-study as moral training for citizenship.’[^183] Solomon’s reading is
-accurate, but it is important to note that the original focus on
-‘preparatory moral training’ is absolutely not confined to this one
-text. In a postscript added in 2006 to another 2004 piece, ‘Tips on
-Reading’, Prynne makes his position on the moral aspect of a
-literary-critical education absolutely clear:
+gained a certain level of academic influence. Despite apparent
+differences, then, Prynne and Leavis share a fundamental ambivalence
+towards academia in general and Cambridge in particular. Does it
+therefore follow—or is it at least plausible—that Prynne’s teaching,
+like his early criticism, has been Leavisian in character? Discussing
+the legacy of Practical Criticism, the method of textual interpretation
+developed by I.A. Richards and taken up enthusiastically, though with
+modifications, by Leavis, Sam Solomon refers to a 2004 document produced
+by Prynne for incoming students at Caius, ‘Tips on Practical Criticism,
+for Students of English’. This text, argues Solomon, articulates ‘a
+tutorial pedagogical authority with a form of preparatory moral
+training’, and is as such ‘quite continuous’ with the work of Richards
+and Leavis, but this isn’t its only function: ‘there is also a movement
+within this document against the grain of its structural pedagogical
+purpose, toward a consideration of the literary text and of critical
+reading as already social processes and spaces and of reading and
+writing as forms of labor that produce value.’ In fact, ‘Prynne
+foregrounds the limitations that attend the Arnold–Richards–Leavis
+emphasis on the preparatory nature of literary study as moral training
+for citizenship.’[^183] Solomon’s reading is accurate, but it is
+important to note that the original focus on ‘preparatory moral
+training’ is absolutely not confined to this one text. In a postscript
+added in 2006 to another 2004 piece, ‘Tips on Reading’, Prynne makes his
+position on the moral aspect of a literary-critical education absolutely
+clear:
 
 > \singlespacing I add also this postscript, because your
 > responsibilities to whatever long-term benefits you derive from
@@ -2017,19 +2017,20 @@ interesting figure for comparison precisely because the connection is so
 rarely made: aside from Solomon, whose comments are in any case
 incidental to his overall argument, no critic appears to have
 investigated the link. This lack of interest is reflective of the
-overall paucity of scholarship on Prynne’s early career, discussed at
-the beginning of this chapter. As was noted, this is not a paucity which
-can be attributed solely to the inattention or perversity of individual
-critics: Prynne’s withdrawal from commercial publishing and his obvious
-shift in poetic style following *Force of Circumstance* create an
-unavoidable sense of rupture in his career, and it is not surprising
-that many scholars have followed the guidance of their subject in
-steering their attention towards the later work. The implicit argument
-of this chapter has, however, been that Prynne’s very earliest
-influences are worth studying precisely because they remain relevant
-throughout his career. How can this claim be reconciled with Prynne’s
-demonstrable abandonment not only of a number of important Leavisian
-critical positions but also of the literary world represented by Davie?
+overall paucity of scholarship on Prynne’s early career, discussed in
+the Introduction to this thesis. As was noted, this is not a paucity
+which can be attributed solely to the inattention or perversity of
+individual critics: Prynne’s withdrawal from commercial publishing and
+his obvious shift in poetic style following *Force of Circumstance*
+create an unavoidable sense of rupture in his career, and it is not
+surprising that many scholars have followed the guidance of their
+subject in steering their attention towards the later work. One of the
+implicit arguments of this chapter has, however, been that Prynne’s very
+earliest influences are worth studying precisely because they remain
+relevant throughout his career. How can this claim be reconciled with
+Prynne’s demonstrable abandonment not only of a number of important
+Leavisian critical positions but also of the literary world represented
+by Davie?
 
 A clue may be found in two relatively unknown essays by Davie, published
 in the journal *Twentieth Century* in 1953 and 1954—following the
@@ -2124,15 +2125,15 @@ little over the course of the next four-and-a-half decades.[^192] Prynne
 is in this respect more properly Leavisian than most of the so-called
 Leavisites, and certainly more so than any member of the Movement
 (including Davie), whose supposed affinity with Leavis is really more
-cultural and sociological than intellectual. As Thomas Mallon puts it in
-a review of Blake Morrison’s *The Movement* (1980), ‘if the Sitwells, in
-Cyril Connolly’s famous phrase, belong more to the history of publicity
-than poetry, the Movement members may ultimately belong as much to the
+socio-cultural than intellectual. As Thomas Mallon puts it in a review
+of Blake Morrison’s *The Movement* (1980), ‘if the Sitwells, in Cyril
+Connolly’s famous phrase, belong more to the history of publicity than
+poetry, the Movement members may ultimately belong as much to the
 sociology of education as to a history of literary values.’[^193]
 
 \newpage
-‘The inter-modifying force of open argument’
-============================================
+Chapter 2. ‘The inter-modifying force of open argument’
+=======================================================
 
 i. Introduction
 ---------------
@@ -2334,8 +2335,8 @@ first issue of the *Intelligencer* in 1966.[^207]
 ii. Prynne and little magazines, 1955–66
 ----------------------------------------
 
-Prynne’s involvement with little magazines begins as early as his time
-in the sixth form at St Dunstan’s College, where in 1955 he was
+Prynne’s involvement with little magazines began as early as his time in
+the sixth form at St Dunstan’s College, where in 1955 he was
 instrumental in the revival of a school publication, *Six*, which had
 last appeared in 1948. Billed as ‘an unofficial production undertaken by
 members of the Sixth Form’, *Six*’s 1955 issue was edited by Prynne, and
@@ -2357,15 +2358,15 @@ War—claiming that ‘\[a\] generation stands mirrored in \[their\] pages’:
 > slightly strange to a generation which has never been forced face to
 > face with the bitter futility of war.[^210]
 
-The point of this comparison might seem to be to distance the 1955
-cohort from their wartime equivalents, men of Donald Davie’s generation
-who would by this point have been well on their way to positions of
-adult authority, some perhaps serving as schoolmasters. Yet there is
-also, in the easy use of the term ‘forbears’, a deliberate claim to
-continuity—indeed, the very act of making the comparison implies that
-there is something comparable. The author strengthens the sense of
-tradition by going on describe the school’s English master, Basil
-Harvey, as ‘the spiritual god-father of SIX ever since its first
+\noindent The point of this comparison might seem to be to distance the
+1955 cohort from their wartime equivalents, men of Donald Davie’s
+generation who would by this point have been well on their way to
+positions of adult authority, some perhaps serving as schoolmasters. Yet
+there is also, in the easy use of the term ‘forbears’, a deliberate
+claim to continuity—indeed, the very act of making the comparison
+implies that there is something comparable. The author strengthens the
+sense of tradition by going on describe the school’s English master,
+Basil Harvey, as ‘the spiritual god-father of SIX ever since its first
 appearance’, before expressing hope that the revived magazine ‘will not
 die an early death \[…\] will not sink back into oblivion.’[^211] The
 1955 issue itself is a striking object. Large post quarto in format, the
@@ -2377,7 +2378,7 @@ the Avro Vulcan, seemingly balancing on its nose in front of a Greek
 temple, from the base of which emanate stylised rays of the sort
 featured on the Japanese Rising Sun Flag. When viewed next to this
 print, the issue’s Italian inscription, ‘*sesta forma giornale*’
-\[’sixth form journal’\], perhaps suggests an attempt to situate the
+\[‘sixth form journal’\], perhaps suggests an attempt to situate the
 magazine in a Futurist context, though stray words in Russian and Greek
 raise the possibility of a more prosaic adolescent cleverness.
 Linguistic facility is evident in the issue’s content, too: of the 13
@@ -2404,23 +2405,22 @@ insularity of the university communities which both *Tomorrow* and
 the solicitation of work for publication, although both magazines also
 carried work by foreign poets, with *Prospect* becoming known for
 championing the new American poetry represented by Olson, Dorn and
-Robert Creeley, among others.[^215]
+Robert Creeley, among others.[^215] The poems contributed by Prynne are
+characteristic of his work in *Force of Circumstance* and were
+subsequently reprinted on pp. 43 and 44 of that collection, suggesting a
+certain affinity between them. The former is a self-consciously
+metaphysical meditation on a phrase, ‘lutes of amber’, from Herrick’s
+‘Upon Julia’s Voice’, which is printed on the facing page of the
+magazine. Prynne begins by bringing Herrick down to earth, questioning
+the efficacy of an instrument actually made from amber—‘A sounding-board
+needs grain and temper, needs | A latent sympathy for vibrant tone’—yet
+goes on to transfer the deficiency to ‘us’:
 
-The poems contributed by Prynne are characteristic of his work in *Force
-of Circumstance* and were subsequently reprinted on pp. 43 and 44 of
-that collection, suggesting a certain affinity between them. The former
-is a self-consciously metaphysical meditation on a phrase, ‘lutes of
-amber’, from Herrick’s ‘Upon Julia’s Voice’, which is printed on the
-facing page of the magazine. Prynne begins by bringing Herrick down to
-earth, questioning the efficacy of an instrument actually made from
-amber—‘A sounding-board needs grain and temper, needs | A latent
-sympathy for vibrant tone’—yet goes on to transfer the deficiency to
-‘us’:
-
-> \singlespacing Their wood the essence of a former age, Their sound
-> compacted in the golden glow Within their aromatic shapes, would seem
-> Too rich, to us who never took our music Neat, but in smaller doses,
-> over intervals.
+> \singlespacing Their wood the essence of a former age,\
+> Their sound compacted in the golden glow\
+> Within their aromatic shapes, would seem\
+> Too rich, to us who never took our music\
+> Neat, but in smaller doses, over intervals.
 
 \noindent The lapsarian tone of the final three lines makes clear that
 the problem is on ‘our’ side of the equation: ‘To contemplate a sound so
@@ -2434,9 +2434,12 @@ describes a scene consisting of a hazel tree and a ‘spike of bugle’
 for trumpet | Set in the key of D major | With green ground-bass?’—and
 subsequently to military metaphor:
 
-> \singlespacing From the battlements This may unlock, set loose The
-> right response: officers are meant To be obeyed; fix bayonets, Senses
-> quicken, without question Reflex action . . .[^216]
+> \singlespacing From the battlements\
+> This may unlock, set loose\
+> The right response: officers are meant\
+> To be obeyed; fix bayonets,\
+> Senses quicken, without question\
+> Reflex action . . .[^216]
 
 \noindent This thought is undercut by the statement that ‘there is
 always | The hazel tree; pause and reflect’. The purpose seems to be to
@@ -2460,18 +2463,17 @@ university town from which *Lyrische Hefte* was published.[^217] In
 the American magazine publishing five poems and a letter between 1961
 and ’62.[^218] This is also the period of Prynne’s involvement with the
 British magazine *Satis*, in which he published two poems which would
-subsequently be collected in *Force of Circumstance*.[^219]
-
-Both *Mica* and *Satis* can be considered offshoots of the much more
-well-known *Migrant*, which ceased publication in 1960, though they
-differ significantly from each other both in format and in
-content.[^220] Importantly, *Satis*—a conspicuously smart publication,
-professionally typeset and photolithographed in duodecimo format—has a
-practical claim as a forerunner to the 1964 issue of *Prospect*, edited
-by Prynne and discussed in detail below. Having sold two sets of
-three-issue subscriptions, *Satis*’s editor and publisher, Matthew Mead
-and Malcolm Rutherford, ran out of money by the time of the magazine’s
-fifth issue. A solution was given in the final issue’s editorial:
+subsequently be collected in *Force of Circumstance*.[^219] Both *Mica*
+and *Satis* can be considered offshoots of the much more well-known
+*Migrant*, which ceased publication in 1960, though they differ
+significantly from each other both in format and in content.[^220]
+Importantly, *Satis*—a conspicuously smart publication, professionally
+typeset and photolithographed in duodecimo format—has a practical claim
+as a forerunner to the 1964 issue of *Prospect*, edited by Prynne and
+discussed in detail below. Having sold two sets of three-issue
+subscriptions, *Satis*’s editor and publisher, Matthew Mead and Malcolm
+Rutherford, ran out of money by the time of the magazine’s fifth issue.
+A solution was given in the final issue’s editorial:
 
 > \singlespacing We are indebted to J. H. Prynne, the Editor of
 > *Prospect*, for agreeing to our suggestion that subscriptions which
@@ -2484,40 +2486,40 @@ fifth issue. A solution was given in the final issue’s editorial:
 in *Prospect*’s fifth issue in 1961, while in 1963, having taken over
 the management of the publication and having been appointed fellow of
 Caius in the meantime, he wrote two reviews for the university
-periodical *The Cambridge Review*. It is not entirely clear whether the
-*Review* conforms to the definition of the little magazine given in this
-chapter’s introduction, being predominantly a university publication,
-though not one officially connected to or overseen by the university,
-and having a more general intellectual and academic than literary focus.
-Nevertheless, it provides a useful point of comparison. *Force of
-Circumstance* had been reviewed in the magazine’s pages in January 1963
-by John Rathmell, Prynne’s former coursemate at Jesus; the next month,
-Prynne contributed a review of the American poet Charles Edward Eaton’s
-collection *Countermoves* (1962), following this in March with an
-article on a recent anthology of German poetry in translation.[^222]
-Despite this apparently auspicious start, however, Prynne did not become
-a regular contributor to the magazine: when he was commissioned to
-review Olson’s *Maximus Poems IV, V, VI* (1968) six years later, a book
-which Prynne had himself had a hand in producing, alongside Robert
-Creeley’s *For Love* (1962), the reviews were withdrawn after ‘the
-Literary Editor allowed himself to be casually insulting about the modes
-involved.’[^223]
+periodical *The Cambridge Review*.
 
-Describing the incident to Peter Riley, Prynne hints at his motives in
-writing for a relatively mainstream academic publication such as the
-*Review*: ‘They \[i.e. the reviews\] were actually written directly at
-that benighted readership, so that now they’re useless: I clearly should
-never have allowed myself to stumble into that maudlin and ignoble
-dependence, and I regret very much having done so.’[^224] Prynne seems
-to consider *The Cambridge Review* as something separate from the
-broader little magazine scene and his reviews for the publication as an
-educational service for ‘benighted’ readers not sufficiently clued-up
-about contemporary poetry. In an apparent reference to the informality
-of little magazine publication, Prynne celebrates the fact that
-‘\[w\]hatever master-servant exploitations persist and exfoliate in the
-great world, we are not at last subject to the patronising imbecilities
-of *editors*’.[^225] Even so, it is clear that he maintains as rigorous
-a critical attitude towards little magazines as he does to other
+It is not entirely clear whether the *Review* conforms to the definition
+of the little magazine given in this chapter’s introduction, being
+predominantly a university publication, though not one officially
+connected to or overseen by the university, and having a more general
+intellectual and academic than literary focus. Nevertheless, it provides
+a useful point of comparison. *Force of Circumstance* had been reviewed
+in the magazine’s pages in January 1963 by John Rathmell, Prynne’s
+former coursemate at Jesus; the next month, Prynne contributed a review
+of the American poet Charles Edward Eaton’s collection *Countermoves*
+(1962), following this in March with an article on a recent anthology of
+German poetry in translation.[^222] Despite this apparently auspicious
+start, however, Prynne did not become a regular contributor to the
+magazine: when he was commissioned to review Olson’s *Maximus Poems IV,
+V, VI* (1968) six years later, a book which Prynne had himself had a
+hand in producing, alongside Robert Creeley’s *For Love* (1962), the
+reviews were withdrawn after ‘the Literary Editor allowed himself to be
+casually insulting about the modes involved.’[^223] Describing the
+incident to Peter Riley, Prynne hints at his motives in writing for a
+relatively mainstream academic publication such as the *Review*: ‘They
+\[i.e. the reviews\] were actually written directly at that benighted
+readership, so that now they’re useless: I clearly should never have
+allowed myself to stumble into that maudlin and ignoble dependence, and
+I regret very much having done so.’[^224] Prynne seems to consider *The
+Cambridge Review* as something separate from the broader little magazine
+scene and his reviews for the publication as an educational service for
+‘benighted’ readers not sufficiently clued-up about contemporary poetry.
+In an apparent reference to the informality of little magazine
+publication, Prynne celebrates the fact that ‘\[w\]hatever
+master-servant exploitations persist and exfoliate in the great world,
+we are not at last subject to the patronising imbecilities of
+*editors*’.[^225] Even so, it is clear that he maintains as rigorous a
+critical attitude towards little magazines as he does to other
 publications: in his previous letter to Riley, Prynne describes Andrew
 Crozier’s magazine *The Park* (known as *The Wivenhoe Park Review* from
 1965–68) as ‘a rigidly passé disservice to our current needs’, and the
@@ -2734,9 +2736,8 @@ prose. In fact, fully one third of the magazine’s 42 pages are devoted
 to it, in a broad array of forms that encompasses fiction, review and
 ‘poetic theory’, with Prynne himself contributing one of the key pieces
 and Davie—a figure who, as Chapter 1 showed, was certainly not immune
-from charges of wiseacrey by this point—contributing another.
-
-The potential explanations for this contradiction are twofold: either
+from charges of wiseacrey by this point—contributing another. The
+potential explanations for this contradiction are twofold: either
 Prynne’s original editorial vision for *Prospect* 6 was compromised by
 social or economic forces outside of his control (a hint of these forces
 is given as early as November 1961, when he tells Corman that ‘pressures
@@ -2993,7 +2994,7 @@ This chapter will now move to consider one of Prynne’s longer
 contributions to the *Intelligencer*, ‘A Note on Metal’, to determine
 whether the apparent dissonance between his claims to Riley and his
 actual practice can be more effectively understood. The text will be
-read closely as significant piece of prose in its own right, but will
+read closely as a significant piece of prose in its own right, but will
 also be examined in light of Prynne’s conception of the general role of
 prose in little magazines.
 
@@ -3945,8 +3946,8 @@ poetic-as-historical levels of the text. Only with this final
 acknowledgement of ignorance, both on the part of Prynne and of the
 reader, does the text yield up its real meaning. \newpage
 
-‘The idea of perfection’
-========================
+Chapter 3. ‘The idea of perfection’
+===================================
 
 i. Introduction
 ---------------
@@ -6122,13 +6123,13 @@ transcript.[^508] The excerpt includes a substantial discussion of
 Prynne’s early career, including his relationships with Donald Davie,
 Charles Tomlinson and Cid Corman, and validates many of the judgements
 made on the basis of archival evidence in the present text. Had the
-interview been available earlier, this thesis may have spent less time
+interview been published earlier, this thesis may have spent less time
 on the basic details of Prynne’s early career, but it is hoped that it
-will nevertheless serve as a useful companion text to the full interview
-if it is ever released. While individual observations from the *Paris
-Review* excerpt have been incorporated into this thesis where relevant,
-often as footnotes, no substantial attempt has been made to revise the
-text as a whole. \newpage
+will serve as a useful companion text to the full interview when it
+becomes available. While individual observations from the *Paris Review*
+excerpt have been incorporated into this thesis where relevant, often as
+footnotes, no substantial attempt has been made to revise the text as a
+whole. \newpage
 
 \setlength{\parindent}{0pt}
 
@@ -6409,6 +6410,8 @@ pp. 125–30
 pp. 127–32
 
 ‘A Note on Metal’, in *Poems*, pp. 127–32
+
+‘Out of the shade’, *The Spectator* (19 January 1974), pp. 78–79.
 
 ‘A Pedantic Note in Two Parts’, in *Certain Prose*, 2:4 \[346–351\],
 pp. 124–35
@@ -7381,7 +7384,6 @@ were first published (in whole or in part)](figs/mags.png){#fig:mags}
 \newpage
 ![The argument of ‘A Note on Metal’](figs/anm.png){#fig:anm}
 
-\newpage
 ![Appearances of ‘man’ per 1,000 lines in *Force of Circumstance* (1962)
 and *Poems* (2005)](figs/man.png){#fig:man}
 
@@ -7679,7 +7681,7 @@ and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^46]: Davie, ‘A Reading of His Poems’ (reading, University of
     Cincinnati, 29 March 1963),
-    &lt;http://drc.libraries.uc.edu/bitstream/handle/2374.UC/696768/Elliston\_Donald\_Davie\_03–29–63\_A\_Track\_07.mp3?sequence=15&gt;
+    &lt;http://drc.libraries.uc.edu\slash bitstream\slash handle\slash 2374.UC\slash 696768\slash Elliston\_Donald\_Davie\_03–29–63\_A\_Track\_07.mp3?sequence=15&gt;
     \[accessed 16 December 2014\].
 
 [^47]: Davie, *The Poems of Doctor Zhivago* (Manchester: Manchester
@@ -7914,10 +7916,14 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     turns as ‘brilliant’, ‘shrill’ and ‘tedious’, supports the idea of a
     certain antipathy between the two men.
 
-[^108]: Prynne, ‘The Elegiac World in Victorian Poetry’, *The Listener*
+[^108]: Prynne, ‘The Art of Poetry’, p. 186; Raymond Williams, ‘Our Debt
+    to Dr. Leavis’, *Critical Quarterly*, 1.3 (September 1959),
+    pp. 245–56.
+
+[^109]: Prynne, ‘The Elegiac World in Victorian Poetry’, *The Listener*
     (14 February 1963), 290–91 (p. 290).
 
-[^109]: *Ibid*., pp. 290–91. Prynne here exhibits a style of argument
+[^110]: *Ibid*., pp. 290–91. Prynne here exhibits a style of argument
     which could be described charitably as telegraphic: it is not
     entirely clear, for instance, that the clause preceding ‘since’
     follows logically from that which succeeds it. When considered
@@ -7927,15 +7933,15 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     the poet laureate most famous for his short and relatively
     restrained lyrics.
 
-[^110]: John Stuart Mill, quoted in *ibid*., p. 291; Mill, ‘Tennyson’s
+[^111]: John Stuart Mill, quoted in *ibid*., p. 291; Mill, ‘Tennyson’s
     Poems’, in *The Collected Works of John Stuart Mill, Volume 1 –
     Autobiography and Literary Essays*, ed. by John M. Robson (London:
     Routledge, 2013), 395–418 (p. 399).
 
-[^111]: F.R. Leavis, *New Bearings in English Poetry: A Study of the
+[^112]: F.R. Leavis, *New Bearings in English Poetry: A Study of the
     Contemporary Situation* (London: Chatto & Windus, 1932), p. 12.
 
-[^112]: Prynne, ‘The Elegiac World’, p. 290. Similar points are often
+[^113]: Prynne, ‘The Elegiac World’, p. 290. Similar points are often
     made by Leavis, e.g. the following passage from a discussion of
     *Scrutiny*’s attitude to Marxism: ‘A culture expressing itself in a
     tradition of literature and art \[…\] can be in a healthy state only
@@ -7952,56 +7958,56 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     spoke approvingly in 2014 (Prynne, ‘A Dialogue with Nicholas
     Royle’).
 
-[^113]: Leavis, *New Bearings*, p. 10. The astonishing audacity of this
+[^114]: Leavis, *New Bearings*, p. 10. The astonishing audacity of this
     claim is, again, characteristic of Leavis’s critical work, and finds
     a parallel in the ‘telegraphic’ style attributed to Prynne above.
 
-[^114]: *Ibid*., p. 12.
+[^115]: *Ibid*., p. 12.
 
-[^115]: *Ibid*., p. 15.
+[^116]: *Ibid*., p. 15.
 
-[^116]: Prynne, ‘The Elegiac World’, p. 290.
+[^117]: Prynne, ‘The Elegiac World’, p. 290.
 
-[^117]: *Ibid*., p. 291. Prynne’s position *vis-à-vis* Eliot is made
+[^118]: *Ibid*., p. 291. Prynne’s position *vis-à-vis* Eliot is made
     much clearer in the 1962 letter to the little magazine *Mica* cited
     earlier, in which Eliot’s ‘fundamental error’ is given as his
     tendency to make the poem’s ‘object \[…\] the poet’s anterior
     experience’ rather than ‘the poem’s achieved shape’ (‘from a
     letter’, p. 28).
 
-[^118]: Leavis, *New Bearings*, p. 83.
+[^119]: Leavis, *New Bearings*, p. 83.
 
-[^119]: Prynne, ‘The Elegiac World’, p. 291. The sense of Eliot as
+[^120]: Prynne, ‘The Elegiac World’, p. 291. The sense of Eliot as
     continuing a tradition is reiterated in negative terms in the review
     of the German poetry anthology, in which Prynne claims that ‘only
     Pound can be said to have resisted all the attractions of reversion
     to some aspect of th\[e\] Pre-Raphaelite or Tennysonian ethos’
     (Prynne, ‘“Modernism” in German Poetry’, p. 332).
 
-[^120]: *Ibid*., p. 290.
+[^121]: *Ibid*., p. 290.
 
-[^121]: Clark, ‘Prynne and the Movement’.
+[^122]: Clark, ‘Prynne and the Movement’.
 
-[^122]: James Keery, ‘The Great Tradition’, *PN Review*, 23.6 (1997),
-    &lt;http://www.pnreview.co.uk/cgi-bin/scribe?item\_id=35&gt;
+[^123]: James Keery, ‘The Great Tradition’, *PN Review*, 23.6 (1997),
+    &lt;http://www.pnreview.co.uk\slash cgi-bin\slash scribe?item\_id=35&gt;
     \[accessed 28 November 2014\].
 
-[^123]: According to Davie in his admittedly partisan account, ‘Prynne’s
+[^124]: According to Davie in his admittedly partisan account, ‘Prynne’s
     emphasis is frequently on patience, on lowering the sights, settling
     for limited objectives’ (*Thomas Hardy and British Poetry*, p. 113).
 
-[^124]: Prynne, ‘Force of Circumstance’, in *Force of Circumstance and
+[^125]: Prynne, ‘Force of Circumstance’, in *Force of Circumstance and
     Other Poems* (London: Routledge & Kegan Paul, 1962), p. 1. This
     reticent relation between subject and object is similar to what
     Davie sees in Pound as the rejection of ‘an imperious, appropriating
     attitude towards the perceived world’ (Davie, *Ezra Pound: Poet as
     Sculptor*, p. 173).
 
-[^125]: Aristotle, *On Interpretation*, trans. by E.M. Edghill, in *The
+[^126]: Aristotle, *On Interpretation*, trans. by E.M. Edghill, in *The
     Works of Aristotle*, vol. 1, ed. by W.D. Ross (Oxford: Oxford
     University Press, 1928), 19a25.
 
-[^126]: Introducing ‘The Corn Burned by Sirius’ during a 1971 reading in
+[^127]: Introducing ‘The Corn Burned by Sirius’ during a 1971 reading in
     Vancouver, Prynne explained that the poem ‘is borrowed in every
     sense but the literal from a book which I have really had in my mind
     for years now, the *Consolation of Philosophy* by Boethius’ (Prynne,
@@ -8010,18 +8016,18 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     &lt;http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762&gt;
     \[accessed 17 December 2014\]).
 
-[^127]: For Clive Bell, a key participant, Bloomsbury was firmly in the
+[^128]: For Clive Bell, a key participant, Bloomsbury was firmly in the
     past tense as early as 1954 (Clive Bell, ‘What was “Bloomsbury”?’,
     *Twentieth Century* \[February 1954\], pp. 153–60); Prynne to Olson,
     4 November 1961; Prynne to Olson, 26 November 1961.
 
-[^128]: Prynne to Dorn, 9 July 1962. That the Bloomsbury Set was
+[^129]: Prynne to Dorn, 9 July 1962. That the Bloomsbury Set was
     self-evidently *not* ‘in the saddle’ in 1961, many of its key
     members being long-dead, supports the idea that this was a judgement
     adopted wholesale from Leavis rather than Prynne’s own considered
     view of the contemporary situation.
 
-[^129]: Leavis, ‘Keynes, Spender and Currency-Values’, in *A Selection
+[^130]: Leavis, ‘Keynes, Spender and Currency-Values’, in *A Selection
     from ‘Scrutiny’*, vol. 1, 185–96 (p. 195); Prynne to Riley, 21 May
     1967. This position is also reflective of the more general,
     anti-personal attitude expressed by Davie in his poem to Tomlinson,
@@ -8033,10 +8039,10 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     imagination, with precisely the sort of intellectual coterie
     arrangements that they set out to criticise.
 
-[^130]: Q.D. Leavis, ‘The Background of Twentieth Century Letters’, in
+[^131]: Q.D. Leavis, ‘The Background of Twentieth Century Letters’, in
     *A Selection from ‘Scrutiny’*, vol. 1, 162–66 \[p. 165\].
 
-[^131]: Prynne to Riley, 24 April 1967; Prynne to Riley, 16 March 1969.
+[^132]: Prynne to Riley, 24 April 1967; Prynne to Riley, 16 March 1969.
     The surface-level meaning of ‘camp’ in ‘camp followers’ is
     ‘encampment’, but it would be implausible to claim that the
     phonologically and semantically attentive Prynne is unaware of its
@@ -8044,25 +8050,25 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     carries sexual connotations, referring to wives and prostitutes
     travelling with an army.
 
-[^132]: Leavis, *Mass Civilisation and Minority Culture* (Cambridge: The
+[^133]: Leavis, *Mass Civilisation and Minority Culture* (Cambridge: The
     Minority Press, 1930), pp. 14–15.
 
-[^133]: Prynne to Dorn, 23 April 1963.
+[^134]: Prynne to Dorn, 23 April 1963.
 
-[^134]: Prynne to Diana Athill, 17 November 1964. Later in the letter,
+[^135]: Prynne to Diana Athill, 17 November 1964. Later in the letter,
     Prynne takes a swipe at C.P. Snow, a quintessentially Leavisian
     move.
 
-[^135]: Prynne, ‘from a letter’, p. 28.
+[^136]: Prynne, ‘from a letter’, p. 28.
 
-[^136]: Prynne, ‘Resistance and Difficulty’, *Prospect*, 5 (Winter
+[^137]: Prynne, ‘Resistance and Difficulty’, *Prospect*, 5 (Winter
     1961), pp. 26–30; editorial note, *Prospect*, 6 (Spring 1964),
     \[p. 45\]. For discussion of both *Prospect* and ‘Resistance and
     Difficulty’, see Chapter 2.
 
-[^137]: Prynne to Olson, 8 January 1962.
+[^138]: Prynne to Olson, 8 January 1962.
 
-[^138]: Prynne, ‘Die a Millionaire’, in *Poems*, pp. 13–16. In the lines
+[^139]: Prynne, ‘Die a Millionaire’, in *Poems*, pp. 13–16. In the lines
     preceding the latter quote, Prynne writes about ‘the industrial
     north’:
 
@@ -8078,13 +8084,13 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     exceptions’ is a pointed reference to Leavis, famously Lawrence’s
     foremost champion.
 
-[^139]: Sutherland, ‘J.H. Prynne and Philology’, pp. 169–70.
+[^140]: Sutherland, ‘J.H. Prynne and Philology’, pp. 169–70.
 
-[^140]: Prynne to Riley, 13 September 1967.
+[^141]: Prynne to Riley, 13 September 1967.
 
-[^141]: Prynne to Riley, 13 June 1967.
+[^142]: Prynne to Riley, 13 June 1967.
 
-[^142]: Michael Rustin, ‘Revisiting the *May Day Manifesto* of 1967–68’,
+[^143]: Michael Rustin, ‘Revisiting the *May Day Manifesto* of 1967–68’,
     in *May Day Manifesto 1967–68*, ed. by Raymond Williams (London:
     Lawrence & Wishart, 2013), vi–xxi (p. vi). In his *Paris Review*
     interview, Prynne describes how he ‘objected to Raymond Williams’s
@@ -8096,12 +8102,9 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     as that of ‘a peculiar and extraneous Marxist, in some sense of that
     word’ (Prynne, ‘The Art of Poetry’, p. 186).
 
-[^143]: *May Day Manifesto*, p. 47.
+[^144]: *May Day Manifesto*, p. 47.
 
-[^144]: *Ibid*., p. 50.
-
-[^145]: Raymond Williams, ‘Our Debt to Dr. Leavis’, *Critical
-    Quarterly*, 1.3 (September 1959), pp. 245–56.
+[^145]: *Ibid*., p. 50.
 
 [^146]: Andrew Chitty, ‘The Early Marx on Needs’, *Radical Philosophy*,
     64 (Summer 1993), 23–31 (p. 23).
@@ -8223,11 +8226,11 @@ and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^178]: ‘Securing a Sustainable Future for Higher Education’ (12 October
     2010),
-    &lt;https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10–1208-securing-sustainable-higher-education-browne-report.pdf&gt;
+    &lt;https://www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31999\slash 10–1208-securing-sustainable-higher-education-browne-report.pdf&gt;
     \[accessed 3 March 2014\]; ‘Higher Education: Students at the Heart
     of the System’, *Department for Business, Innovation & Skills* (June
     2011),
-    &lt;https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31384/11–944-higher-education-students-at-heart-of-system.pdf&gt;
+    &lt;https://www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31384/11–944-higher-education-students-at-heart-of-system.pdf&gt;
     \[accessed 3 March 2014\].
 
 [^179]: Prynne, contribution to a discussion in the Senate House,
@@ -8264,7 +8267,7 @@ and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^184]: Prynne, ‘Tips on Reading, for Students of English’, *Gonville
     and Caius College*,
-    &lt;http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf&gt;
+    &lt;http://babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash reading.pdf&gt;
     \[accessed 23 September 2014\], p. 14. The model of ‘being human’
     evinced here is, of course, fundamentally reproductive and
     consequently has strongly heteronormative implications. Prynne does
@@ -8297,9 +8300,10 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     qualification that ‘perhaps this is unfair’, but does not explain in
     what way.
 
-[^192]: This is not to say that this principle *never* wavered; outlying
-    examples such as a 1974 review written for *The Spectator* will be
-    discussed further on in this thesis.
+[^192]: This is not to say that this principle *never* wavered; there
+    are outlying examples such as a 1974 review written for *The
+    Spectator* (Prynne, ‘Out of the shade’, *The Spectator* \[19 January
+    1974\], pp. 78–79).
 
 [^193]: Thomas Mallon, ‘The Underreachers’, *Contemporary Literature*,
     22.2 (Spring 1981), 243–47 (p. 246).

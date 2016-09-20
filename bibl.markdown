@@ -260,6 +260,8 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 
 'A Note on Metal', in *Poems*, pp. 127--32
 
+'Out of the shade', *The Spectator* (19 January 1974), pp. 78--79.
+
 'A Pedantic Note in Two Parts', in *Certain Prose*, 2:4 [346--351], pp. 124--35
 
 'Perspective from a Chalk Pit', *Mica*, 2 (February 1961), p. 23

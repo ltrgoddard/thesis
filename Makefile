@@ -2,8 +2,9 @@ phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown
 	cat fron.markdown intr.markdown chap1.markdown chap2.markdown chap3.markdown conc.markdown post.markdown bibl.markdown figs.markdown | \
 	pandoc -S -t markdown | \
 	sed -e 's/\xe2\x80\x98s/\xe2\x80\x99s/g' | \
-	sed -e 's/ \xe2\x80\x99s/ \xe2\x80\x98s/g' | \
+	#sed -e 's/ \xe2\x80\x99s/ \xe2\x80\x98s/g' | \
 	sed -e 's/\xe2\x80\x94\xe2\x80\x99s/\xe2\x80\x94\xe2\x80\x98s/g' | \
+	sed -e 's/\[\xe2\x80\x99s/\[\xe2\x80\x98s/g' | \
 	sed -e 's/ \xe2\x80\x99/ \xe2\x80\x98/g' | \
 	sed -e 's/ \xe2\x80\x982/ \xe2\x80\x992/g' | \
 	sed -e 's/ \xe2\x80\x983/ \xe2\x80\x993/g' | \

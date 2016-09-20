@@ -1,5 +1,7 @@
 # To do
 
+* Fix quotation marks: 'shapeliness', p. 36; 'mid', p. 40; 'No intention', p. 59; 'special characteristics', p. 60; 'servo-mechanisms', p. 67; 'substance', p. 73; 'spiritual transfer', p. 77    
+
 * Fix badly wrapped URLs
 * Add material from interview
 * Correct figures
