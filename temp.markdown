@@ -6034,7 +6034,7 @@ statistics. Figure @fig:man shows the results of analysing concatenated
 scanned texts of *Force of Circumstance* and the 2005 edition of *Poems*
 according to a very crude approximation of androcentricity: appearances
 of the word ‘man’—used either as a singular noun or to refer to
-‘mankind’—per 1,000 lines. A clear trend is visible, consisting of a
+‘mankind’—per 1,000 lines. A clear pattern is visible, consisting of a
 spike around the beginning of *The White Stones* (l. 1,800) and a steady
 drop-off thereafter.[^500] For reference, the chronological scope of
 this thesis terminates with *High Pink on Chrome* (1975) at around l.
@@ -6133,9 +6133,9 @@ Archival material
 -----------------
 
 \singlespacing Due to the large number of letters cited from some boxes,
-archival materials are listed in chronological order, with folder and/or
-envelope numbers where necessary, under subheadings indicating the
-collection, series and box in which they may be found.
+archival materials are listed in chronological order, with folder
+and\slash or envelope numbers where necessary, under subheadings
+indicating the collection, series and box in which they may be found.
 
 ### Thomas J. Dodd Research Center, University of Connecticut
 
@@ -6304,8 +6304,8 @@ pp. 64–66
 2014)
 
 Contribution to a discussion in the Senate House, *Cambridge University
-Reporter*, 141.15 (2011),\
-&lt;http://www.admin.cam.ac.uk/reporter/2010–11/weekly/6211/section13.shtml&gt;
+Reporter*, 141.15 (2011),
+&lt;http:\slash \slash www.admin.cam.ac.uk\slash reporter\slash 2010–11\slash weekly\slash 6211\slash section13.shtml&gt;
 \[accessed 26 February 2014\]
 
 ‘Damp’, *Mica*, 2 (February 1961), p. 22
@@ -6417,16 +6417,16 @@ pp. 124–35
 ‘The *Plant Time Manifold* Transcripts’, in *Poems* (2015), pp. 233–42
 
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the
-Now*\
-&lt;http://www.archiveofthenow.org/authors/?i=77&f=1762\#1762&gt;
+Now*
+&lt;http:\slash \slash www.archiveofthenow.org\slash authors\slash ?i=77&f=1762\#1762&gt;
 \[accessed 17 December 2014\]
 
 ‘The Poet’s Imaginary’, *Chicago Review*, 58.1 (Summer 2013), pp. 89–105
 
 ‘In Praise’, *Satis*, 5 (Spring–Summer 1962), pp. 14–15
 
-‘Reading Pound: Background’, *Gonville and Caius College*,\
-&lt;http://babylon.acad.cai.cam.ac.uk/students/study/english/pound/pound0.pdf&gt;
+‘Reading Pound: Background’, *Gonville and Caius College*,
+&lt;http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash pound\slash pound0.pdf&gt;
 \[accessed 8 January 2016\]
 
 ‘Resistance and Difficulty’, *Prospect*, 5 (Winter 1961), pp. 26–30
@@ -6444,8 +6444,8 @@ Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)
 p. 14
 
 ‘Tips on Reading, for Students of English’, *Gonville and Caius
-College*,\
-&lt;http://babylon.acad.cai.cam.ac.uk/students/study/english/tips/reading.pdf&gt;
+College*,
+&lt;http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash reading.pdf&gt;
 \[accessed 23 September 2014\], p. 14
 
 ‘Tomorrow is Fade Out Night’, *Prospect*, 6 (Spring 1964), pp. 41–43
@@ -6475,13 +6475,14 @@ Amis, Kingsley, *Lucky Jim* (London: Victor Gollancz, 1957)
 Anderson, Perry, ‘Components of the National Culture’, *New Left
 Review*, 1.50 (1968), pp. 3–57
 
-‘anecdote, *n*.’, *OED Online* (Oxford University Press, 2016),\
-&lt;http://www.oed.com/view/Entry/7367&gt; \[accessed 29 June 2016\]
+‘anecdote, *n*.’, *OED Online* (Oxford University Press, 2016),
+&lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 7367&gt;
+\[accessed 29 June 2016\]
 
 Arblaster, Anthony, ‘Edward Upward and the Novel of Politics’ (1978),
-*Edward Upward*,\
-&lt;http://www.edwardupward.info/pdfs/Arblaster.pdf&gt; \[accessed 5 May
-2015\]
+*Edward Upward*,
+&lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash Arblaster.pdf&gt;
+\[accessed 5 May 2015\]
 
 Aristotle, *On Interpretation*, trans. by E.M. Edghill, in *The Works of
 Aristotle*, vol. 1, ed. by W.D. Ross (Oxford: Oxford University Press,
@@ -6528,15 +6529,15 @@ Brannigan, John, *Archipelagic Modernism: Literature in the Irish and
 British Isles, 1890–1970* (Edinburgh: Edinburgh University Press, 2015)
 
 Bruns, Gerald, ‘Dialectrics; or, Turmoil & Contradiction: A Reading of
-J. H. Prynne’s *Kazoo Dreamboats*’, *Chicago Review*, 57.3/4 (Winter
-2013), pp. 54–70
+J. H. Prynne’s *Kazoo Dreamboats*’, *Chicago Review*, 57.3\slash 4
+(Winter 2013), pp. 54–70
 
 Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne*
 (Bristol: Shearsman, 2009)
 
-—, ‘Prynne in Prospect’, *academia.edu*,\
-&lt;https://www.academia.edu/6185230/Prynne\_in\_Prospect&gt; \[accessed
-21 January 2015\]
+—, ‘Prynne in Prospect’, *academia.edu*,
+&lt;https:\slash \slash www.academia.edu\slash 6185230\slash Prynne\_in\_Prospect&gt;
+\[accessed 21 January 2015\]
 
 Brooker, Peter and Andrew Thacker, eds., *The Oxford Critical and
 Cultural History of Modernist Magazines, Volume II: North America
@@ -6567,8 +6568,8 @@ Campbell-Johnston, Rachel, ‘The Difficult Matter; A Reading of the
 Poetry of J.H. Prynne’ (unpublished doctoral thesis, University of
 Edinburgh, 1994)
 
-Carmody, Tim, ‘Paper Modernism’, *Snarkmarket* (9 August 2009),\
-&lt;http://snarkmarket.com/blog/snarkives/selfdisclosure/paper\_modernism/&gt;
+Carmody, Tim, ‘Paper Modernism’, *Snarkmarket* (9 August 2009),
+&lt;http:\slash \slash snarkmarket.com\slash blog\slash snarkives\slash selfdisclosure\slash paper\_modernism\slash &gt;
 \[accessed 29 January 2015\]
 
 ‘Certain Matters’, in *Certain Prose of the English Intelligencer*, ed.
@@ -6590,9 +6591,9 @@ Chitty, Andrew, ‘The Early Marx on Needs’, *Radical Philosophy*, 64
 Clark, Gregory, *A Farewell to Alms: A Brief Economic History of the
 World* (Princeton, NJ: Princeton University Press, 2007), p. 286
 
-Clark, Steve, ‘Prynne and the Movement’, *Jacket*, 24 (November 2003),\
-&lt;http://jacketmagazine.com/24/clark-s.html&gt; \[accessed 27 November
-2014\]
+Clark, Steve, ‘Prynne and the Movement’, *Jacket*, 24 (November 2003),
+&lt;http:\slash \slash jacketmagazine.com\slash 24\slash clark-s.html&gt;
+\[accessed 27 November 2014\]
 
 Conquest, Robert, *New Lines: An Anthology* (London: Macmillan, 1956)
 
@@ -6609,8 +6610,8 @@ The Ronald Press Company, 1960)
 —, *A Third World* (Brighton: Sussex University Press, 1971), p. 39
 
 Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin \[*sic*\]: J.
-Moore, 1796),\
-&lt;https://archive.org/details/botanicgardenpoe02darwuoft&gt;
+Moore, 1796),
+&lt;https:\slash \slash archive.org\slash details\slash botanicgardenpoe02darwuoft&gt;
 \[accessed 13 June 2016\]
 
 Davie, Donald, ‘Academicism and Jonathan Swift’, *Twentieth Century*
@@ -6646,8 +6647,8 @@ Press, 1965)
 —, *Purity of Diction in English Verse* (London: Chatto & Windus, 1952)
 
 —, ‘A Reading of His Poems’ (reading, University of Cincinnati, 29 March
-1963),\
-&lt;http://drc.libraries.uc.edu/bitstream/handle/2374.UC/696768/Elliston\_Donald\_Davie\_03–29–63\_A\_Track\_07.mp3?sequence=15&gt;
+1963),
+&lt;http:\slash \slash drc.libraries.uc.edu\slash bitstream\slash handle\slash 2374.UC\slash 696768\slash Elliston\_Donald\_Davie\_03–29–63\_A\_Track\_07.mp3?sequence=15&gt;
 \[accessed 16 December 2014\]
 
 —, ‘Remembering the Movement’, in *The Poet in the Imaginary Museum:
@@ -6724,12 +6725,13 @@ Fuller, Roy, ‘The Osmotic Sap’, *Times Literary Supplement* (6 May
 Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric
 Culture*, 3rd ed. (New York: Charlton Company, 1914).
 
-‘glossy, adj.’, *OED Online* (Oxford University Press, 2014),\
-&lt;http://www.oed.com/view/Entry/79186&gt; \[accessed 14 May 2014\]
+‘glossy, adj.’, *OED Online* (Oxford University Press, 2014),
+&lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 79186&gt;
+\[accessed 14 May 2014\]
 
 Goddard, Louis, ‘Migration Patterns: Two Little Magazines of 1960–1962’,
-*Textual Practice*,\
-&lt;http://www.tandfonline.com/doi/full/10.1080/0950236X.2016.1188143&gt;
+*Textual Practice*,
+&lt;http:\slash \slash www.tandfonline.com\slash doi\slash full\slash 10.1080\slash 0950236X.2016.1188143&gt;
 \[accessed 11 July 2014\]
 
 —, ‘National and Private Identity in the Prose of J.H. Prynne’
@@ -6738,15 +6740,16 @@ Goddard, Louis, ‘Migration Patterns: Two Little Magazines of 1960–1962’,
 —, ‘Not spooked’, *Times Literary Supplement* (11 December 2015), p. 17
 
 Gombrich, Richard F., ‘British Higher Education Policy in the last
-Twenty Years: The Murder of a Profession’ (January 2000),\
-&lt;http://www.atm.damtp.cam.ac.uk/mcintyre/papers/LHCE/uk-higher-education.html&gt;
+Twenty Years: The Murder of a Profession’ (January 2000),
+&lt;http:\slash \slash www.atm.damtp.cam.ac.uk\slash mcintyre\slash papers\slash LHCE\slash uk-higher-education.html&gt;
 \[accessed 24 October 2014\]
 
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines
 in Great Britain, 1939–1993* (Salzburg: University of Salzburg, 1993)
 
-Gye, Hugo, ‘Hammond to keep job’, *Varsity* (6 November 2008),\
-&lt;http://www.varsity.co.uk/news/1077&gt; \[accessed 15 October 2015\]
+Gye, Hugo, ‘Hammond to keep job’, *Varsity* (6 November 2008),
+&lt;http:\slash \slash www.varsity.co.uk\slash news\slash 1077&gt;
+\[accessed 15 October 2015\]
 
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle
 upon Tyne: Cambridge Scholars Publishing, 2014)
@@ -6755,8 +6758,8 @@ Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard
 University Press, 2000), pp. 388–89
 
 Harman, Graham, ‘Meillassoux’s arche-fossil is not an “argument”’,
-*Object-Oriented Philosophy* (6 March 2014),\
-&lt;https://doctorzamalek2.wordpress.com/2014/03/06/meillassouxs-archefossil-is-not-an-argument/&gt;
+*Object-Oriented Philosophy* (6 March 2014),
+&lt;https:\slash \slash doctorzamalek2.wordpress.com\slash 2014\slash 03\slash 06\slash meillassouxs-archefossil-is-not-an-argument\slash &gt;
 \[accessed 12 June 2015\]
 
 Hegel, G.W.F., *Lectures on the History of Philosophy: Medieval and
@@ -6770,8 +6773,8 @@ Edward Robinson (Oxford: Basil Blackwell, 1962)
 by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145–161
 
 ‘Higher Education: Students at the Heart of the System’, *Department for
-Business, Innovation & Skills* (June 2011),\
-&lt;https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31384/11–944-higher-education-students-at-heart-of-system.pdf&gt;
+Business, Innovation & Skills* (June 2011),
+&lt;https:\slash \slash www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31384\slash 11–944-higher-education-students-at-heart-of-system.pdf&gt;
 \[accessed 3 March 2014\]
 
 Hilliard, Christopher, *English as a Vocation: The ‘Scrutiny’ Movement*
@@ -6813,13 +6816,13 @@ Years”’, *Parataxis*, 1 (1991), pp. 69–86
 
 —, ‘Why rhyme pleases’, *Thinking Verse*, 1 (2011), pp. 17–43
 
-‘J.H. Prynne’, *The Poetry Foundation*,\
-&lt;http://www.poetryfoundation.org/bio/jh-prynne&gt; \[accessed 15
-December 2014\]
+‘J.H. Prynne’, *The Poetry Foundation*,
+&lt;http:\slash \slash www.poetryfoundation.org\slash bio\slash jh-prynne&gt;
+\[accessed 15 December 2014\]
 
 ‘J. H. Prynne’, *Wikipedia, The Free Encyclopedia*, 3 July 2014, 07:56
-UTC,\
-&lt;http://en.wikipedia.org/w/index.php?title=J.\_H.\_Prynne&oldid=615398780&gt;
+UTC,
+&lt;http:\slash \slash en.wikipedia.org\slash w\slash index.php?title=J.\_H.\_Prynne&oldid=615398780&gt;
 \[accessed 15 December 2014\]
 
 Johansson, Birgitta, *The Engineering of Being: An Ontological Approach
@@ -6830,9 +6833,9 @@ doctoral thesis, University of Cambridge, 2013)
 Jones, Frederick L., ed., *The Letters of Percy Bysshe Shelley*, vol. 2
 (Oxford: The Clarendon Press, 1964)
 
-Keery, James, ‘The Great Tradition’, *PN Review*, 23.6 (1997),\
-&lt;http://www.pnreview.co.uk/cgi-bin/scribe?item\_id=35&gt; \[accessed
-28 November 2014\]
+Keery, James, ‘The Great Tradition’, *PN Review*, 23.6 (1997),
+&lt;http:\slash \slash www.pnreview.co.uk\slash cgi-bin\slash scribe?item\_id=35&gt;
+\[accessed 28 November 2014\]
 
 Kenner, Hugh, ‘Wyndham Lewis: The Satirist as Barbarian’, *The Yearbook
 of English Studies*, 14 (1984), pp. 264–75
@@ -6867,8 +6870,8 @@ University of London, 2013)
 2015)
 
 —, ‘“Scheming for the possible world”: J.H. Prynne’s *The White Stones*
-and *The English Intelligencer*’, *Intercapillary Space*,\
-&lt;http://intercapillaryspace.blogspot.co.uk/2010/04/scheming-for-possible-world-j.html&gt;
+and *The English Intelligencer*’, *Intercapillary Space*,
+&lt;http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2010\slash 04\slash scheming-for-possible-world-j.html&gt;
 \[accessed 10 October 2013\] (para. 2)
 
 Leader, Zachary, ‘Introduction: Origins and Ambivalences’, in *The
@@ -6877,8 +6880,9 @@ Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1–15
 
 —, *The Life of Kingsley Amis* (London: Random House, 2013), p. 284
 
-‘leading edge, *n*.’, *OED Online* (Oxford University Press, 2016),\
-&lt;http://www.oed.com/view/Entry/106611&gt; \[accessed 1 March 2016\]
+‘leading edge, *n*.’, *OED Online* (Oxford University Press, 2016),
+&lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 106611&gt;
+\[accessed 1 March 2016\]
 
 Leavis, F.R., ‘Keynes, Spender and Currency-Values’, in *A Selection
 from ‘Scrutiny’*, ed. by Leavis (Cambridge: Cambridge University Press,
@@ -6985,7 +6989,7 @@ Italy and the United States, c. 1958–c. 1974* (Oxford: Oxford University
 Press, 1998), p. 7
 
 Marx, Karl, *Capital*, 3rd vol., ed. by Friedrich Engels, in
-*Marx/Engels Collected Works*, 37th vol. (New York: International
+*Marx\slash Engels Collected Works*, 37th vol. (New York: International
 Publishers, 1998)
 
 —, ‘Comments on James Mill, *Éléments d’économie politique*’, trans. by
@@ -7015,8 +7019,8 @@ Meillassoux, Quentin, *After Finitude*, trans. by Ray Brassier (London:
 Continuum, 2008)
 
 —, ‘Time without Becoming’, conference paper presented at Middlesex
-University (8 May 2008),\
-&lt;https://speculativeheresy.files.wordpress.com/2008/07/3729-time\_without\_becoming.pdf&gt;
+University (8 May 2008),
+&lt;https:\slash \slash speculativeheresy.files.wordpress.com\slash 2008\slash 07\slash 3729-time\_without\_becoming.pdf&gt;
 \[accessed 12 June 2015\]
 
 Mellors, Anthony, *Late Modernist Poetics: From Pound to Prynne*
@@ -7041,8 +7045,9 @@ Milne, Drew, ‘The Art of Wit and the Cambridge Science Park’, in
 *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford
 (Oxford: Oxford University Press, 2006), pp. 170–87
 
-*Modernist Magazines Project*,\
-&lt;http://www.modernistmagazines.com/&gt; \[accessed 15 January 2015\]
+*Modernist Magazines Project*,
+&lt;http:\slash \slash www.modernistmagazines.com\slash &gt; \[accessed
+15 January 2015\]
 
 Moody, A. David, *Ezra Pound: Poet: A Portrait of the Man and His Work*,
 3 vols (Oxford: Oxford University Press, 2009–2015)
@@ -7053,8 +7058,9 @@ College, 1970)
 Morrison, Blake, *The Movement: English Poetry and Fiction of the 1950s*
 (Oxford: Oxford University Press, 1980)
 
-‘motive, *n*.’, *OED Online* (Oxford University Press, 2015),\
-&lt;http://www.oed.com/view/Entry/122712&gt; \[accessed 18 March 2015\]
+‘motive, *n*.’, *OED Online* (Oxford University Press, 2015),
+&lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 122712&gt;
+\[accessed 18 March 2015\]
 
 Mottram, Eric, ‘The British Poetry Revival 1960–1975’, in *New British
 Poetries: The Scope of the Possible*, ed. by Robert Hampson and Peter
@@ -7070,9 +7076,9 @@ Mulhern, Francis, *The Moment of ‘Scrutiny’* (London: New Left Books,
 Murdoch, Iris, ‘The Idea of Perfection’, *Yale Review*, 53.3 (Spring
 1964), pp. 342–80
 
-Nealon, Chris, ‘The Prynne Reflex’, *The Claudius App*, 4 (2013),\
-&lt;http://theclaudiusapp.com/4-nealon.html&gt; \[accessed 10 October
-2013\]
+Nealon, Chris, ‘The Prynne Reflex’, *The Claudius App*, 4 (2013),
+&lt;http:\slash \slash theclaudiusapp.com\slash 4-nealon.html&gt;
+\[accessed 10 October 2013\]
 
 Needham, Joseph, ‘Chemical Heterogony and the Ground-Plan of Animal
 Growth’, *Biological Reviews*, 9.1 (January 1934), pp. 79–109
@@ -7082,8 +7088,8 @@ University Press, 2011)
 
 Noel-Tod, Jeremy, ‘Prynne, J. H. (Jeremy Halvard)’, in *The Oxford
 Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod
-(Oxford: Oxford University Press),\
-&lt;http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-961&gt;
+(Oxford: Oxford University Press),
+&lt;http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-961&gt;
 \[accessed 15 December 2014\]
 
 Notices, in *Certain Prose*, 1:11 \[173\], pp. 24–25
@@ -7095,8 +7101,9 @@ Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century
 France: From ‘Nuances’ to ‘Impertinence’* (Oxford: Oxford University
 Press, 2000)
 
-‘nympholepsy, n.’, *OED Online* (Oxford University Press, 2015),\
-&lt;http://www.oed.com/view/Entry/129422&gt; \[accessed 28 April 2015\]
+‘nympholepsy, n.’, *OED Online* (Oxford University Press, 2015),
+&lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 129422&gt;
+\[accessed 28 April 2015\]
 
 Oliver, Douglas, *The Harmless Building* (London: Ferry Press and
 Grosseteste Review Books, 1973)
@@ -7104,8 +7111,8 @@ Grosseteste Review Books, 1973)
 —, *Three Variations on the Theme of Harm* (London: Paladin, 1990)
 
 Ollard, Elizabeth, ‘The British Academy 1902–2002: Support for
-Research’, *British Academy*,\
-&lt;http://www.britac.ac.uk/pubs/src/ba-history/research.cfm&gt;
+Research’, *British Academy*,
+&lt;http:\slash \slash www.britac.ac.uk\slash pubs\slash src\slash ba-history\slash research.cfm&gt;
 \[accessed 24 October 2014\]
 
 Olson, Charles, ‘The Distances’, in *The Collected Poems of Charles
@@ -7120,9 +7127,11 @@ Press, 1997), pp. 250–52
 
 —, ‘Projective Verse’, in *Collected Prose*, pp. 239–49
 
-—, *The Maximus Poems / 1–10* (Highlands, NC: Jargon Society, 1953)
+—, *The Maximus Poems \slash  1–10* (Highlands, NC: Jargon Society,
+1953)
 
-—, *The Maximus Poems / 11–22* (Highlands, NC: Jargon Society, 1956)
+—, *The Maximus Poems \slash  11–22* (Highlands, NC: Jargon Society,
+1956)
 
 —, ‘Maximus to Gloucester’, *Prospect*, 1 (Summer 1959), pp. 19–20
 
@@ -7141,9 +7150,9 @@ about reading J.H. Prynne’, in *Poets on Writing, pp. 1970–1991*
 Pattison, Reitha, ‘J.H. Prynne’s “The Corn Burned By Syrius”’,
 *Glossator*, 2 (2010), pp. 89–114
 
-‘Papers Relating to “Players of Shakespeare”’, *Archives Hub*,\
-&lt;http://archiveshub.ac.uk/data/gb2188-dsh04&gt; \[accessed 16
-November 2014\]
+‘Papers Relating to “Players of Shakespeare”’, *Archives Hub*,
+&lt;http:\slash \slash archiveshub.ac.uk\slash data\slash gb2188-dsh04&gt;
+\[accessed 16 November 2014\]
 
 Pound, Ezra, ‘Cavalcanti’, in *Literary Essays of Ezra Pound*, ed. by
 T.S. Eliot (London: Faber and Faber, 1954), pp. 149–200
@@ -7165,9 +7174,9 @@ Co., 1912)
 1996), pp. 229–30
 
 Powell, Neil, ‘Davie, Donald Alfred (1922–1995)’, *Oxford Dictionary of
-National Biography* (Oxford: Oxford University Press, 2004),\
-&lt;http://www.oxforddnb.com/view/article/60078&gt; \[accessed 6
-November 2014\]
+National Biography* (Oxford: Oxford University Press, 2004),
+&lt;http:\slash \slash www.oxforddnb.com\slash view\slash article\slash 60078&gt;
+\[accessed 6 November 2014\]
 
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second
 World War* (Oxford: Oxford University Press, 1963)
@@ -7176,8 +7185,8 @@ Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces,
 Romantic Times* (London: Routledge, 2016)
 
 Pritchett, Ben and Decca Muldowney, ‘Student activism then and now: an
-interview with Ian Patterson’, *The Great Unrest*, (13 January 2011),\
-&lt;http://thegreatunrest.wordpress.com/2011/01/13/ian-patterson-interview/&gt;
+interview with Ian Patterson’, *The Great Unrest*, (13 January 2011),
+&lt;http:\slash \slash thegreatunrest.wordpress.com\slash 2011\slash 01\slash 13\slash ian-patterson-interview\slash &gt;
 \[accessed 15 December 2014\]
 
 ‘Prynne, J.H.’, in *The Concise Oxford Companion to English Literature*,
@@ -7186,8 +7195,8 @@ Press, 2012), p. 574
 
 ‘Prynne, J. H. (Jeremy Halvard)’, in *The Oxford Companion to English
 Literature*, 7th edn, ed. by Dinah Birch (Oxford: Oxford University
-Press, 2009),\
-&lt;http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-9225&gt;
+Press, 2009),
+&lt;http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780192806871.001.0001\slash acref-9780192806871-e-9225&gt;
 \[accessed 15 December 2014\]
 
 Prynne, J.H. and Keston Sutherland, ‘Introduction to Prynne’s Poems in
@@ -7253,8 +7262,8 @@ Schedule, *Radio Times* (13 December 1962), p. 13
 Schmidt, Michael, ‘Elaine Feinstein in Conversation’, *PN Review*, 24.2
 (December 1997), pp. 36–41
 
-‘Securing a Sustainable Future for Higher Education’ (12 October 2010),\
-&lt;https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/31999/10–1208-securing-sustainable-higher-education-browne-report.pdf&gt;
+‘Securing a Sustainable Future for Higher Education’ (12 October 2010),
+&lt;https:\slash \slash www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31999\slash 10–1208-securing-sustainable-higher-education-browne-report.pdf&gt;
 \[accessed 3 March 2014\]
 
 Sheldrake, Rupert, *A New Science of Life: The Hypothesis of Formative
@@ -7273,8 +7282,8 @@ Martinus Nijhoff, 1959)
 Stansky, Peter, *Edward Upward: Art and Life* (London: Enitharmon, 2016)
 
 Steele, Laura, ‘Comedy and the Conceptual in Douglas Oliver’s *The
-Harmless Building*’, *Intercapillary Space* (September 2006),\
-&lt;http://intercapillaryspace.blogspot.co.uk/2006/09/comedy-and-conceptual-in- douglas.html&gt;
+Harmless Building*’, *Intercapillary Space* (September 2006),
+&lt;http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2006\slash 09\slash comedy-and-conceptual-in- douglas.html&gt;
 \[accessed 27 April 2015\]
 
 Stevens, Wallace, ‘Prologues to What is Possible’, *The Hudson Review*,
@@ -7293,13 +7302,13 @@ between Prynne and Hegel’, in *Hix Eros: On the Late Poetry of J.H.
 Prynne*, pp. 123–141
 
 Thatcher, Margaret, ‘Speech at Lord Mayor’s Banquet’, *Margaret Thatcher
-Foundation* (10 November 1986),\
-&lt;http://www.margaretthatcher.org/document/106512&gt; \[accessed 24
-October 2014\]
+Foundation* (10 November 1986),
+&lt;http:\slash \slash www.margaretthatcher.org\slash document\slash 106512&gt;
+\[accessed 24 October 2014\]
 
 Tomlinson, Charles, ‘The Art of Poetry No. 78’, interviewed by Willard
-Spiegelman, *The Paris Review*, 149 (Winter 1998),\
-&lt;http://www.theparisreview.org/interviews/1033/the-art-of-poetry-no-78-charles-tomlinson&gt;
+Spiegelman, *The Paris Review*, 149 (Winter 1998),
+&lt;http:\slash \slash www.theparisreview.org\slash interviews\slash 1033\slash the-art-of-poetry-no-78-charles-tomlinson&gt;
 \[accessed 17 November 2014\]
 
 —, ‘The Middlebrow Muse’, *Essays in Criticism*, 7.2 (April 1957),
@@ -7315,26 +7324,26 @@ Trotter, David, *The Making of the Reader: Language and Subjectivity in
 Modern American, English and Irish Poetry* (London: Macmillan, 1984)
 
 Upward, Edward, *No Home But the Struggle*, ed. by David Allinson,
-*Edward Upward*,\
-&lt;http://www.edwardupward.info/pdfs/No\_Home\_But\_the\_Struggle.pdf&gt;
+*Edward Upward*,
+&lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash No\_Home\_But\_the\_Struggle.pdf&gt;
 \[accessed 5 May 2015\]
 
 —, ‘The Railway Accident’, in *The Railway Accident*, pp. 33–84
 
-—, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*,\
-&lt;http://www.edwardupward.info/pdfs/The\_Rotten\_Elements.pdf&gt;
+—, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*,
+&lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash The\_Rotten\_Elements.pdf&gt;
 \[accessed 27 November 2015\]
 
-—, ‘Statement for the Literature/Sociology Conference on “1936” at Essex
-University, July 1978’, *Edward Upward*,\
-&lt;http://www.edwardupward.info/pdfs/Statement.pdf&gt; \[accessed 5 May
-2015\]
+—, ‘Statement for the Literature\slash Sociology Conference on “1936” at
+Essex University, July 1978’, *Edward Upward*,
+&lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash Statement.pdf&gt;
+\[accessed 5 May 2015\]
 
 Vinen, Richard, *National Service: Conscription in Britain,
 pp. 1945–1963* (London: Allen Lane, 2014)
 
-‘Watercolour’, *Tate*,\
-&lt;http://www.tate.org.uk/whats-on/tate-britain/exhibition/watercolour&gt;
+‘Watercolour’, *Tate*,
+&lt;http:\slash \slash www.tate.org.uk\slash whats-on\slash tate-britain\slash exhibition\slash watercolour&gt;
 \[accessed 2 November 2014\]
 
 Walker, Alan, *Edward Upward: A Bibliography* (London: Enitharmon Press,
@@ -7344,8 +7353,8 @@ Watkins, Alan, ‘About-turn on welfare’, *The Spectator* (22 June 1967),
 p. 3–4
 
 Wheale, Nigel, ‘Cambridge School, The’, in *The Oxford Companion to
-Modern Poetry in English*, 2nd edn,\
-&lt;http://www.oxfordreference.com/view/10.1093/acref/9780199640256.001.0001/acref-9780199640256-e-1383&gt;
+Modern Poetry in English*, 2nd edn,
+&lt;http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-1383&gt;
 \[accessed 15 December 2014\]
 
 Wild, John, ‘Contemporary Phenomenology and the Problem of Existence’,
@@ -7364,9 +7373,9 @@ Essays* (New York: Random House, 1954), p. 256
 Wilson, Ross, *Shelley and the Apprehension of Life* (Cambridge:
 Cambridge University Press, 2013), p. 25
 
-‘Women MPs & parliamentary candidates since 1945’, *UK Political Info*,\
-&lt;http://www.ukpolitical.info/FemaleMPs.htm&gt; \[accessed 2 February
-2016\] \newpage
+‘Women MPs & parliamentary candidates since 1945’, *UK Political Info*,
+&lt;http:\slash \slash www.ukpolitical.info\slash FemaleMPs.htm&gt;
+\[accessed 2 February 2016\] \newpage
 
 Appendix (Figures)
 ==================

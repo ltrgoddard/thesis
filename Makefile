@@ -15,7 +15,7 @@ phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown
 	pandoc -s -f markdown head.markdown temp.markdown -o phd.pdf --filter pandoc-fignos
 
 figs/man.png:
-	bash figs/man.sh data/prynne.txt
+	Rscript figs/man.R
 
 clean:
 	rm temp.markdown
