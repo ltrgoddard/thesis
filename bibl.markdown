@@ -164,8 +164,7 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 ## Works by J.H. Prynne
 \setlength{\parindent}{-16pt}
 \setlength{\leftskip}{16pt}
-\setlength{\parskip}{0pt}
-'& Hoc Genus Omne', *Bean News* (1972), [p. 2]
+\hspace{-16pt}'& Hoc Genus Omne', *Bean News* (1972), [p. 2]
 
 'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)
 
@@ -239,11 +238,9 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 
 'A Letter', in *Certain Prose*, 1:12 [189--91], pp. 28--29
 
-'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609
-
 'Mental Ears and Poetic Work', *Chicago Review*, 55.1 (November 2010), pp. 126--57
 
-'"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--37
+'"Modernism" in German Poetry', *The Cambridge Review* (9 March 1963), pp. 331--33, 335, 337
 
 'A Note to Josh Kotin and Jeff Dolven', *No Prizes*, 4 (Winter 2015--16), pp. 21--24
 
@@ -297,10 +294,13 @@ Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<
 
 'When is now', *Bean News* (1972), [p. 4]
 
+\setlength{\parindent}{0pt}
+\setlength{\leftskip}{0pt}
 
 ## General
-
-Abir-Am, Pnina G., 'The Biotheoretical Gathering, Transdisciplinary Authority and the Incipient Legitimation of Molecular Biology in the 1930s: New Perspective on the Historical Sociology of Science', *History of Science*, 25 (1987), pp. 1--70
+\setlength{\parindent}{-16pt}
+\setlength{\leftskip}{16pt}
+\hspace{-16pt}Abir-Am, Pnina G., 'The Biotheoretical Gathering, Transdisciplinary Authority and the Incipient Legitimation of Molecular Biology in the 1930s: New Perspective on the Historical Sociology of Science', *History of Science*, 25 (1987), pp. 1--70
 
 'A century of U.S. influence on Arab education', *The Times* (11 October 1966), p. 11
 
@@ -456,6 +456,8 @@ Editorial, in *Certain Prose*, 2:10 [447], p. 143
 
 Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107
 
+'Editorial Notes', in *Certain Prose*, pp. xxv--xxxii
+
 *Education Reform Act 1988* (London: Her Majesty's Stationery Office, 1989)
 
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33
@@ -505,6 +507,8 @@ Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robins
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)
 
 Horkheimer, Max and Theodor W. Adorno, *Dialectic of Enlightenment*, ed. by Gunzelin Schmid Noerr, trans. by Edmund Jephcott (Stanford, CA: Stanford University Press, 2002)
+
+Humphreys, K.W., R.O. MacKenna and M. Tyson, letter, *The Times* (2 August 1963), p. 13
 
 'Hysteria over population', *The Times* (6 September 1967), p. 13
 
@@ -618,6 +622,8 @@ Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by
 
 Lindsay, Jow, 'Excerpt from An Open Letter to J.H. Prynne', *QUID*, 17 (2006), pp. 35--39
 
+'The Library's Place', *Times Literary Supplement* (9 August 1963), p. 609
+
 'The Literary Society', *Fifty-Fifth Annual Report* (Cambridge: Jesus College Society, 1959), pp. 60--61
 
 'Long Live the Vortex!', *Blast*, 1 (1914), [pp. 7--8]
@@ -692,6 +698,8 @@ Mulhern, Francis, *The Moment of 'Scrutiny'* (London: New Left Books, 1979)
 
 Murdoch, Iris, 'The Idea of Perfection', *Yale Review*, 53.3 (Spring 1964), pp. 342--80
 
+Myres, J.N.L., letter, *The Times* (6 August 1963), p. 9
+
 Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http:\slash \slash theclaudiusapp.com\slash 4-nealon.html\> [accessed 10 October 2013]
 
 Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109
@@ -736,6 +744,8 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: 
 
 Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, pp. 1970--1991* (London: Macmillan, 1992), pp. 234--46
 
+Pattison, Neil, 'Introduction: "All Flags Left Outside"', in *Certain Prose*, pp. i--xxiv
+
 Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114
 
 'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http:\slash \slash archiveshub.ac.uk\slash data\slash gb2188-dsh04\> [accessed 16 November 2014]
@@ -763,6 +773,8 @@ Press, John, *Rule and Energy: Trends in British Poetry Since the Second World W
 Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces, Romantic Times* (London: Routledge, 2016)
 
 Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011), \<http:\slash \slash thegreatunrest.wordpress.com\slash 2011\slash 01\slash 13\slash ian-patterson-interview\slash \> [accessed 15 December 2014]
+
+Production note, *Prospect*, 6 (Spring 1964), [p. 45]
 
 'Prynne, J.H.', in *The Concise Oxford Companion to English Literature*, 4th edn, ed. by Dinah Birch and Katy Hooper (Oxford: Oxford University Press, 2012), p. 574
 
