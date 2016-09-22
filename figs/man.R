@@ -1,0 +1,5 @@
+prynne <- readLines('../data/prynne.txt')
+lines <- grep('[ -][Mm]an[ ,:;\"\'.]', prynne)
+png(file = 'man.png', width = 700, height = 400)
+hist(lines, breaks = 13, main = NULL, xlab = 'Lines', ylab = 'Appearances')
+dev.off()
