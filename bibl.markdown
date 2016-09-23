@@ -190,7 +190,7 @@ Contribution to a discussion in the Senate House, *Cambridge University Reporter
 
 Editorial note, *Prospect*, 6 (Spring 1964), [p. 45]
 
-Editorial statement, *Six* (1955), [unpaginated]
+Editorial note, *Six* (1955), [unpaginated]
 
 'The Elegiac World in Victorian Poetry', *The Listener* (14 February 1963), pp. 290--91
 
@@ -210,7 +210,7 @@ Editorial statement, *Six* (1955), [unpaginated]
 
 'From a Letter to Douglas Oliver', *Grosseteste Review*, 6.1--4 (1973), pp. 152--54
 
-'Full Tilt Botany: Ideal Weapons for Suicide Pacts', *Bean News* (1972), [p. 8]
+'Full Tilt Botany: Ideal Weapon for Suicide Pacts', *Bean News* (1972), [p. 8]
 
 *George Herbert, 'Love [III]': A Discursive Commentary* (Cambridge: privately printed, 2011)
 
@@ -476,8 +476,6 @@ Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 55
 
 Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric Culture*, 3rd ed. (New York: Charlton Company, 1914).
 
-'glossy, adj.', *OED Online* (Oxford University Press, 2014), \<http:\slash \slash www.oed.com\slash view\slash Entry\slash 79186\> [accessed 14 May 2014]
-
 Goddard, Louis, 'Migration Patterns: Two Little Magazines of 1960--1962', *Textual Practice*, \<http:\slash \slash www.tandfonline.com\slash doi\slash full\slash 10.1080\slash 0950236X.2016.1188143\> [accessed 11 July 2014]
 
 ---, 'National and Private Identity in the Prose of J.H. Prynne' (unpublished M.Phil. thesis, University of Cambridge, 2014)
@@ -610,7 +608,7 @@ Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by
 
 ---, 'Inferior Religions', in *The Wild Body: 'A Soldier of Humour' and Other Stories* (New York: Harcourt, Brace and Company, 1928), pp. 233--43
 
----, 'The Meaning of the Wild Body', in *The Wild Body*, pp. 244--251
+---, 'The Meaning of the Wild Body', in *The Wild Body*, pp. 244--51
 
 ---, 'Preface to the 1918 American Edition', in *Tarr* (2010), pp. 285--88
 
@@ -714,7 +712,7 @@ Noyes, Hugh, 'Abortion Bill over Last Commons Hurdles: Hint on Conscience Clause
 
 Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: From 'Nuances' to 'Impertinence'* (Oxford: Oxford University Press, 2000)
 
-'nympholepsy, n.', *OED Online* (Oxford University Press, 2015), \<http:\slash \slash www.oed.com\slash view\slash Entry\slash 129422\> [accessed 28 April 2015]
+'nympholepsy, *n*.', *OED Online* (Oxford University Press, 2015), \<http:\slash \slash www.oed.com\slash view\slash Entry\slash 129422\> [accessed 28 April 2015]
 
 Oliver, Douglas, *The Harmless Building* (London: Ferry Press and Grosseteste Review Books, 1973)
 
