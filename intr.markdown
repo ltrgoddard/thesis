@@ -1,6 +1,6 @@
 # Introduction
 
-> \singlespacing Being a poet is a form of admitted self-recognition and self-description inside a schedule of professions and roles within the social categories of a community and the nomenclatures for operational identity ---J.H. Prynne.^[J.H. Prynne, 'The Poet's Imaginary', *Chicago Review*, 58.1 (Summer 2013), 89--105 (p. 93).]
+> \singlespacing 'Being a poet is a form of admitted self-recognition and self-description inside a schedule of professions and roles within the social categories of a community and the nomenclatures for operational identity' ---J.H. Prynne.^[J.H. Prynne, 'The Poet's Imaginary', *Chicago Review*, 58.1 (Summer 2013), 89--105 (p. 93).]
 
 \noindent This thesis offers a survey of the context in which the British poet J.H. Prynne began his literary career, focussing specifically on the period between 1955 and 1975 and seeking to reorient critical attention towards certain traditions, influences and social and literary *milieux* which have been overlooked in scholarship to date. These neglected contexts are then read back into Prynne's prose work to offer several new perspectives on his intellectual, political and ethical outlook. Following a very brief review of existing work on Prynne, this introduction maps the territory which the remainder of the thesis sets out to explore, explaining both its methodological peculiarities---principally its reliance on Prynne's prose rather than his poetry---and its overall shape.
 

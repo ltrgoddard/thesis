@@ -534,7 +534,7 @@ Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998)
 
 'J. H. Prynne', *Wikipedia, The Free Encyclopedia*, 3 July 2014, 07:56 UTC, \<http:\slash \slash en.wikipedia.org\slash w\slash index.php?title=J.\_H.\_Prynne&oldid=615398780\> [accessed 15 December 2014]
 
-Johansson, Birgitta, *The Engineering of Being: An Ontological Approach to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997); Ryan Dobran, 'The Difficult Style: A Study of the Poetry of J.H. Prynne' (unpublished doctoral thesis, University of Cambridge, 2013)
+Johansson, Birgitta, *The Engineering of Being: An Ontological Approach to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997
 
 Jones, Frederick L., ed., *The Letters of Percy Bysshe Shelley*, vol. 2 (Oxford: The Clarendon Press, 1964)
 
@@ -843,8 +843,6 @@ Sutherland, Keston, 'Introduction: "Prynne's late work?"', in *Hix Eros: On the 
 ---, 'J.H. Prynne and Philology' (unpublished doctoral thesis, University of Cambridge, 2004)
 
 ---, '*Sub Songs* versus the subject: Critical variations on a distinction between Prynne and Hegel', in *Hix Eros: On the Late Poetry of J.H. Prynne*, pp. 123--141
-
-Thatcher, Margaret, 'Speech at Lord Mayor's Banquet', *Margaret Thatcher Foundation* (10 November 1986), \<http:\slash \slash www.margaretthatcher.org\slash document\slash 106512\> [accessed 24 October 2014]
 
 Tomlinson, Charles, 'The Art of Poetry No. 78', interviewed by Willard Spiegelman, *The Paris Review*, 149 (Winter 1998), \<http:\slash \slash www.theparisreview.org\slash interviews\slash 1033\slash the-art-of-poetry-no-78-charles-tomlinson\> [accessed 17 November 2014]
 

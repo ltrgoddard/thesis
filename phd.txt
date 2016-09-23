@@ -1,3 +1,21 @@
+---
+geometry: 'top=2.5cm, bottom=2.5cm, left=4cm, right=2cm'
+header-includes:
+- '\usepackage{setspace}'
+- '\setstretch{1.5}'
+- '\setlength\parindent{16pt}'
+- '\hypersetup{hidelinks}'
+...
+
+\usepackage{setspace}
+
+\setstretch{1.5}
+
+\setlength\parindent{16pt}
+
+\hypersetup{hidelinks}
+
+\newpage
 \pagenumbering{gobble}
 \begin{titlepage}
 \title{J.H. Prynne in Context, 1955--1975}
@@ -6,8 +24,8 @@
     University of Sussex\\
     September 2016}
 \maketitle
-\end{titlepage}\newpage
-
+\end{titlepage}
+\newpage
 \pagenumbering{arabic} \tableofcontents
 \newpage
 
@@ -2299,9 +2317,9 @@ Prynne’s own later career suggests, ‘Ph.D. theses’ do not always go
 hand-in-hand with recognition by the ‘big publishers’.
 
 The clearest way to represent Prynne’s overall involvement with little
-magazines is visually. Figure @fig:mags maps almost every periodical in
-which Prynne’s poetic work has been published, linking them to the books
-in which the same work was subsequently collected.[^202] One of the
+magazines is visually. Figure 1 maps almost every periodical in which
+Prynne’s poetic work has been published, linking them to the books in
+which the same work was subsequently collected.[^202] One of the
 principal uses of this mode of visualisation is as a tool to investigate
 the periodisation of Prynne’s poetry, discussed at the beginning of the
 previous chapter. For example, the severing of *Force of Circumstance*
@@ -2321,26 +2339,26 @@ from 2011’—are conspicuous by their absence from the diagram, not having
 received magazine publication at all, suggesting a sort of negative
 coherence in independence.[^203]
 
-Diagrams such as Figure @fig:mags should not, however, be treated as
-absolute standards against which the truth or falsity of various
-periodisation schemes can be measured. This is particularly the case
-when it comes to an object of study as internally heterogeneous as
-Prynne’s career, which, as it is one of the key aims of this thesis to
-emphasise, cannot simply be reduced to a series of chapbooks or to the
-large yellow volume of the collected poems. When prose is considered
-alongside poetry, some of the structures outlined in Figure @fig:mags
-begin to break down: where, for instance, does ‘Tomorrow is Fade Out
-Night’ fit, being a review of Douglas Woolf’s novel *Fade Out* (1959)
-printed in *Prospect* in 1964, well after Prynne had repudiated his
-poetic style in *Force of Circumstance* but before the shift had been
-confirmed by the publication of *Kitchen Poems*?[^204] In order to flesh
-out the skeleton represented by Figure @fig:mags, it will be necessary
-to provide an overview of Prynne’s relationships with little magazines
-from as early as the 1950s. Given the restriction of the scope of this
-thesis to Prynne’s early career and the significant work that has
-already been done on his involvement with *The English Intelligencer*,
-this account will concentrate primarily on the period from 1955 to the
-first issue of the *Intelligencer* in 1966.[^205]
+Diagrams such as Figure 1 should not, however, be treated as absolute
+standards against which the truth or falsity of various periodisation
+schemes can be measured. This is particularly the case when it comes to
+an object of study as internally heterogeneous as Prynne’s career,
+which, as it is one of the key aims of this thesis to emphasise, cannot
+simply be reduced to a series of chapbooks or to the large yellow volume
+of the collected poems. When prose is considered alongside poetry, some
+of the structures outlined in Figure 1 begin to break down: where, for
+instance, does ‘Tomorrow is Fade Out Night’ fit, being a review of
+Douglas Woolf’s novel *Fade Out* (1959) printed in *Prospect* in 1964,
+well after Prynne had repudiated his poetic style in *Force of
+Circumstance* but before the shift had been confirmed by the publication
+of *Kitchen Poems*?[^204] In order to flesh out the skeleton represented
+by Figure 1, it will be necessary to provide an overview of Prynne’s
+relationships with little magazines from as early as the 1950s. Given
+the restriction of the scope of this thesis to Prynne’s early career and
+the significant work that has already been done on his involvement with
+*The English Intelligencer*, this account will concentrate primarily on
+the period from 1955 to the first issue of the *Intelligencer* in
+1966.[^205]
 
 ii. Prynne and little magazines, 1955–1966
 ------------------------------------------
@@ -3048,7 +3066,7 @@ engage with existing judgements, particularly Blanton’s, where
 appropriate. The synopsis will take the more opaque aspects of the text
 at face value, leaving their explanation to the subsequent analysis. For
 the sake of clarity, however, a rough schematic representation of the
-piece’s argument has been provided in Figure @fig:anm.
+piece’s argument has been provided in Figure 2.
 
 ¶1 (p. 128[^274]): Before the early Bronze Age, property resided
 uncomplicatedly in substance, and the ‘most specific carrier for the
@@ -6041,8 +6059,8 @@ heterosexual man.[^497]
 The chronological qualifier in the last sentence is necessary, and—if a
 poet’s thinking about poetry can be assumed to leave a trace in the work
 itself—the restriction it imposes is to some extent backed up by
-statistics. Figure @fig:man shows the results of analysing concatenated
-scanned texts of *Force of Circumstance* and the 2005 edition of *Poems*
+statistics. Figure 3 shows the results of analysing concatenated scanned
+texts of *Force of Circumstance* and the 2005 edition of *Poems*
 according to a very crude approximation of androcentricity: appearances
 of the word ‘man’—used either as a singular noun or to refer to
 ‘mankind’—per 1,000 lines. A clear pattern is visible, consisting of a
@@ -6054,10 +6072,9 @@ Prynne’s work—it is impossible to tell whether any given usage of ‘man’
 is sincere, ironic, direct, reported, and so on—but offers a sort of
 knowledge which can only be gained through such flattening, rather than
 through readily disputable readings of individual usages. While it would
-be foolish, then, to use Figure @fig:man as evidence of the
-androcentricity of Prynne’s early work, if that quality is established
-by other means then the diagram can be used to trace its probable
-contours.[^499]
+be foolish, then, to use Figure 3 as evidence of the androcentricity of
+Prynne’s early work, if that quality is established by other means then
+the diagram can be used to trace its probable contours.[^499]
 
 Writing to Douglas Oliver in 1994 on the subject of intellectual and
 ethical consistency, Prynne claims that ‘it is not facile to speak of
@@ -7398,16 +7415,19 @@ Appendix (Figures)
 ==================
 
 \newpage
+
 \pagenumbering{gobble}
 
-![Prynne’s poetry collections, linked to the magazines in which they
-were first published (in whole or in part)](figs/mags.png){#fig:mags}
+![Figure 1: Prynne’s poetry collections, linked to the magazines in
+which they were first published (in whole or in
+part)](figs/mags.png){#fig:mags}
 
 \newpage
-![The argument of ‘A Note on Metal’](figs/anm.png){#fig:anm}
 
-![Appearances of ‘man’ per 1,000 lines in *Force of Circumstance* (1962)
-and *Poems* (2005)](figs/man.png){#fig:man}
+![Figure 2: The argument of ‘A Note on Metal’](figs/anm.png){#fig:anm}
+
+![Figure 3: Appearances of ‘man’ per 1,000 lines in *Force of
+Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^1]: J.H. Prynne, ‘The Poet’s Imaginary’, *Chicago Review*, 58.1
     (Summer 2013), 89–105 (p. 93).
@@ -8496,8 +8516,8 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     myself, but rather \[…\] a series of well printed pamphlets, really
     nicely done \[…\]. Even small books in due course, but they *must*
     be conspicuously well done’ (Prynne to Riley, 23 May 1967). As the
-    absence of Prynne’s later books from Figure @fig:mags suggests, this
-    desire has been at least partially fulfilled.
+    absence of Prynne’s later books from Figure 1 suggests, this desire
+    has been at least partially fulfilled.
 
 [^241]: Prynne to Olson, 6 March 1964. While it is not entirely clear
     who is being referred to here, it is presumably not Rodney Dale,
