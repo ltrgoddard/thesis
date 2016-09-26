@@ -1,3 +1,87 @@
+---
+geometry: 'top=2.5cm, bottom=2.5cm, left=4cm, right=2cm'
+header-includes:
+- '\usepackage{setspace}'
+- '\setstretch{1.5}'
+- '\setlength\parindent{16pt}'
+- '\hypersetup{hidelinks}'
+...
+
+\usepackage{setspace}
+
+\setstretch{1.5}
+
+\setlength\parindent{16pt}
+
+\hypersetup{hidelinks}
+
+\newpage
+\pagenumbering{gobble}
+\begin{titlepage}
+\title{J.H. Prynne in Context, 1955--1975}
+\author{Louis Goddard}
+\date{\vfill Thesis submitted for the degree of Doctor of Philosophy\\
+    University of Sussex\\
+    September 2016}
+\maketitle
+\end{titlepage}
+\newpage
+\pagenumbering{arabic} \tableofcontents
+\newpage
+
+Frontmatter
+===========
+
+Summary
+-------
+
+\noindent University of Sussex
+
+\noindent Louis Goddard
+
+\noindent Doctor of Philosophy
+
+\noindent ‘J.H. Prynne in Context, 1955–1975’
+
+\noindent This thesis presents a partial survey of the intellectual and
+cultural environment in which the contemporary British poet J.H. Prynne
+began his literary career. Its primary contribution to knowledge
+consists of a reorientation of critical perspective towards Prynne’s
+early career and its specifically British contexts, as well as a
+detailed literary-historical account of his relation to those contexts.
+This account proceeds by analysis of Prynne’s prose works rather than
+his poetry, leading to a secondary contribution in the form of a number
+of new readings of those works and a consideration of Prynne’s attitude
+towards prose as a form. Extensive use is made of archival material,
+much of which has not been examined in previous scholarship.
+
+The Introduction sets out the methodology of the thesis and argues that
+existing work on Prynne suffers from interlinked biases against
+consideration of Prynne’s early career and his British influences.
+Chapter 1 offers an account of a particular network of such influences
+centred on the University of Cambridge, looking at one regularly cited
+influence, Donald Davie, and arguing for recognition of a new one in
+F.R. Leavis. In Chapter 2, Prynne’s involvement with the ‘little
+magazine’ scene is considered in detail and an extended reading of his
+1967 piece ‘A Note on Metal’ is used to reflect on the relationship
+between prose and its publication contexts. Chapter 3, meanwhile,
+proposes a third key context for Prynne’s early career in the prose
+fiction of Wyndham Lewis, Edward Upward and Douglas Oliver, before
+offering a model for Prynne’s poetic thinking in this period based on
+the panspermia hypothesis. The Conclusion attempts to name this model
+more specifically, while reflecting on the validity of the thesis’s
+semi-biographical approach.
+
+Declaration
+-----------
+
+\noindent I hereby declare that this thesis has not been—and will not
+be—submitted in whole or in part to another University for the award of
+any other degree. \newline
+\newline
+\newline
+\noindent Signature: …………………… \newpage
+
 Acknowledgements
 ----------------
 
@@ -31,7 +115,7 @@ materials has been standardised to italics throughout. \newpage
 Introduction
 ============
 
- \singlespacing ‘Being a poet is a form of admitted self-recognition
+> \singlespacing ‘Being a poet is a form of admitted self-recognition
 > and self-description inside a schedule of professions and roles within
 > the social categories of a community and the nomenclatures for
 > operational identity’ —J.H. Prynne.[^1]
@@ -6095,14 +6179,14 @@ Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328\
 —, 9 July 1962, Folder 328\
 —, 26 September 1962, Folder 328\
 —, 10 December 1962, Folder 328\
-—, 31 December 1962, Folder, 328\
+—, 31 December 1962, Folder 328\
 —, 22 January 1963, Folder 329\
 —, 14 April 1963, Folder 329\
 —, 23 April 1963, Folder 329\
 —, 16 June 1963, Folder 329\
 —, 6 May 1964, Folder 330\
 —, 30 June 1964, Folder 330\
-—, 26 July 1964, Folder, 330\
+—, 26 July 1964, Folder 330\
 Letter, Prynne to Robert Creeley, 21 October 1964, Folder 330\
 Letter, Prynne to Diana Athill, 17 November 1964, Folder 330\
 Letter, Prynne to Dorn, 21 December 1964, Folder 330\
@@ -6214,7 +6298,7 @@ Letter, Prynne to Barry MacSweeney, 7 August 1975
 
 *Section D, Subsection 1, Series 5, Subseries 13, Box 20*
 
-Letter, Prynne to Francis Crick, 22 March 1982.
+Letter, Prynne to Francis Crick, 22 March 1982
 
 Works by J.H. Prynne
 --------------------
@@ -6223,14 +6307,19 @@ Works by J.H. Prynne
 \hspace{-16pt}‘& Hoc Genus Omne’, *Bean News* (1972), \[p. 2\]
 
 ‘About Warning an Invited Audience (Obliquely Arising from George
-Dowden’s Letters to English Poets)’, in *Certain Prose*, 2:\[‘Ghost
-Issue’\] \[G3\], 168–69 (p. 168)
+Dowden’s Letters to English Poets)’, in *Certain Prose of the English
+Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts
+(Cambridge: Mountain Press, 2012), 2:\[‘Ghost Issue’\] \[G3\], 168–69
+(p. 168)
 
 ‘The Art of Poetry No. 101’, interviewed by Jeff Dolven and Joshua
 Kotin, *The Paris Review*, 218 (Fall 2016), pp. 174–207
 
-‘The Bee Target on his Shoulder’, in *Poems* (Tarset: Bloodaxe, 2015),
-pp. 150–52
+‘The Bee Target on his Shoulder’, in *Poems*, 3rd edn (Tarset: Bloodaxe,
+2015), pp. 150–52
+
+*Chansons à la Journée-Lumière*, trans. by Bernard Dubourg\* (Damazan:
+privately printed, 1975)
 
 ‘Charles Olson, Maximus Poems IV, V, VI’, *The Park*, 4.5 (Summer 1969),
 pp. 64–66
@@ -6265,6 +6354,9 @@ Editorial note, *Six* (1955), \[unpaginated\]
 Academy*, 74 (1988), pp. 135–69
 
 ‘L’Extase de M. Poher’, in *Poems*, pp. 161–62
+
+*Lézard de Feu*, trans. by Bernard Dubourg (Damazan: privately printed,
+1975)
 
 *Field Notes: ‘The Solitary Reaper’ and Others* (Cambridge: privately
 printed, 2007)
@@ -6348,7 +6440,10 @@ pp. 124–35
 ‘The “PLANT TIME MANIFOLD” Transcripts’, *Grosseteste Review*, 7.1–3
 (Summer 1974), pp. 80–88
 
-‘The *Plant Time Manifold* Transcripts’, in *Poems* (2015), pp. 233–42
+‘The *Plant Time Manifold* Transcripts’, in *Poems*, pp. 233–42
+
+*Poèmes de Cuisine*, trans. by Bernard Dubourg (Damazan: privately
+printed, 1975)
 
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the
 Now*
@@ -6377,10 +6472,15 @@ Shake-speares Sonnets, 94* (Cambridge: privately printed, 2001)
 ‘Times Trans-shifting: for Robert Herrick’, *Prospect*, 4 (Winter 1960),
 p. 14
 
+‘Tips on Practical Criticism, for Students of English’, *Gonville and
+Caius College*,
+&lt;http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash praccrit.pdf&gt;
+\[accessed 26 September 2016\]
+
 ‘Tips on Reading, for Students of English’, *Gonville and Caius
 College*,
 &lt;http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash reading.pdf&gt;
-\[accessed 23 September 2014\], p. 14
+\[accessed 23 September 2014\]
 
 ‘Tomorrow is Fade Out Night’, *Prospect*, 6 (Spring 1964), pp. 41–43
 
@@ -6403,9 +6503,6 @@ Science’, *History of Science*, 25 (1987), pp. 1–70
 1966), p. 11
 
 Advert, *The Times* (29 August 1969), p. 23
-
-Alan Walker, *Edward Upward: A Bibliography* (London: Enitharmon Press,
-2000)
 
 Amis, Kingsley, *Lucky Jim* (London: Victor Gollancz, 1957)
 
@@ -6442,7 +6539,7 @@ Beatty, Michael, ‘The Earliest Fiction of Wyndham Lewis and *The Wild
 Body*’, *Theoria*, 48 (May 1977), pp. 37–45
 
 Bell, Clive, ‘What was “Bloomsbury”?’, *Twentieth Century* (February
-1954), pp. 153–60)
+1954), pp. 153–60
 
 Bernstein, Charles, ‘Introduction’, in *Close Listening: Poetry and the
 Performed Word*, ed. by Bernstein (Oxford: Oxford University Press,
@@ -6457,7 +6554,7 @@ Oxford University Press, 1973)
 
 Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power
 in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993),
-p. 34)
+p. 34
 
 Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010),
 pp. 244–49
@@ -6476,15 +6573,19 @@ Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne*
 &lt;https:\slash \slash www.academia.edu\slash 6185230\slash Prynne\_in\_Prospect&gt;
 \[accessed 21 January 2015\]
 
-Brooker, Peter and Andrew Thacker, eds., *The Oxford Critical and
-Cultural History of Modernist Magazines, Volume II: North America
-1894–1960* (Oxford: Oxford University Press, 2012)
+Brooker, Peter and Andrew Thacker, eds, *The Oxford Critical and
+Cultural History of Modernist Magazines, Volume I: Britain and Ireland
+1880–1955* (Oxford: Oxford University Press, 2009)
 
-—, Andrew Thacker, Sascha Bru and Christian Weikop, eds., *The Oxford
+— and Andrew Thacker, eds, *The Oxford Critical and Cultural History of
+Modernist Magazines, Volume II: North America 1894–1960* (Oxford: Oxford
+University Press, 2012)
+
+—, Andrew Thacker, Sascha Bru and Christian Weikop, eds, *The Oxford
 Critical and Cultural History of Modernist Magazines, Volume III: Europe
 1880–1940* (Oxford: Oxford University Press, 2013)
 
-Bucknell, Katherine, ‘Introduction’, in Christopher Isherwood and
+Bucknell, Katherine, ‘Introduction’, in Christopher Isherwood and Edward
 Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994),
 pp. 9–21
 
@@ -6509,9 +6610,8 @@ Carmody, Tim, ‘Paper Modernism’, *Snarkmarket* (9 August 2009),
 &lt;http:\slash \slash snarkmarket.com\slash blog\slash snarkives\slash selfdisclosure\slash paper\_modernism\slash &gt;
 \[accessed 29 January 2015\]
 
-‘Certain Matters’, in *Certain Prose of the English Intelligencer*, ed.
-by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain
-Press, 2012), 2:\[‘Ghost Issue’\] \[G16–17\], pp. 173–75
+‘Certain Matters’, in *Certain Prose*, 2:\[‘Ghost Issue’\] \[G16–17\],
+pp. 173–75
 
 Chaganti, Seeta, ‘Vestigial Signs: Inscription, Performance, and The
 Dream of the Rood’, *PMLA*, 125 (2010), pp. 48–72
@@ -6564,16 +6664,15 @@ Davie, Donald, ‘Academicism and Jonathan Swift’, *Twentieth Century*
 —, *Ezra Pound: Poet as Sculptor* (Oxford: Oxford University Press,
 1964)
 
-—, ‘For Doreen. A Voice from the Garden’, in *Collected Poems
-(Manchester: Carcanet, 1990)*, pp. 99–100
+—, ‘For Doreen. A Voice from the Garden’, in *Collected Poems*
+(Manchester: Carcanet, 1990), pp. 99–100
 
 —, ‘Housekeeping’, in *Collected Poems* (1990), p. 104
 
 —, ‘Is There a London Literary Racket?’, *Twentieth Century* (June
 1954), pp. 540–46
 
-—, ‘A Letter to Curtis Bradford’, in *Collected Poems* (Manchester:
-Carcanet, 1990), pp. 98–99
+—, ‘A Letter to Curtis Bradford’, in *Collected Poems* (1990), pp. 98–99
 
 —, ‘To a Brother in the Mystery’, in *New & Selected Poems* (Middletown,
 CT: Wesleyan University Press, 1961), p. 46
@@ -6616,13 +6715,6 @@ Dodsworth, Martin, ‘The Movement: Never and Always’, in *The Oxford
 Handbook of Contemporary British and Irish Poetry*, ed. by Peter
 Robinson (Oxford: Oxford University Press, 2013), pp. 94–110
 
-Dubourg, Bernard, *Chansons à la Journée-Lumière* (Damazan: privately
-printed, 1975)
-
-—, *Lézard de Feu* (Damazan: privately printed, 1975)
-
-—, *Poèmes de Cuisine* (Damazan: privately printed, 1975)
-
 Eagleton, Terry, ‘A Toast at the Trocadero’, *London Review of Books*,
 38.4 (18 February 2016), pp. 9–10
 
@@ -6636,16 +6728,13 @@ Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107
 
 ‘Editorial Notes’, in *Certain Prose*, pp. xxv–xxxii
 
-*Education Reform Act 1988* (London: Her Majesty’s Stationery Office,
-1989)
-
 ‘Elections to Fellowships’, *The Caian* (Lent 1963), p. 33
 
 Enright, D.J., *Poets of the 1950s: An Anthology of New English Verse*
 (Tokyo: Kenkyusha, 1955)
 
-Falci, Eric, *The Cambridge Introduction to British Poetry,
-pp. 1945–2010* (Cambridge: Cambridge University Press, 2015)
+Falci, Eric, *The Cambridge Introduction to British Poetry, 1945–2010*
+(Cambridge: Cambridge University Press, 2015)
 
 Faraone, Mario, ‘“Chambers of Oblivion”: I Treni di Edward Upward tra
 Allucinazione, Storia e Memoria’, in *Scorci Improvvisi di Altri
@@ -6674,11 +6763,6 @@ Goddard, Louis, ‘Migration Patterns: Two Little Magazines of 1960–1962’,
 
 —, ‘Not spooked’, *Times Literary Supplement* (11 December 2015), p. 17
 
-Gombrich, Richard F., ‘British Higher Education Policy in the last
-Twenty Years: The Murder of a Profession’ (January 2000),
-&lt;http:\slash \slash www.atm.damtp.cam.ac.uk\slash mcintyre\slash papers\slash LHCE\slash uk-higher-education.html&gt;
-\[accessed 24 October 2014\]
-
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines
 in Great Britain, 1939–1993* (Salzburg: University of Salzburg, 1993)
 
@@ -6688,9 +6772,6 @@ Gye, Hugo, ‘Hammond to keep job’, *Varsity* (6 November 2008),
 
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle
 upon Tyne: Cambridge Scholars Publishing, 2014)
-
-Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard
-University Press, 2000), pp. 388–89
 
 Harman, Graham, ‘Meillassoux’s arche-fossil is not an “argument”’,
 *Object-Oriented Philosophy* (6 March 2014),
@@ -6747,7 +6828,7 @@ Jameson, Fredric, *Fables of Aggression: Wyndham Lewis, the Modernist as
 Fascist* (Berkeley, CA: University of California Press, 1979), p. 95
 
 Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity
-Press, 1998), p. 68)
+Press, 1998), p. 68
 
 —, ‘Quality and the non-identical in J.H. Prynne’s “Aristeas, in Seven
 Years”’, *Parataxis*, 1 (1991), pp. 69–86
@@ -6764,7 +6845,7 @@ UTC,
 \[accessed 15 December 2014\]
 
 Johansson, Birgitta, *The Engineering of Being: An Ontological Approach
-to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997
+to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997)
 
 Jones, Frederick L., ed., *The Letters of Percy Bysshe Shelley*, vol. 2
 (Oxford: The Clarendon Press, 1964)
@@ -6783,7 +6864,8 @@ Specialist Modernity’, *Journal of British and American Studies*, 10.1
 King-Hele, Desmond, *Shelley: His Thought and Work* (London: Macmillan,
 1960), p. 216
 
-Klein, Scott W., ‘Introduction’, in Lewis, *Tarr*, pp. ix–xxix
+Klein, Scott W., ‘Introduction’, in Wyndham Lewis, *Tarr* (Oxford:
+Oxford University Press, 2010), pp. ix–xxix
 
 Katko, Justin, ‘Relativistic Phytosophy: Towards a Commentary on “The
 *Plant Time Manifold* Transcripts”’, *Glossator*, 2 (2010), pp. 245–94
@@ -6808,7 +6890,7 @@ University of London, 2013)
 —, ‘“Scheming for the possible world”: J.H. Prynne’s *The White Stones*
 and *The English Intelligencer*’, *Intercapillary Space*,
 &lt;http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2010\slash 04\slash scheming-for-possible-world-j.html&gt;
-\[accessed 10 October 2013\] (para. 2)
+\[accessed 10 October 2013\]
 
 Leader, Zachary, ‘Introduction: Origins and Ambivalences’, in *The
 Movement Reconsidered: Essays on Larkin, Amis, Gunn, Davie and Their
@@ -6822,7 +6904,7 @@ Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1–15
 
 Leavis, F.R., ‘Keynes, Spender and Currency-Values’, in *A Selection
 from ‘Scrutiny’*, ed. by Leavis (Cambridge: Cambridge University Press,
-1968), vol. 1, p. 185–96
+1968), vol. 1, pp. 185–96
 
 —, letter, *Times Literary Supplement* (21 May 1971), p. 593
 
@@ -6871,19 +6953,21 @@ Lewis, Wyndham, *The Caliph’s Design: Architects! Where is your
 Vortex?*, ed. by Paul Edwards (Santa Barbara, CA: Black Sparrow Press,
 1986), p. 65
 
-—, ‘From the Prologue to the 1918 Egoist Press Edition’, in *Tarr*
-(Oxford: Oxford University Press, 2010), pp. 288–89
+—, ‘From the Prologue to the 1918 Egoist Press Edition’, in *Tarr*,
+pp. 288–89
 
 —, ‘Inferior Religions’, in *The Wild Body: ‘A Soldier of Humour’ and
 Other Stories* (New York: Harcourt, Brace and Company, 1928), pp. 233–43
 
 —, ‘The Meaning of the Wild Body’, in *The Wild Body*, pp. 244–51
 
-—, ‘Preface to the 1918 American Edition’, in *Tarr* (2010), pp. 285–88
+—, ‘Preface to the 1918 American Edition’, in *Tarr*, pp. 285–88
 
 —, *Tarr* (London: Egoist Press, 1918)
 
 —, *Tarr* (London: Chatto & Windus, 1928)
+
+—, *Tarr* (Oxford: Oxford University Press, 2010)
 
 —, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa, CA: Black
 Sparrow Press, 1993), p. 88
@@ -6904,7 +6988,7 @@ Lovelock, James, *A Rough Ride to the Future* (London: Allen Lane, 2014)
 Luna, Joe and Jow Lindsay, eds., *Hix Eros: On the Late Poetry of J.H.
 Prynne* (Brighton: Hi Zero and Sad Press, 2014)
 
-Lynd, Robert S. and Helen Merrell, *Middletown: A Study in American
+Lynd, Robert S. and Helen Merrell Lynd, *Middletown: A Study in American
 Culture* (New York: Harcourt, Brace and Company, 1929)
 
 Lytle Shaw, *Frank O’Hara: The Poetics of Coterie* (Iowa City:
@@ -6925,10 +7009,10 @@ Marriott, D.S., ‘An Introduction to the Poetry of J.H. Prynne
 
 Marwick, Arthur, *The Sixties: Cultural Revolution in Britain, France,
 Italy and the United States, c. 1958–c. 1974* (Oxford: Oxford University
-Press, 1998), p. 7
+Press, 1998)
 
-Marx, Karl, *Capital*, 3rd vol., ed. by Friedrich Engels, in
-*Marx\slash Engels Collected Works*, 37th vol. (New York: International
+Marx, Karl, *Capital*, vol. 3, ed. by Friedrich Engels, in
+*Marx\slash Engels Collected Works*, vol. 37 (New York: International
 Publishers, 1998)
 
 —, ‘Comments on James Mill, *Éléments d’économie politique*’, trans. by
@@ -6977,8 +7061,8 @@ Mill, John Stuart, ‘Tennyson’s Poems’, in *The Collected Works of John
 Stuart Mill, Volume 1 – Autobiography and Literary Essays*, ed. by John
 M. Robson (London: Routledge, 2013), pp. 395–418
 
-Miller, David and Richard Price, *British Poetry Magazines,
-pp. 1914–2000* (London: British Library, 2006)
+Miller, David and Richard Price, *British Poetry Magazines, 1914–2000*
+(London: British Library, 2006)
 
 Milne, Drew, ‘The Art of Wit and the Cambridge Science Park’, in
 *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford
@@ -7024,9 +7108,6 @@ Nealon, Chris, ‘The Prynne Reflex’, *The Claudius App*, 4 (2013),
 Needham, Joseph, ‘Chemical Heterogony and the Ground-Plan of Animal
 Growth’, *Biological Reviews*, 9.1 (January 1934), pp. 79–109
 
-Nicholas Royle, *Veering: A Theory of Literature* (Edinburgh: Edinburgh
-University Press, 2011)
-
 Noel-Tod, Jeremy, ‘Prynne, J. H. (Jeremy Halvard)’, in *The Oxford
 Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod
 (Oxford: Oxford University Press),
@@ -7050,11 +7131,6 @@ Oliver, Douglas, *The Harmless Building* (London: Ferry Press and
 Grosseteste Review Books, 1973)
 
 —, *Three Variations on the Theme of Harm* (London: Paladin, 1990)
-
-Ollard, Elizabeth, ‘The British Academy 1902–2002: Support for
-Research’, *British Academy*,
-&lt;http:\slash \slash www.britac.ac.uk\slash pubs\slash src\slash ba-history\slash research.cfm&gt;
-\[accessed 24 October 2014\]
 
 Olson, Charles, ‘The Distances’, in *The Collected Poems of Charles
 Olson*, ed. by George F. Butterick (Berkeley, CA: University of
@@ -7083,8 +7159,8 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets*
 *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)
 
 Patterson, Ian, ‘“the medium itself, rabbit by proxy”: some thoughts
-about reading J.H. Prynne’, in *Poets on Writing, pp. 1970–1991*
-(London: Macmillan, 1992), pp. 234–46
+about reading J.H. Prynne’, in *Poets on Writing, 1970–1991* (London:
+Macmillan, 1992), pp. 234–46
 
 Pattison, Neil, ‘Introduction: “All Flags Left Outside”’, in *Certain
 Prose*, pp. i–xxiv
@@ -7101,7 +7177,7 @@ T.S. Eliot (London: Faber and Faber, 1954), pp. 149–200
 
 —, ‘A Few Don’ts by an Imagiste’, *Poetry* (March 1913), pp. 200–06
 
-—, ‘Guido’s Relations’, *The Dial*, 86 (July 1929), 559–68
+—, ‘Guido’s Relations’, *The Dial*, 86 (July 1929), 559–68
 
 —, *Hugh Selwyn Mauberley* (London: The Ovid Press, 1920), p. 12
 
@@ -7163,22 +7239,19 @@ J. & A. Churchill, 1966)
 
 Rider, Alistair, ‘The “Curve over the Crest of the Hill”: Carl Andre and
 Richard Long’, in *Anglo-American Exchange in Postwar Sculpture,
-pp. 1945–1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty
-Publications, 2011), pp. 133–47
+1945–1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications,
+2011), pp. 133–47
 
 Riley, Peter, ‘Peter Riley – Excerpts from a Notebook’, in *Certain
 Prose*, 2:3 \[339–40\], pp. 118–20
 
 —, ‘Working Notes on British Prehistory, or Archaeological Guesswork
-One’, in *Certain Prose*., 1:14 (supplement) \[234–47\], pp. 47–73
+One’, in *Certain Prose*, 1:14 (supplement) \[234–47\], pp. 47–73
 
 Rindler, W., ‘Visual Horizons in World Models’, *Monthly Notices of the
 Royal Astronomical Society*, 6 (1956), pp. 662–77
 
-‘Robbins Report: Notice by the Council of the Senate’, *Cambridge
-University Reporter* (19 February 1964), pp. 986–988
-
-‘Roll Call’, in *Certain Prose*., 1:15 \[266\], pp. 78–79
+‘Roll Call’, in *Certain Prose*, 1:15 \[266\], pp. 78–79
 
 Roosa, Robert V., ‘Judging the New Liquidity Plan’, *The Banker*,
 117.499 (September 1967), p. 756
@@ -7257,7 +7330,7 @@ Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New
 York: Harper & Row, 1973), p. 12
 
 —, ‘Love among the cabbages’, *Harper’s Magazine* (November 1972),
-pp. 90–92, pp. 94–96
+pp. 90–92, 94–96
 
 Trotter, David, *The Making of the Reader: Language and Subjectivity in
 Modern American, English and Irish Poetry* (London: Macmillan, 1984)
@@ -7267,7 +7340,8 @@ Upward, Edward, *No Home But the Struggle*, ed. by David Allinson,
 &lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash No\_Home\_But\_the\_Struggle.pdf&gt;
 \[accessed 5 May 2015\]
 
-—, ‘The Railway Accident’, in *The Railway Accident*, pp. 33–84
+—, ‘The Railway Accident’, in Upward, *The Railway Accident and Other
+Stories* (London: Penguin, 1972), pp. 33–84
 
 —, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*,
 &lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash The\_Rotten\_Elements.pdf&gt;
@@ -7278,8 +7352,12 @@ Essex University, July 1978’, *Edward Upward*,
 &lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash Statement.pdf&gt;
 \[accessed 5 May 2015\]
 
-Vinen, Richard, *National Service: Conscription in Britain,
-pp. 1945–1963* (London: Allen Lane, 2014)
+—, *In the Thirties*, ed. by David Allinson, *Edward Upward*,
+&lt;http:\slash \slash www.edwardupward.info\slash pdfs\slash In\_the\_Thirties.pdf&gt;
+\[accessed 26 September 2016\]
+
+Vinen, Richard, *National Service: Conscription in Britain, 1945–1963*
+(London: Allen Lane, 2014)
 
 ‘Watercolour’, *Tate*,
 &lt;http:\slash \slash www.tate.org.uk\slash whats-on\slash tate-britain\slash exhibition\slash watercolour&gt;
@@ -7289,7 +7367,7 @@ Walker, Alan, *Edward Upward: A Bibliography* (London: Enitharmon Press,
 2000)
 
 Watkins, Alan, ‘About-turn on welfare’, *The Spectator* (22 June 1967),
-p. 3–4
+pp. 3–4
 
 Wheale, Nigel, ‘Cambridge School, The’, in *The Oxford Companion to
 Modern Poetry in English*, 2nd edn,
@@ -7298,7 +7376,7 @@ Modern Poetry in English*, 2nd edn,
 
 Wild, John, ‘Contemporary Phenomenology and the Problem of Existence’,
 *Philosophy and Phenomenological Research*, 20.2 (December 1959),
-pp. 166–180
+pp. 166–80
 
 Williams, Raymond, ‘Introduction’, in *Keywords*, rev. edn (New York:
 Oxford University Press, 1985), pp. 11–26
@@ -7486,9 +7564,9 @@ Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
 [^20]: Mellors, *Late Modernist Poetics: From Pound to Prynne*
     (Manchester: Manchester University Press, 2005), p. 2.
 
-[^21]: Bernard Dubourg, *Poèmes de Cuisine* (Damazan: privately printed,
-    1975); *Chansons à la Journée-Lumière* (Damazan: privately printed,
-    1975); *Lézard de Feu* (Damazan: privately printed, 1975).
+[^21]: *Poèmes de Cuisine* (Damazan: privately printed, 1975); *Chansons
+    à la Journée-Lumière* (Damazan: privately printed, 1975); *Lézard de
+    Feu* (Damazan: privately printed, 1975).
 
 [^22]: Louis Goddard, ‘National and Private Identity in the Prose of
     J.H. Prynne’ (unpublished M.Phil. thesis, University of Cambridge,
@@ -7638,7 +7716,7 @@ Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
     Paul, 1972), p. 303.
 
 [^52]: Davie, ‘A Letter to Curtis Bradford’, in *Collected Poems*
-    (Manchester: Carcanet, 1990), 98–99 (p. 99).
+    (1990), 98–99 (p. 99).
 
 [^53]: Davie, ‘For Doreen. A Voice from the Garden’, in *ibid*.,
     pp. 99–100 (p. 100).
@@ -8203,13 +8281,13 @@ Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^190]: *Modernist Magazines Project*,
     &lt;http://www.modernistmagazines.com/&gt; \[accessed 15 January
-    2015\]; Peter Brooker and Andrew Thacker, eds., *The Oxford Critical
-    and Cultural History of Modernist Magazines, Volume 1 Britain and
+    2015\]; Peter Brooker and Andrew Thacker, eds, *The Oxford Critical
+    and Cultural History of Modernist Magazines, Volume I: Britain and
     Ireland 1880–1955* (Oxford: Oxford University Press, 2009); Brooker
-    and Thacker, eds., *The Oxford Critical and Cultural History of
+    and Thacker, eds, *The Oxford Critical and Cultural History of
     Modernist Magazines, Volume II: North America 1894–1960* (Oxford:
     Oxford University Press, 2012); Brooker, Thacker, Sascha Bru and
-    Christian Weikop, eds., *The Oxford Critical and Cultural History of
+    Christian Weikop, eds, *The Oxford Critical and Cultural History of
     Modernist Magazines, Volume III: Europe 1880–1940* (Oxford: Oxford
     University Press, 2013).
 
@@ -8663,8 +8741,8 @@ Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
 [^288]: Marx’s analysis of ‘Historical Facts about Merchant’s Capital’
     in Chapter 20 of the third volume of *Capital* makes clear that this
     form of capital existed as far back as ‘Carthage, Rome, and later
-    among the Venetians, Portuguese, Dutch, etc.’ (Marx, *Capital*, 3rd
-    vol., ed. by Engels, in *Marx/Engels Collected Works*, 37th vol.
+    among the Venetians, Portuguese, Dutch, etc.’ (Marx, *Capital*,
+    vol. 3, ed. by Engels, in *Marx/Engels Collected Works*, vol. 37
     \[New York: International Publishers, 1998\], p. 330).
 
 [^289]: Prynne to Riley, 15 September 1967.
@@ -8715,7 +8793,7 @@ Circumstance* (1962) and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^302]: John Wild, ‘Contemporary Phenomenology and the Problem of
     Existence’, *Philosophy and Phenomenological Research*, 20.2
-    (December 1959), 166–180 (p. 171).
+    (December 1959), 166–80 (p. 171).
 
 [^303]: *Ibid*., p. 174.
 

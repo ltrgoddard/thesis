@@ -16,13 +16,10 @@
 
 ## Summary
 
-\noindent University of Sussex
-
-\noindent Louis Goddard
-
-\noindent Doctor of Philosophy
-
-\noindent 'J.H. Prynne in Context, 1955--1975'
+\noindent University of Sussex  
+Louis Goddard  
+Doctor of Philosophy  
+'J.H. Prynne in Context, 1955--1975'
 
 \noindent This thesis presents a partial survey of the intellectual and cultural environment in which the contemporary British poet J.H. Prynne began his literary career. Its primary contribution to knowledge consists of a reorientation of critical perspective towards Prynne's early career and its specifically British contexts, as well as a detailed literary-historical account of his relation to those contexts. This account proceeds by analysis of Prynne's prose works rather than his poetry, leading to a secondary contribution in the form of a number of new readings of those works and a consideration of Prynne's attitude towards prose as a form. Extensive use is made of archival material, much of which has not been examined in previous scholarship.
 
