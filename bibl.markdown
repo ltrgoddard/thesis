@@ -14,8 +14,8 @@
 
 *Series 1, Box 1*
 
-Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17  
----, 18 October 1961, Folder 18  
+Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17
+---, 18 October 1961, Folder 18
 ---, 19 November 1961, Folder 19
 
 
@@ -23,46 +23,46 @@ Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17
 
 *Series 1, Box 19*
 
-Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328  
----, 29 November 1961, Folder 328  
----, 29 April 1962, Folder 328  
----, 9 July 1962, Folder 328  
----, 26 September 1962, Folder 328  
----, 10 December 1962, Folder 328  
----, 31 December 1962, Folder, 328  
----, 22 January 1963, Folder 329  
----, 14 April 1963, Folder 329  
----, 23 April 1963, Folder 329  
----, 16 June 1963, Folder 329  
----, 6 May 1964, Folder 330  
----, 30 June 1964, Folder 330  
----, 26 July 1964, Folder, 330  
-Letter, Prynne to Robert Creeley, 21 October 1964, Folder 330  
-Letter, Prynne to Diana Athill, 17 November 1964, Folder 330  
-Letter, Prynne to Dorn, 21 December 1964, Folder 330  
----, 17 June 1965, Folder 331  
+Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328
+---, 29 November 1961, Folder 328
+---, 29 April 1962, Folder 328
+---, 9 July 1962, Folder 328
+---, 26 September 1962, Folder 328
+---, 10 December 1962, Folder 328
+---, 31 December 1962, Folder 328
+---, 22 January 1963, Folder 329
+---, 14 April 1963, Folder 329
+---, 23 April 1963, Folder 329
+---, 16 June 1963, Folder 329
+---, 6 May 1964, Folder 330
+---, 30 June 1964, Folder 330
+---, 26 July 1964, Folder 330
+Letter, Prynne to Robert Creeley, 21 October 1964, Folder 330
+Letter, Prynne to Diana Athill, 17 November 1964, Folder 330
+Letter, Prynne to Dorn, 21 December 1964, Folder 330
+---, 17 June 1965, Folder 331
 ---, 26 January 1966, Folder 332
 
 
 *Series 1, Box 44*
 
-Letter, Prynne to Dorn, 10 January 1972, Folder 657  
----, 14 March 1972, Folder 657  
----, 25 March 1972, Folder 655  
+Letter, Prynne to Dorn, 10 January 1972, Folder 657
+---, 14 March 1972, Folder 657
+---, 25 March 1972, Folder 655
 ---, 25 April 1972, Folder 657
 
 
 *Series 1, Box 19*
 
-Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334  
+Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334
 Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
 
 *Series 1, Box 20*
 
----, 5 March 1975, Folder 335  
----, 9 September 1975, Folder 335  
----, 11 August 1978, Folder 336  
+---, 5 March 1975, Folder 335
+---, 9 September 1975, Folder 335
+---, 11 August 1978, Folder 336
 ---, 18 March 1982, Folder 338
 
 
@@ -70,19 +70,19 @@ Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
 *Series 2, Box 206*
 
-Letter, Prynne to Charles Olson, 4 November 1961  
----, 26 November 1961  
----, 8 January 1962  
----, 14 February 1962  
----, 9 September 1962  
----, 7 November 1962  
----, 3 February 1963  
----, 24 April 1963  
----, 28 December 1963  
----, 1 February 1964  
----, 29 February 1964  
----, 6 March 1964  
----, 24 June 1964  
+Letter, Prynne to Charles Olson, 4 November 1961
+---, 26 November 1961
+---, 8 January 1962
+---, 14 February 1962
+---, 9 September 1962
+---, 7 November 1962
+---, 3 February 1963
+---, 24 April 1963
+---, 28 December 1963
+---, 1 February 1964
+---, 29 February 1964
+---, 6 March 1964
+---, 24 June 1964
 ---, 3 March 1965
 
 
@@ -99,9 +99,9 @@ Journal entry, 14 November 1958, Notebook (A)
 
 *Box 9*
 
-Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972  
----, 11 September 1974  
----, 16 February 1986  
+Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972
+---, 11 September 1974
+---, 16 February 1986
 ---, 5 September 1994
 
 
@@ -111,19 +111,19 @@ Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972
 
 *Series 2, Folder 34*
 
-Unattached second page of letter, Prynne to Peter Riley, Envelope 1  
-Letter, Prynne to Riley, 24 April 1967, Envelope 1  
----, 21 May 1967, Envelope 1  
----, 23 May 1967, Envelope 1  
----, 29 May 1967, Envelope 1  
----, 13 June 1967, Envelope 3  
----, 23 June 1967, Envelope 1  
----, 9 August 1967, Envelope 3  
----, 13 September 1967, Envelope 1  
----, 15 September 1967, Envelope 1  
----, 7 February 1968, Envelope 1  
----, 16 February 1969, Envelope 1  
----, 25 February 1969, Envelope 1  
+Unattached second page of letter, Prynne to Peter Riley, Envelope 1
+Letter, Prynne to Riley, 24 April 1967, Envelope 1
+---, 21 May 1967, Envelope 1
+---, 23 May 1967, Envelope 1
+---, 29 May 1967, Envelope 1
+---, 13 June 1967, Envelope 3
+---, 23 June 1967, Envelope 1
+---, 9 August 1967, Envelope 3
+---, 13 September 1967, Envelope 1
+---, 15 September 1967, Envelope 1
+---, 7 February 1968, Envelope 1
+---, 16 February 1969, Envelope 1
+---, 25 February 1969, Envelope 1
 ---, 16 March 1969, Envelope 1
 
 
@@ -133,13 +133,13 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1
 
 *Series 2, Folder 4*
 
-Typescript, Donald Davie, 'Remembering the Thirties' [1953]  
+Typescript, Donald Davie, 'Remembering the Thirties' [1953]
 Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
 
 *Series 3, Folder 15*
 
-Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')  
+Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 'Answers to questions from David Lambourne'
 
 
@@ -166,11 +166,13 @@ Letter, Prynne to Francis Crick, 22 March 1982.
 \setlength{\leftskip}{16pt}
 \hspace{-16pt}'& Hoc Genus Omne', *Bean News* (1972), [p. 2]
 
-'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose*, 2:['Ghost Issue'] [G3], 168--69 (p. 168)
+'About Warning an Invited Audience (Obliquely Arising from George Dowden's Letters to English Poets)', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 2:['Ghost Issue'] [G3], 168--69 (p. 168)
 
 'The Art of Poetry No. 101', interviewed by Jeff Dolven and Joshua Kotin, *The Paris Review*, 218 (Fall 2016), pp. 174--207
 
-'The Bee Target on his Shoulder', in *Poems* (Tarset: Bloodaxe, 2015), pp. 150--52
+'The Bee Target on his Shoulder', in *Poems*, 3rd edn (Tarset: Bloodaxe, 2015), pp. 150--52
+
+*Chansons à la Journée-Lumière*, trans. by Bernard Dubourg* (Damazan: privately printed, 1975)
 
 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66
 
@@ -197,6 +199,8 @@ Editorial note, *Six* (1955), [unpaginated]
 'English Poetry and Emphatical Language', *Proceedings of the British Academy*, 74 (1988), pp. 135--69
 
 'L'Extase de M. Poher', in *Poems*, pp. 161--62
+
+*Lézard de Feu*, trans. by Bernard Dubourg (Damazan: privately printed, 1975)
 
 *Field Notes: 'The Solitary Reaper' and Others* (Cambridge: privately printed, 2007)
 
@@ -264,7 +268,9 @@ Letter, *Times Literary Supplement* (28 May 1971), p. 620
 
 'The "PLANT TIME MANIFOLD" Transcripts', *Grosseteste Review*, 7.1--3 (Summer 1974), pp. 80--88
 
-'The *Plant Time Manifold* Transcripts', in *Poems* (2015), pp. 233--42
+'The *Plant Time Manifold* Transcripts', in *Poems*, pp. 233--42
+
+*Poèmes de Cuisine*, trans. by Bernard Dubourg (Damazan: privately printed, 1975)
 
 Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<http:\slash \slash www.archiveofthenow.org\slash authors\slash ?i=77&f=1762\#1762\> [accessed 17 December 2014]
 
@@ -286,7 +292,9 @@ Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<
 
 'Times Trans-shifting: for Robert Herrick', *Prospect*, 4 (Winter 1960), p. 14
 
-'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash reading.pdf\> [accessed 23 September 2014], p. 14
+'Tips on Practical Criticism, for Students of English', *Gonville and Caius College*, \<http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash praccrit.pdf\> [accessed 26 September 2016]
+
+'Tips on Reading, for Students of English', *Gonville and Caius College*, \<http:\slash \slash babylon.acad.cai.cam.ac.uk\slash students\slash study\slash english\slash tips\slash reading.pdf\> [accessed 23 September 2014]
 
 'Tomorrow is Fade Out Night', *Prospect*, 6 (Spring 1964), pp. 41--43
 
@@ -305,8 +313,6 @@ Reading (York Street Commune, Vancouver, 1 August 1971), *Archive of the Now* \<
 'A century of U.S. influence on Arab education', *The Times* (11 October 1966), p. 11
 
 Advert, *The Times* (29 August 1969), p. 23
-
-Alan Walker, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)
 
 Amis, Kingsley, *Lucky Jim* (London: Victor Gollancz, 1957)
 
@@ -330,7 +336,7 @@ Bateson, F.W., 'A Reply', *Scrutiny*, 4.2 (September 1935), pp. 181--85
 
 Beatty, Michael, 'The Earliest Fiction of Wyndham Lewis and *The Wild Body*', *Theoria*, 48 (May 1977), pp. 37--45
 
-Bell, Clive, 'What was "Bloomsbury"?', *Twentieth Century* (February 1954), pp. 153--60)
+Bell, Clive, 'What was "Bloomsbury"?', *Twentieth Century* (February 1954), pp. 153--60
 
 Bernstein, Charles, 'Introduction', in *Close Listening: Poetry and the Performed Word*, ed. by Bernstein (Oxford: Oxford University Press, 1998), pp. 3--26
 
@@ -338,7 +344,7 @@ Blanton, C.D., 'Nominal Devolutions: Poetic Substance and the Critique of Politi
 
 Bloom, Harold, *The Anxiety of Influence: A Theory of Poetry* (New York: Oxford University Press, 1973)
 
-Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34)
+Booker, M. Keith, *Literature and Domination: Sex, Knowledge, and Power in Modern Fiction* (Gainesville, FL: University Press of Florida, 1993), p. 34
 
 Brady, Andrea, letter, *Cambridge Literary Review*, 1.2 (Lent 2010), pp. 244--49
 
@@ -350,11 +356,13 @@ Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne* (Bristol: 
 
 ---, 'Prynne in Prospect', *academia.edu*, \<https:\slash \slash www.academia.edu\slash 6185230\slash Prynne\_in\_Prospect\> [accessed 21 January 2015]
 
-Brooker, Peter and Andrew Thacker, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume II: North America 1894--1960* (Oxford: Oxford University Press, 2012)
+Brooker, Peter and Andrew Thacker, eds, *The Oxford Critical and Cultural History of Modernist Magazines, Volume I: Britain and Ireland 1880--1955* (Oxford: Oxford University Press, 2009)
 
----, Andrew Thacker, Sascha Bru and Christian Weikop, eds., *The Oxford Critical and Cultural History of Modernist Magazines, Volume III: Europe 1880--1940* (Oxford: Oxford University Press, 2013)
+--- and Andrew Thacker, eds, *The Oxford Critical and Cultural History of Modernist Magazines, Volume II: North America 1894--1960* (Oxford: Oxford University Press, 2012)
 
-Bucknell, Katherine, 'Introduction', in Christopher Isherwood and Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994), pp. 9--21
+---, Andrew Thacker, Sascha Bru and Christian Weikop, eds, *The Oxford Critical and Cultural History of Modernist Magazines, Volume III: Europe 1880--1940* (Oxford: Oxford University Press, 2013)
+
+Bucknell, Katherine, 'Introduction', in Christopher Isherwood and Edward Upward, *The Mortmere Stories* (London: Enitharmon Press, 1994), pp. 9--21
 
 Burrell, N.R., 'The Language of Silence is no Paradox: Enervation & Renewal in the Poetry of J.H. Prynne' (unpublished doctoral thesis, American University of London, 1993)
 
@@ -368,7 +376,7 @@ Campbell-Johnston, Rachel, 'The Difficult Matter; A Reading of the Poetry of J.H
 
 Carmody, Tim, 'Paper Modernism', *Snarkmarket* (9 August 2009), \<http:\slash \slash snarkmarket.com\slash blog\slash snarkives\slash selfdisclosure\slash paper\_modernism\slash \> [accessed 29 January 2015]
 
-'Certain Matters', in *Certain Prose of the English Intelligencer*, ed. by Neil Pattison, Reitha Pattison and Luke Roberts (Cambridge: Mountain Press, 2012), 2:['Ghost Issue'] [G16--17], pp. 173--75
+'Certain Matters', in *Certain Prose*, 2:['Ghost Issue'] [G16--17], pp. 173--75
 
 Chaganti, Seeta, 'Vestigial Signs: Inscription, Performance, and The Dream of the Rood', *PMLA*, 125 (2010), pp. 48--72
 
@@ -406,13 +414,13 @@ Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 
 
 ---, *Ezra Pound: Poet as Sculptor* (Oxford: Oxford University Press, 1964)
 
----, 'For Doreen. A Voice from the Garden', in *Collected Poems (Manchester: Carcanet, 1990)*, pp. 99--100
+---, 'For Doreen. A Voice from the Garden', in *Collected Poems* (Manchester: Carcanet, 1990), pp. 99--100
 
 ---, 'Housekeeping', in *Collected Poems* (1990), p. 104
 
 ---, 'Is There a London Literary Racket?', *Twentieth Century* (June 1954), pp. 540--46
 
----, 'A Letter to Curtis Bradford', in *Collected Poems* (Manchester: Carcanet, 1990), pp. 98--99
+---, 'A Letter to Curtis Bradford', in *Collected Poems* (1990), pp. 98--99
 
 ---, 'To a Brother in the Mystery', in *New & Selected Poems* (Middletown, CT: Wesleyan University Press, 1961), p. 46
 
@@ -440,12 +448,6 @@ Dobran, Ryan, 'The Difficult Style: A Study of the Poetry of J.H. Prynne' (unpub
 
 Dodsworth, Martin, 'The Movement: Never and Always', in *The Oxford Handbook of Contemporary British and Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 94--110
 
-Dubourg, Bernard,  *Chansons à la Journée-Lumière* (Damazan: privately printed, 1975)
-
----, *Lézard de Feu* (Damazan: privately printed, 1975)
-
----, *Poèmes de Cuisine* (Damazan: privately printed, 1975)
-
 Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10
 
 Editorial, in *Certain Prose*, 2:5 [373], p. 139
@@ -458,13 +460,11 @@ Editorial note, *The Egoist*, 6.7 (1 July 1916), p. 107
 
 'Editorial Notes', in *Certain Prose*, pp. xxv--xxxii
 
-*Education Reform Act 1988* (London: Her Majesty's Stationery Office, 1989)
-
 'Elections to Fellowships', *The Caian* (Lent 1963), p. 33
 
 Enright, D.J., *Poets of the 1950s: An Anthology of New English Verse* (Tokyo: Kenkyusha, 1955)
 
-Falci, Eric, *The Cambridge Introduction to British Poetry, pp. 1945--2010* (Cambridge: Cambridge University Press, 2015)
+Falci, Eric, *The Cambridge Introduction to British Poetry, 1945--2010* (Cambridge: Cambridge University Press, 2015)
 
 Faraone, Mario, '"Chambers of Oblivion": I Treni di Edward Upward tra Allucinazione, Storia e Memoria', in *Scorci Improvvisi di Altri Orizzonti*, ed. by Faraone, Martina Bertazzon, Giovanna Manzato and Roberta Tommasi (Morrisville, NC: Lulu, 2008), pp. 215--34
 
@@ -482,15 +482,11 @@ Goddard, Louis, 'Migration Patterns: Two Little Magazines of 1960--1962', *Textu
 
 ---, 'Not spooked', *Times Literary Supplement* (11 December 2015), p. 17
 
-Gombrich, Richard F., 'British Higher Education Policy in the last Twenty Years: The Murder of a Profession' (January 2000), \<http:\slash \slash www.atm.damtp.cam.ac.uk\slash mcintyre\slash papers\slash LHCE\slash uk-higher-education.html\> [accessed 24 October 2014]
-
 Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Great Britain, 1939--1993* (Salzburg: University of Salzburg, 1993)
 
 Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008), \<http:\slash \slash www.varsity.co.uk\slash news\slash 1077\> [accessed 15 October 2015]
 
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle upon Tyne: Cambridge Scholars Publishing, 2014)
-
-Hardt, Michael and Antonio Negri, *Empire* (Cambridge, MA: Harvard University Press, 2000), pp. 388--89
 
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https:\slash \slash doctorzamalek2.wordpress.com\slash 2014\slash 03\slash 06\slash meillassouxs-archefossil-is-not-an-argument\slash \> [accessed 12 June 2015]
 
@@ -524,7 +520,7 @@ James, William, *Some Problems of Philosophy: A Beginning of an Introduction to 
 
 Jameson, Fredric, *Fables of Aggression: Wyndham Lewis, the Modernist as Fascist* (Berkeley, CA: University of California Press, 1979), p. 95
 
-Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998), p. 68)
+Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998), p. 68
 
 ---, 'Quality and the non-identical in J.H. Prynne's "Aristeas, in Seven Years"', *Parataxis*, 1 (1991), pp. 69--86
 
@@ -534,7 +530,7 @@ Jarvis, Simon, *Adorno: A Critical Introduction* (Cambridge: Polity Press, 1998)
 
 'J. H. Prynne', *Wikipedia, The Free Encyclopedia*, 3 July 2014, 07:56 UTC, \<http:\slash \slash en.wikipedia.org\slash w\slash index.php?title=J.\_H.\_Prynne&oldid=615398780\> [accessed 15 December 2014]
 
-Johansson, Birgitta, *The Engineering of Being: An Ontological Approach to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997
+Johansson, Birgitta, *The Engineering of Being: An Ontological Approach to J.H. Prynne* (Umeå: Acta Universitatis Umensis, 1997)
 
 Jones, Frederick L., ed., *The Letters of Percy Bysshe Shelley*, vol. 2 (Oxford: The Clarendon Press, 1964)
 
@@ -546,7 +542,7 @@ Kim, Tae Chul, 'F.R. Leavis, or the Function of Criticism under Specialist Moder
 
 King-Hele, Desmond, *Shelley: His Thought and Work* (London: Macmillan, 1960), p. 216
 
-Klein, Scott W., 'Introduction', in Lewis, *Tarr*, pp. ix--xxix
+Klein, Scott W., 'Introduction', in Wyndham Lewis, *Tarr* (Oxford: Oxford University Press, 2010), pp. ix--xxix
 
 Katko, Justin, 'Relativistic Phytosophy: Towards a Commentary on "The *Plant Time Manifold* Transcripts"', *Glossator*, 2 (2010), pp. 245--94
 
@@ -560,7 +556,7 @@ Latter, Alex, '"Essential news": a history of *The English Intelligencer*' (unpu
 
 ---, *Late Modernism and 'The English Intelligencer'* (London: Bloomsbury, 2015)
 
----, '"Scheming for the possible world": J.H. Prynne's *The White Stones* and *The English Intelligencer*', *Intercapillary Space*, \<http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2010\slash 04\slash scheming-for-possible-world-j.html\> [accessed 10 October 2013] (para. 2)
+---, '"Scheming for the possible world": J.H. Prynne's *The White Stones* and *The English Intelligencer*', *Intercapillary Space*, \<http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2010\slash 04\slash scheming-for-possible-world-j.html\> [accessed 10 October 2013]
 
 Leader, Zachary, 'Introduction: Origins and Ambivalences', in *The Movement Reconsidered: Essays on Larkin, Amis, Gunn, Davie and Their Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1--15
 
@@ -568,7 +564,7 @@ Leader, Zachary, 'Introduction: Origins and Ambivalences', in *The Movement Reco
 
 'leading edge, *n*.', *OED Online* (Oxford University Press, 2016), \<http:\slash \slash www.oed.com\slash view\slash Entry\slash 106611\> [accessed 1 March 2016]
 
-Leavis, F.R., 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, p. 185--96
+Leavis, F.R., 'Keynes, Spender and Currency-Values', in *A Selection from 'Scrutiny'*, ed. by Leavis (Cambridge: Cambridge University Press, 1968), vol. 1, pp. 185--96
 
 ---, letter, *Times Literary Supplement* (21 May 1971), p. 593
 
@@ -604,17 +600,19 @@ Leavis, Q.D., 'The Background of Twentieth Century Letters', in *A Selection fro
 
 Lewis, Wyndham, *The Caliph's Design: Architects! Where is your Vortex?*, ed. by Paul Edwards (Santa Barbara, CA: Black Sparrow Press, 1986), p. 65
 
----, 'From the Prologue to the 1918 Egoist Press Edition', in *Tarr* (Oxford: Oxford University Press, 2010), pp. 288--89
+---, 'From the Prologue to the 1918 Egoist Press Edition', in *Tarr*, pp. 288--89
 
 ---, 'Inferior Religions', in *The Wild Body: 'A Soldier of Humour' and Other Stories* (New York: Harcourt, Brace and Company, 1928), pp. 233--43
 
 ---, 'The Meaning of the Wild Body', in *The Wild Body*, pp. 244--51
 
----, 'Preface to the 1918 American Edition', in *Tarr* (2010), pp. 285--88
+---, 'Preface to the 1918 American Edition', in *Tarr*, pp. 285--88
 
 ---, *Tarr* (London: Egoist Press, 1918)
 
 ---, *Tarr* (London: Chatto & Windus, 1928)
+
+---, *Tarr* (Oxford: Oxford University Press, 2010)
 
 ---, *Time and Western Man*, ed. by Paul Edwards (Santa Rosa, CA: Black Sparrow Press, 1993), p. 88
 
@@ -630,7 +628,7 @@ Lovelock, James, *A Rough Ride to the Future* (London: Allen Lane, 2014)
 
 Luna, Joe and Jow Lindsay, eds., *Hix Eros: On the Late Poetry of J.H. Prynne* (Brighton: Hi Zero and Sad Press, 2014)
 
-Lynd, Robert S. and Helen Merrell, *Middletown: A Study in American Culture* (New York: Harcourt, Brace and Company, 1929)
+Lynd, Robert S. and Helen Merrell Lynd, *Middletown: A Study in American Culture* (New York: Harcourt, Brace and Company, 1929)
 
 Lytle Shaw, *Frank O'Hara: The Poetics of Coterie* (Iowa City: University of Iowa Press, 2006)
 
@@ -644,9 +642,9 @@ Mallon, Thomas, 'The Underreachers', *Contemporary Literature*, 22.2 (Spring 198
 
 Marriott, D.S., 'An Introduction to the Poetry of J.H. Prynne (1962--1977)' (unpublished doctoral thesis, University of Sussex, 1993)
 
-Marwick, Arthur, *The Sixties: Cultural Revolution in Britain, France, Italy and the United States, c. 1958--c. 1974* (Oxford: Oxford University Press, 1998), p. 7
+Marwick, Arthur, *The Sixties: Cultural Revolution in Britain, France, Italy and the United States, c. 1958--c. 1974* (Oxford: Oxford University Press, 1998)
 
-Marx, Karl, *Capital*, 3rd vol., ed. by Friedrich Engels, in *Marx\slash Engels Collected Works*, 37th vol. (New York: International Publishers, 1998)
+Marx, Karl, *Capital*, vol. 3, ed. by Friedrich Engels, in *Marx\slash Engels Collected Works*, vol. 37 (New York: International Publishers, 1998)
 
 ---, 'Comments on James Mill, *Éléments d'économie politique*', trans. by Clemens Dutt, in Marx and Friedrich Engels, *Collected Works, Volume 3: Marx and Engels, 1843--1844* (London: Lawrence & Wishart, 1975), pp. 211--28
 
@@ -674,7 +672,7 @@ Middleton, Peter, *Distant Reading: Performance, Readership and Consumption in C
 
 Mill, John Stuart, 'Tennyson's Poems', in *The Collected Works of John Stuart Mill, Volume 1 -- Autobiography and Literary Essays*, ed. by John M. Robson (London: Routledge, 2013), pp. 395--418
 
-Miller, David and Richard Price, *British Poetry Magazines, pp. 1914--2000* (London: British Library, 2006)
+Miller, David and Richard Price, *British Poetry Magazines, 1914--2000* (London: British Library, 2006)
 
 Milne, Drew, 'The Art of Wit and the Cambridge Science Park', in *Contemporary Poetry and Contemporary Science*, ed. by Robert Crawford (Oxford: Oxford University Press, 2006), pp. 170--87
 
@@ -702,8 +700,6 @@ Nealon, Chris, 'The Prynne Reflex', *The Claudius App*, 4 (2013), \<http:\slash 
 
 Needham, Joseph, 'Chemical Heterogony and the Ground-Plan of Animal Growth', *Biological Reviews*, 9.1 (January 1934), pp. 79--109
 
-Nicholas Royle, *Veering: A Theory of Literature* (Edinburgh: Edinburgh University Press, 2011)
-
 Noel-Tod, Jeremy, 'Prynne, J. H. (Jeremy Halvard)', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod (Oxford: Oxford University Press), \<http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-961\> [accessed 15 December 2014]
 
 Notices, in *Certain Prose*, 1:11 [173], pp. 24--25
@@ -717,8 +713,6 @@ Nye, Edward, *Literary and Linguistic Theories in Eighteenth-Century France: Fro
 Oliver, Douglas, *The Harmless Building* (London: Ferry Press and Grosseteste Review Books, 1973)
 
 ---, *Three Variations on the Theme of Harm* (London: Paladin, 1990)
-
-Ollard, Elizabeth, 'The British Academy 1902--2002: Support for Research', *British Academy*, \<http:\slash \slash www.britac.ac.uk\slash pubs\slash src\slash ba-history\slash research.cfm\> [accessed 24 October 2014]
 
 Olson, Charles, 'The Distances', in *The Collected Poems of Charles Olson*, ed. by George F. Butterick (Berkeley, CA: University of California Press, 1987), pp. 491--92
 
@@ -740,7 +734,7 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: 
 
 *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)
 
-Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, pp. 1970--1991* (London: Macmillan, 1992), pp. 234--46
+Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, 1970--1991* (London: Macmillan, 1992), pp. 234--46
 
 Pattison, Neil, 'Introduction: "All Flags Left Outside"', in *Certain Prose*, pp. i--xxiv
 
@@ -752,7 +746,7 @@ Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot
 
 ---, 'A Few Don'ts by an Imagiste', *Poetry* (March 1913), pp. 200--06
 
----, 'Guido's Relations', *The Dial*, 86 (July 1929), 559--68
+---, 'Guido's Relations', *The Dial*, 86 (July 1929), 559--68
 
 ---, *Hugh Selwyn Mauberley* (London: The Ovid Press, 1920), p. 12
 
@@ -790,17 +784,15 @@ Reeve, N.H. and Richard Kerridge, *Nearly Too Much: The Poetry of J.H. Prynne* (
 
 Reuck, A.V.S. de and Julie Knight, eds, *Touch, Heat and Pain* (London: J. & A. Churchill, 1966)
 
-Rider, Alistair, 'The "Curve over the Crest of the Hill": Carl Andre and Richard Long', in *Anglo-American Exchange in Postwar Sculpture, pp. 1945--1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications, 2011), pp. 133--47
+Rider, Alistair, 'The "Curve over the Crest of the Hill": Carl Andre and Richard Long', in *Anglo-American Exchange in Postwar Sculpture, 1945--1975*, ed. by Rebecca Peabody (Los Angeles, CA: Getty Publications, 2011), pp. 133--47
 
 Riley, Peter, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3 [339--40], pp. 118--20
 
----, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*., 1:14 (supplement) [234--47], pp. 47--73
+---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*, 1:14 (supplement) [234--47], pp. 47--73
 
 Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77
 
-'Robbins Report: Notice by the Council of the Senate', *Cambridge University Reporter* (19 February 1964), pp. 986--988
-
-'Roll Call', in *Certain Prose*., 1:15 [266], pp. 78--79
+'Roll Call', in *Certain Prose*, 1:15 [266], pp. 78--79
 
 Roosa, Robert V., 'Judging the New Liquidity Plan', *The Banker*, 117.499 (September 1967), p. 756
 
@@ -850,29 +842,31 @@ Tomlinson, Charles, 'The Art of Poetry No. 78', interviewed by Willard Spiegelma
 
 Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New York: Harper & Row, 1973), p. 12
 
----, 'Love among the cabbages', *Harper's Magazine* (November 1972), pp. 90--92, pp. 94--96
+---, 'Love among the cabbages', *Harper's Magazine* (November 1972), pp. 90--92, 94--96
 
 Trotter, David, *The Making of the Reader: Language and Subjectivity in Modern American, English and Irish Poetry* (London: Macmillan, 1984)
 
 Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash No\_Home\_But\_the\_Struggle.pdf\> [accessed 5 May 2015]
 
----, 'The Railway Accident', in *The Railway Accident*, pp. 33--84
+---, 'The Railway Accident', in Upward, *The Railway Accident and Other Stories* (London: Penguin, 1972), pp. 33--84
 
 ---, *The Rotten Elements*, ed. by David Allinson, *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash The\_Rotten\_Elements.pdf\> [accessed 27 November 2015]
 
 ---, 'Statement for the Literature\slash Sociology Conference on "1936" at Essex University, July 1978', *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash Statement.pdf\> [accessed 5 May 2015]
 
-Vinen, Richard, *National Service: Conscription in Britain, pp. 1945--1963* (London: Allen Lane, 2014)
+---, *In the Thirties*, ed. by David Allinson, *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash In\_the\_Thirties.pdf\> [accessed 26 September 2016]
+
+Vinen, Richard, *National Service: Conscription in Britain, 1945--1963* (London: Allen Lane, 2014)
 
 'Watercolour', *Tate*, \<http:\slash \slash www.tate.org.uk\slash whats-on\slash tate-britain\slash exhibition\slash watercolour\> [accessed 2 November 2014]
 
 Walker, Alan, *Edward Upward: A Bibliography* (London: Enitharmon Press, 2000)
 
-Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), p. 3--4
+Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), pp. 3--4
 
 Wheale, Nigel, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-1383\> [accessed 15 December 2014]
 
-Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--180
+Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--80
 
 Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26
 
