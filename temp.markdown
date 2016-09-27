@@ -6393,6 +6393,8 @@ Bateson, F.W., ‘A Reply’, *Scrutiny*, 4.2 (September 1935), pp. 181–85
 Beatty, Michael, ‘The Earliest Fiction of Wyndham Lewis and *The Wild
 Body*’, *Theoria*, 48 (May 1977), pp. 37–45
 
+Beckett, Samuel, *Watt* (Paris: Olympia Press, 1953)
+
 Bell, Clive, ‘What was “Bloomsbury”?’, *Twentieth Century* (February
 1954), pp. 153–60
 
@@ -6492,7 +6494,10 @@ Clark, Steve, ‘Prynne and the Movement’, *Jacket*, 24 (November 2003),
 
 Conquest, Robert, *New Lines: An Anthology* (London: Macmillan, 1956)
 
-Creeley, Robert, ‘The Grace’, *Prospect*, 6 (Spring 1964), pp. 25–28
+Creeley, Robert, *For Love: Poems 1950–1960* (New York: Charles
+Scribner’s Sons, 1962)
+
+—, ‘The Grace’, *Prospect*, 6 (Spring 1964), pp. 25–28
 
 Crick, Francis *Life Itself: Its Origin and Nature* (New York:
 Touchstone Books, 1981)
@@ -6576,6 +6581,8 @@ Robinson (Oxford: Oxford University Press, 2013), pp. 94–110
 Eagleton, Terry, ‘A Toast at the Trocadero’, *London Review of Books*,
 38.4 (18 February 2016), pp. 9–10
 
+Eaton, Charles Edward, *Countermoves* (London: Abelard-Schuman, 1962)
+
 Editorial, in *Certain Prose*, 2:5 \[373\], p. 139
 
 Editorial, in *Certain Prose*, 2:10 \[447\], p. 143
@@ -6605,6 +6612,10 @@ Feinstein, Elaine, ‘Remembering Prospect’, *Cambridge Literary Review*,
 *Fifty-Fifth Annual Report* (Cambridge: Jesus College Cambridge Society,
 1959)
 
+Forrest-Thomson, Veronica, *Poetic Artifice: A Theory of
+Twentieth-Century Poetry* (Manchester: Manchester University Press,
+1978)
+
 Fuller, Roy, ‘The Osmotic Sap’, *Times Literary Supplement* (6 May
 1971), pp. 559–61
 
@@ -6628,8 +6639,15 @@ Gye, Hugo, ‘Hammond to keep job’, *Varsity* (6 November 2008),
 &lt;http:\slash \slash www.varsity.co.uk\slash news\slash 1077&gt;
 \[accessed 15 October 2015\]
 
+Habermas, Jürgen, *Theorie des kommunikativen Handelns*, 2 vols
+(Frankfurt am Main: Suhrkamp Verlag, 1981)
+
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle
 upon Tyne: Cambridge Scholars Publishing, 2014)
+
+Hamburger, Michael and Christopher Middleton, eds, *Modern German
+Poetry, 1910–1960: An Anthology with Verse Translations* (London:
+MacGibbon & Kee, 1962)
 
 Harman, Graham, ‘Meillassoux’s arche-fossil is not an “argument”’,
 *Object-Oriented Philosophy* (6 March 2014),
@@ -6760,8 +6778,11 @@ Contemporaries* (Oxford: Oxford University Press, 2009), pp. 1–15
 &lt;http:\slash \slash www.oed.com\slash view\slash Entry\slash 106611&gt;
 \[accessed 1 March 2016\]
 
-Leavis, F.R., ‘Keynes, Spender and Currency-Values’, in *A Selection
-from ‘Scrutiny’*, ed. by Leavis (Cambridge: Cambridge University Press,
+Leavis, F.R., *Education and the University: A Sketch for an ‘English
+School’* (London: Chatto & Windus, 1943)
+
+—, ‘Keynes, Spender and Currency-Values’, in *A Selection from
+‘Scrutiny’*, ed. by Leavis (Cambridge: Cambridge University Press,
 1968), vol. 1, pp. 185–96
 
 —, letter, *Times Literary Supplement* (21 May 1971), p. 593
@@ -6781,6 +6802,9 @@ Situation* (London: Chatto & Windus, 1932)
 
 —, ‘Retrospect of a Decade’, in *A Selection from ‘Scrutiny’*, vol. 1,
 pp. 175–79
+
+—, *Revaluation: Tradition and Development in English Poetry* (London:
+Chatto & Windus, 1936)
 
 —, ‘Revaluations (VIII): Shelley’, *Scrutiny*, 4.2 (September 1935),
 pp. 158–80
@@ -6821,6 +6845,8 @@ Other Stories* (New York: Harcourt, Brace and Company, 1928), pp. 233–43
 
 —, ‘Preface to the 1918 American Edition’, in *Tarr*, pp. 285–88
 
+—, *The Revenge for Love* (London: Cassell, 1937)
+
 —, *Tarr* (London: Egoist Press, 1918)
 
 —, *Tarr* (London: Chatto & Windus, 1928)
@@ -6838,6 +6864,8 @@ p. 609
 
 ‘The Literary Society’, *Fifty-Fifth Annual Report* (Cambridge: Jesus
 College Society, 1959), pp. 60–61
+
+Lodge, David, *Changing Places* (London: Secker & Warburg, 1975)
 
 ‘Long Live the Vortex!’, *Blast*, 1 (1914), \[pp. 7–8\]
 
@@ -6861,6 +6889,9 @@ Mallon, Thomas, ‘The Underreachers’, *Contemporary Literature*, 22.2
 ‘Manifesto—I’, *Blast*, 1, pp. 11–28
 
 ‘Manifesto—II’, *Blast*, 1, pp. 30–43
+
+Marcuse, Herbert, *One-Dimensional Man: Studies in the Ideology of
+Advanced Industrial Society* (Boston: Beacon, 1964)
 
 Marriott, D.S., ‘An Introduction to the Poetry of J.H. Prynne
 (1962–1977)’ (unpublished doctoral thesis, University of Sussex, 1993)
@@ -6972,6 +7003,9 @@ Companion to Modern Poetry in English*, 2nd edn, ed. by Noel-Tod
 &lt;http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-961&gt;
 \[accessed 15 December 2014\]
 
+Nolan, William F. and George Clayton Johnson, *Logan’s Run* (New York:
+The Dial Press, 1967)
+
 Notices, in *Certain Prose*, 1:11 \[173\], pp. 24–25
 
 Noyes, Hugh, ‘Abortion Bill over Last Commons Hurdles: Hint on
@@ -7005,6 +7039,8 @@ Press, 1997), pp. 250–52
 —, *The Maximus Poems / 1–10* (Highlands, NC: Jargon Society, 1953)
 
 —, *The Maximus Poems / 11–22* (Highlands, NC: Jargon Society, 1956)
+
+—, *Maximus Poems IV, V, VI* (London: Cape Goliard Press, 1968)
 
 —, ‘Maximus to Gloucester’, *Prospect*, 1 (Summer 1959), pp. 19–20
 
@@ -7175,6 +7211,9 @@ Stevens, Wallace, ‘Prologues to What is Possible’, *The Hudson Review*,
 
 —, ‘The World as Meditation’, *The Hudson Review*, 5.3, p. 334
 
+Strong, Roy, *The Renaissance Garden in England* (London: Thames &
+Hudson, 1979)
+
 Sutherland, Keston, ‘Introduction: “Prynne’s late work?”’, in *Hix Eros:
 On the Late Poetry of J.H. Prynne*, pp. 9–13
 
@@ -7192,6 +7231,11 @@ Spiegelman, *The Paris Review*, 149 (Winter 1998),
 
 —, ‘The Middlebrow Muse’, *Essays in Criticism*, 7.2 (April 1957),
 pp. 208–17
+
+—, *The Necklace* (Swinford: The Fantasy Press, 1955)
+
+—, *Relations and Contraries: Poems in Pamphlet No. IX* (Adlington: The
+Hand and Flower Press, 1951)
 
 Tompkins, Peter and Christopher Bird, *The Secret Life of Plants* (New
 York: Harper & Row, 1973), p. 12
@@ -7259,7 +7303,9 @@ Cambridge University Press, 2013), p. 25
 
 ‘Women MPs & parliamentary candidates since 1945’, *UK Political Info*,
 &lt;http:\slash \slash www.ukpolitical.info\slash FemaleMPs.htm&gt;
-\[accessed 2 February 2016\] \newpage
+\[accessed 2 February 2016\]
+
+Woolf, Douglas, *Fade Out* (New York: Grove Press, 1959) \newpage
 
 Appendix (Figures)
 ==================
