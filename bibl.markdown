@@ -686,7 +686,7 @@ McGann, Jerome, review, *Modern Philology*, 66.3 (February 1969), pp. 280--83
 
 Meillassoux, Quentin, *After Finitude*, trans. by Ray Brassier (London: Continuum, 2008)
 
----, 'Time without Becoming', conference paper presented at Middlesex University (8 May 2008), \<https:\slash \slash speculativeheresy.files.wordpress.com\slash 2008\slash 07\slash 3729-time\_without\_becoming.pdf\> [accessed 12 June 2015]
+---, 'Time without Becoming' (8 May 2008), \<https:\slash \slash speculativeheresy.files.wordpress.com\slash 2008\slash 07\slash 3729-time\_without\_becoming.pdf\> [accessed 12 June 2015]
 
 Mellors, Anthony, *Late Modernist Poetics: From Pound to Prynne* (Manchester: Manchester University Press, 2005)
 
@@ -824,8 +824,6 @@ Riley, Peter, 'Peter Riley -- Excerpts from a Notebook', in *Certain Prose*, 2:3
 
 ---, 'Working Notes on British Prehistory, or Archaeological Guesswork One', in *Certain Prose*, 1:14 (supplement) [234--47], pp. 47--73
 
-Rindler, W., 'Visual Horizons in World Models', *Monthly Notices of the Royal Astronomical Society*, 6 (1956), pp. 662--77
-
 'Roll Call', in *Certain Prose*, 1:15 [266], pp. 78--79
 
 Roosa, Robert V., 'Judging the New Liquidity Plan', *The Banker*, 117.499 (September 1967), p. 756
@@ -895,8 +893,6 @@ Upward, Edward, *No Home But the Struggle*, ed. by David Allinson, *Edward Upwar
 ---, 'Statement for the Literature\slash Sociology Conference on "1936" at Essex University, July 1978', *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash Statement.pdf\> [accessed 5 May 2015]
 
 ---, *In the Thirties*, ed. by David Allinson, *Edward Upward*, \<http:\slash \slash www.edwardupward.info\slash pdfs\slash In\_the\_Thirties.pdf\> [accessed 26 September 2016]
-
-Vinen, Richard, *National Service: Conscription in Britain, 1945--1963* (London: Allen Lane, 2014)
 
 'Watercolour', *Tate*, \<http:\slash \slash www.tate.org.uk\slash whats-on\slash tate-britain\slash exhibition\slash watercolour\> [accessed 2 November 2014]
 
