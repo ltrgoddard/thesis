@@ -606,7 +606,7 @@ This tone can be detected most clearly in the poem’s third stanza:
 clause, in which the speaker deliberately collides two equally
 patronising images of the poem’s subject: Davie’s grandmother squeals
 like a pig, but ‘modestly’, as befits a family matriarch who spent the
-prime of her life in ‘the ‘nineties’. The phrase nevertheless succeeds
+prime of her life in ‘the ’nineties’. The phrase nevertheless succeeds
 in distancing the speaker from his grandmother, thereby playing into the
 poem’s broader purpose: to allow Davie, well-known poet and Cambridge
 don, to celebrate his provincial origins while reassuring his audience
@@ -1630,31 +1630,29 @@ begins the lecture with two extended quotations. The first is taken from
 Leavis’s celebrated ‘revaluation’ of Shelley, first printed in
 *Scrutiny* in 1935 and subsequently collected in *Revaluation: Tradition
 and Development in English Poetry* (1936). Here, Leavis uses the second
-section of Shelley’s ‘Ode to the West Wind’ (‘Thou on whose stream, ‘mid
-the steep sky’s commotion, | Loose clouds like earth’s decaying leaves
-are shed, | Shook from the tangled boughs of heaven and ocean’, etc.) to
-launch a full-scale attack on the poet’s approach to metaphor: ‘What
-\[…\] are those “tangled boughs of Heaven and Ocean”? They stand for
-nothing that Shelley could have pointed to in the scene before him; the
-“boughs,” it is plain, have grown out of the “leaves” in the previous
-line, and we are not to ask what the tree is.’[^147] Making use of a
-biological metaphor himself, Leavis summarises what he opposes in
-Shelley as ‘a general tendency of the images to forget the status of the
-metaphor or simile that introduced them and to assume an autonomy and a
-right to propagate, so that we lose in confused generations and
-perspectives the perception or thought that was the ostensible *raison
-d’être* of imagery’.[^148] Having quoted Leavis at length, Fuller
-proceeds to quote an extended passage from the physicist and poet
-Desmond King-Hele’s *Shelley: His Thought and Work* (1960) in which
-every detail of the ‘Ode to the West Wind’ is meticulously accounted for
-in modern meteorological terms. The central thrust of the argument is
-that Shelley’s ‘loose clouds’ are of the fractostratus type, and that
-‘\[t\]he *tangled boughs* from which these leaf-like clouds are shaken
-are those regions of air whose slightly adverse pressures, temperature
-and humidities make them the destined birthplace for clouds.’
-Furthermore, ‘\[t\]hese parcels of air, turbulent, ever-changing in
-shape like wind-blown boughs, contain a mixture of water-vapour from
-*Ocean* and air from *Heaven*.’[^149]
+section of Shelley’s ‘Ode to the West Wind’ to launch a full-scale
+attack on the poet’s approach to metaphor: ‘What \[…\] are those
+“tangled boughs of Heaven and Ocean”? They stand for nothing that
+Shelley could have pointed to in the scene before him; the “boughs,” it
+is plain, have grown out of the “leaves” in the previous line, and we
+are not to ask what the tree is.’[^147] Making use of a biological
+metaphor himself, Leavis summarises what he opposes in Shelley as ‘a
+general tendency of the images to forget the status of the metaphor or
+simile that introduced them and to assume an autonomy and a right to
+propagate, so that we lose in confused generations and perspectives the
+perception or thought that was the ostensible *raison d’être* of
+imagery’.[^148] Having quoted Leavis at length, Fuller proceeds to quote
+an extended passage from the physicist and poet Desmond King-Hele’s
+*Shelley: His Thought and Work* (1960) in which every detail of the ‘Ode
+to the West Wind’ is meticulously accounted for in modern meteorological
+terms. The central thrust of the argument is that Shelley’s ‘loose
+clouds’ are of the fractostratus type, and that ‘\[t\]he *tangled
+boughs* from which these leaf-like clouds are shaken are those regions
+of air whose slightly adverse pressures, temperature and humidities make
+them the destined birthplace for clouds.’ Furthermore, ‘\[t\]hese
+parcels of air, turbulent, ever-changing in shape like wind-blown
+boughs, contain a mixture of water-vapour from *Ocean* and air from
+*Heaven*.’[^149]
 
 Leavis was predictably unimpressed by the narrow scientism of this
 supposed refutation and wrote to the editor of the *TLS* on 21 May to

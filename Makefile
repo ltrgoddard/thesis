@@ -7,7 +7,9 @@ phd.pdf: head.markdown fron.markdown intr.markdown chap1.markdown chap2.markdown
 	-e 's/(\xe2\x80\x99/(\xe2\x80\x98/g' \
 	-e 's/ \xe2\x80\x99/ \xe2\x80\x98/g' \
 	-e 's/\xe2\x80\x993-/\xe2\x80\x983-/g' \
-	-e 's/\xe2\x80\x99N/\xe2\x80\x98N/g' | \
+	-e 's/\xe2\x80\x99N/\xe2\x80\x98N/g' \
+	-e 's/\xe2\x80\x98mid /\xe2\x80\x99mid /g' \
+	-e 's/\xe2\x80\x98nineties/\xe2\x80\x99nineties/g' | \
 	perl -pne 's/\xe2\x80\x98(?=[0-9]{2}[s| ])/\xe2\x80\x99/g' | \
 	perl -pne 's/\xe2\x80\x99s(?=[a-z])/\xe2\x80\x98s/g' > \
 	temp.markdown
