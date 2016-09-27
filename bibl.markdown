@@ -14,76 +14,76 @@
 
 *Series 1, Box 1*
 
-Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17  
----, 18 October 1961, Folder 18  
----, 19 November 1961, Folder 19  
+Letter, J.H. Prynne to Cid Corman, 17 June 1961, Folder 17
+---, 18 October 1961, Folder 18
+---, 19 November 1961, Folder 19
 
 
 **Edward Dorn Papers**
 
 *Series 1, Box 19*
 
-Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328  
----, 29 November 1961, Folder 328  
----, 29 April 1962, Folder 328  
----, 9 July 1962, Folder 328  
----, 26 September 1962, Folder 328  
----, 10 December 1962, Folder 328  
----, 31 December 1962, Folder 328  
----, 22 January 1963, Folder 329  
----, 14 April 1963, Folder 329  
----, 23 April 1963, Folder 329  
----, 16 June 1963, Folder 329  
----, 6 May 1964, Folder 330  
----, 30 June 1964, Folder 330  
----, 26 July 1964, Folder 330  
-Letter, Prynne to Robert Creeley, 21 October 1964, Folder 330  
-Letter, Prynne to Diana Athill, 17 November 1964, Folder 330  
-Letter, Prynne to Dorn, 21 December 1964, Folder 330  
----, 17 June 1965, Folder 331  
----, 26 January 1966, Folder 332  
+Letter, Prynne to Edward Dorn, 16 November 1961, Folder 328
+---, 29 November 1961, Folder 328
+---, 29 April 1962, Folder 328
+---, 9 July 1962, Folder 328
+---, 26 September 1962, Folder 328
+---, 10 December 1962, Folder 328
+---, 31 December 1962, Folder 328
+---, 22 January 1963, Folder 329
+---, 14 April 1963, Folder 329
+---, 23 April 1963, Folder 329
+---, 16 June 1963, Folder 329
+---, 6 May 1964, Folder 330
+---, 30 June 1964, Folder 330
+---, 26 July 1964, Folder 330
+Letter, Prynne to Robert Creeley, 21 October 1964, Folder 330
+Letter, Prynne to Diana Athill, 17 November 1964, Folder 330
+Letter, Prynne to Dorn, 21 December 1964, Folder 330
+---, 17 June 1965, Folder 331
+---, 26 January 1966, Folder 332
 
 
 *Series 1, Box 44*
 
-Letter, Prynne to Dorn, 10 January 1972, Folder 657  
----, 14 March 1972, Folder 657  
----, 25 March 1972, Folder 655  
----, 25 April 1972, Folder 657  
+Letter, Prynne to Dorn, 10 January 1972, Folder 657
+---, 14 March 1972, Folder 657
+---, 25 March 1972, Folder 655
+---, 25 April 1972, Folder 657
 
 
 *Series 1, Box 19*
 
-Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334  
-Letter, Prynne to Dorn, 25 October 1972, Folder 334  
+Letter, Prynne to Robin Blaser, 28 August 1973, Folder 334
+Letter, Prynne to Dorn, 25 October 1972, Folder 334
 
 
 *Series 1, Box 20*
 
----, 5 March 1975, Folder 335  
----, 9 September 1975, Folder 335  
----, 11 August 1978, Folder 336  
----, 18 March 1982, Folder 338  
+---, 5 March 1975, Folder 335
+---, 9 September 1975, Folder 335
+---, 11 August 1978, Folder 336
+---, 18 March 1982, Folder 338
 
 
 **Charles Olson Research Collection**
 
 *Series 2, Box 206*
 
-Letter, Prynne to Charles Olson, 4 November 1961  
----, 26 November 1961  
----, 8 January 1962  
----, 14 February 1962  
----, 9 September 1962  
----, 7 November 1962  
----, 3 February 1963  
----, 24 April 1963  
----, 28 December 1963  
----, 1 February 1964  
----, 29 February 1964  
----, 6 March 1964  
----, 24 June 1964  
----, 3 March 1965  
+Letter, Prynne to Charles Olson, 4 November 1961
+---, 26 November 1961
+---, 8 January 1962
+---, 14 February 1962
+---, 9 September 1962
+---, 7 November 1962
+---, 3 February 1963
+---, 24 April 1963
+---, 28 December 1963
+---, 1 February 1964
+---, 29 February 1964
+---, 6 March 1964
+---, 24 June 1964
+---, 3 March 1965
 
 
 ### Special Collections, Albert Sloman Library, University of Essex
@@ -99,10 +99,10 @@ Journal entry, 14 November 1958, Notebook (A)
 
 *Box 9*
 
-Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972  
----, 11 September 1974  
----, 16 February 1986  
----, 5 September 1994  
+Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972
+---, 11 September 1974
+---, 16 February 1986
+---, 5 September 1994
 
 
 ### Department of Manuscripts and University Archives, Cambridge University Library
@@ -111,20 +111,20 @@ Letter, Prynne to Douglas Oliver, 9, 10 and 11 January 1972
 
 *Series 2, Folder 34*
 
-Unattached second page of letter, Prynne to Peter Riley, Envelope 1  
-Letter, Prynne to Riley, 24 April 1967, Envelope 1  
----, 21 May 1967, Envelope 1  
----, 23 May 1967, Envelope 1  
----, 29 May 1967, Envelope 1  
----, 13 June 1967, Envelope 3  
----, 23 June 1967, Envelope 1  
----, 9 August 1967, Envelope 3  
----, 13 September 1967, Envelope 1  
----, 15 September 1967, Envelope 1  
----, 7 February 1968, Envelope 1  
----, 16 February 1969, Envelope 1  
----, 25 February 1969, Envelope 1  
----, 16 March 1969, Envelope 1  
+Unattached second page of letter, Prynne to Peter Riley, Envelope 1
+Letter, Prynne to Riley, 24 April 1967, Envelope 1
+---, 21 May 1967, Envelope 1
+---, 23 May 1967, Envelope 1
+---, 29 May 1967, Envelope 1
+---, 13 June 1967, Envelope 3
+---, 23 June 1967, Envelope 1
+---, 9 August 1967, Envelope 3
+---, 13 September 1967, Envelope 1
+---, 15 September 1967, Envelope 1
+---, 7 February 1968, Envelope 1
+---, 16 February 1969, Envelope 1
+---, 25 February 1969, Envelope 1
+---, 16 March 1969, Envelope 1
 
 
 ### Western Manuscripts, British Library
@@ -133,13 +133,13 @@ Letter, Prynne to Riley, 24 April 1967, Envelope 1
 
 *Series 2, Folder 4*
 
-Typescript, Donald Davie, 'Remembering the Thirties' [1953]  
-Letter, A.C. Spearing to Edward Upward, 14 July 1959  
+Typescript, Donald Davie, 'Remembering the Thirties' [1953]
+Letter, A.C. Spearing to Edward Upward, 14 July 1959
 
 
 *Series 3, Folder 15*
 
-Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')  
+Biographical statement ('Edward Falaise Upward. Born 9th September 1903 [...]')
 'Answers to questions from David Lambourne'
 
 
@@ -496,7 +496,7 @@ Görtschacher, Wolfgang, *Little Magazine Profiles: The Little Magazines in Grea
 
 Gye, Hugo, 'Hammond to keep job', *Varsity* (6 November 2008), \<http:\slash \slash www.varsity.co.uk\slash news\slash 1077\> [accessed 15 October 2015]
 
-Habermas, JÃ¼rgen, *Theorie des kommunikativen Handelns*, 2 vols (Frankfurt am Main: Suhrkamp Verlag, 1981)
+Habermas, Jürgen, *Theorie des kommunikativen Handelns*, 2 vols (Frankfurt am Main: Suhrkamp Verlag, 1981)
 
 Hall, John Matthew, *On Violence in the Work of J.H. Prynne* (Newcastle upon Tyne: Cambridge Scholars Publishing, 2014)
 
