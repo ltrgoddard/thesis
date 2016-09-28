@@ -354,7 +354,9 @@ Brannigan, John, *Archipelagic Modernism: Literature in the Irish and British Is
 
 Bruns, Gerald, 'Dialectrics; or, Turmoil & Contradiction: A Reading of J. H. Prynne's *Kazoo Dreamboats*', *Chicago Review*, 57.3\slash 4 (Winter 2013), pp. 54--70
 
-Brinton, Ian, ed., *A Manner of Utterance: The Poetry of J.H. Prynne* (Bristol: Shearsman, 2009)
+Brinton, Ian, ed., *For the Future: Poems and Essays in Honour of J.H. Prynne on his 80th Birthday* (Bristol: Shearsman, 2016)
+
+---, ed., *A Manner of Utterance: The Poetry of J.H. Prynne* (Bristol: Shearsman, 2009)
 
 ---, 'Prynne in Prospect', *academia.edu*, \<https:\slash \slash www.academia.edu\slash 6185230\slash Prynne\_in\_Prospect\> [accessed 21 January 2015]
 
@@ -422,6 +424,10 @@ Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 
 
 ---, 'For Doreen. A Voice from the Garden', in *Collected Poems* (Manchester: Carcanet, 1990), pp. 99--100
 
+---, *The Forests of Lithuania* (Hull: The Marvell Press, 1959)
+
+---, *The Heyday of Sir Walter Scott* (London: Routledge & Kegan Paul, 1961)
+
 ---, 'Housekeeping', in *Collected Poems* (1990), p. 104
 
 ---, 'Is There a London Literary Racket?', *Twentieth Century* (June 1954), pp. 540--46
@@ -438,13 +444,19 @@ Davie, Donald, 'Academicism and Jonathan Swift', *Twentieth Century* (September 
 
 ---, 'Remembering the Movement', in *The Poet in the Imaginary Museum: Essays of Two Decades*, ed. by Barry Alpert (Manchester: Carcanet, 1977), pp. 72--75
 
+---, *A Sequence for Francis Parkman* (Hull: The Marvell Press, 1961)
+
 ---, 'Spender Struggling', *The New Statesman*, 65 (29 March 1963), p. 465
 
 ---, *These the Companions: Recollections* (Cambridge: Cambridge University Press, 1982)
 
 ---, *Thomas Hardy and British Poetry* (London: Routledge & Kegan Paul, 1973)
 
+---, *A Winter Talent and Other Poems* (London: Routledge & Kegan Paul, 1957)
+
 --- and D.J. Enright, '*New Lines* and Mr. Tomlinson', *Essays in Criticism*, 7.2 (April 1957), pp. 343--45
+
+Debord, *La Société du spectacle* (Paris: Buchet\slash Chastel, 1967)
 
 Dedication, *2R1* (January 1968), p. 2
 
@@ -453,6 +465,12 @@ Dobran, Ryan, 'The Difficult Style: A Study of the Poetry of J.H. Prynne' (unpub
 ---, 'J.H. Prynne's "Aristeas, in Seven Years" and *The English Intelligencer*', *Journal of British and Irish Innovative Poetry*, 5.2 (2013), pp. 20--42
 
 Dodsworth, Martin, 'The Movement: Never and Always', in *The Oxford Handbook of Contemporary British and Irish Poetry*, ed. by Peter Robinson (Oxford: Oxford University Press, 2013), pp. 94--110
+
+Dorn, Edward, *Hands Up!* (New York: Totem Press, 1964)
+
+---, *The Newly Fallen* (New York: Totem Press, 1961)
+
+---, *The Rites of Passage: A Brief History* (Buffalo, NY: Frontier Press, 1965)
 
 Eagleton, Terry, 'A Toast at the Trocadero', *London Review of Books*, 38.4 (18 February 2016), pp. 9--10
 
@@ -504,6 +522,8 @@ Hamburger, Michael and Christopher Middleton, eds, *Modern German Poetry, 1910--
 
 Harman, Graham, 'Meillassoux's arche-fossil is not an "argument"', *Object-Oriented Philosophy* (6 March 2014), \<https:\slash \slash doctorzamalek2.wordpress.com\slash 2014\slash 03\slash 06\slash meillassouxs-archefossil-is-not-an-argument\slash \> [accessed 12 June 2015]
 
+Hawking, Stephen, *The Large Scale Structure of Space-Time* (Cambridge: Cambridge University Press, 1973)
+
 Hegel, G.W.F., *Lectures on the History of Philosophy: Medieval and Modern Philosophy*, trans. by E.S. Haldane and Frances H. Simson (Lincoln, NE: University of Nebraska Press, 1995)
 
 Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robinson (Oxford: Basil Blackwell, 1962)
@@ -511,6 +531,8 @@ Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robins
 ---, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161
 
 'Higher Education: Students at the Heart of the System', *Department for Business, Innovation & Skills* (June 2011), \<https:\slash \slash www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31384\slash 11--944-higher-education-students-at-heart-of-system.pdf\> [accessed 3 March 2014]
+
+Hill, Geoffrey, *For the Unfallen: Poems 1952--1958* (London: AndrÃ© Deutsch, 1959)
 
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)
 
@@ -744,9 +766,7 @@ Olson, Charles, 'The Distances', in *The Collected Poems of Charles Olson*, ed. 
 
 ---, 'Letter to Elaine Feinstein', in *Collected Prose*, ed. by Donald Allen and Benjamin Friedlander (Berkeley, CA: University of California Press, 1997), pp. 250--52
 
----, 'A Plantation---A Beginning', *Prospect*, 4 (Spring 1960), pp. 21--23
-
----, 'Projective Verse', in *Collected Prose*, pp. 239--49
+---, *Letters for Origin, 1950--1956*, ed. by Albert Glover (London: Cape Goliard 1969)
 
 ---, *The Maximus Poems / 1--10* (Highlands, NC: Jargon Society, 1953)
 
@@ -755,6 +775,14 @@ Olson, Charles, 'The Distances', in *The Collected Poems of Charles Olson*, ed. 
 ---, *Maximus Poems IV, V, VI* (London: Cape Goliard Press, 1968)
 
 ---, 'Maximus to Gloucester', *Prospect*, 1 (Summer 1959), pp. 19--20
+
+---, *Mayan Letters* (London: Cape Editions, 1968)
+
+---, 'A Plantation---A Beginning', *Prospect*, 4 (Spring 1960), pp. 21--23
+
+---, 'Projective Verse', in *Collected Prose*, pp. 239--49
+
+---, *The Special View of History*, ed. by Ann Charters (Berkeley, CA: Oyez, 1970)
 
 --- and Ezra Pound, *An Encounter at St. Elizabeth's*, ed. by Catherine Seelye (New York: Grossman, 1975)
 

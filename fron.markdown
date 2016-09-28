@@ -12,7 +12,7 @@
 \tableofcontents
 \newpage
 
-# Frontmatter
+# Front Matter
 
 ## Summary
 

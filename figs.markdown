@@ -1,4 +1,4 @@
-# Appendix (Figures)
+# Appendix: Figures
 
 \newpage
 
