@@ -176,8 +176,6 @@ Letter, Prynne to Francis Crick, 22 March 1982
 
 'Charles Olson, Maximus Poems IV, V, VI', *The Park*, 4.5 (Summer 1969), pp. 64--66
 
-'Chi É', *Prospect*, 6 (Spring 1964), p. 35
-
 *Concepts and Conception in Poetry* (Cambridge: Critical Documents, 2014)
 
 Contribution to a discussion in the Senate House, *Cambridge University Reporter*, 141.15 (2011), \<http:\slash \slash www.admin.cam.ac.uk\slash reporter\slash 2010--11\slash weekly\slash 6211\slash section13.shtml\> [accessed 26 February 2014]
@@ -402,7 +400,7 @@ Creeley, Robert, *For Love: Poems 1950--1960* (New York: Charles Scribner's Sons
 
 ---, 'The Grace', *Prospect*, 6 (Spring 1964), pp. 25--28
 
-Crick, Francis  *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)
+Crick, Francis, *Life Itself: Its Origin and Nature* (New York: Touchstone Books, 1981)
 
 --- and L.E. Orgel, 'Directed Panspermia', *Icarus*, 19 (1973), pp. 341--46
 
@@ -502,7 +500,7 @@ Forrest-Thomson, Veronica, *Poetic Artifice: A Theory of Twentieth-Century Poetr
 
 Fuller, Roy, 'The Osmotic Sap', *Times Literary Supplement* (6 May 1971), pp. 559--61
 
-Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric Culture*, 3rd ed. (New York: Charlton Company, 1914).
+Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric Culture*, 3rd edn (New York: Charlton Company, 1914).
 
 Goddard, Louis, 'Migration Patterns: Two Little Magazines of 1960--1962', *Textual Practice*, \<http:\slash \slash www.tandfonline.com\slash doi\slash full\slash 10.1080\slash 0950236X.2016.1188143\> [accessed 11 July 2014]
 
@@ -531,8 +529,6 @@ Heidegger, Martin, *Being and Time*, trans. by John Macquarrie and Edward Robins
 ---, 'Building Dwelling Thinking', in *Poetry, Language, Thought*, trans. by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145--161
 
 'Higher Education: Students at the Heart of the System', *Department for Business, Innovation & Skills* (June 2011), \<https:\slash \slash www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31384\slash 11--944-higher-education-students-at-heart-of-system.pdf\> [accessed 3 March 2014]
-
-Hill, Geoffrey, *For the Unfallen: Poems 1952--1958* (London: AndrÃ© Deutsch, 1959)
 
 Hilliard, Christopher, *English as a Vocation: The 'Scrutiny' Movement* (Oxford: Oxford University Press, 2012)
 
@@ -792,7 +788,7 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: 
 
 *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)
 
-Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, 1970--1991* (London: Macmillan, 1992), pp. 234--46
+Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, 1970--1991*, ed. by Denise Riley (London: Macmillan, 1992), pp. 234--46
 
 Pattison, Neil, 'Introduction: "All Flags Left Outside"', in *Certain Prose*, pp. i--xxiv
 
