@@ -788,6 +788,8 @@ Olson, Charles, 'The Distances', in *The Collected Poems of Charles Olson*, ed. 
 
 Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets* (London: Routledge & Kegan Paul, 1966)
 
+'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http:\slash \slash archiveshub.ac.uk\slash data\slash gb2188-dsh04\> [accessed 16 November 2014]
+
 *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)
 
 Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about reading J.H. Prynne', in *Poets on Writing, 1970--1991* (London: Macmillan, 1992), pp. 234--46
@@ -795,8 +797,6 @@ Patterson, Ian, '"the medium itself, rabbit by proxy": some thoughts about readi
 Pattison, Neil, 'Introduction: "All Flags Left Outside"', in *Certain Prose*, pp. i--xxiv
 
 Pattison, Reitha, 'J.H. Prynne's "The Corn Burned By Syrius"', *Glossator*, 2 (2010), pp. 89--114
-
-'Papers Relating to "Players of Shakespeare"', *Archives Hub*, \<http:\slash \slash archiveshub.ac.uk\slash data\slash gb2188-dsh04\> [accessed 16 November 2014]
 
 Pound, Ezra, 'Cavalcanti', in *Literary Essays of Ezra Pound*, ed. by T.S. Eliot (London: Faber and Faber, 1954), pp. 149--200
 
@@ -819,8 +819,6 @@ Powell, Neil, 'Davie, Donald Alfred (1922--1995)', *Oxford Dictionary of Nationa
 Press, John, *Rule and Energy: Trends in British Poetry Since the Second World War* (Oxford: Oxford University Press, 1963)
 
 Priestman, Martin, *The Poetry of Erasmus Darwin: Enlightened Spaces, Romantic Times* (London: Routledge, 2016)
-
-Pritchett, Ben and Decca Muldowney, 'Student activism then and now: an interview with Ian Patterson', *The Great Unrest*, (13 January 2011), \<http:\slash \slash thegreatunrest.wordpress.com\slash 2011\slash 01\slash 13\slash ian-patterson-interview\slash \> [accessed 15 December 2014]
 
 Production note, *Prospect*, 6 (Spring 1964), [p. 45]
 
