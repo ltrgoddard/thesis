@@ -65,21 +65,21 @@ Acknowledgements
 ----------------
 
 I would like to thank my primary and secondary supervisors, Keston
-Sutherland and Sara Crangle, for the invaluable guidance and unique
-insight that they have brought to this project, as well as the Arts and
-Humanities Research Council and the University of Sussex for supporting
-it financially. I am grateful to the Thomas J. Dodd Research Center at
-the University of Connecticut, both for the provision of a Strochlitz
-Travel Grant and for the assistance and hospitality generously offered
-by archivists Melissa Watterworth Batt and Tanya Rose. I would also like
-to thank Sue Brown, former archivist at St Dunstan’s College, Catford.
-Colleagues and friends have been vital to this project: Ian Patterson,
-Alex Latter, Michael Tencer and Ian Brinton have all assisted in smaller
-or larger ways and I have benefited greatly from conversations with Ian
-Heames, Piers Pennington, Luke Roberts and above all Kay Miller.
-Finally, I am grateful to J.H. Prynne both for his intellectual rigour
-and for his personal generosity, qualities which run like twin seams
-through his life and work.
+Sutherland and Sara Crangle, for the invaluable guidance that they have
+brought to this project, as well as the Arts and Humanities Research
+Council and the University of Sussex for supporting it financially. I am
+grateful to the Thomas J. Dodd Research Center at the University of
+Connecticut, both for the provision of a Strochlitz Travel Grant and for
+the assistance and hospitality generously offered by archivists Melissa
+Watterworth Batt and Tanya Rose. I would also like to thank Sue Brown,
+former archivist at St Dunstan’s College, Catford. Colleagues and
+friends have been vital to this project: Ian Patterson, Alex Latter,
+Michael Tencer and Ian Brinton have all assisted in smaller or larger
+ways and I have benefited greatly from conversations with Ian Heames,
+Piers Pennington and above all Kay Miller. Finally, I am grateful to
+J.H. Prynne both for his intellectual rigour and for his personal
+generosity, qualities which run like twin seams through his life and
+work.
 
 Note on the text
 ----------------
@@ -88,9 +88,9 @@ Books, articles and other printed materials are cited in full on first
 reference, then in shortened form. Archival materials—mainly letters—are
 referred to by the name of the author and recipient followed by the date
 or title, with full citations provided in the Bibliography; sequential
-quotations from letters are not indicated by ‘*ibid*.’ Figures are
-provided in the Appendix. Underlined text in manuscript and typescript
-materials has been standardised to italics throughout. \newpage
+quotations from letters are not indicated by ‘*ibid*.’ Underlined text
+in manuscript and typescript materials has been standardised to italics
+throughout. Figures are provided in the Appendix. \newpage
 
 Introduction
 ============
@@ -318,37 +318,37 @@ simultaneously at the internal contours of Prynne’s career and at events
 outside it. The concept of ‘the Long Sixties’, defined roughly as the
 period 1958–74, is familiar from the work of Arthur Marwick, and just as
 in Marwick’s model the initial date of this thesis’s expanded scope is
-firmer than its endpoint.[^17] 1955 was Prynne’s final year at school;
-it is also the date of his earliest recorded poem, and of his first
-involvement with a little magazine, as editor of the sixth-form journal
-which published it, a position which will be examined in Chapter 2.[^18]
-In broader historical terms, any number of factors could be cited to
-support a case for 1955 as the beginning of an era in which the cultural
-emphasis in Britain came to rest firmly on the first rather than the
-second part of the phrase ‘post-war’: ten years on from the Second World
-War’s formal end, the first full year without rationing also saw the
-symbolically important resignation of Winston Churchill as Prime
-Minister, to be replaced by Foreign Secretary Anthony Eden. Perhaps more
-importantly for the concerns of this thesis, D.J. Enright’s anthology
-*Poets of the 1950s* was published in 1955, solidifying the poetic
-infrastructure of ‘the Movement’ which, as Chapter 1 will argue, helped
-to determine the course of Prynne’s early career.[^19] As acknowledged
-above, 1975 is weaker than 1955 as a point of periodisation;
-nevertheless, it has some key virtues. According with the terminal point
-given by Mellors for ‘late modernism’ (1945–1975), it includes Prynne’s
-significant collection *Wound Response* (1974) and its associated prose
-text, ‘The *Plant Time Manifold* Transcripts’, a work which Chapter 3
-will argue is highly representative of tendencies present in other prose
-fiction published throughout this period.[^20] Importantly for the
-largely British focus of this thesis, 1975 also marks the first
-appearance of Prynne’s poetry in a language other than English, with the
-publication of Bernard Dubourg’s French translations of *Kitchen Poems*,
-*Day Light Songs* and *Fire Lizard*.[^21] This introduction of Prynne’s
-work to continental Europe fits neatly with the British electorate’s
-decision of the same year in favour of the United Kingdom’s continued
-membership of the Common Market, a vote which has until recent events
-been taken as a mandate for involvement in the European Communities’
-associated and successor institutions.
+firmer than its endpoint.[^17] Nineteen fifty-five was Prynne’s final
+year at school; it is also the date of his earliest recorded poem, and
+of his first involvement with a little magazine, as editor of the
+sixth-form journal which published it, a position which will be examined
+in Chapter 2.[^18] In broader historical terms, any number of factors
+could be cited to support a case for 1955 as the beginning of an era in
+which the cultural emphasis in Britain came to rest firmly on the first
+rather than the second part of the phrase ‘post-war’: ten years on from
+the Second World War’s formal end, the first full year without rationing
+also saw the symbolically important resignation of Winston Churchill as
+Prime Minister, to be replaced by Foreign Secretary Anthony Eden.
+Perhaps more importantly for the concerns of this thesis, D.J. Enright’s
+anthology *Poets of the 1950s* was published in 1955, solidifying the
+poetic infrastructure of ‘the Movement’ which, as Chapter 1 will argue,
+helped to determine the course of Prynne’s early career.[^19] As
+acknowledged above, 1975 is weaker than 1955 as a point of
+periodisation; nevertheless, it has some key virtues. According with the
+terminal point given by Mellors for ‘late modernism’ (1945–1975), it
+includes Prynne’s significant collection *Wound Response* (1974) and its
+associated prose text, ‘The *Plant Time Manifold* Transcripts’, a work
+which Chapter 3 will argue is highly representative of tendencies
+present in other prose fiction published throughout this period.[^20]
+Importantly for the largely British focus of this thesis, 1975 also
+marks the first appearance of Prynne’s poetry in a language other than
+English, with the publication of Bernard Dubourg’s French translations
+of *Kitchen Poems*, *Day Light Songs* and *Fire Lizard*.[^21] This
+introduction of Prynne’s work to continental Europe fits neatly with the
+British electorate’s decision of the same year in favour of the United
+Kingdom’s continued membership of the Common Market, a vote which has
+until recent events been taken as a mandate for involvement in the
+European Communities’ associated and successor institutions.
 
 Inevitably, there are relevant areas of enquiry which, primarily for
 reasons of space, this thesis is not able to pursue. The first of these
@@ -6143,8 +6143,6 @@ privately printed, 1975)
 ‘Charles Olson, Maximus Poems IV, V, VI’, *The Park*, 4.5 (Summer 1969),
 pp. 64–66
 
-‘Chi É’, *Prospect*, 6 (Spring 1964), p. 35
-
 *Concepts and Conception in Poetry* (Cambridge: Critical Documents,
 2014)
 
@@ -6466,7 +6464,7 @@ Scribner’s Sons, 1962)
 
 —, ‘The Grace’, *Prospect*, 6 (Spring 1964), pp. 25–28
 
-Crick, Francis *Life Itself: Its Origin and Nature* (New York:
+Crick, Francis, *Life Itself: Its Origin and Nature* (New York:
 Touchstone Books, 1981)
 
 — and L.E. Orgel, ‘Directed Panspermia’, *Icarus*, 19 (1973), pp. 341–46
@@ -6606,7 +6604,7 @@ Fuller, Roy, ‘The Osmotic Sap’, *Times Literary Supplement* (6 May
 1971), pp. 559–61
 
 Gilman, Charlotte Perkins, *The Man-Made World; Or, Our Androcentric
-Culture*, 3rd ed. (New York: Charlton Company, 1914).
+Culture*, 3rd edn (New York: Charlton Company, 1914).
 
 Goddard, Louis, ‘Migration Patterns: Two Little Magazines of 1960–1962’,
 *Textual Practice*,
@@ -6657,9 +6655,6 @@ by Alfred Hofstadter (New York: Harper and Row, 1971), pp. 145–161
 Business, Innovation & Skills* (June 2011),
 &lt;https:\slash \slash www.gov.uk\slash government\slash uploads\slash system\slash uploads\slash attachment\_data\slash file\slash 31384\slash 11–944-higher-education-students-at-heart-of-system.pdf&gt;
 \[accessed 3 March 2014\]
-
-Hill, Geoffrey, *For the Unfallen: Poems 1952–1958* (London: AndrÃ©
-Deutsch, 1959)
 
 Hilliard, Christopher, *English as a Vocation: The ‘Scrutiny’ Movement*
 (Oxford: Oxford University Press, 2012)
@@ -7056,8 +7051,8 @@ Orr, Peter, ed., *The Poet Speaks: Interviews with Contemporary Poets*
 *The Paris Review Interviews*, vol. 1 (New York: Picador, 2006)
 
 Patterson, Ian, ‘“the medium itself, rabbit by proxy”: some thoughts
-about reading J.H. Prynne’, in *Poets on Writing, 1970–1991* (London:
-Macmillan, 1992), pp. 234–46
+about reading J.H. Prynne’, in *Poets on Writing, 1970–1991*, ed. by
+Denise Riley (London: Macmillan, 1992), pp. 234–46
 
 Pattison, Neil, ‘Introduction: “All Flags Left Outside”’, in *Certain
 Prose*, pp. i–xxiv
@@ -7496,12 +7491,12 @@ and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^27]: Sutherland, ‘J.H. Prynne and Philology’, p. 238; Ian Patterson,
     ‘“the medium itself, rabbit by proxy”: some thoughts about reading
-    J.H. Prynne’, in *Poets on Writing, 1970–1991* (London: Macmillan,
-    1992), 234–46 (p. 237). This conception has recently been confirmed
-    by Prynne himself, who has noted that ‘*Brass* was a distinct break
-    with its precursor practise’ (Prynne, ‘The Art of Poetry No. 101’,
-    interviewed by Jeff Dolven and Joshua Kotin, *The Paris Review*, 218
-    \[Fall 2016\], 174–207 \[p. 191\]).
+    J.H. Prynne’, in *Poets on Writing, 1970–1991*, ed. by Denise Riley
+    (London: Macmillan, 1992), 234–46 (p. 237). This conception has
+    recently been confirmed by Prynne himself, who has noted that
+    ‘*Brass* was a distinct break with its precursor practise’ (Prynne,
+    ‘The Art of Poetry No. 101’, interviewed by Jeff Dolven and Joshua
+    Kotin, *The Paris Review*, 218 \[Fall 2016\], 174–207 \[p. 191\]).
 
 [^28]: *Ibid*.
 
@@ -8946,7 +8941,7 @@ and *Poems* (2005)](figs/man.png){#fig:man}
 
 [^365]: *Ibid*.
 
-[^366]: \*Ibid.
+[^366]: *Ibid*.
 
 [^367]: *Ibid*.
 
@@ -9108,7 +9103,7 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     Prynne’s *Brass*, Ted Hughes’s *Crow* and Geoffrey Hill’s *Mercian
     Hymns* (Trotter, p. 224).
 
-[^404]: Oliver, *The Harmless Building, pp. 61, 78; *Three Variations\*,
+[^404]: Oliver, *The Harmless Building*, pp. 61, 78; *Three Variations*,
     pp. 170, 188.
 
 [^405]: Upward, ‘Answers to questions’.

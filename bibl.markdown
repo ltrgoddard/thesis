@@ -406,7 +406,9 @@ Crick, Francis, *Life Itself: Its Origin and Nature* (New York: Touchstone Books
 
 Daiches, David, *A Critical History of English Literature* (New York: The Ronald Press Company, 1960)
 
----, *A Third World* (Brighton: Sussex University Press, 1971), p. 39
+---, *The Present Age* (London: The Cresset Press, 1958)
+
+---, *A Third World* (Brighton: Sussex University Press, 1971)
 
 Darwin, Erasmus, *The Botanic Garden. Part II* (Dudlin [*sic*]: J. Moore, 1796), \<https:\slash \slash archive.org\slash details\slash botanicgardenpoe02darwuoft\> [accessed 13 June 2016]
 
@@ -874,9 +876,11 @@ Shelley, Percy Bysshe, *A Philosophical View of Reform* (Oxford: Oxford Universi
 
 Solomon, Samuel, 'Reproducing the Line: 1970s Innovative Poetry and Socialist-Feminism in the UK' (unpublished doctoral thesis, University of Southern California, 2012)
 
+Spearing, A.C., *Readings in Medieval Poetry* (Cambridge: Cambridge University Press, 1989)
+
 Spiegelberg, Herbert, *The Phenomenological Movement* (The Hague: Martinus Nijhoff, 1959)
 
-Stansky, Peter, *Edward Upward: Art and Life* (London: Enitharmon, 2016)
+Stansky, Peter, *Edward Upward: Art and Life* (London: Enitharmon Press, 2016)
 
 Steele, Laura, 'Comedy and the Conceptual in Douglas Oliver's *The Harmless Building*', *Intercapillary Space* (September 2006), \<http:\slash \slash intercapillaryspace.blogspot.co.uk\slash 2006\slash 09\slash comedy-and-conceptual-in-\ douglas.html\> [accessed 27 April 2015]
 
@@ -924,6 +928,8 @@ Watkins, Alan, 'About-turn on welfare', *The Spectator* (22 June 1967), pp. 3--4
 
 Wheale, Nigel, 'Cambridge School, The', in *The Oxford Companion to Modern Poetry in English*, 2nd edn, \<http:\slash \slash www.oxfordreference.com\slash view\slash 10.1093\slash acref\slash 9780199640256.001.0001\slash acref-9780199640256-e-1383\> [accessed 15 December 2014]
 
+Whitehead, Kate, *The Third Programme: A Literary History* (Oxford: Oxford University Press, 1989)
+
 Wild, John, 'Contemporary Phenomenology and the Problem of Existence', *Philosophy and Phenomenological Research*, 20.2 (December 1959), pp. 166--80
 
 Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford University Press, 1985), pp. 11--26
@@ -932,7 +938,7 @@ Williams, Raymond, 'Introduction', in *Keywords*, rev. edn (New York: Oxford Uni
 
 Williams, William Carlos, 'Introduction to *The Wedge*', in *Selected Essays* (New York: Random House, 1954), p. 256
 
-Wilson, Ross, *Shelley and the Apprehension of Life* (Cambridge: Cambridge University Press, 2013), p. 25
+Wilson, Ross, *Shelley and the Apprehension of Life* (Cambridge: Cambridge University Press, 2013)
 
 'Women MPs & parliamentary candidates since 1945', *UK Political Info*, \<http:\slash \slash www.ukpolitical.info\slash FemaleMPs.htm\> [accessed 2 February 2016]
 
