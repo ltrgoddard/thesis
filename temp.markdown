@@ -85,7 +85,9 @@ Note on the text
 ----------------
 
 Books, articles and other printed materials are cited in full on first
-reference, then in shortened form. Archival materials—mainly letters—are
+reference, then in shortened form. In the case of *Certain Prose of the
+English Intelligencer* (2012), internal references follow the form used
+by the editors of that work. Archival materials—mainly letters—are
 referred to by the name of the author and recipient followed by the date
 or title, with full citations provided in the Bibliography; sequential
 quotations from letters are not indicated by ‘*ibid*.’ Underlined text

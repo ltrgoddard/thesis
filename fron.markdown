@@ -42,6 +42,6 @@ I would like to thank my primary and secondary supervisors, Keston Sutherland an
 
 ## Note on the text
 
-Books, articles and other printed materials are cited in full on first reference, then in shortened form. Archival materials---mainly letters---are referred to by the name of the author and recipient followed by the date or title, with full citations provided in the Bibliography; sequential quotations from letters are not indicated by '*ibid*.' Underlined text in manuscript and typescript materials has been standardised to italics throughout. Figures are provided in the Appendix. 
+Books, articles and other printed materials are cited in full on first reference, then in shortened form. In the case of *Certain Prose of the English Intelligencer* (2012), internal references follow the form used by the editors of that work. Archival materials---mainly letters---are referred to by the name of the author and recipient followed by the date or title, with full citations provided in the Bibliography; sequential quotations from letters are not indicated by '*ibid*.' Underlined text in manuscript and typescript materials has been standardised to italics throughout. Figures are provided in the Appendix. 
 \newpage
 
