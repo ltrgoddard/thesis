@@ -111,7 +111,7 @@ These neglected contexts are then read back into Prynne’s prose work to
 offer several new perspectives on his intellectual, political and
 ethical outlook. Following a very brief review of existing work on
 Prynne, this introduction maps the territory which the remainder of the
-thesis sets out to explore, explaining both its methodological
+thesis sets out to explore, explaining both the work’s methodological
 peculiarities—principally its reliance on Prynne’s prose rather than his
 poetry—and its overall shape.
 
@@ -169,9 +169,9 @@ around Prynne, when book-length studies of his poetry still number in
 single figures. Nevertheless, Prynne is surprisingly ill-served even by
 basic literary history of a semi-biographical type. Brinton’s articles
 for *PN Review*, which inevitably lack the full apparatus of academic
-scholarship, nevertheless remain some of the only pieces actually to pay
-sustained attention to the publication contexts of Prynne’s poems.[^6]
-The notorious impenetrability of Prynne’s work is no doubt part of the
+scholarship, remain some of the only pieces actually to pay sustained
+attention to the publication contexts of Prynne’s poems.[^6] The
+notorious impenetrability of Prynne’s work is no doubt part of the
 reason for this situation: it is difficult to illustrate accessible,
 macro-level historical argument with poetry when the poetry itself
 requires extensive explanation and interpretation almost every time it
@@ -593,7 +593,7 @@ West Country and northern England.
 It would, however, be misleading to characterise ‘Housekeeping’ as a
 simple expression of *Heimweh*, though this is undoubtedly one of its
 roles. The poem is also a vehicle for Davie’s own self-presentation, a
-function which is accomplished through the strategic use of a certain
+function which is fulfilled through the strategic use of a certain
 narrative tone—if not quite ‘ironic’, then certainly urbane and knowing.
 This tone can be detected most clearly in the poem’s third stanza:
 
@@ -1477,7 +1477,7 @@ direct derivation from the pages of *Scrutiny* or a provenance in later
 intellectual currents nevertheless influenced by Leavis and his
 supporters. Evidence will then be introduced for a development in
 Prynne’s poetic thinking in the 1970s away from what might be termed the
-‘vulgar Leavisism’ of the the essay on Victorian poetry discussed above,
+‘vulgar Leavisism’ of the essay on Victorian poetry discussed above,
 before this chapter turns to consider Prynne’s and Leavis’s respective
 attitudes towards their professional positions at Cambridge.
 
@@ -2436,32 +2436,32 @@ former coursemate at Jesus; the next month, Prynne contributed a review
 of the American poet Charles Edward Eaton’s collection *Countermoves*
 (1962), following this in March with an article on a recent anthology of
 German poetry in translation.[^220] Despite this apparently auspicious
-start, however, Prynne did not become a regular contributor to the
-magazine: when he was commissioned to review Olson’s *Maximus Poems IV,
-V, VI* (1968) six years later, a book which Prynne had himself had a
-hand in producing, alongside Robert Creeley’s *For Love* (1962), the
-reviews were withdrawn after ‘the Literary Editor allowed himself to be
-casually insulting about the modes involved.’[^221] Describing the
-incident to Peter Riley, Prynne hints at his motives in writing for a
-relatively mainstream academic publication such as the *Review*: ‘They
-\[i.e. the reviews\] were actually written directly at that benighted
-readership, so that now they’re useless: I clearly should never have
-allowed myself to stumble into that maudlin and ignoble dependence, and
-I regret very much having done so.’ Prynne seems to consider *The
-Cambridge Review* to be something separate from the broader little
-magazine scene and his reviews for the publication as an educational
-service for ‘benighted’ readers not sufficiently clued-up about
-contemporary poetry. In an apparent reference to the informality of
-little magazine publication, Prynne celebrates the fact that
-‘\[w\]hatever master-servant exploitations persist and exfoliate in the
-great world, we are not at last subject to the patronising imbecilities
-of *editors*’. Even so, it is clear that he maintains as rigorous a
-critical attitude towards little magazines as he does to other
-publications: in his previous letter to Riley, Prynne describes Andrew
-Crozier’s magazine *The Park* (known as *The Wivenhoe Park Review* from
-1965–68) as ‘a rigidly passé disservice to our current needs’, and the
-fact that the piece on Olson was eventually printed in the latter
-publication seems to put it on a par with *The Cambridge Review*.[^222]
+start, Prynne did not become a regular contributor to the magazine: when
+he was commissioned to review Olson’s *Maximus Poems IV, V, VI* (1968)
+six years later, a book which Prynne had himself had a hand in
+producing, alongside Robert Creeley’s *For Love* (1962), the reviews
+were withdrawn after ‘the Literary Editor allowed himself to be casually
+insulting about the modes involved.’[^221] Describing the incident to
+Peter Riley, Prynne hints at his motives in writing for a relatively
+mainstream academic publication such as the *Review*: ‘They \[i.e. the
+reviews\] were actually written directly at that benighted readership,
+so that now they’re useless: I clearly should never have allowed myself
+to stumble into that maudlin and ignoble dependence, and I regret very
+much having done so.’ Prynne seems to consider *The Cambridge Review* to
+be something separate from the broader little magazine scene and his
+reviews for the publication as an educational service for ‘benighted’
+readers not sufficiently clued-up about contemporary poetry. In an
+apparent reference to the informality of little magazine publication,
+Prynne celebrates the fact that ‘\[w\]hatever master-servant
+exploitations persist and exfoliate in the great world, we are not at
+last subject to the patronising imbecilities of *editors*’. Even so, it
+is clear that he maintains as rigorous a critical attitude towards
+little magazines as he does to other publications: in his previous
+letter to Riley, Prynne describes Andrew Crozier’s magazine *The Park*
+(known as *The Wivenhoe Park Review* from 1965–68) as ‘a rigidly passé
+disservice to our current needs’, and the fact that the piece on Olson
+was eventually printed in the latter publication seems to put it on a
+par with *The Cambridge Review*.[^222]
 
 As Ian Brinton points out, the gap between Prynne’s assumption of the
 editorship of *Prospect* in the latter half of 1961, following the
@@ -2541,9 +2541,9 @@ I’m in contact with, and I am hopeful of what will follow.’[^234] To
 Dorn, he reveals that Issue 6 will be given away for free, ‘as I know
 from experience that any other way is squalid and makes no real
 financial difference.’[^235] One of Prynne’s clearest statements about
-his intentions for the continuation of the magazine in fact comes in an
-October 1964 letter to Robert Creeley, a facsimile of which is included
-in Dorn’s papers. The statement is worth quoting in full:
+his intentions for the continuation of the magazine comes in an October
+1964 letter to Robert Creeley, a facsimile of which is included in
+Dorn’s papers. The statement is worth quoting in full:
 
 > \singlespacing I don’t want to spread \[*Prospect*\] around too
 > easily, but to keep it an occasion of value, maybe in part as Cid
@@ -2857,7 +2857,7 @@ their balance’; for a mode of argument in which contributions will be
 ‘provisional’ and potentially falsifiable, but in which they will not be
 ‘hysterical’, a term whose gendered etymology and historical usage
 cannot be overlooked, particularly in the overwhelmingly male context of
-the *The English Intelligencer*.[^263] Most importantly, he establishes
+*The English Intelligencer*.[^263] Most importantly, he establishes
 himself as a figure competent to police the border between this
 arena—implicitly coextensive with the *Intelligencer*, at least in its
 ideal form—and its outside.
@@ -3041,12 +3041,11 @@ concepts it discusses; it is patchy and meandering.’[^273] On the
 contrary, the text’s difficulty stems precisely from its tightly
 compressed structure, a structure which admits gaps (it is ‘patchy’),
 but which is far from ‘meandering’—in fact, it is highly organised. This
-discussion will now address five key *lacunae* in ‘A Note on Metal’,
-with the hope both of further clarifying Prynne’s text and of
-approaching the relationship between prose, politics and history which
-is to be the ultimate subject of this section. The choice of which gaps
-to analyse is necessarily influenced by the contours of the synopsis
-given above.
+discussion will now address six key *lacunae* in ‘A Note on Metal’, with
+the hope both of further clarifying Prynne’s text and of approaching the
+relationship between prose, politics and history which is to be the
+ultimate subject of this section. The choice of which gaps to analyse is
+necessarily influenced by the contours of the synopsis given above.
 
 *1. Prynne relies on a number of technical philosophical terms—most
 obviously ‘substance’, but also ‘abstraction’ and ‘quality’—without
@@ -3276,15 +3275,15 @@ a competing narrative in the endnotes.
 
 Ultimately, as with much else in this text, the statement that follows
 Prynne’s confident ‘\[i\]n consequence’ must be taken on trust. Even
-then, however, the teleology of the argument requires further analysis.
-Prynne is not claiming here that coinage was developed *in order to*
-facilitate trade; on the contrary, his theory is that ‘inter-cultural’
-trade boomed *as a result of* the development of coinage and ‘mercantile
-theory’ (¶6). This is an important aspect of the argument in ‘A Note on
-Metal’, recalling the earlier emphasis on materials as vessels for
-‘spiritual transfer’; for Prynne, metal is not merely a passive object
-shaped by a pre-existing human will, but rather the motor and
-determinant of human will itself.[^287]
+then, the teleology of the argument requires further analysis. Prynne is
+not claiming here that coinage was developed *in order to* facilitate
+trade; on the contrary, his theory is that ‘inter-cultural’ trade boomed
+*as a result of* the development of coinage and ‘mercantile theory’
+(¶6). This is an important aspect of the argument in ‘A Note on Metal’,
+recalling the earlier emphasis on materials as vessels for ‘spiritual
+transfer’; for Prynne, metal is not merely a passive object shaped by a
+pre-existing human will, but rather the motor and determinant of human
+will itself.[^287]
 
 *6. At the end of ¶8, Prynne associates ‘the technique of \[the\]
 removal’ from ‘presence as weight’ with the emergence both of ‘a
@@ -3365,7 +3364,7 @@ history of substance’, but neglecting to state explicitly whether or not
 true, and was pointed out at the beginning of this discussion, that the
 text is included in a book titled *Poems*, a status afforded to none of
 Prynne’s other prose works except the fictional ‘*Plant Time Manifold*
-Transcripts’ which follow *Wound Response*. On the other hand, it would
+Transcripts’ which follows *Wound Response*. On the other hand, it would
 be premature to assume, as Chaganti seems to, that the simple fact of
 being published in this book makes ‘A Note on Metal’ a ‘prose
 poem’—taken to its logical extreme, this line of reasoning would assign
@@ -3379,17 +3378,18 @@ the fact that Prynne is, by common consent, a poet, and that he must
 therefore be committed to this form above all else. Yet it might be
 countered that he is many other things, among them a teacher and a
 writer of prose. It is true that ‘A Note on Metal’ was first published
-in a context in which most of the prose was focused, explicitly or
-otherwise, on the question of what sort of poetry English poets should
-be producing in the mid-to-late 1960s—certainly this was the implicit
-focus of Riley’s ‘Working Notes on British Prehistory’, to which Prynne
-was, in part, responding.[^294] Nor is it necessary to deny that
-Prynne’s conception of the role of poetry is an unusually far-reaching
-and ambitious one. The point is simply that to restrict the notion of an
-‘exilic (left-wing) history of substance’ to what is conventionally
-deemed poetry is both unjustifiable based on the text of ‘A Note on
-Metal’ itself and implicitly contradicted by Prynne’s own comments to
-Riley on the role of prose, as discussed earlier in this chapter.
+in a context—*The English Intelligencer*—in which most of the prose was
+focused, explicitly or otherwise, on the question of what sort of poetry
+English poets should be producing in the mid-to-late 1960s—certainly
+this was the implicit focus of Riley’s ‘Working Notes on British
+Prehistory’, to which Prynne was, in part, responding.[^294] Nor is it
+necessary to deny that Prynne’s conception of the role of poetry is an
+unusually far-reaching and ambitious one. The point is simply that to
+restrict the notion of an ‘exilic (left-wing) history of substance’ to
+what is conventionally deemed poetry is both unjustifiable based on the
+text of ‘A Note on Metal’ itself and implicitly contradicted by Prynne’s
+own comments to Riley on the role of prose, as discussed earlier in this
+chapter.
 
 ‘A Note on Metal’ accords fundamental importance to history, both as a
 word and as a concept. The text is, self-evidently, a work of history
@@ -3408,8 +3408,8 @@ negatively, signifying the increasing abstraction which it is the main
 purpose of ‘A Note on Metal’ to chart, a position which would restrict
 the text to something like the simple backwards/forwards schema put
 forward by Chris Nealon in a recent consideration of Prynne’s
-career.[^295] But does history need to be backwards-facing? On one
-level, it obviously does; yet ‘a history’, no matter how exilic, is also
+work.[^295] But does history need to be backwards-facing? On one level,
+it obviously does; yet ‘a history’, no matter how exilic, is also
 something which underlies and moves at the same speed as the present. In
 an ideal world, history and theory meet and mutually inform each other
 *in* the present; in ‘A Note on Metal’, however, this correspondence is
@@ -3522,7 +3522,7 @@ historical scholarship where they stand a real chance of revealing
 something about our relation to the past, but he is careful to steer
 clear both of pedantic scholarship-for-scholarship’s-sake and of grand
 Olsonion/Poundian leaps which reject academic rigour as a matter of
-myopic principle. This bears directly on the issue of a text’s
+myopic principle. This bears directly on the issue of the text’s
 poetic/prosaic status. If, as Prynne claims in the 15 September letter
 to Riley, poems must be ‘right’ and prose published in little magazines
 should ‘less armour-plated’, then any prose text worth reading—including
@@ -3650,9 +3650,9 @@ be said to have existed for me, and not in itself.
 
 As Graham Harman points out, the arche-fossil ‘is not an
 argument.’[^318] Rather, it is a provocative thought experiment,
-designed to raise a problem which it will be the task of the remaining
-chapters to analyse, and to raise it in the most effective and
-convincing manner possible. This strategic aspect has a tendency to
+designed to raise a problem which it is the task of the remaining
+chapters of the book to analyse, and to raise it in the most effective
+and convincing manner possible. This strategic aspect has a tendency to
 bleed into the main stream of Meillassoux’s demonstrations. Thus, in a
 recapitulation of his argument at the beginning of Chapter 3, he
 describes how correlationism ‘institutes a certain kind of solipsism,
@@ -8570,7 +8570,7 @@ and *Poems* (2005)](figs/man.png){#fig:man}
     version, ‘bleeding edge’, for ‘beyond leading edge’—is now more
     familiar as a piece of high-tech jargon, referring to ‘\[t\]he
     forefront or vanguard, esp. of technological development’ (‘leading
-    edge, *n*.’, *OED Online* (Oxford University Press, 2016),
+    edge, *n*.’, *OED Online* \[Oxford University Press, 2016\],
     &lt;http://www.oed.com/view/Entry/106611&gt; \[accessed 1 March
     2016\]). Its use in relation to ploughshares and bodkins may thus be
     interpreted as a deliberate puncturing of contemporary pretensions
